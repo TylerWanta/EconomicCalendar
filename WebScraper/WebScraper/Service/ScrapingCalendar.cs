@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Runtime.Remoting.Messaging;
 using Quartz;
 using Quartz.Impl.Calendar;
 using Quartz.Util;

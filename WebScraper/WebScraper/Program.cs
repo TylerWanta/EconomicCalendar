@@ -45,11 +45,10 @@ namespace WebScraper
 
         static void CheckScrapeTillToday()
         {
-            // going to have to ping firebase and see what our most recent record is
-            EconomicCalendarWebScraper scraper = new EconomicCalendarWebScraper();
-            List<EconomicEvent> eventsToAdd = new List<EconomicEvent>();
+            // going to have to ping firebase and see what our most recent record is and scrape from that day on 
+            List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeFromDate(DateTime.Now);
 
-            scraper.ScrapeFromDate(DateTime.Now);
+            // add previous days events to firebase
         }
     }
 }

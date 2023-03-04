@@ -10,29 +10,33 @@ namespace WebScraper.Scraping
 {
     class EconomicCalendarWebScraper
     {
-        private string BaseUrl => "https://www.forexfactory.com/calendar?day=";
+        static private string BaseUrl => "https://www.forexfactory.com/calendar?day=";
 
-        public List<EconomicEvent> ScrapeToday()
+        static public List<EconomicEvent> ScrapeToday()
         {
-            return Scrape(DateTime.Now).Result;
+            using (HttpClient client = new HttpClient())
+            {
+                return Scrape(client, DateTime.Now).Result;
+            }
         }
 
-        public List<EconomicEvent> ScrapeFromDate(DateTime fromDate)
+        static public List<EconomicEvent> ScrapeFromDate(DateTime fromDate)
         {
             List<EconomicEvent> events = new List<EconomicEvent>();
-
-            while (fromDate <= DateTime.Now) 
+            using (HttpClient client = new HttpClient())
             {
-                events.AddRange(Scrape(fromDate).Result);
-                fromDate.AddDays(1);
+                while (fromDate <= DateTime.Now)
+                {
+                    events.AddRange(Scrape(client,fromDate).Result);
+                    fromDate.AddDays(1);
+                }
             }
 
             return events;
         }
 
-        async private Task<List<EconomicEvent>> Scrape(DateTime date)
+        static async private Task<List<EconomicEvent>> Scrape(HttpClient client, DateTime date)
         {
-            HttpClient client = new HttpClient();
             var html = await client.GetStringAsync(UrlForDate(date));
 
             HtmlDocument htmlDocument = new HtmlDocument();
@@ -85,7 +89,7 @@ namespace WebScraper.Scraping
             return events;
         }
 
-        private string UrlForDate(DateTime date)
+        static private string UrlForDate(DateTime date)
         {
             return BaseUrl + $"{date.ToString("MMM")}.{date.Day}.{date.Year}";
         }

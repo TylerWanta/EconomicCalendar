@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
-using log4net;
 using Quartz;
 
 namespace WebScraper
