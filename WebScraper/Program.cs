@@ -8,6 +8,12 @@ using WebScraper.Scraping;
 using System.Collections.Generic;
 using System;
 using WebScraper.Firestore;
+using System.Web.SessionState;
+using System.IO;
+using System.Reflection;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 
 namespace WebScraper
 {
@@ -16,37 +22,14 @@ namespace WebScraper
         static void Main(string[] args)
         {
             // setup validation for firestore
-            string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "@firestoreKey.json";
+            string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
 
             // get up to date on economic events 
             CheckScrapeTillToday();
 
             // setup daily scraping service
-            XmlConfigurator.Configure();
-            ContainerBuilder containerBuilder = new ContainerBuilder();
-            containerBuilder.RegisterType<DailyWebScraperService>().AsSelf().InstancePerLifetimeScope();
-            containerBuilder.RegisterModule(new QuartzAutofacFactoryModule{ ConfigurationProvider = context => (NameValueCollection)ConfigurationManager.GetSection("quartz") });
-            containerBuilder.RegisterModule(new QuartzAutofacJobsModule());
-
-            IContainer container = containerBuilder.Build();
-            HostFactory.Run(hostConfigurator =>
-            {
-                hostConfigurator.SetServiceName("Daily Economic Calendar Scraper");
-                hostConfigurator.SetDisplayName("Economic Calendar Web Scraper");
-                hostConfigurator.SetDescription("Scrapes Economic Calendar data once per day");
-
-                hostConfigurator.RunAsLocalSystem();
-                hostConfigurator.UseLog4Net();
-
-                hostConfigurator.Service<DailyWebScraperService>(serviceConfigurator =>
-                {
-                    serviceConfigurator.ConstructUsing(hostSettings => container.Resolve<DailyWebScraperService>());
-
-                    serviceConfigurator.WhenStarted(service => service.OnStart());
-                    serviceConfigurator.WhenStopped(service => service.OnStop());
-                });
-            });
+            // SetupScrapingService();
         }
 
         static void CheckScrapeTillToday()
@@ -76,12 +59,41 @@ namespace WebScraper
                 db.AddEventsForDay(eventDate, eventsToAdd);
                 if (db.ExceededReads || db.ExceededWrites)
                 {
+                    Console.WriteLine("Rached limit at: ", eventDate.ToString());
                     return;
                 }
 
                 count += 1;
-                mostRecentDayThatHasEvents.Value.AddDays(1);               
+                mostRecentDayThatHasEvents.Value.AddDays(1);
             }
+        }
+
+        static void SetupScrapingService()
+        {
+            XmlConfigurator.Configure();
+            ContainerBuilder containerBuilder = new ContainerBuilder();
+            containerBuilder.RegisterType<DailyWebScraperService>().AsSelf().InstancePerLifetimeScope();
+            containerBuilder.RegisterModule(new QuartzAutofacFactoryModule { ConfigurationProvider = context => (NameValueCollection)ConfigurationManager.GetSection("quartz") });
+            containerBuilder.RegisterModule(new QuartzAutofacJobsModule());
+
+            IContainer container = containerBuilder.Build();
+            HostFactory.Run(hostConfigurator =>
+            {
+                hostConfigurator.SetServiceName("Daily Economic Calendar Scraper");
+                hostConfigurator.SetDisplayName("Economic Calendar Web Scraper");
+                hostConfigurator.SetDescription("Scrapes Economic Calendar data once per day");
+
+                hostConfigurator.RunAsLocalSystem();
+                hostConfigurator.UseLog4Net();
+
+                hostConfigurator.Service<DailyWebScraperService>(serviceConfigurator =>
+                {
+                    serviceConfigurator.ConstructUsing(hostSettings => container.Resolve<DailyWebScraperService>());
+
+                    serviceConfigurator.WhenStarted(service => service.OnStart());
+                    serviceConfigurator.WhenStopped(service => service.OnStop());
+                });
+            });
         }
     }
 }

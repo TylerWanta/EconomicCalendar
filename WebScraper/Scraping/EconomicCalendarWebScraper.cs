@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Net.Http;
-using System.Threading.Tasks;
-using HtmlAgilityPack;
+using OpenQA.Selenium.Firefox;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
 
 namespace WebScraper.Scraping
 {
@@ -11,91 +11,123 @@ namespace WebScraper.Scraping
     {
         static private string BaseUrl => "https://www.forexfactory.com/calendar?day=";
 
+        static private string UrlForDate(DateTime date)
+        {
+            return BaseUrl + $"{date.ToString("MMM")}{date.Day}.{date.Year}";
+        }
+
         static public List<EconomicEvent> ScrapeToday()
         {
-            using (HttpClient client = new HttpClient())
-            {
-                return Scrape(client, DateTime.Now).Result;
-            }
+            return Scrape(DateTime.Now);
         }
 
         static public List<EconomicEvent> ScrapeDate(DateTime date)
         {
-            using (HttpClient client = new HttpClient())
-            {
-                return Scrape(client, date).Result;
-            }
+            return Scrape(date); 
         }
 
-        static async private Task<List<EconomicEvent>> Scrape(HttpClient client, DateTime date)
+        static private List<EconomicEvent> Scrape(DateTime date)
         {
-            var html = await client.GetStringAsync(UrlForDate(date));
+            List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
 
-            HtmlDocument htmlDocument = new HtmlDocument();
-            htmlDocument.LoadHtml(html);
-
-            List<EconomicEvent> events = new List<EconomicEvent>();
-
-            foreach (HtmlNode row in htmlDocument.DocumentNode.SelectNodes("//tr[@data-touchable and @data-eventid]"))
+            // load up a new driver for each page. Yea it sucks but it seems to be the only way to get forexfactory to load
+            // since they don't seem to like any redirects 
+            using (FirefoxDriver driver = new FirefoxDriver())
             {
-                DateTime time = new DateTime();
-                string title = "";
-                string symbol = "";
-                byte impact = 0;
-                double forecast = -1.0;
-                double previous = -1.0;
+                driver.Navigate().GoToUrl(UrlForDate(date));
 
-                foreach (HtmlNode column in row.Descendants("td"))
+                WebDriverWait pageHasLoaded = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
+                pageHasLoaded.Until(d => d.FindElement(By.ClassName("calendar__table")));
+
+                var todaysEventsElements = driver.FindElements(By.XPath("//tr[@data-touchable and @data-eventid]"));
+                foreach (var eventElement in todaysEventsElements)
                 {
-                    if (column.HasClass("time"))
+                    DateTime time = new DateTime();
+                    string title = "";
+                    string symbol = "";
+                    byte impact = 0;
+                    double forecast = -1.0;
+                    double previous = -1.0;
+
+                    // time is formatted in 2 different ways based on if its up next or not
+                    var timeElement = eventElement.FindElement(By.XPath("//td[contains(@class, 'time')]"));
+                    if (timeElement != null)
                     {
-                        time = DateTime.ParseExact(column.InnerText, "hh:mmtt", CultureInfo.InvariantCulture);
+                        string timeString = "";
+                        if (!string.IsNullOrEmpty(timeElement.Text))
+                        {
+                            timeString = timeElement.Text;
+                        }
+                        // event must be up next since the time isn't in the usual spot
+                        else
+                        {
+                            var upNextElement = timeElement.FindElement(By.XPath("//span[contains(@class, 'upnext')]"));
+                            if (upNextElement != null)
+                            {
+                                timeString = upNextElement.Text;
+                            }
+                        }
+
+                        time = DateTime.ParseExact(timeString, "hh:mmtt", CultureInfo.InvariantCulture);
                     }
-                    else if (column.HasClass("event"))
+
+                    var eventTitle = eventElement.FindElement(By.XPath("//td[contains(@class, 'event')]"));
+                    if (eventTitle != null)
                     {
-                        title = column.SelectSingleNode("//span[contains(@class, 'calendar__event-title')]")?.InnerText;
+                        title = eventTitle.Text;
                     }
-                    else if (column.HasClass("currency"))
+
+                    var symbolElement = eventElement.FindElement(By.XPath("//td[contains(@class, 'currency')]"));
+                    if (symbolElement != null)
                     {
-                        symbol = column.InnerText;
+                        symbol = symbolElement.Text;
                     }
-                    else if (column.HasClass("forecast"))
+
+                    var forecastElement = eventElement.FindElement(By.XPath("//td[contains(@class, 'forecast')]"));
+                    if (forecastElement != null)
                     {
-                        if (Double.TryParse(column.InnerText, out double result))
+                        if (Double.TryParse(forecastElement.Text, out double result))
                         {
                             forecast = result;
                         }
                     }
-                    else if (column.HasClass("previous"))
+
+                    var previousElement = eventElement.FindElement(By.XPath("//td[contains(@class, 'previous')]"));
+                    if (previousElement != null)
                     {
-                        if (Double.TryParse(column.InnerText, out double result))
+                        if (Double.TryParse(previousElement.Text, out double result))
                         {
                             previous = result;
                         }
                     }
-                    else if (column.HasClass("calendar__impact--low"))
-                    {
-                        impact = 1;
-                    }
-                    else if (column.HasClass("calendar__impact--medium"))
-                    {
-                        impact = 2;
-                    }
-                    else if (column.HasClass("calendar__impact--high"))
-                    {
-                        impact = 3;
-                    }
-                }
 
-                events.Add(new EconomicEvent(time, title, symbol, impact, forecast, previous));
+                    var impactElement = eventElement.FindElement(By.XPath("//td[contains(@class, 'impact')]"));
+                    if (impactElement != null)
+                    {
+                        // impact is only distinguishabl by the BEM class name
+                        string[] impactClasses = impactElement.GetAttribute("class").Split(' ');
+                        foreach (string impactClass in impactClasses)
+                        {
+                            if (impactClass.Contains("low"))
+                            {
+                                impact = 1;
+                            }
+                            else if (impactClass.Contains("medium"))
+                            {
+                                impact = 2;
+                            }
+                            else if (impactClass.Contains("high"))
+                            {
+                                impact = 3;
+                            }
+                        }
+                    }
+
+                    todaysEvents.Add(new EconomicEvent(time, title, symbol, impact, forecast, previous));
+                }
             }
 
-            return events;
-        }
-
-        static private string UrlForDate(DateTime date)
-        {
-            return BaseUrl + $"{date.ToString("MMM")}.{date.Day}.{date.Year}";
+            return todaysEvents;
         }
     }
 }

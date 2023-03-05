@@ -41,7 +41,13 @@ namespace WebScraper.Firestore
             }
 
             string documentName = date.ToString(_daysDocumentIdFormat);
-            CollectionReference events = _db.Collection("Days").Document(documentName).Collection("Events");
+            DocumentReference dayReference = _db.Collection("Days").Document(documentName);
+            DocumentSnapshot daySnapShot = await dayReference.GetSnapshotAsync();
+
+            if (!daySnapShot.Exists)
+            {
+                await dayReference.CreateAsync(new { date });
+            }
 
             foreach (EconomicEvent economicEvent in economicEvents)
             {
@@ -50,8 +56,8 @@ namespace WebScraper.Firestore
                     return;
                 }
 
-                DocumentReference documentRef = events.Document();
-                await documentRef.CreateAsync(economicEvent);
+                DocumentReference eventReference = dayReference.Collection("Events").Document();
+                await eventReference.SetAsync(economicEvent);
             }
         }
 
@@ -63,7 +69,7 @@ namespace WebScraper.Firestore
             }
 
             CollectionReference daysRef = _db.Collection("Days");
-            Query mostRecentDay = daysRef.OrderByDescending(FieldPath.DocumentId).Limit(1);
+            Query mostRecentDay = daysRef.OrderByDescending("date").Limit(1);
             QuerySnapshot querySnapshot = await mostRecentDay.GetSnapshotAsync();
 
             if (querySnapshot.Documents.Count <= 0)
@@ -96,7 +102,7 @@ namespace WebScraper.Firestore
             _writes += 1;
             int maxFreeWritesThreshold = 15000; // actual is 50,000 but we will go a little lower just to be safe
 
-            _exceededWrites = maxFreeWritesThreshold > _writes;
+            _exceededWrites = _writes > maxFreeWritesThreshold;
             if (_exceededWrites && !_notifiedExceededWrites)
             {
                 // notif me somehow
