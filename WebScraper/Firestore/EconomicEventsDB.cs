@@ -33,7 +33,7 @@ namespace WebScraper.Firestore
             _db = FirestoreDb.Create("economiccalendar-3756b");
         }
 
-        async public void AddEventsForDay(DateTime date, List<EconomicEvent> economicEvents)
+        async public Task AddEventsForDay(DateTime date, List<EconomicEvent> economicEvents)
         {
             if (IncrementCheckReads())
             {

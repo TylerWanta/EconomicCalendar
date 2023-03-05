@@ -14,6 +14,8 @@ using System.Reflection;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
+using OpenQA.Selenium.DevTools.V108.Browser;
+using System.Threading.Tasks;
 
 namespace WebScraper
 {
@@ -24,15 +26,16 @@ namespace WebScraper
             // setup validation for firestore
             string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
-
+            
             // get up to date on economic events 
-            CheckScrapeTillToday();
-
+            CheckScrapeTillToday().GetAwaiter().GetResult();
+            Console.WriteLine("Done");
             // setup daily scraping service
             // SetupScrapingService();
         }
 
-        static void CheckScrapeTillToday()
+        // Needs to return a task so we can await it and the main program doesn't start shutting down before we finish saving records
+        async static Task<bool> CheckScrapeTillToday()
         {
             EconomicEventsDB db = new EconomicEventsDB();
             DateTime? mostRecentDayThatHasEvents = db.MostRecentDayThatHasEvents().Result;
@@ -40,27 +43,27 @@ namespace WebScraper
             if (mostRecentDayThatHasEvents == null)
             {
                 // default start date is 1/1/2011
-                mostRecentDayThatHasEvents = new DateTime(2011, 1, 1);
+                mostRecentDayThatHasEvents = new DateTime(2023, 3, 5);
+                mostRecentDayThatHasEvents = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
+                mostRecentDayThatHasEvents = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
             }
 
             while (mostRecentDayThatHasEvents.Value <= DateTime.Now)
             {
-                // only care about weekdays
-                if (mostRecentDayThatHasEvents.Value.DayOfWeek != DayOfWeek.Sunday && mostRecentDayThatHasEvents.Value.DayOfWeek != DayOfWeek.Saturday)
+                DateTime eventDate = mostRecentDayThatHasEvents.Value;
+                List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
+
+                await db.AddEventsForDay(eventDate, eventsToAdd);
+                if (db.ExceededReads || db.ExceededWrites)
                 {
-                    DateTime eventDate = mostRecentDayThatHasEvents.Value;
-                    List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
-
-                    db.AddEventsForDay(eventDate, eventsToAdd);
-                    if (db.ExceededReads || db.ExceededWrites)
-                    {
-                        Console.WriteLine("Rached limit at: ", eventDate.ToString());
-                        return;
-                    }
+                    Console.WriteLine("Rached limit at: ", eventDate.ToString());
+                    break;
                 }
-
-                mostRecentDayThatHasEvents.Value.AddDays(1);
+                
+                mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
             }
+
+            return true;
         }
 
         static void SetupScrapingService()

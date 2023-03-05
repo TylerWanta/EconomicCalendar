@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
@@ -20,10 +21,14 @@ namespace WebScraper
 
         public Task Execute(IJobExecutionContext context)
         {
-            return Task.Run(() =>
+            return Task.Run(async () =>
             {
                 EconomicEventsDB db = new EconomicEventsDB();
-                db.AddEventsForDay(DateTime.Now, EconomicCalendarWebScraper.ScrapeToday());
+                List<EconomicEvent> todaysEvents = EconomicCalendarWebScraper.ScrapeToday();
+                if (todaysEvents.Any())
+                {
+                    await db.AddEventsForDay(DateTime.Now, EconomicCalendarWebScraper.ScrapeToday());
+                }
             });
         }
     }

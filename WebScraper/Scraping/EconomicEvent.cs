@@ -31,17 +31,19 @@ namespace WebScraper.Scraping
         [FirestoreProperty]
         public byte Impact => _impact;
 
-        private double _forecast;
+        private double? _forecast;
 
         [FirestoreProperty]
-        public double Forecast => _forecast;
+        public double? Forecast => _forecast;
 
-        private double _previous;
+        private double? _previous;
 
         [FirestoreProperty]
-        public double Previous => _previous;
+        public double? Previous => _previous;
+
+        public EconomicEvent() { }
         
-        public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, double forecast, double previous)
+        public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, double? forecast, double? previous)
         {
             _date = date;
             _allDay = allDay;
