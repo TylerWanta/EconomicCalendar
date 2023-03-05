@@ -70,6 +70,7 @@ namespace WebScraper.Scraping
                             }
                         }
 
+                        // Holidays are set to 'All Day', make sure we account for those
                         if (timeString == "All Day")
                         {
                             time = new DateTime(date.Year, date.Month, date.Day);
