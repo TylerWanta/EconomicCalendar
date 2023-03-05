@@ -7,6 +7,7 @@ using System.Configuration;
 using WebScraper.Scraping;
 using System.Collections.Generic;
 using System;
+using WebScraper.Firestore;
 
 namespace WebScraper
 {
@@ -14,8 +15,14 @@ namespace WebScraper
     {
         static void Main(string[] args)
         {
+            // setup validation for firestore
+            string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "@firestoreKey.json";
+            Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
+
+            // get up to date on economic events 
             CheckScrapeTillToday();
 
+            // setup daily scraping service
             XmlConfigurator.Configure();
             ContainerBuilder containerBuilder = new ContainerBuilder();
             containerBuilder.RegisterType<DailyWebScraperService>().AsSelf().InstancePerLifetimeScope();
@@ -44,10 +51,37 @@ namespace WebScraper
 
         static void CheckScrapeTillToday()
         {
-            // going to have to ping firebase and see what our most recent record is and scrape from that day on 
-            List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeFromDate(DateTime.Now);
+            EconomicEventsDB db = new EconomicEventsDB();
+            DateTime? mostRecentDayThatHasEvents = db.MostRecentDayThatHasEvents().Result;
 
-            // add previous days events to firebase
+            if (mostRecentDayThatHasEvents == null)
+            {
+                // default start date is 1/1/2011
+                mostRecentDayThatHasEvents = new DateTime(2011, 1, 1);
+            }
+
+            int count = 0;
+            while (mostRecentDayThatHasEvents.Value <= DateTime.Now)
+            {
+                // sleep every few requests so that we don't overload their server
+                if (count >= 50)
+                {
+                    System.Threading.Thread.Sleep(3000);
+                    count = 0;
+                }
+
+                DateTime eventDate = mostRecentDayThatHasEvents.Value;
+                List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
+
+                db.AddEventsForDay(eventDate, eventsToAdd);
+                if (db.ExceededReads || db.ExceededWrites)
+                {
+                    return;
+                }
+
+                count += 1;
+                mostRecentDayThatHasEvents.Value.AddDays(1);               
+            }
         }
     }
 }

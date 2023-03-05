@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
+using WebScraper.Firestore;
 using WebScraper.Scraping;
 
 namespace WebScraper
@@ -21,8 +22,8 @@ namespace WebScraper
         {
             return Task.Run(() =>
             {
-                List<EconomicEvent> newEvents = EconomicCalendarWebScraper.ScrapeToday();
-                // store events
+                EconomicEventsDB db = new EconomicEventsDB();
+                db.AddEventsForDay(DateTime.Now, EconomicCalendarWebScraper.ScrapeToday());
             });
         }
     }

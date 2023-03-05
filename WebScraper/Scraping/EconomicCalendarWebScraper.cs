@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Globalization;
 using System.Net.Http;
 using System.Threading.Tasks;
-using System.Web.UI.WebControls.WebParts;
 using HtmlAgilityPack;
 
 namespace WebScraper.Scraping
@@ -21,29 +19,12 @@ namespace WebScraper.Scraping
             }
         }
 
-        static public List<EconomicEvent> ScrapeFromDate(DateTime fromDate)
+        static public List<EconomicEvent> ScrapeDate(DateTime date)
         {
-            List<EconomicEvent> events = new List<EconomicEvent>();
             using (HttpClient client = new HttpClient())
             {
-                int count = 0;
-                while (fromDate <= DateTime.Now)
-                {
-                    // sleep every few requests so that we don't overload their servers
-                    if (count >= 50)
-                    {
-                        System.Threading.Thread.Sleep(10000);
-                        count = 0;
-                    }
-
-                    events.AddRange(Scrape(client,fromDate).Result);
-                    fromDate.AddDays(1);
-
-                    count += 1;
-                }
+                return Scrape(client, date).Result;
             }
-
-            return events;
         }
 
         static async private Task<List<EconomicEvent>> Scrape(HttpClient client, DateTime date)
@@ -60,7 +41,7 @@ namespace WebScraper.Scraping
                 DateTime time = new DateTime();
                 string title = "";
                 string symbol = "";
-                int impact = -1;
+                byte impact = 0;
                 double forecast = -1.0;
                 double previous = -1.0;
 
@@ -91,6 +72,18 @@ namespace WebScraper.Scraping
                         {
                             previous = result;
                         }
+                    }
+                    else if (column.HasClass("calendar__impact--low"))
+                    {
+                        impact = 1;
+                    }
+                    else if (column.HasClass("calendar__impact--medium"))
+                    {
+                        impact = 2;
+                    }
+                    else if (column.HasClass("calendar__impact--high"))
+                    {
+                        impact = 3;
                     }
                 }
 

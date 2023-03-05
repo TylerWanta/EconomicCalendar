@@ -1,32 +1,42 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Google.Cloud.Firestore;
 
 namespace WebScraper.Scraping
 {
+    [FirestoreData]
     class EconomicEvent
     {
         private DateTime _date;
+
+        [FirestoreProperty]
         public DateTime Date => _date;
 
         private string _title;
+
+        [FirestoreProperty]
         public string Title => _title;
 
         private string _symbol;
+
+        [FirestoreProperty]
         public string Symbol => _symbol;
 
-        private int _impact;
-        public int Impact => _impact;
+        private byte _impact;
+
+        [FirestoreProperty]
+        public byte Impact => _impact;
 
         private double _forecast;
+
+        [FirestoreProperty]
         public double Forecast => _forecast;
 
         private double _previous;
+
+        [FirestoreProperty]
         public double Previous => _previous;
         
-        public EconomicEvent(DateTime date, string title, string symbol, int impact, double forecast, double previous)
+        public EconomicEvent(DateTime date, string title, string symbol, byte impact, double forecast, double previous)
         {
             _date = date;
             _title = title;
