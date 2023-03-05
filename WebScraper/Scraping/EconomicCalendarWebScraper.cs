@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -25,10 +26,20 @@ namespace WebScraper.Scraping
             List<EconomicEvent> events = new List<EconomicEvent>();
             using (HttpClient client = new HttpClient())
             {
+                int count = 0;
                 while (fromDate <= DateTime.Now)
                 {
+                    // sleep every few requests so that we don't overload their servers
+                    if (count >= 50)
+                    {
+                        System.Threading.Thread.Sleep(10000);
+                        count = 0;
+                    }
+
                     events.AddRange(Scrape(client,fromDate).Result);
                     fromDate.AddDays(1);
+
+                    count += 1;
                 }
             }
 
