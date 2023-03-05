@@ -45,14 +45,18 @@ namespace WebScraper
 
             while (mostRecentDayThatHasEvents.Value <= DateTime.Now)
             {
-                DateTime eventDate = mostRecentDayThatHasEvents.Value;
-                List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
-
-                db.AddEventsForDay(eventDate, eventsToAdd);
-                if (db.ExceededReads || db.ExceededWrites)
+                // only care about weekdays
+                if (mostRecentDayThatHasEvents.Value.DayOfWeek != DayOfWeek.Sunday && mostRecentDayThatHasEvents.Value.DayOfWeek != DayOfWeek.Saturday)
                 {
-                    Console.WriteLine("Rached limit at: ", eventDate.ToString());
-                    return;
+                    DateTime eventDate = mostRecentDayThatHasEvents.Value;
+                    List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
+
+                    db.AddEventsForDay(eventDate, eventsToAdd);
+                    if (db.ExceededReads || db.ExceededWrites)
+                    {
+                        Console.WriteLine("Rached limit at: ", eventDate.ToString());
+                        return;
+                    }
                 }
 
                 mostRecentDayThatHasEvents.Value.AddDays(1);
