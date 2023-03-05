@@ -4,7 +4,6 @@ using Autofac;
 using Autofac.Extras.Quartz;
 using System.Collections.Specialized;
 using System.Configuration;
-using log4net;
 using WebScraper.Scraping;
 using System.Collections.Generic;
 using System;
