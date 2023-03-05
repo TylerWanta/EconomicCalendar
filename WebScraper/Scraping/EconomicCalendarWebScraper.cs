@@ -31,7 +31,8 @@ namespace WebScraper.Scraping
             List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
 
             // load up a new driver for each page. Yea it sucks but it seems to be the only way to get forexfactory to load
-            // since they don't seem to like any redirects 
+            // since they don't seem to like any redirects. Don't have to worry about overloading their servers though since 
+            // it takes a few secons to spin up a webdriver instance
             using (FirefoxDriver driver = new FirefoxDriver())
             {
                 driver.Navigate().GoToUrl(UrlForDate(date));

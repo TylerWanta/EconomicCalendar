@@ -43,16 +43,8 @@ namespace WebScraper
                 mostRecentDayThatHasEvents = new DateTime(2011, 1, 1);
             }
 
-            int count = 0;
             while (mostRecentDayThatHasEvents.Value <= DateTime.Now)
             {
-                // sleep every few requests so that we don't overload their server
-                if (count >= 50)
-                {
-                    System.Threading.Thread.Sleep(3000);
-                    count = 0;
-                }
-
                 DateTime eventDate = mostRecentDayThatHasEvents.Value;
                 List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
 
@@ -63,7 +55,6 @@ namespace WebScraper
                     return;
                 }
 
-                count += 1;
                 mostRecentDayThatHasEvents.Value.AddDays(1);
             }
         }
