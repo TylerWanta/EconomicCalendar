@@ -11,6 +11,11 @@ namespace WebScraper.Scraping
         [FirestoreProperty]
         public DateTime Date => _date;
 
+        private bool _allDay;
+
+        [FirestoreProperty]
+        public bool AllDay => _allDay;
+
         private string _title;
 
         [FirestoreProperty]
@@ -36,9 +41,10 @@ namespace WebScraper.Scraping
         [FirestoreProperty]
         public double Previous => _previous;
         
-        public EconomicEvent(DateTime date, string title, string symbol, byte impact, double forecast, double previous)
+        public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, double forecast, double previous)
         {
             _date = date;
+            _allDay = allDay;
             _title = title;
             _symbol = symbol;
             _impact = impact;

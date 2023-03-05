@@ -44,6 +44,7 @@ namespace WebScraper.Scraping
                 foreach (var eventElement in todaysEventsElements)
                 {
                     DateTime time = new DateTime();
+                    bool allDay = false;
                     string title = "";
                     string symbol = "";
                     byte impact = 0;
@@ -69,7 +70,16 @@ namespace WebScraper.Scraping
                             }
                         }
 
-                        time = DateTime.ParseExact(timeString, "hh:mmtt", CultureInfo.InvariantCulture);
+                        if (timeString == "All Day")
+                        {
+                            time = new DateTime(date.Year, date.Month, date.Day);
+                            allDay = true;
+                        }
+                        else
+                        {
+                            time = DateTime.ParseExact(timeString, "hh:mmtt", CultureInfo.InvariantCulture);
+                            allDay = false;
+                        }
                     }
 
                     var eventTitle = eventElement.FindElement(By.XPath("//td[contains(@class, 'event')]"));
@@ -121,10 +131,14 @@ namespace WebScraper.Scraping
                             {
                                 impact = 3;
                             }
+                            else if (impactClass.Contains("holiday"))
+                            {
+                                impact = 4;
+                            }
                         }
                     }
 
-                    todaysEvents.Add(new EconomicEvent(time, title, symbol, impact, forecast, previous));
+                    todaysEvents.Add(new EconomicEvent(time, allDay, title, symbol, impact, forecast, previous));
                 }
             }
 

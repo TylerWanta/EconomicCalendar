@@ -8,7 +8,6 @@ namespace WebScraper
     class ScrapingCalendar : BaseCalendar
     {
         new public string Description => "Calendar for scraping";
-        new public ICalendar CalendarBase => new HolidayCalendar();
 
         override public DateTimeOffset GetNextIncludedTimeUtc(DateTimeOffset timeUtc)
         {
@@ -35,7 +34,7 @@ namespace WebScraper
 
         override public bool IsTimeIncluded(DateTimeOffset timeUtc)
         {
-            return CalendarBase.IsTimeIncluded(timeUtc) && timeUtc.DayOfWeek != DayOfWeek.Saturday && timeUtc.DayOfWeek != DayOfWeek.Sunday;
+            return timeUtc.DayOfWeek != DayOfWeek.Saturday && timeUtc.DayOfWeek != DayOfWeek.Sunday;
         }
     }
 }
