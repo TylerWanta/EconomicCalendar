@@ -5,6 +5,9 @@ using Autofac.Extras.Quartz;
 using System.Collections.Specialized;
 using System.Configuration;
 using log4net;
+using WebScraper.Scraping;
+using System.Collections.Generic;
+using System;
 
 namespace WebScraper
 {
@@ -12,7 +15,7 @@ namespace WebScraper
     {
         static void Main(string[] args)
         {
-            Init();
+            CheckScrapeTillToday();
 
             XmlConfigurator.Configure();
             ContainerBuilder containerBuilder = new ContainerBuilder();
@@ -40,11 +43,12 @@ namespace WebScraper
             });
         }
 
-        static void Init()
+        static void CheckScrapeTillToday()
         {
-            // going to have to ping firebase and see what our most recent record is
-            WebScraper ws = new WebScraper();
-            // ws.Scrape(fromMostRecentDate)
+            // going to have to ping firebase and see what our most recent record is and scrape from that day on 
+            List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeFromDate(DateTime.Now);
+
+            // add previous days events to firebase
         }
     }
 }

@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
+using WebScraper.Scraping;
 
 namespace WebScraper
 {
@@ -17,7 +19,11 @@ namespace WebScraper
 
         public Task Execute(IJobExecutionContext context)
         {
-            return Task.Run(() => _log.Info("in Job"));
+            return Task.Run(() =>
+            {
+                List<EconomicEvent> newEvents = EconomicCalendarWebScraper.ScrapeToday();
+                // store events
+            });
         }
     }
 }
