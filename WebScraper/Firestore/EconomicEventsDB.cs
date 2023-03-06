@@ -24,7 +24,8 @@ namespace WebScraper.Firestore
         private bool _exceededWrites;
         public bool ExceededWrites { get { return _exceededWrites; } }
 
-        private const string _daysDocumentIdFormat = "MM.dd.yyyy";
+        // store starting with year then month then date so that sorting by text goes from oldest to newest
+        private const string _daysDocumentIdFormat = "yyyy.MM.dd";
 
         private FirestoreDb _db;
 
@@ -77,8 +78,8 @@ namespace WebScraper.Firestore
                 return null;
             }
 
-            string documentId = querySnapshot.Documents[0].Id;
-            return DateTime.ParseExact(documentId, _daysDocumentIdFormat, CultureInfo.InvariantCulture);
+            string documentId = querySnapshot.Documents[0].Id + "6:00";
+            return DateTime.ParseExact(documentId, _daysDocumentIdFormat +"h:mm", CultureInfo.InvariantCulture);
         }
 
         private bool IncrementCheckWrites()

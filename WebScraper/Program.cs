@@ -16,6 +16,7 @@ using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.DevTools.V108.Browser;
 using System.Threading.Tasks;
+using System.Linq;
 
 namespace WebScraper
 {
@@ -27,9 +28,10 @@ namespace WebScraper
             string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
             
-            // get up to date on economic events 
+            // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
+            // while we are still gathering / storing data
             CheckScrapeTillToday().GetAwaiter().GetResult();
-            Console.WriteLine("Done");
+
             // setup daily scraping service
             // SetupScrapingService();
         }
@@ -42,22 +44,32 @@ namespace WebScraper
 
             if (mostRecentDayThatHasEvents == null)
             {
-                // default start date is 1/1/2011
-                mostRecentDayThatHasEvents = new DateTime(2023, 3, 5);
-                mostRecentDayThatHasEvents = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
-                mostRecentDayThatHasEvents = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
+                // default start date is 1/1/2011. Set at hour 6 so when I convert to utc it stays the same day
+                // Central time is -6 utc 
+                mostRecentDayThatHasEvents = new DateTime(2011, 1, 1, 6, 0, 0);
+            }
+            else
+            {
+                // make sure we dont' re scrape our most recent days events
+                mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
             }
 
-            while (mostRecentDayThatHasEvents.Value <= DateTime.Now)
+            DateTime endOfToday = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 23, 59, 59);
+            while (mostRecentDayThatHasEvents.Value <= endOfToday)
             {
                 DateTime eventDate = mostRecentDayThatHasEvents.Value;
                 List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
-
-                await db.AddEventsForDay(eventDate, eventsToAdd);
-                if (db.ExceededReads || db.ExceededWrites)
+                if (eventsToAdd.Any())
                 {
-                    Console.WriteLine("Rached limit at: ", eventDate.ToString());
-                    break;
+                    eventDate = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
+                    eventDate = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
+
+                    await db.AddEventsForDay(eventDate, eventsToAdd);
+                    if (db.ExceededReads || db.ExceededWrites)
+                    {
+                        Console.WriteLine("Reached limit at: ", eventDate.ToString());
+                        break;
+                    }
                 }
                 
                 mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
