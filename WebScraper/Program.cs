@@ -58,21 +58,27 @@ namespace WebScraper
             while (mostRecentDayThatHasEvents.Value <= endOfToday)
             {
                 DateTime eventDate = mostRecentDayThatHasEvents.Value;
-                List<EconomicEvent> eventsToAdd = EconomicCalendarWebScraper.ScrapeDate(eventDate);
-                if (eventsToAdd.Any())
-                {
-                    eventDate = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
-                    eventDate = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
+                List<EconomicEvent> eventsToAdd = new List<EconomicEvent>();
+                EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
 
-                    await db.AddEventsForDay(eventDate, eventsToAdd);
-                    if (db.ExceededReads || db.ExceededWrites)
+                if (webScraper.ScrapeDate(eventDate, out eventsToAdd))
+                {
+                    if (eventsToAdd.Any())
                     {
-                        Console.WriteLine("Reached limit at: ", eventDate.ToString());
-                        break;
+                        eventDate = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
+                        eventDate = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
+
+                        await db.AddEventsForDay(eventDate, eventsToAdd);
+                        if (db.ExceededReads || db.ExceededWrites)
+                        {
+                            Console.WriteLine("Reached limit at: ", eventDate.ToString());
+                            break;
+                        }
                     }
+
+                    // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
+                    mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
                 }
-                
-                mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
             }
 
             return true;
