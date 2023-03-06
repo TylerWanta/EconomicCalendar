@@ -5,9 +5,8 @@ using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using System.Linq;
-using System.Threading;
-using static Google.Cloud.Firestore.V1.StructuredAggregationQuery.Types.Aggregation.Types;
 using System.Diagnostics;
+using Selenium.WebDriver.UndetectedChromeDriver;
 
 namespace WebScraper.Scraping
 {
@@ -29,22 +28,33 @@ namespace WebScraper.Scraping
 
         static public List<EconomicEvent> ScrapeDate(DateTime date)
         {
-            return Scrape(date); 
+            return Scrape(date);
         }
 
         static private List<EconomicEvent> Scrape(DateTime date)
         {
             List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
 
-            // load up a new driver for each page. Yea it sucks but it seems to be the only way to get forexfactory to load
-            // since they don't seem to like any redirects. Don't have to worry about overloading their servers though since 
-            // it takes a few secons to spin up a webdriver instance
-            using (FirefoxDriver driver = new FirefoxDriver())
+            // use UndetectedChromeDriver or else cloudflare will prevent any redirects after setting cookies
+            using (var driver = UndetectedChromeDriver.Instance())
             {
                 driver.Navigate().GoToUrl(UrlForDate(date));
 
-                WebDriverWait pageHasLoaded = new WebDriverWait(driver, TimeSpan.FromSeconds(10));
-                pageHasLoaded.Until(d => d.FindElement(By.ClassName("calendar__table")));
+                // update time zone to UTC so I don't have to convert it
+                driver.ExecuteScript("document.cookie = \"fftimezone=America/Chicago; Max-Age=-1;\"");
+                driver.ExecuteScript("document.cookie = \"fftimezone=Etc%2FUTC\"");
+
+                // update time format to 24 hour time so I don't have to do specific parsing
+                driver.ExecuteScript("document.cookie =\"fftimeformat=0; Max-Age=-1;\"");
+                driver.ExecuteScript("document.cookie = \"fftimeformat=1\"");
+
+                // refresh the page after the cookies have been updated
+                driver.Navigate().Refresh();
+
+                foreach (Cookie cookie in driver.Manage().Cookies.AllCookies)
+                {
+                    Console.WriteLine($"{cookie.Name} {cookie.Value}");
+                }
 
                 var todaysEventsElements = driver.FindElements(By.XPath("//tr[@data-touchable and @data-eventid]"));
 
@@ -75,7 +85,7 @@ namespace WebScraper.Scraping
                     string forecast = GetElementTextByXPath(eventElement, "td[contains(@class, 'forecast')]");
                     string previous = ScrapePrevious(eventElement);
 
-                    if (!time.HasValue && !allDay.HasValue && string.IsNullOrEmpty(title) && string.IsNullOrEmpty(symbol) && !impact.HasValue 
+                    if (!time.HasValue && !allDay.HasValue && string.IsNullOrEmpty(title) && string.IsNullOrEmpty(symbol) && !impact.HasValue
                         && string.IsNullOrEmpty(forecast) && string.IsNullOrEmpty(previous))
                     {
                         continue;
@@ -99,12 +109,12 @@ namespace WebScraper.Scraping
                 var element = parent.FindElement(By.XPath(xpath));
                 value = element.Text;
             }
-            catch 
+            catch
             {
                 // should never happen with the elements that call this function
-                #if DEBUG
+#if DEBUG
                 Debugger.Break();
-                #endif
+#endif
             }
 
             return value;
@@ -149,8 +159,8 @@ namespace WebScraper.Scraping
 
                         time = DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
 
-                        // pased time is one hour ahead of central time 
-                        time = time.Value.AddHours(-1); 
+                        // parsed time is one hour ahead of central time
+                        time = time.Value.AddHours(-1);
                         allDay = false;
                     }
                 }
@@ -166,8 +176,31 @@ namespace WebScraper.Scraping
                 SetAllDay();
             }
 
-            time = TimeZoneInfo.ConvertTimeToUtc(time.Value);
-            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Utc); // need to specify utc time for firestore
+            // need to account for daylight savings time
+            // account for being directly on the hour
+            if (TimeZoneInfo.Local.IsInvalidTime(time.Value))
+            {
+                //  since we move clocks forward on the second sunday of March at 1:00, we need to subtract an extra hour since 2:00 central time doesn't exist
+                if (time.Value.Month == 3 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 2) && time.Value.Hour == 2)
+                {
+                    time = time.Value.AddHours(-1);
+                }
+                // since we move clocks backwards on the first sunday of November at 1:00, we need to add an extra hour since 2:00 central time doesn't exit
+                else if (time.Value.Month == 11 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 1) && time.Value.Hour == 2)
+                {
+                    time = time.Value.AddHours(1);
+                }
+            }
+            // within daylight savings time, subtract another hour
+            else if (TimeZoneInfo.Local.IsDaylightSavingTime(time.Value))
+            {
+                time = time.Value.AddHours(2);
+            }
+
+            // need to specify utc time for firestore
+            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Local);
+            time = TimeZoneInfo.ConvertTimeToUtc(time.Value, TimeZoneInfo.Local);
+            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Utc); 
 
             return (time, allDay);
 
@@ -207,9 +240,9 @@ namespace WebScraper.Scraping
             catch
             {
                 // should never happen
-                #if DEBUG
+#if DEBUG
                 Debugger.Break();
-                #endif
+#endif
             }
 
             return impact;
@@ -236,6 +269,13 @@ namespace WebScraper.Scraping
             }
 
             return previous;
+        }
+
+        static private bool NthDayOfMonth(DateTime date, DayOfWeek dow, int nth)
+        {
+            int d = date.Day;
+            return date.DayOfWeek == dow && (d - 1) / 7 == (nth - 1);
+
         }
     }
 }
