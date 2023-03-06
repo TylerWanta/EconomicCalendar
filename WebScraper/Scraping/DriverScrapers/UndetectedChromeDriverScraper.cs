@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using OpenQA.Selenium;
-using OpenQA.Selenium.Support.Extensions;
 using Selenium.Extensions;
 using Selenium.WebDriver.UndetectedChromeDriver;
 using WebScraper.Scraping.DriverScrapers;
+using WebScraper.Types;
 
 namespace WebScraper.Scraping
 {
+    // wrapper around UndectedChromeDriver. Used as main driver as it allows for more effecient scraping but could stop working
+    // at any given time if cloudfare finds a way to block it; hence why we have a fallback driver, FireFoxDriverScraper.cs
+    // Also sends cookies to format the dates in 24 hour UTC format, making it easy to scrape and store them since firestore requires utc times
     class UndetectedChromeDriverScraper : BaseDriverScraper
     {
         SlDriver _driver;

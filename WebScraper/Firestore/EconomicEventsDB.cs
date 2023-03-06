@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
-using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using Google.Cloud.Firestore;
-using Google.Cloud.Firestore.V1;
-using WebScraper.Scraping;
+using WebScraper.Types;
 
 namespace WebScraper.Firestore
 {
@@ -24,32 +21,17 @@ namespace WebScraper.Firestore
         private bool _exceededWrites;
         public bool ExceededWrites { get { return _exceededWrites; } }
 
-        // store starting with year then month then date so that sorting by text goes from oldest to newest
-        private const string _daysDocumentIdFormat = "yyyy.MM.dd";
-
         private FirestoreDb _db;
+
+        private string _eventsCollection => "Events";
 
         public EconomicEventsDB()
         {
             _db = FirestoreDb.Create("economiccalendar-3756b");
         }
 
-        async public Task AddEventsForDay(DateTime date, List<EconomicEvent> economicEvents)
+        async public Task AddEvents(List<EconomicEvent> economicEvents)
         {
-            if (IncrementCheckReads())
-            {
-                return;
-            }
-
-            string documentName = date.ToString(_daysDocumentIdFormat);
-            DocumentReference dayReference = _db.Collection("Days").Document(documentName);
-            DocumentSnapshot daySnapShot = await dayReference.GetSnapshotAsync();
-
-            if (!daySnapShot.Exists)
-            {
-                await dayReference.CreateAsync(new { date });
-            }
-
             foreach (EconomicEvent economicEvent in economicEvents)
             {
                 if (IncrementCheckWrites())
@@ -57,7 +39,7 @@ namespace WebScraper.Firestore
                     return;
                 }
 
-                DocumentReference eventReference = dayReference.Collection("Events").Document();
+                DocumentReference eventReference = _db.Collection(_eventsCollection).Document(economicEvent.Id);
                 await eventReference.SetAsync(economicEvent);
             }
         }
@@ -69,17 +51,17 @@ namespace WebScraper.Firestore
                 return null;
             }
 
-            CollectionReference daysRef = _db.Collection("Days");
-            Query mostRecentDay = daysRef.OrderByDescending("date").Limit(1);
-            QuerySnapshot querySnapshot = await mostRecentDay.GetSnapshotAsync();
+            CollectionReference eventsRef = _db.Collection(_eventsCollection);
+            Query mostRecentEvent = eventsRef.OrderByDescending(nameof(EconomicEvent.Date)).Limit(1);
+            QuerySnapshot querySnapshot = await mostRecentEvent.GetSnapshotAsync();
 
             if (querySnapshot.Documents.Count <= 0)
             {
                 return null;
             }
 
-            string documentId = querySnapshot.Documents[0].Id + "6:00";
-            return DateTime.ParseExact(documentId, _daysDocumentIdFormat +"h:mm", CultureInfo.InvariantCulture);
+            Timestamp mostRecentDate = querySnapshot.Documents[0].GetValue<Timestamp>(nameof(EconomicEvent.Date));
+            return mostRecentDate.ToDateTime();
         }
 
         private bool IncrementCheckWrites()
@@ -101,7 +83,7 @@ namespace WebScraper.Firestore
         private bool IncrementCheckReads()
         {
             _writes += 1;
-            int maxFreeWritesThreshold = 15000; // actual is 50,000 but we will go a little lower just to be safe
+            int maxFreeWritesThreshold = 15000; // actual is 20,000 but we will go a little lower just to be safe
 
             _exceededWrites = _writes > maxFreeWritesThreshold;
             if (_exceededWrites && !_notifiedExceededWrites)

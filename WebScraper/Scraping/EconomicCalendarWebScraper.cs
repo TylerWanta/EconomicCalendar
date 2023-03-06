@@ -1,10 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
-using OpenQA.Selenium;
-using System.Linq;
-using System.Diagnostics;
-using Selenium.WebDriver.UndetectedChromeDriver;
+using WebScraper.Types;
 
 namespace WebScraper.Scraping
 {
@@ -30,8 +26,8 @@ namespace WebScraper.Scraping
 
         public EconomicCalendarWebScraper()
         {
-            _driver = new UndetectedChromeDriverScraper();
-            _driver.OnFailHandler += OnMainDriverFailed;
+            _driver = new FireFoxDriverScraper();
+            // _driver.OnFailHandler += OnMainDriverFailed;
         }
 
         // TODO: Create event args with boolean so that I can check if the driver failed to load the page or if a different exception occured

@@ -193,7 +193,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scraping\DriverScrapers\BaseDriverScraper.cs" />
-    <Compile Include="Scraping\Types\EconomicEvent.cs" />
+    <Compile Include="Types\EconomicEvent.cs" />
     <Compile Include="Scraping\DriverScrapers\FireFoxDriverScraper.cs" />
     <Compile Include="Scraping\DriverScrapers\IDriverScraper.cs" />
     <Compile Include="Scraping\DriverScrapers\UndetectedChromeDriverScraper.cs" />

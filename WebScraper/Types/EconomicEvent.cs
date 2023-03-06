@@ -1,7 +1,7 @@
 ﻿using System;
 using Google.Cloud.Firestore;
 
-namespace WebScraper.Scraping
+namespace WebScraper.Types
 {
     [FirestoreData]
     class EconomicEvent
@@ -41,6 +41,9 @@ namespace WebScraper.Scraping
         [FirestoreProperty]
         public string Previous => _previous;
 
+        private string _id;
+        public string Id { get { return _id; } }
+
         public EconomicEvent() { }
         
         public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, string forecast, string previous)
@@ -53,6 +56,8 @@ namespace WebScraper.Scraping
             _forecast = forecast;
             _previous = previous;
 
+            // make sure not to include any '/' or else nexted collections / documents will be created i.e. they are treated like a filepath
+            _id = date.ToString("MM.dd.yyyy") + symbol + title.Replace('/', ' ');
         }
     }
 }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using OpenQA.Selenium;
+using WebScraper.Types;
 
 namespace WebScraper.Scraping.DriverScrapers
 {

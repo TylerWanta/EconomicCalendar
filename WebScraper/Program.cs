@@ -8,15 +8,9 @@ using WebScraper.Scraping;
 using System.Collections.Generic;
 using System;
 using WebScraper.Firestore;
-using System.Web.SessionState;
-using System.IO;
-using System.Reflection;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Chrome;
-using OpenQA.Selenium.Firefox;
-using OpenQA.Selenium.DevTools.V108.Browser;
 using System.Threading.Tasks;
 using System.Linq;
+using WebScraper.Types;
 
 namespace WebScraper
 {
@@ -40,44 +34,37 @@ namespace WebScraper
         async static Task<bool> CheckScrapeTillToday()
         {
             EconomicEventsDB db = new EconomicEventsDB();
-            DateTime? mostRecentDayThatHasEvents = db.MostRecentDayThatHasEvents().Result;
+            DateTime? currentScrapingDate = db.MostRecentDayThatHasEvents().Result;
 
-            if (mostRecentDayThatHasEvents == null)
+            if (currentScrapingDate == null)
             {
-                // default start date is 1/1/2011. Set at hour 6 so when I convert to utc it stays the same day
-                // Central time is -6 utc 
-                mostRecentDayThatHasEvents = new DateTime(2011, 1, 1, 6, 0, 0);
+                currentScrapingDate = new DateTime(2011, 1, 1);
             }
-            else
-            {
-                // make sure we dont' re scrape our most recent days events
-                mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
-            }
+            //else
+            //{
+            //    // make sure we dont' re scrape our most recent days events
+            //    scrapingDate = mostRecentDayThatHasEvents.Value.AddDays(1);
+            //}
 
             DateTime endOfToday = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 23, 59, 59);
-            while (mostRecentDayThatHasEvents.Value <= endOfToday)
-            {
-                DateTime eventDate = mostRecentDayThatHasEvents.Value;
-                List<EconomicEvent> eventsToAdd = new List<EconomicEvent>();
-                EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
+            EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
 
-                if (webScraper.ScrapeDate(eventDate, out eventsToAdd))
+            while (currentScrapingDate.Value <= endOfToday)
+            {
+                if (webScraper.ScrapeDate(currentScrapingDate.Value, out List<EconomicEvent> eventsToAdd))
                 {
                     if (eventsToAdd.Any())
                     {
-                        eventDate = TimeZoneInfo.ConvertTimeToUtc(mostRecentDayThatHasEvents.Value);
-                        eventDate = DateTime.SpecifyKind(mostRecentDayThatHasEvents.Value, DateTimeKind.Utc);
-
-                        await db.AddEventsForDay(eventDate, eventsToAdd);
+                        await db.AddEvents(eventsToAdd);
                         if (db.ExceededReads || db.ExceededWrites)
                         {
-                            Console.WriteLine("Reached limit at: ", eventDate.ToString());
+                            Console.WriteLine("Reached limit at: ", currentScrapingDate.ToString());
                             break;
                         }
                     }
 
                     // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
-                    mostRecentDayThatHasEvents = mostRecentDayThatHasEvents.Value.AddDays(1);
+                    currentScrapingDate = currentScrapingDate.Value.AddDays(1);
                 }
             }
 

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
 using WebScraper.Firestore;
 using WebScraper.Scraping;
+using WebScraper.Types;
 
 namespace WebScraper
 {
@@ -23,11 +23,23 @@ namespace WebScraper
         {
             return Task.Run(async () =>
             {
+                List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
+                EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
+
+                if (!webScraper.ScrapeToday(out todaysEvents))
+                {
+                    // retry with fallback driver
+                    if (!webScraper.ScrapeToday(out todaysEvents))
+                    {
+                        return;
+                    }
+                }
+
                 EconomicEventsDB db = new EconomicEventsDB();
-                List<EconomicEvent> todaysEvents = EconomicCalendarWebScraper.ScrapeToday();
+
                 if (todaysEvents.Any())
                 {
-                    await db.AddEventsForDay(DateTime.Now, EconomicCalendarWebScraper.ScrapeToday());
+                    await db.AddEvents(todaysEvents);
                 }
             });
         }

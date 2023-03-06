@@ -4,11 +4,13 @@ using System.Globalization;
 using System.Linq;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
-using Selenium.Extensions;
 using WebScraper.Scraping.DriverScrapers;
+using WebScraper.Types;
 
 namespace WebScraper.Scraping
 {
+    // Wrapper around FireFoxDriver. Used as a fallback driver since we open a new driver instance for each request, which can't be blocked by
+    // cloudflare. Very inefficent though. Also can't send cookies to format the dates, resulting in a lot more work in order to get them correct
     class FireFoxDriverScraper : BaseDriverScraper
     {
         public FireFoxDriverScraper()
@@ -21,6 +23,7 @@ namespace WebScraper.Scraping
             // super inefficent and is why we only use it as a backup
             using (FirefoxDriver driver = new FirefoxDriver())
             {
+                driver.Navigate().GoToUrl(UrlForDate(date));
                 return BaseScrape(driver, date);
             }
         }
@@ -59,13 +62,13 @@ namespace WebScraper.Scraping
                         timeString = new string(timeString.ToCharArray().Where(c => !Char.IsWhiteSpace(c)).ToArray());
                         string fullDatetimeString = date.ToString(DateFormat) + timeString;
 
-                        // the string will only have one number before the ':' if its below 10, otherwise 2
+                        // the string will only have one number before the ':' if its below 10, need to make sure our 'h' format matches it
                         string fullDateTimeFormat = DateFormat + new string('h', timeString.Split(':')[0].Length) + ":mmtt";
 
                         time = DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
 
-                        // parsed time is one hour ahead of central time
-                        time = time.Value.AddHours(-1);
+                        // parsed time is defaulted to UTC -5 
+                        time = time.Value.AddHours(5);
                         allDay = false;
                     }
                 }
@@ -83,28 +86,28 @@ namespace WebScraper.Scraping
 
             // need to account for daylight savings time
             // account for being directly on the hour
-            if (TimeZoneInfo.Local.IsInvalidTime(time.Value))
-            {
-                //  since we move clocks forward on the second sunday of March at 1:00, we need to subtract an extra hour since 2:00 central time doesn't exist
-                if (time.Value.Month == 3 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 2) && time.Value.Hour == 2)
-                {
-                    time = time.Value.AddHours(-1);
-                }
-                // since we move clocks backwards on the first sunday of November at 1:00, we need to add an extra hour since 2:00 central time doesn't exit
-                else if (time.Value.Month == 11 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 1) && time.Value.Hour == 2)
-                {
-                    time = time.Value.AddHours(1);
-                }
-            }
-            // within daylight savings time, subtract another hour
-            else if (TimeZoneInfo.Local.IsDaylightSavingTime(time.Value))
-            {
-                time = time.Value.AddHours(2);
-            }
+            //if (TimeZoneInfo.Local.IsInvalidTime(time.Value))
+            //{
+            //    //  since we move clocks forward on the second sunday of March at 1:00, we need to subtract an extra hour since 2:00 central time doesn't exist
+            //    if (time.Value.Month == 3 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 2) && time.Value.Hour == 2)
+            //    {
+            //        time = time.Value.AddHours(-1);
+            //    }
+            //    // since we move clocks backwards on the first sunday of November at 1:00, we need to add an extra hour since 2:00 central time doesn't exit
+            //    else if (time.Value.Month == 11 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 1) && time.Value.Hour == 2)
+            //    {
+            //        time = time.Value.AddHours(1);
+            //    }
+            //}
+            //// within daylight savings time, subtract another hour
+            //else if (TimeZoneInfo.Local.IsDaylightSavingTime(time.Value))
+            //{
+            //    time = time.Value.AddHours(2);
+            //}
 
             // need to specify utc time for firestore
-            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Local);
-            time = TimeZoneInfo.ConvertTimeToUtc(time.Value, TimeZoneInfo.Local);
+            //time = DateTime.SpecifyKind(time.Value, DateTimeKind.Local);
+            //time = TimeZoneInfo.ConvertTimeToUtc(time.Value, TimeZoneInfo.Local);
             time = DateTime.SpecifyKind(time.Value, DateTimeKind.Utc);
 
             return (time, allDay);
@@ -116,10 +119,10 @@ namespace WebScraper.Scraping
             }
         }
 
-        static private bool NthDayOfMonth(DateTime date, DayOfWeek dow, int nth)
-        {
-            int d = date.Day;
-            return date.DayOfWeek == dow && (d - 1) / 7 == (nth - 1);
-        }
+        //static private bool NthDayOfMonth(DateTime date, DayOfWeek dow, int nth)
+        //{
+        //    int d = date.Day;
+        //    return date.DayOfWeek == dow && (d - 1) / 7 == (nth - 1);
+        //}
     }
 }
