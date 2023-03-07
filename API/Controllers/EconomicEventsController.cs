@@ -14,34 +14,26 @@ namespace API.Controllers
         [Route("from/{utcFrom}")]
         public async Task<ActionResult> GetEventsFrom(DateTime utcFrom)
         {
-            string json = "";
             if (EconomicEventsDBUsageTracker.ExceededReads)
             {
-                json = EconomicEventsDBUsageTracker.ExceededReadsJson;
-            }
-            else
-            {
-                json = JsonConvert.SerializeObject(await _economicEventsDB.GetEventsFrom(utcFrom));
+                return Conflict(EconomicEventsDBUsageTracker.ExceededReadsJson);
             }
 
-            return new JsonResult(json);
+            string json = JsonConvert.SerializeObject(await _economicEventsDB.GetEventsFrom(utcFrom));          
+            return Ok(json);
         }
 
         [HttpGet]
         [Route("between/{utcFrom}/{utcTo}")]
         public async Task<ActionResult> GetEvents(DateTime utcFrom, DateTime utcTo)
         {
-            string json = "";
             if (EconomicEventsDBUsageTracker.ExceededReads)
             {
-                json = EconomicEventsDBUsageTracker.ExceededReadsJson;
-            }
-            else
-            {
-                json = JsonConvert.SerializeObject(await _economicEventsDB.GetEventsBetween(utcFrom, utcTo));
+                return Conflict(EconomicEventsDBUsageTracker.ExceededReadsJson);
             }
 
-            return new JsonResult(json);
+            string json = JsonConvert.SerializeObject(await _economicEventsDB.GetEventsBetween(utcFrom, utcTo));
+            return Ok(json);
         }
     }
 }
