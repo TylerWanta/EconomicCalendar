@@ -1,5 +1,10 @@
 using API.Firestore;
 
+// setup validation for firestore
+string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
+Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
+
+// setup Usage Tracker
 EconomicEventsDBUsageTracker.SetDate();
 
 var builder = WebApplication.CreateBuilder(args);
