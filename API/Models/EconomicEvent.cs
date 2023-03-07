@@ -1,10 +1,9 @@
-﻿using System;
-using Google.Cloud.Firestore;
+﻿using Google.Cloud.Firestore;
 
-namespace WebScraper.Types
+namespace API.Models
 {
     [FirestoreData]
-    class EconomicEvent
+    public class EconomicEvent
     {
         private DateTime _date;
 
@@ -41,14 +40,8 @@ namespace WebScraper.Types
         [FirestoreProperty]
         public string Previous => _previous;
 
-        // used as the Event Document's __name__ in firestore. This is so we don't create a duplicate record when we re scrape a day, which we 
-        // need to do since the times are stored in UTC but the website displays in UTC-5 i.e. there will always be overlap with events we've already
-        // scraped.
-        private string _id;
-        public string Id { get { return _id; } }
-
         public EconomicEvent() { }
-        
+
         public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, string forecast, string previous)
         {
             _date = date;
@@ -58,10 +51,6 @@ namespace WebScraper.Types
             _impact = impact;
             _forecast = forecast;
             _previous = previous;
-
-            // make sure not to include any '/' or else nexted collections / documents will be created i.e. they are treated like a filepath
-            // format yyyy.MM.dd so that they will be in order when viewing them in the Firestore console
-            _id = date.ToString("yyyy.MM.dd") + symbol + title.Replace('/', ' ');
         }
     }
 }

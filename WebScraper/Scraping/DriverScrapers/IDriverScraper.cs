@@ -6,7 +6,7 @@ namespace WebScraper.Scraping
 {
    interface IDriverScraper
     {
-        event EventHandler OnFailHandler;
+        event EventHandler<OnDriverFailEventArgs> OnFailHandler;
 
         List<EconomicEvent> Scrape(DateTime date);
     }

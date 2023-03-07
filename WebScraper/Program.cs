@@ -38,13 +38,15 @@ namespace WebScraper
 
             if (currentScrapingDate == null)
             {
-                currentScrapingDate = new DateTime(2011, 1, 1);
+                currentScrapingDate = new DateTime(2011, 1, 1, 0, 0, 0);
             }
-            //else
-            //{
-            //    // make sure we dont' re scrape our most recent days events
-            //    scrapingDate = mostRecentDayThatHasEvents.Value.AddDays(1);
-            //}
+            else
+            {
+                // remove hour/minute/seonds from this date as this is the date that gets used for events marked as 'All Day'
+                // I want those events to always have a time of midnight for whatever day they are on
+                currentScrapingDate = new DateTime(currentScrapingDate.Value.Year, currentScrapingDate.Value.Month, currentScrapingDate.Value.Day,
+                    0, 0, 0);
+            }
 
             DateTime endOfToday = new DateTime(DateTime.Now.Year, DateTime.Now.Month, DateTime.Now.Day, 23, 59, 59);
             EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();

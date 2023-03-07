@@ -201,6 +201,7 @@
     <Compile Include="Service\ScrapeTodaysEventsJob.cs" />
     <Compile Include="Service\ScrapingCalendar.cs" />
     <Compile Include="Scraping\EconomicCalendarWebScraper.cs" />
+    <Compile Include="Types\OnDriverFailEventArgs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

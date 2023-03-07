@@ -12,11 +12,11 @@ namespace WebScraper.Scraping.DriverScrapers
 
         protected string DateFormat => "MM/dd/yyyy";
 
-        public event EventHandler OnFailHandler;
+        public event EventHandler<OnDriverFailEventArgs> OnFailHandler;
 
         public abstract List<EconomicEvent> Scrape(DateTime date);
 
-        protected abstract (DateTime?, bool?) ScrapeTime(IWebElement eventElement, DateTime date); 
+        protected abstract DateTime ParseScrapedTime(string scrapedTime, DateTime date); 
 
         protected List<EconomicEvent> BaseScrape(IWebDriver driver, DateTime date)
         {
@@ -41,7 +41,7 @@ namespace WebScraper.Scraping.DriverScrapers
                 }
                 else
                 {
-                    (time, allDay) = ScrapeTime(eventElement, date);
+                    (time, allDay) = ScrapeTime(date, eventElement);
                 }
 
                 string title = GetElementTextByXPath(eventElement, "td[contains(@class, 'event')]");
@@ -65,9 +65,9 @@ namespace WebScraper.Scraping.DriverScrapers
             return todaysEvents;
         }
 
-        protected void FailedToLoad()
+        protected void FailedToLoad(OnDriverFailEventArgs args = null)
         {
-            OnFailHandler.Invoke(this, null);
+            OnFailHandler.Invoke(this, args);
         }
 
         protected string UrlForDate(DateTime date)
@@ -92,6 +92,64 @@ namespace WebScraper.Scraping.DriverScrapers
             }
 
             return value;
+        }
+
+        protected (DateTime?, bool?) ScrapeTime(DateTime date, IWebElement eventElement)
+        {
+            DateTime? time = null;
+            bool? allDay = null;
+
+            try
+            {
+                // time is formatted in 2 different ways based on if its up next or not
+                var timeElement = eventElement.FindElement(By.XPath("td[contains(@class, 'time')]"));
+                string timeString = "";
+                if (!string.IsNullOrEmpty(timeElement.Text))
+                {
+                    timeString = timeElement.Text;
+                }
+                // check if the time is up next since it isn't in the usual spot
+                else
+                {
+                    // throws exception if we don't have an upnext element
+                    var upNextElement = timeElement.FindElement(By.XPath("span[contains(@class, 'upnext')]"));
+                    timeString = upNextElement.Text;
+                }
+
+                if (!string.IsNullOrEmpty(timeString) && !string.IsNullOrWhiteSpace(timeString))
+                {
+                    // Holidays have a time of 'All Day' and some events can have a time of 'Tentative'. We'll just set them to all day
+                    if (timeString == "All Day" || timeString.Contains("Tentative"))
+                    {
+                        SetAllDay();
+                    }
+                    else
+                    {
+                        time = ParseScrapedTime(timeString, date);
+                        allDay = false;
+                    }
+                }
+                // will happen if we have a ' ' string in the usual time spot
+                else
+                {
+                    SetAllDay();
+                }
+            }
+            // will catch if we have don't have a time in the usual spot and the event isn't upnext 
+            catch
+            {
+                SetAllDay();
+            }
+
+            // firestore requires UTC time to be specified
+            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Utc);
+            return (time, allDay);
+
+            void SetAllDay()
+            {
+                time = date;
+                allDay = true;
+            }
         }
 
         protected byte? ScrapeImpact(IWebElement eventElement)

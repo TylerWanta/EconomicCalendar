@@ -40,7 +40,7 @@ namespace WebScraper.Firestore
                 }
 
                 DocumentReference eventReference = _db.Collection(_eventsCollection).Document(economicEvent.Id);
-                await eventReference.SetAsync(economicEvent);
+                await eventReference.SetAsync(economicEvent); // will overwrite event if it already exists
             }
         }
 

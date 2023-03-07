@@ -10,7 +10,7 @@ using WebScraper.Types;
 namespace WebScraper.Scraping
 {
     // Wrapper around FireFoxDriver. Used as a fallback driver since we open a new driver instance for each request, which can't be blocked by
-    // cloudflare. Very inefficent though. Also can't send cookies to format the dates, resulting in a lot more work in order to get them correct
+    // cloudflare. Very inefficent though. 
     class FireFoxDriverScraper : BaseDriverScraper
     {
         public FireFoxDriverScraper()
@@ -28,101 +28,22 @@ namespace WebScraper.Scraping
             }
         }
 
-        override protected (DateTime?, bool?) ScrapeTime(IWebElement eventElement, DateTime date)
+        // parses the scraped time. Time should be in the foramt " hh?:mmtt" UTC-5
+        override protected DateTime ParseScrapedTime(string scrapedTime, DateTime date)
         {
-            DateTime? time = null;
-            bool? allDay = null;
+            // times have a leading space, remove it 
+            scrapedTime = new string(scrapedTime.ToCharArray().Where(c => !Char.IsWhiteSpace(c)).ToArray());
+            string fullDatetimeString = date.ToString(DateFormat) + scrapedTime;
 
-            try
-            {
-                // time is formatted in 2 different ways based on if its up next or not
-                var timeElement = eventElement.FindElement(By.XPath("td[contains(@class, 'time')]"));
-                string timeString = "";
-                if (!string.IsNullOrEmpty(timeElement.Text))
-                {
-                    timeString = timeElement.Text;
-                }
-                // check if the time is up next since the time isn't in the usual spot
-                else
-                {
-                    var upNextElement = timeElement.FindElement(By.XPath("span[contains(@class, 'upnext')]"));
-                    timeString = upNextElement.Text;
-                }
+            // the string will only have one number before the ':' if its below 10, need to make sure our 'h' format matches it
+            string fullDateTimeFormat = DateFormat + new string('h', scrapedTime.Split(':')[0].Length) + ":mmtt";
 
-                if (!string.IsNullOrEmpty(timeString))
-                {
-                    // Holidays are set to 'All Day', some events can have a time of 'Tentative'. We'll just set them to all day
-                    if (timeString == "All Day" || timeString.Contains("Tentative"))
-                    {
-                        SetAllDay();
-                    }
-                    else
-                    {
-                        // times have a leading space, remove it 
-                        timeString = new string(timeString.ToCharArray().Where(c => !Char.IsWhiteSpace(c)).ToArray());
-                        string fullDatetimeString = date.ToString(DateFormat) + timeString;
+            DateTime parsedDateTime = DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
 
-                        // the string will only have one number before the ':' if its below 10, need to make sure our 'h' format matches it
-                        string fullDateTimeFormat = DateFormat + new string('h', timeString.Split(':')[0].Length) + ":mmtt";
+            // parsed time is defaulted to UTC-5, convert to UTC
+            parsedDateTime = parsedDateTime.AddHours(5);
 
-                        time = DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
-
-                        // parsed time is defaulted to UTC -5 
-                        time = time.Value.AddHours(5);
-                        allDay = false;
-                    }
-                }
-                // will happen if we don't have a time 
-                else
-                {
-                    SetAllDay();
-                }
-            }
-            // will catch if we don't have a time and the event is up next
-            catch
-            {
-                SetAllDay();
-            }
-
-            // need to account for daylight savings time
-            // account for being directly on the hour
-            //if (TimeZoneInfo.Local.IsInvalidTime(time.Value))
-            //{
-            //    //  since we move clocks forward on the second sunday of March at 1:00, we need to subtract an extra hour since 2:00 central time doesn't exist
-            //    if (time.Value.Month == 3 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 2) && time.Value.Hour == 2)
-            //    {
-            //        time = time.Value.AddHours(-1);
-            //    }
-            //    // since we move clocks backwards on the first sunday of November at 1:00, we need to add an extra hour since 2:00 central time doesn't exit
-            //    else if (time.Value.Month == 11 && NthDayOfMonth(time.Value, DayOfWeek.Sunday, 1) && time.Value.Hour == 2)
-            //    {
-            //        time = time.Value.AddHours(1);
-            //    }
-            //}
-            //// within daylight savings time, subtract another hour
-            //else if (TimeZoneInfo.Local.IsDaylightSavingTime(time.Value))
-            //{
-            //    time = time.Value.AddHours(2);
-            //}
-
-            // need to specify utc time for firestore
-            //time = DateTime.SpecifyKind(time.Value, DateTimeKind.Local);
-            //time = TimeZoneInfo.ConvertTimeToUtc(time.Value, TimeZoneInfo.Local);
-            time = DateTime.SpecifyKind(time.Value, DateTimeKind.Utc);
-
-            return (time, allDay);
-
-            void SetAllDay()
-            {
-                time = date;
-                allDay = true;
-            }
+            return parsedDateTime;
         }
-
-        //static private bool NthDayOfMonth(DateTime date, DayOfWeek dow, int nth)
-        //{
-        //    int d = date.Day;
-        //    return date.DayOfWeek == dow && (d - 1) / 7 == (nth - 1);
-        //}
     }
 }

@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
+using System.Threading;
 using OpenQA.Selenium;
 using Selenium.Extensions;
 using Selenium.WebDriver.UndetectedChromeDriver;
@@ -9,12 +11,16 @@ using WebScraper.Types;
 namespace WebScraper.Scraping
 {
     // wrapper around UndectedChromeDriver. Used as main driver as it allows for more effecient scraping but could stop working
-    // at any given time if cloudfare finds a way to block it; hence why we have a fallback driver, FireFoxDriverScraper.cs
+    // at any given time if cloudfare finds a way to block it; hence why we have a fallback driver, FireFoxDriverScraper.cs.
     // Also sends cookies to format the dates in 24 hour UTC format, making it easy to scrape and store them since firestore requires utc times
     class UndetectedChromeDriverScraper : BaseDriverScraper
     {
-        SlDriver _driver;
+        private SlDriver _driver;
+
         private bool _firstLoad;
+
+        private int _runningPageLoads;
+
 
         public UndetectedChromeDriverScraper() 
         {
@@ -24,20 +30,36 @@ namespace WebScraper.Scraping
 
         public override List<EconomicEvent> Scrape(DateTime date)
         {
+            CheckRunningPageLoads();
+
             _driver.Navigate().GoToUrl(UrlForDate(date));
-            CheckPageLoad();
+
+            CheckPageLoaded(date);
 
             return BaseScrape(_driver, date);
         }
 
-        private void CheckPageLoad()
+        private void CheckRunningPageLoads()
+        {
+            if (_runningPageLoads + 1 < 50)
+            {
+                _runningPageLoads += 1;
+                return;
+            }
+
+            // sleep every 50 page loads so that we don't overload their servers
+            Thread.Sleep(5000);
+            _runningPageLoads = 0;
+        }
+
+        private void CheckPageLoaded(DateTime date)
         {
             if (_firstLoad)
             {
                 SetCookies();
                 _firstLoad = false;
 
-                _driver.Navigate().Refresh();
+                _driver.Navigate().GoToUrl(UrlForDate(date));
             }
 
             try
@@ -56,7 +78,7 @@ namespace WebScraper.Scraping
 
         private void SetCookies()
         {
-            // update time zone to UTC so I don't have to convert it
+            //update time zone to UTC so I don't have to convert it
             _driver.ExecuteScript("document.cookie = \"fftimezone=America/Chicago; Max-Age=-1;\"");
             _driver.ExecuteScript("document.cookie = \"fftimezone=Etc%2FUTC\"");
 
@@ -65,9 +87,13 @@ namespace WebScraper.Scraping
             _driver.ExecuteScript("document.cookie = \"fftimeformat=1\"");
         }
 
-        protected override (DateTime?, bool?) ScrapeTime(IWebElement eventElement, DateTime date)
+        // parses the scraped time. Time should be in the format "hh:mm" UTC
+        protected override DateTime ParseScrapedTime(string scrapedTime, DateTime date)
         {
-            throw new NotImplementedException();
+            string fullDateTimeFormat = DateFormat + "hh:mm";
+            string fullDatetimeString = date.ToString(DateFormat) + scrapedTime;
+
+            return DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
         }
     }
 }
