@@ -1,101 +1,61 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Globalization;
-using System.Net.Http;
-using System.Threading.Tasks;
-using HtmlAgilityPack;
+using WebScraper.Types;
 
 namespace WebScraper.Scraping
 {
     class EconomicCalendarWebScraper
     {
-        static private string BaseUrl => "https://www.forexfactory.com/calendar?day=";
+        private IDriverScraper _driver;
 
-        static public List<EconomicEvent> ScrapeToday()
+        private bool _driverFailed = false;
+        private bool DriverFailed
         {
-            using (HttpClient client = new HttpClient())
+            get
             {
-                return Scrape(client, DateTime.Now).Result;
+                // reset the value once returned so that we do accidently return true twice for the same failure
+                bool tempDriverFailed = _driverFailed;
+                _driverFailed = false;
+                return tempDriverFailed;
+            }
+            set
+            {
+                _driverFailed = value;
             }
         }
 
-        static public List<EconomicEvent> ScrapeDate(DateTime date)
+        public EconomicCalendarWebScraper()
         {
-            using (HttpClient client = new HttpClient())
-            {
-                return Scrape(client, date).Result;
-            }
+            // looks like UndetectedChromeDriver no longer works. Defaulting to the fallback for now
+            //_driver = new UndetectedChromeDriverScraper();
+            //_driver.OnFailHandler += OnMainDriverFailed;
+            _driver = new FireFoxDriverScraper();
         }
 
-        static async private Task<List<EconomicEvent>> Scrape(HttpClient client, DateTime date)
+        // TODO: Create event args with boolean so that I can check if the driver failed to load the page or if a different exception occured
+        private void OnMainDriverFailed(object sender, OnDriverFailEventArgs e)
         {
-            var html = await client.GetStringAsync(UrlForDate(date));
-
-            HtmlDocument htmlDocument = new HtmlDocument();
-            htmlDocument.LoadHtml(html);
-
-            List<EconomicEvent> events = new List<EconomicEvent>();
-
-            foreach (HtmlNode row in htmlDocument.DocumentNode.SelectNodes("//tr[@data-touchable and @data-eventid]"))
+            // send email or something?
+            if (e != null && e.UseFallbackDriver)
             {
-                DateTime time = new DateTime();
-                string title = "";
-                string symbol = "";
-                byte impact = 0;
-                double forecast = -1.0;
-                double previous = -1.0;
-
-                foreach (HtmlNode column in row.Descendants("td"))
-                {
-                    if (column.HasClass("time"))
-                    {
-                        time = DateTime.ParseExact(column.InnerText, "hh:mmtt", CultureInfo.InvariantCulture);
-                    }
-                    else if (column.HasClass("event"))
-                    {
-                        title = column.SelectSingleNode("//span[contains(@class, 'calendar__event-title')]")?.InnerText;
-                    }
-                    else if (column.HasClass("currency"))
-                    {
-                        symbol = column.InnerText;
-                    }
-                    else if (column.HasClass("forecast"))
-                    {
-                        if (Double.TryParse(column.InnerText, out double result))
-                        {
-                            forecast = result;
-                        }
-                    }
-                    else if (column.HasClass("previous"))
-                    {
-                        if (Double.TryParse(column.InnerText, out double result))
-                        {
-                            previous = result;
-                        }
-                    }
-                    else if (column.HasClass("calendar__impact--low"))
-                    {
-                        impact = 1;
-                    }
-                    else if (column.HasClass("calendar__impact--medium"))
-                    {
-                        impact = 2;
-                    }
-                    else if (column.HasClass("calendar__impact--high"))
-                    {
-                        impact = 3;
-                    }
-                }
-
-                events.Add(new EconomicEvent(time, title, symbol, impact, forecast, previous));
+                _driver = new FireFoxDriverScraper();
             }
 
-            return events;
+            DriverFailed = true;
         }
 
-        static private string UrlForDate(DateTime date)
+        // returns true if the scrape was successful and the driver didn't fail
+        public bool ScrapeToday(out List<EconomicEvent> todaysEvents)
         {
-            return BaseUrl + $"{date.ToString("MMM")}.{date.Day}.{date.Year}";
+            todaysEvents = _driver.Scrape(DateTime.Now);
+            return !DriverFailed;
+        }
+
+        // returns true if the scrape was successful and the driver didn't fail
+        public bool ScrapeDate(DateTime date, out List<EconomicEvent> datesEvents)
+        {
+            datesEvents = _driver.Scrape(date);
+            return !DriverFailed;
         }
     }
 }
