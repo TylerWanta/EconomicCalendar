@@ -49,11 +49,15 @@ namespace WebScraper.Database
 
             foreach (EconomicEvent economicEvent in economicEvents)
             {
-                WriteEvent(row, worksheet, economicEvent);
-                row += 1;
+                if (!ContainsEvent(worksheet, economicEvent))
+                {
+                    WriteEvent(row, worksheet, economicEvent);
+                    row += 1;
+                }
             }
 
             book.SaveAsCsv(path, Delimiter);
+            book.Close();
         }
 
         private void ValidateEvents(DateTime date, List<EconomicEvent> events)
@@ -89,24 +93,42 @@ namespace WebScraper.Database
                 return;
             }
 
-            worksheet["A1"].StringValue = "Date";
-            worksheet["B1"].StringValue = "All Day";
-            worksheet["C1"].StringValue = "Title";
-            worksheet["D1"].StringValue = "Symbol";
-            worksheet["E1"].StringValue = "Impact";
-            worksheet["F1"].StringValue = "Forecast";
-            worksheet["G1"].StringValue = "Previous";
+            worksheet["A1"].StringValue = "Id";
+            worksheet["B1"].StringValue = "Date";
+            worksheet["C1"].StringValue = "All Day";
+            worksheet["D1"].StringValue = "Title";
+            worksheet["E1"].StringValue = "Symbol";
+            worksheet["F1"].StringValue = "Impact";
+            worksheet["G1"].StringValue = "Forecast";
+            worksheet["H1"].StringValue = "Previous";
+        }
+
+        private bool ContainsEvent(WorkSheet worksheet, EconomicEvent economicEvent)
+        {
+            int row = 2;
+            while (!string.IsNullOrEmpty(worksheet[$"A{row}"].StringValue))
+            {
+                if (worksheet[$"A{row}"].StringValue == economicEvent.Id)
+                {
+                    return true;
+                }
+
+                row += 1;
+            }
+
+            return false;
         }
 
         private void WriteEvent(int row, WorkSheet worksheet, EconomicEvent economicEvent)
         {
-            worksheet[$"A{row}"].DateTimeValue = economicEvent.Date;
-            worksheet[$"B{row}"].BoolValue = economicEvent.AllDay;
-            worksheet[$"C{row}"].StringValue = economicEvent.Title;
-            worksheet[$"D{row}"].StringValue = economicEvent.Symbol;
-            worksheet[$"E{row}"].IntValue = economicEvent.Impact;
-            worksheet[$"F{row}"].StringValue = economicEvent.Forecast;
-            worksheet[$"G{row}"].StringValue = economicEvent.Previous;
+            worksheet[$"A{row}"].StringValue = economicEvent.Id;
+            worksheet[$"B{row}"].DateTimeValue = economicEvent.Date;
+            worksheet[$"C{row}"].BoolValue = economicEvent.AllDay;
+            worksheet[$"D{row}"].StringValue = economicEvent.Title;
+            worksheet[$"E{row}"].StringValue = economicEvent.Symbol;
+            worksheet[$"F{row}"].IntValue = economicEvent.Impact;
+            worksheet[$"G{row}"].StringValue = economicEvent.Forecast;
+            worksheet[$"H{row}"].StringValue = economicEvent.Previous;
         }
     }
 }
