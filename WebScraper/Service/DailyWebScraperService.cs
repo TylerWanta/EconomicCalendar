@@ -18,14 +18,10 @@ namespace WebScraper
                 .WithIdentity(typeof(ScrapeTodaysEventsJob).Name, SchedulerConstants.DefaultGroup)
                 .Build();
 
-            ScrapingCalendar sc = new ScrapingCalendar();
-            _scheduler.AddCalendar("scrapingCalendar", sc, false, false);
-
             ITrigger trigger = TriggerBuilder.Create()
-                .WithIdentity("New Day", SchedulerConstants.DefaultGroup)
+                .WithIdentity("New day", SchedulerConstants.DefaultGroup)
                 .ForJob(job)
                 .WithSchedule(CronScheduleBuilder.DailyAtHourAndMinute(0, 0))
-                .ModifiedByCalendar("scrapingCalendar")
                 .Build();
 
             _scheduler.ScheduleJob(job, trigger);

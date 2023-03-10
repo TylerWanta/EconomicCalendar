@@ -66,13 +66,13 @@ namespace WebScraper.Scraping
             {
                 var calendarTable = _driver.FindElement(By.XPath("//table[contains(@class, 'calendar__table'"));
             }
-            catch
+            catch (NoSuchElementException e)
             {
                 // this should only happen if cloudflare starts blocking this driver due to redirecting after our inital load
                 // this will cuase EconomicCalendarWebScraper.cs to switch to a FireFoxDriverScraper which always works but isn't as 
                 // effecient
 
-                FailedToLoad();
+                OnDriverFailed(new OnDriverFailEventArgs(true));
             }
         }
 

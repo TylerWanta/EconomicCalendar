@@ -24,10 +24,16 @@ namespace WebScraper
             
             // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
             // while we are still gathering / storing data
-            CheckScrapeTillToday().GetAwaiter().GetResult();
+            if (args.Contains("catchup"))
+            {
+                CheckScrapeTillToday().GetAwaiter().GetResult();
+            }
 
             // setup daily scraping service
-            // SetupScrapingService();
+            if (args.Contains("service"))
+            {
+                SetupScrapingService();
+            }
         }
 
         // Needs to return a task so we can await it and the main program doesn't start shutting down before we finish saving records
@@ -53,21 +59,26 @@ namespace WebScraper
 
             while (currentScrapingDate.Value <= endOfToday)
             {
-                if (webScraper.ScrapeDate(currentScrapingDate.Value, out List<EconomicEvent> eventsToAdd))
-                {
-                    if (eventsToAdd.Any())
-                    {
-                        await db.AddEvents(eventsToAdd);
-                        if (db.ExceededReads || db.ExceededWrites)
-                        {
-                            Console.WriteLine("Reached limit at: ", currentScrapingDate.ToString());
-                            break;
-                        }
-                    }
+                List<EconomicEvent> eventsToAdd = new List<EconomicEvent>();
 
-                    // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
-                    currentScrapingDate = currentScrapingDate.Value.AddDays(1);
+                // keep trying if we fail. There is internal tracking to throw an exception so that this doesn't become an infinite loop
+                while (!webScraper.ScrapeDate(currentScrapingDate.Value, out eventsToAdd))
+                {
+                    continue;
                 }
+
+                if (eventsToAdd.Any())
+                {
+                    await db.AddEvents(eventsToAdd);
+                    if (db.ExceededReads || db.ExceededWrites)
+                    {
+                        Console.WriteLine("Reached limit at: ", currentScrapingDate.ToString());
+                        return true;
+                    }
+                }
+
+                // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
+                currentScrapingDate = currentScrapingDate.Value.AddDays(1);
             }
 
             return true;
