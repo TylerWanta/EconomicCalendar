@@ -11,7 +11,6 @@ using WebScraper.Firestore;
 using System.Threading.Tasks;
 using System.Linq;
 using WebScraper.Types;
-using System.Drawing.Printing;
 
 namespace WebScraper
 {
@@ -60,21 +59,26 @@ namespace WebScraper
 
             while (currentScrapingDate.Value <= endOfToday)
             {
-                if (webScraper.ScrapeDate(currentScrapingDate.Value, out List<EconomicEvent> eventsToAdd))
-                {
-                    if (eventsToAdd.Any())
-                    {
-                        await db.AddEvents(eventsToAdd);
-                        if (db.ExceededReads || db.ExceededWrites)
-                        {
-                            Console.WriteLine("Reached limit at: ", currentScrapingDate.ToString());
-                            break;
-                        }
-                    }
+                List<EconomicEvent> eventsToAdd = new List<EconomicEvent>();
 
-                    // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
-                    currentScrapingDate = currentScrapingDate.Value.AddDays(1);
+                // keep trying if we fail. There is internal tracking to throw an exception so that this doesn't become an infinite loop
+                while (!webScraper.ScrapeDate(currentScrapingDate.Value, out eventsToAdd))
+                {
+                    continue;
                 }
+
+                if (eventsToAdd.Any())
+                {
+                    await db.AddEvents(eventsToAdd);
+                    if (db.ExceededReads || db.ExceededWrites)
+                    {
+                        Console.WriteLine("Reached limit at: ", currentScrapingDate.ToString());
+                        return true;
+                    }
+                }
+
+                // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
+                currentScrapingDate = currentScrapingDate.Value.AddDays(1);
             }
 
             return true;
