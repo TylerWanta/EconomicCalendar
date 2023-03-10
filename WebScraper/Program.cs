@@ -11,6 +11,7 @@ using WebScraper.Firestore;
 using System.Threading.Tasks;
 using System.Linq;
 using WebScraper.Types;
+using System.Drawing.Printing;
 
 namespace WebScraper
 {
@@ -24,10 +25,16 @@ namespace WebScraper
             
             // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
             // while we are still gathering / storing data
-            CheckScrapeTillToday().GetAwaiter().GetResult();
+            if (args.Contains("catchup"))
+            {
+                CheckScrapeTillToday().GetAwaiter().GetResult();
+            }
 
             // setup daily scraping service
-            // SetupScrapingService();
+            if (args.Contains("service"))
+            {
+                SetupScrapingService();
+            }
         }
 
         // Needs to return a task so we can await it and the main program doesn't start shutting down before we finish saving records

@@ -72,7 +72,7 @@ namespace WebScraper.Scraping
                 // this will cuase EconomicCalendarWebScraper.cs to switch to a FireFoxDriverScraper which always works but isn't as 
                 // effecient
 
-                FailedToLoad();
+                OnDriverFailed(new OnDriverFailEventArgs(true));
             }
         }
 

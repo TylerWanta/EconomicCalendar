@@ -4,6 +4,8 @@ using System.Globalization;
 using System.Linq;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
+using Selenium.Extensions;
+using WebScraper.Firestore;
 using WebScraper.Scraping.DriverScrapers;
 using WebScraper.Types;
 
@@ -19,13 +21,24 @@ namespace WebScraper.Scraping
 
         public override List<EconomicEvent> Scrape(DateTime date)
         {
-            // this will spin up a new driver for each day that we want to scrape. This way cloudfare can't block any requests.
-            // super inefficent and is why we only use it as a backup
-            using (FirefoxDriver driver = new FirefoxDriver())
+            List<EconomicEvent> eventsForDate = new List<EconomicEvent>();
+            try
             {
-                driver.Navigate().GoToUrl(UrlForDate(date));
-                return BaseScrape(driver, date);
+                // this will spin up a new driver for each day that we want to scrape.This way cloudfare can't block any requests.
+                // super inefficent and is why we only use it as a backup
+                using (FirefoxDriver driver = new FirefoxDriver())
+                {
+                    // this will sometimes time out. Not sure why but re trying always works 
+                    driver.Navigate().GoToUrl(UrlForDate(date));
+                    eventsForDate = BaseScrape(driver, date);
+                }
             }
+            catch (TimeoutException e)
+            {
+                OnDriverFailed();
+            }
+
+            return eventsForDate;
         }
 
         // parses the scraped time. Time should be in the foramt " hh?:mmtt" UTC-5

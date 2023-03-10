@@ -26,13 +26,10 @@ namespace WebScraper
                 List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
                 EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
 
-                if (!webScraper.ScrapeToday(out todaysEvents))
+                // keep trying if we fail. There is internal tracking to throw an exception so that this doesn't become an infinite loop
+                while (!webScraper.ScrapeToday(out todaysEvents))
                 {
-                    // retry with fallback driver
-                    if (!webScraper.ScrapeToday(out todaysEvents))
-                    {
-                        return;
-                    }
+                    continue;
                 }
 
                 EconomicEventsDB db = new EconomicEventsDB();

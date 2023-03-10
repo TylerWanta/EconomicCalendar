@@ -16,7 +16,26 @@ namespace WebScraper.Scraping.DriverScrapers
 
         public abstract List<EconomicEvent> Scrape(DateTime date);
 
-        protected abstract DateTime ParseScrapedTime(string scrapedTime, DateTime date); 
+        protected abstract DateTime ParseScrapedTime(string scrapedTime, DateTime date);
+
+        private int _driverFailedCounter = 0;
+        public int DriverFailedCounter { get { return _driverFailedCounter; } }
+
+        private bool _driverFailed = false;
+        public bool DriverFailed
+        {
+            get
+            {
+                // reset the value once returned so that we do accidently return true twice for the same failure
+                bool tempDriverFailed = _driverFailed;
+                _driverFailed = false;
+                return tempDriverFailed;
+            }
+            set
+            {
+                _driverFailed = value;
+            }
+        }
 
         protected List<EconomicEvent> BaseScrape(IWebDriver driver, DateTime date)
         {
@@ -62,11 +81,20 @@ namespace WebScraper.Scraping.DriverScrapers
                 todaysEvents.Add(new EconomicEvent(time.Value, allDay.Value, title, symbol, impact.Value, forecast, previous));
             }
 
+            // we successfully scraped data, reset the counter
+            if (!_driverFailed && _driverFailedCounter > 0)
+            {
+                _driverFailedCounter = 0;
+            }
+
             return todaysEvents;
         }
 
-        protected void FailedToLoad(OnDriverFailEventArgs args = null)
+        protected void OnDriverFailed(OnDriverFailEventArgs args = null)
         {
+            _driverFailed = true;
+            _driverFailedCounter += 1;
+
             OnFailHandler.Invoke(this, args);
         }
 
@@ -85,10 +113,7 @@ namespace WebScraper.Scraping.DriverScrapers
             }
             catch
             {
-                // should never happen with the elements that call this function
-#if DEBUG
-                Debugger.Break();
-#endif
+                OnDriverFailed();
             }
 
             return value;
@@ -180,10 +205,7 @@ namespace WebScraper.Scraping.DriverScrapers
             }
             catch
             {
-                // should never happen
-#if DEBUG
-                Debugger.Break();
-#endif
+                OnDriverFailed();
             }
 
             return impact;
