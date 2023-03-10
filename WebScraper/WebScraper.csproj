@@ -41,6 +41,9 @@
     <Reference Include="Autofac.Extras.Quartz, Version=8.2.0.0, Culture=neutral, PublicKeyToken=595f708ada5feacc, processorArchitecture=MSIL">
       <HintPath>packages\Autofac.Extras.Quartz.8.2.0\lib\netstandard2.0\Autofac.Extras.Quartz.dll</HintPath>
     </Reference>
+    <Reference Include="BitMiracle.LibTiff.NET, Version=2.4.649.0, Culture=neutral, PublicKeyToken=53879b3e20e7a7d6, processorArchitecture=MSIL">
+      <HintPath>packages\BitMiracle.LibTiff.NET.2.4.649\lib\net40\BitMiracle.LibTiff.NET.dll</HintPath>
+    </Reference>
     <Reference Include="Google.Api.CommonProtos, Version=2.7.0.0, Culture=neutral, PublicKeyToken=3ec5ea7f18953e47, processorArchitecture=MSIL">
       <HintPath>packages\Google.Api.CommonProtos.2.7.0\lib\net461\Google.Api.CommonProtos.dll</HintPath>
     </Reference>
@@ -95,6 +98,12 @@
     <Reference Include="Grpc.Net.Common, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d754f35622e28bad, processorArchitecture=MSIL">
       <HintPath>packages\Grpc.Net.Common.2.51.0\lib\netstandard2.0\Grpc.Net.Common.dll</HintPath>
     </Reference>
+    <Reference Include="IronSoftware.Drawing.Common, Version=2023.2.0.12, Culture=neutral, PublicKeyToken=8d7e55c97b3e9835, processorArchitecture=MSIL">
+      <HintPath>packages\IronSoftware.System.Drawing.2023.2.12\lib\netstandard2.0\IronSoftware.Drawing.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="IronXL, Version=2023.2.5.0, Culture=neutral, PublicKeyToken=0f5804b6690bad1e, processorArchitecture=MSIL">
+      <HintPath>packages\IronXL.Excel.2023.2.5\lib\netstandard2.0\IronXL.dll</HintPath>
+    </Reference>
     <Reference Include="JetBrains.Annotations, Version=4242.42.42.42, Culture=neutral, PublicKeyToken=1010a0d8d6380325, processorArchitecture=MSIL">
       <HintPath>packages\JetBrains.Annotations.2022.3.1\lib\net20\JetBrains.Annotations.dll</HintPath>
     </Reference>
@@ -121,6 +130,15 @@
     </Reference>
     <Reference Include="Selenium.WebDriver.UndetectedChromeDriver, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\Selenium.WebDriver.UndetectedChromeDriver.2.3.0\lib\netstandard2.0\Selenium.WebDriver.UndetectedChromeDriver.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.Fonts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>packages\IronSoftware.System.Drawing.2023.2.12\lib\netstandard2.0\SixLabors.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.ImageSharp, Version=2.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>packages\SixLabors.ImageSharp.2.1.3\lib\net472\SixLabors.ImageSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SixLabors.ImageSharp.Drawing, Version=1.0.0.0, Culture=neutral, PublicKeyToken=d998eea7b14cab13, processorArchitecture=MSIL">
+      <HintPath>packages\IronSoftware.System.Drawing.2023.2.12\lib\netstandard2.0\SixLabors.ImageSharp.Drawing.dll</HintPath>
     </Reference>
     <Reference Include="Sl.Selenium.Extensions.Chrome, Version=2.3.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>packages\Sl.Selenium.Extensions.Chrome.2.3.0\lib\netstandard2.0\Sl.Selenium.Extensions.Chrome.dll</HintPath>
@@ -189,6 +207,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\EconomicCalendarDB.cs" />
     <Compile Include="Firestore\EconomicEventsDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -4,7 +4,7 @@ using Google.Cloud.Firestore;
 namespace WebScraper.Types
 {
     [FirestoreData]
-    class EconomicEvent
+    public class EconomicEvent
     {
         private DateTime _date;
 

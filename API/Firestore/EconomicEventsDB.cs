@@ -14,7 +14,7 @@ namespace API.Firestore
             _db = FirestoreDb.Create("economiccalendar-3756b");
         }
 
-        async public Task<List<EconomicEvent>> GetEventsFrom(DateTime utcFrom, string symbol, byte? impact)
+        async public Task<List<EconomicEvent>> GetEventsFrom(DateTime utcFrom, string? symbol, byte? impact)
         {
             CollectionReference eventsRef = _db.Collection(_eventsCollection);
             Query eventsFromDate = eventsRef
@@ -26,10 +26,11 @@ namespace API.Firestore
             QuerySnapshot querySnapshot = await eventsFromDate.GetSnapshotAsync();
             EconomicEventsDBUsageTracker.IncrementReads(querySnapshot.Documents.Count);
 
-            return querySnapshot.Documents.Cast<EconomicEvent>().ToList();
+            return querySnapshot.Documents.Select(ds => ds.ConvertTo<EconomicEvent>()).ToList();
+            // return querySnapshot.Documents.Cast<EconomicEvent>().ToList();
         }
 
-        async public Task<List<EconomicEvent>> GetEventsBetween(DateTime utcFrom, DateTime utcTo, string symbol, byte? impact)
+        async public Task<List<EconomicEvent>> GetEventsBetween(DateTime utcFrom, DateTime utcTo, string? symbol, byte? impact)
         {
             CollectionReference eventsRef = _db.Collection(_eventsCollection);
             Query eventsBetween = eventsRef
@@ -45,7 +46,7 @@ namespace API.Firestore
             return querySnapshot.Documents.Cast<EconomicEvent>().ToList();
         }
 
-        private void TryFilterBySymbolAndImpact(Query query, string symbol, byte? impact)
+        private void TryFilterBySymbolAndImpact(Query query, string? symbol, byte? impact)
         {
             if (!string.IsNullOrEmpty(symbol))
             {
