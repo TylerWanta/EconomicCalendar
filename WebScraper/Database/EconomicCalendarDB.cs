@@ -9,7 +9,7 @@ namespace WebScraper.Database
 {
     public class EconomicCalendarDB
     {
-        public string DBDirectory => "C:/Users/WantaTyler/source/repos/EconomicCalendar/WebScraper/Database/EconomicCalendar";
+        public string DBDirectory => "C:/Users/WantaTyler/source/repos/EconomicCalendar/Data";
 
         public string EventsDocument => "Events.csv";
 
