@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.08.05NZDANZ Commodity Prices m m,8/5/20 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-0.8%
+2020.08.05CNYCaixin Services PMI,8/5/20 2:45,FALSE,Caixin Services PMI,CNY,1,58.0,58.4
+2020.08.05EURSpanish Services PMI,8/5/20 8:15,FALSE,Spanish Services PMI,EUR,1,52.3,50.2
+2020.08.05EURItalian Services PMI,8/5/20 8:45,FALSE,Italian Services PMI,EUR,1,51.2,46.4
+2020.08.05EURFrench Final Services PMI,8/5/20 8:50,FALSE,French Final Services PMI,EUR,1,57.8,57.8
+2020.08.05EURGerman Final Services PMI,8/5/20 8:55,FALSE,German Final Services PMI,EUR,1,56.7,56.7
+2020.08.05EURFinal Services PMI,8/5/20 9:00,FALSE,Final Services PMI,EUR,1,55.1,55.1
+2020.08.05GBPFinal Services PMI,8/5/20 9:30,FALSE,Final Services PMI,GBP,1,56.6,56.6
+2020.08.05EURRetail Sales m m,8/5/20 10:00,FALSE,Retail Sales m/m,EUR,1,6.5%,20.3%
+2020.08.05GBP10-y Bond Auction,8/5/20 10:06,FALSE,10-y Bond Auction,GBP,1," ",0.20|2.5
+2020.08.05JPYBOJ Gov Kuroda Speaks,8/5/20 13:00,FALSE,BOJ Gov Kuroda Speaks,JPY,2," "," "
+2020.08.05USDADP Non-Farm Employment Change,8/5/20 13:15,FALSE,ADP Non-Farm Employment Change,USD,2,1200K,4314K
+2020.08.05CADTrade Balance,8/5/20 13:30,FALSE,Trade Balance,CAD,1,-0.6B,-1.3B
+2020.08.05USDTrade Balance,8/5/20 13:30,FALSE,Trade Balance,USD,1,-50.3B,-54.8B
+2020.08.05USDFinal Services PMI,8/5/20 14:45,FALSE,Final Services PMI,USD,1,49.6,49.6
+2020.08.05USDISM Services PMI,8/5/20 15:00,FALSE,ISM Services PMI,USD,3,55.0,57.1
+2020.08.05USDCrude Oil Inventories,8/5/20 15:30,FALSE,Crude Oil Inventories,USD,2,-3.4M,-10.6M
+2020.08.05USDFOMC Member Mester Speaks,8/5/20 22:00,FALSE,FOMC Member Mester Speaks,USD,1," "," "
+

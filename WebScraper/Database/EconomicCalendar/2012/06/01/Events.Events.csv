@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.06.01USDTotal Vehicle Sales,6/1/12 0:00,TRUE,Total Vehicle Sales,USD,1,14.4M,14.4M
+2012.06.01AUDAIG Manufacturing Index,6/1/12 0:20,FALSE,AIG Manufacturing Index,AUD,1," ",43.9
+2012.06.01JPYCapital Spending q y,6/1/12 0:50,FALSE,Capital Spending q/y,JPY,2,1.3%,7.6%
+2012.06.01CNYManufacturing PMI,6/1/12 2:00,FALSE,Manufacturing PMI,CNY,3,52.1,53.3
+2012.06.01NZDANZ Commodity Prices m m,6/1/12 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-4.5%
+2012.06.01CNYCaixin Manufacturing PMI,6/1/12 3:30,FALSE,Caixin Manufacturing PMI,CNY,2," ",48.7
+2012.06.01AUDCommodity Prices y y,6/1/12 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-5.0%
+2012.06.01CHFRetail Sales y y,6/1/12 8:15,FALSE,Retail Sales y/y,CHF,3,3.6%,4.7%
+2012.06.01EURSpanish Manufacturing PMI,6/1/12 8:15,FALSE,Spanish Manufacturing PMI,EUR,2," ",43.5
+2012.06.01CHFManufacturing PMI,6/1/12 8:30,FALSE,Manufacturing PMI,CHF,2,46.7,46.9
+2012.06.01EURItalian Manufacturing PMI,6/1/12 8:45,FALSE,Italian Manufacturing PMI,EUR,2,43.5,43.8
+2012.06.01EURFrench Final Manufacturing PMI,6/1/12 8:50,FALSE,French Final Manufacturing PMI,EUR,1,44.4,44.4
+2012.06.01EURGerman Final Manufacturing PMI,6/1/12 8:55,FALSE,German Final Manufacturing PMI,EUR,1,45.0,45.0
+2012.06.01EURFinal Manufacturing PMI,6/1/12 9:00,FALSE,Final Manufacturing PMI,EUR,1,45.0,45.0
+2012.06.01EURItalian Monthly Unemployment Rate,6/1/12 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,9.9%,10.1%
+2012.06.01EURItalian Quarterly Unemployment Rate,6/1/12 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,9.6%,9.1%
+2012.06.01GBPFinal Manufacturing PMI,6/1/12 9:30,FALSE,Final Manufacturing PMI,GBP,3,49.7,50.2
+2012.06.01EURUnemployment Rate,6/1/12 10:00,FALSE,Unemployment Rate,EUR,2,11.0%,11.0%
+2012.06.01CADGDP m m,6/1/12 13:30,FALSE,GDP m/m,CAD,3,0.4%,-0.2%
+2012.06.01USDAverage Hourly Earnings m m,6/1/12 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.1%
+2012.06.01USDCore PCE Price Index m m,6/1/12 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.2%,0.2%
+2012.06.01USDNon-Farm Employment Change,6/1/12 13:30,FALSE,Non-Farm Employment Change,USD,3,151K,77K
+2012.06.01USDPersonal Income m m,6/1/12 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.4%
+2012.06.01USDPersonal Spending m m,6/1/12 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,0.2%
+2012.06.01USDUnemployment Rate,6/1/12 13:30,FALSE,Unemployment Rate,USD,3,8.1%,8.1%
+2012.06.01USDFinal Manufacturing PMI,6/1/12 14:00,FALSE,Final Manufacturing PMI,USD,1," ",53.9
+2012.06.01CADManufacturing PMI,6/1/12 14:30,FALSE,Manufacturing PMI,CAD,1," ",53.3
+2012.06.01USDConstruction Spending m m,6/1/12 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,0.3%
+2012.06.01USDISM Manufacturing PMI,6/1/12 15:00,FALSE,ISM Manufacturing PMI,USD,3,54.0,54.8
+2012.06.01USDISM Manufacturing Prices,6/1/12 15:00,FALSE,ISM Manufacturing Prices,USD,1,57.1,61.0
+2012.06.01USDPresident Obama Speaks,6/1/12 18:10,FALSE,President Obama Speaks,USD,1," "," "
+

@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.06.19EUREurogroup Meetings,6/19/14 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2014.06.19AUDRBA Bulletin,6/19/14 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2014.06.19CHFSNB Financial Stability Report,6/19/14 5:30,FALSE,SNB Financial Stability Report,CHF,2," "," "
+2014.06.19JPYAll Industries Activity m m,6/19/14 5:30,FALSE,All Industries Activity m/m,JPY,1,-3.7%,1.5%
+2014.06.19CHFLibor Rate,6/19/14 8:30,FALSE,Libor Rate,CHF,3,<0.25%,<0.25%
+2014.06.19CHFSNB Monetary Policy Assessment,6/19/14 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2014.06.19CHFSNB Press Conference,6/19/14 8:30,FALSE,SNB Press Conference,CHF,3," "," "
+2014.06.19GBPRetail Sales m m,6/19/14 9:30,FALSE,Retail Sales m/m,GBP,3,-0.5%,1.0%
+2014.06.19GBPCBI Industrial Order Expectations,6/19/14 11:00,FALSE,CBI Industrial Order Expectations,GBP,2,3,0
+2014.06.19GBPMPC Member McCafferty Speaks,6/19/14 12:30,FALSE,MPC Member McCafferty Speaks,GBP,2," "," "
+2014.06.19USDUnemployment Claims,6/19/14 13:30,FALSE,Unemployment Claims,USD,3,316K,318K
+2014.06.19USDCB Leading Index m m,6/19/14 15:00,FALSE,CB Leading Index m/m,USD,1,0.6%,0.3%
+2014.06.19USDPhilly Fed Manufacturing Index,6/19/14 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,14.3,15.4
+2014.06.19USDNatural Gas Storage,6/19/14 15:30,FALSE,Natural Gas Storage,USD,1,112B,107B
+

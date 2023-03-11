@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.10.09EUREurogroup Meetings,10/9/19 0:00,TRUE,Eurogroup Meetings,EUR,3," "," "
+2019.10.09AUDWestpac Consumer Sentiment,10/9/19 0:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",-1.7%
+2019.10.09JPYPrelim Machine Tool Orders y y,10/9/19 6:58,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-37.0%
+2019.10.09GBPFPC Meeting Minutes,10/9/19 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2019.10.09GBPFPC Statement,10/9/19 9:30,FALSE,FPC Statement,GBP,1," "," "
+2019.10.09USDFinal Wholesale Inventories m m,10/9/19 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.4%,0.4%
+2019.10.09USDJOLTS Job Openings,10/9/19 15:00,FALSE,JOLTS Job Openings,USD,1,7.35M,7.17M
+2019.10.09USDCrude Oil Inventories,10/9/19 15:30,FALSE,Crude Oil Inventories,USD,3,1.8M,3.1M
+2019.10.09USDFOMC Member George Speaks,10/9/19 16:00,FALSE,FOMC Member George Speaks,USD,2," "," "
+2019.10.09USDFed Chair Powell Speaks,10/9/19 16:00,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2019.10.09USD10-y Bond Auction,10/9/19 18:01,FALSE,10-y Bond Auction,USD,1," ",1.74|2.5
+2019.10.09USDFOMC Meeting Minutes,10/9/19 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+2019.10.09NZDFPI m m,10/9/19 22:45,FALSE,FPI m/m,NZD,1," ",0.7%
+

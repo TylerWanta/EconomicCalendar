@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.25AUDBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2017.12.25CADBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2017.12.25CHFBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2017.12.25EURFrench Bank Holiday,12/25/17 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2017.12.25EURGerman Bank Holiday,12/25/17 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2017.12.25EURItalian Bank Holiday,12/25/17 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2017.12.25GBPBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2017.12.25NZDBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2017.12.25USDBank Holiday,12/25/17 0:00,TRUE,Bank Holiday,USD,4," "," "
+2017.12.25JPYHousehold Spending y y,12/25/17 23:30,FALSE,Household Spending y/y,JPY,1,0.6%,0.0%
+2017.12.25JPYNational Core CPI y y,12/25/17 23:30,FALSE,National Core CPI y/y,JPY,1,0.8%,0.8%
+2017.12.25JPYTokyo Core CPI y y,12/25/17 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.7%,0.6%
+2017.12.25JPYUnemployment Rate,12/25/17 23:30,FALSE,Unemployment Rate,JPY,1,2.8%,2.8%
+2017.12.25JPYMonetary Policy Meeting Minutes,12/25/17 23:50,FALSE,Monetary Policy Meeting Minutes,JPY,1," "," "
+2017.12.25JPYSPPI y y,12/25/17 23:50,FALSE,SPPI y/y,JPY,1,0.8%,0.8%
+

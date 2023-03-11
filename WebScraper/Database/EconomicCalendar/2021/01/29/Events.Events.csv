@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.01.29AUDPPI q q,1/29/21 0:30,FALSE,PPI q/q,AUD,1,0.4%,0.4%
+2021.01.29AUDPrivate Sector Credit m m,1/29/21 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.2%,0.1%
+2021.01.29JPYHousing Starts y y,1/29/21 5:00,FALSE,Housing Starts y/y,JPY,1,-3.8%,-3.7%
+2021.01.29JPYConsumer Confidence,1/29/21 5:02,FALSE,Consumer Confidence,JPY,1,29.1,31.8
+2021.01.29EURFrench Consumer Spending m m,1/29/21 6:30,FALSE,French Consumer Spending m/m,EUR,1,24.0%,-18.0%
+2021.01.29EURFrench Flash GDP q q,1/29/21 6:30,FALSE,French Flash GDP q/q,EUR,1,-4.0%,18.7%
+2021.01.29EURGerman Import Prices m m,1/29/21 7:00,FALSE,German Import Prices m/m,EUR,1,1.0%,0.5%
+2021.01.29CHFKOF Economic Barometer,1/29/21 8:00,FALSE,KOF Economic Barometer,CHF,2,102.2,104.1
+2021.01.29EURSpanish Flash CPI y y,1/29/21 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,-0.5%,-0.5%
+2021.01.29EURSpanish Flash GDP q q,1/29/21 8:00,FALSE,Spanish Flash GDP q/q,EUR,1,-1.4%,16.4%
+2021.01.29EURGerman Unemployment Change,1/29/21 8:55,FALSE,German Unemployment Change,EUR,1,7K,-40K
+2021.01.29EURGerman Prelim GDP q q,1/29/21 9:00,FALSE,German Prelim GDP q/q,EUR,2,0.0%,8.5%
+2021.01.29EURM3 Money Supply y y,1/29/21 9:00,FALSE,M3 Money Supply y/y,EUR,1,11.0%,11.0%
+2021.01.29EURPrivate Loans y y,1/29/21 9:00,FALSE,Private Loans y/y,EUR,1,3.2%,3.1%
+2021.01.29CADGDP m m,1/29/21 13:30,FALSE,GDP m/m,CAD,2,0.4%,0.4%
+2021.01.29CADIPPI m m,1/29/21 13:30,FALSE,IPPI m/m,CAD,1,1.4%,-0.6%
+2021.01.29CADRMPI m m,1/29/21 13:30,FALSE,RMPI m/m,CAD,1,2.5%,0.6%
+2021.01.29USDCore PCE Price Index m m,1/29/21 13:30,FALSE,Core PCE Price Index m/m,USD,1,0.1%,0.0%
+2021.01.29USDEmployment Cost Index q q,1/29/21 13:30,FALSE,Employment Cost Index q/q,USD,1,0.5%,0.5%
+2021.01.29USDPersonal Income m m,1/29/21 13:30,FALSE,Personal Income m/m,USD,1,0.1%,-1.3%
+2021.01.29USDPersonal Spending m m,1/29/21 13:30,FALSE,Personal Spending m/m,USD,1,-0.4%,-0.7%
+2021.01.29USDChicago PMI,1/29/21 14:45,FALSE,Chicago PMI,USD,1,58.4,59.5
+2021.01.29USDPending Home Sales m m,1/29/21 15:00,FALSE,Pending Home Sales m/m,USD,1,-0.5%,-2.5%
+2021.01.29USDRevised UoM Consumer Sentiment,1/29/21 15:00,FALSE,Revised UoM Consumer Sentiment,USD,1,79.2,79.2
+2021.01.29USDRevised UoM Inflation Expectations,1/29/21 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",3.0%
+

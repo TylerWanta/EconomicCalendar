@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.07.04USDBank Holiday,7/4/13 0:00,TRUE,Bank Holiday,USD,4," "," "
+2013.07.04JPYBOJ Gov Kuroda Speaks,7/4/13 1:30,FALSE,BOJ Gov Kuroda Speaks,JPY,3," "," "
+2013.07.04AUDBuilding Approvals m m,7/4/13 2:30,FALSE,Building Approvals m/m,AUD,3,-0.9%,9.5%
+2013.07.04AUDRBA Deputy Gov Lowe Speaks,7/4/13 3:30,FALSE,RBA Deputy Gov Lowe Speaks,AUD,2," "," "
+2013.07.04JPY30-y Bond Auction,7/4/13 4:45,FALSE,30-y Bond Auction,JPY,1," ",1.87|4.1
+2013.07.04GBPHalifax HPI m m,7/4/13 8:00,FALSE,Halifax HPI m/m,GBP,2,0.4%,0.5%
+2013.07.04EURFrench 10-y Bond Auction,7/4/13 9:57,FALSE,French 10-y Bond Auction,EUR,2," ",2.04|1.6
+2013.07.04EURFinal GDP q q,7/4/13 10:00,FALSE,Final GDP q/q,EUR,1,-0.2%,-0.2%
+2013.07.04GBPAsset Purchase Facility,7/4/13 12:00,FALSE,Asset Purchase Facility,GBP,3,375B,375B
+2013.07.04GBPMPC Rate Statement,7/4/13 12:00,FALSE,MPC Rate Statement,GBP,3," "," "
+2013.07.04GBPOfficial Bank Rate,7/4/13 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2013.07.04EURMain Refinancing Rate,7/4/13 12:45,FALSE,Main Refinancing Rate,EUR,3,0.50%,0.50%
+2013.07.04EURECB Press Conference,7/4/13 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+

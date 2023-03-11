@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.01.15GBPRICS House Price Balance,1/15/15 0:01,FALSE,RICS House Price Balance,GBP,1,11%,13%
+2015.01.15AUDEmployment Change,1/15/15 0:30,FALSE,Employment Change,AUD,3,5.3K,45.0K
+2015.01.15AUDUnemployment Rate,1/15/15 0:30,FALSE,Unemployment Rate,AUD,3,6.3%,6.2%
+2015.01.15NZDREINZ HPI m m,1/15/15 1:30,FALSE,REINZ HPI m/m,NZD,1," ",3.3%
+2015.01.15CNYM2 Money Supply y y,1/15/15 2:02,FALSE,M2 Money Supply y/y,CNY,1,12.5%,12.3%
+2015.01.15CNYNew Loans,1/15/15 2:02,FALSE,New Loans,CNY,2,885B,853B
+2015.01.15CHFLibor Rate,1/15/15 9:30,FALSE,Libor Rate,CHF,3," ",-0.25%
+2015.01.15EURTrade Balance,1/15/15 10:00,FALSE,Trade Balance,EUR,1,21.3B,19.6B
+2015.01.15CHFSNB Chairman Jordan Speaks,1/15/15 12:15,FALSE,SNB Chairman Jordan Speaks,CHF,3," "," "
+2015.01.15CNYForeign Direct Investment ytd y,1/15/15 12:55,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",0.7%
+2015.01.15USDCore PPI m m,1/15/15 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.0%
+2015.01.15USDEmpire State Manufacturing Index,1/15/15 13:30,FALSE,Empire State Manufacturing Index,USD,2,5.3,-3.6
+2015.01.15USDPPI m m,1/15/15 13:30,FALSE,PPI m/m,USD,3,-0.3%,-0.2%
+2015.01.15USDUnemployment Claims,1/15/15 13:30,FALSE,Unemployment Claims,USD,3,299K,297K
+2015.01.15USDPhilly Fed Manufacturing Index,1/15/15 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,20.3,24.5
+2015.01.15USDNatural Gas Storage,1/15/15 15:30,FALSE,Natural Gas Storage,USD,1,-224B,-131B
+2015.01.15EURGerman Buba President Weidmann Speaks,1/15/15 16:15,FALSE,German Buba President Weidmann Speaks,EUR,3," "," "
+2015.01.15JPYTertiary Industry Activity m m,1/15/15 23:50,FALSE,Tertiary Industry Activity m/m,JPY,2,0.3%,-0.1%
+

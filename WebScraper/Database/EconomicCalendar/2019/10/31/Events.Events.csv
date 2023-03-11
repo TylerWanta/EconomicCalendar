@@ -1,0 +1,39 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.10.31JPYPrelim Industrial Production m m,10/31/19 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,0.4%,-1.2%
+2019.10.31NZDANZ Business Confidence,10/31/19 1:00,FALSE,ANZ Business Confidence,NZD,3," ",-53.5
+2019.10.31GBPGfK Consumer Confidence,10/31/19 1:01,FALSE,GfK Consumer Confidence,GBP,1,-13,-12
+2019.10.31AUDBuilding Approvals m m,10/31/19 1:30,FALSE,Building Approvals m/m,AUD,3,0.1%,-0.6%
+2019.10.31AUDImport Prices q q,10/31/19 1:30,FALSE,Import Prices q/q,AUD,1,0.5%,0.9%
+2019.10.31AUDPrivate Sector Credit m m,10/31/19 1:30,FALSE,Private Sector Credit m/m,AUD,1,0.3%,0.2%
+2019.10.31CNYManufacturing PMI,10/31/19 2:00,FALSE,Manufacturing PMI,CNY,3,49.9,49.8
+2019.10.31CNYNon-Manufacturing PMI,10/31/19 2:00,FALSE,Non-Manufacturing PMI,CNY,2,53.7,53.7
+2019.10.31JPYBOJ Outlook Report,10/31/19 4:32,FALSE,BOJ Outlook Report,JPY,3," "," "
+2019.10.31JPYBOJ Policy Rate,10/31/19 4:32,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2019.10.31JPYMonetary Policy Statement,10/31/19 4:32,FALSE,Monetary Policy Statement,JPY,3," "," "
+2019.10.31JPYConsumer Confidence,10/31/19 6:00,FALSE,Consumer Confidence,JPY,1,35.3,35.6
+2019.10.31JPYHousing Starts y y,10/31/19 6:02,FALSE,Housing Starts y/y,JPY,1,-6.6%,-7.1%
+2019.10.31JPYBOJ Press Conference,10/31/19 7:30,FALSE,BOJ Press Conference,JPY,2," "," "
+2019.10.31EURGerman Retail Sales m m,10/31/19 8:00,FALSE,German Retail Sales m/m,EUR,1,0.3%,-0.1%
+2019.10.31EURFrench Prelim CPI m m,10/31/19 8:45,FALSE,French Prelim CPI m/m,EUR,1,0.1%,-0.3%
+2019.10.31EURSpanish Flash GDP q q,10/31/19 9:00,FALSE,Spanish Flash GDP q/q,EUR,2,0.4%,0.4%
+2019.10.31EURItalian Monthly Unemployment Rate,10/31/19 10:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,9.6%,9.6%
+2019.10.31EURCPI Flash Estimate y y,10/31/19 11:00,FALSE,CPI Flash Estimate y/y,EUR,2,0.7%,0.8%
+2019.10.31EURCore CPI Flash Estimate y y,10/31/19 11:00,FALSE,Core CPI Flash Estimate y/y,EUR,1,1.0%,1.0%
+2019.10.31EURItalian Prelim CPI m m,10/31/19 11:00,FALSE,Italian Prelim CPI m/m,EUR,1,-0.1%,-0.6%
+2019.10.31EURPrelim Flash GDP q q,10/31/19 11:00,FALSE,Prelim Flash GDP q/q,EUR,1,0.1%,0.2%
+2019.10.31EURUnemployment Rate,10/31/19 11:00,FALSE,Unemployment Rate,EUR,1,7.4%,7.5%
+2019.10.31EURItalian Prelim GDP q q,10/31/19 12:00,FALSE,Italian Prelim GDP q/q,EUR,1,0.0%,0.1%
+2019.10.31USDChallenger Job Cuts y y,10/31/19 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-24.8%
+2019.10.31CADGDP m m,10/31/19 13:30,FALSE,GDP m/m,CAD,3,0.2%,0.0%
+2019.10.31CADIPPI m m,10/31/19 13:30,FALSE,IPPI m/m,CAD,1,0.2%,0.2%
+2019.10.31CADRMPI m m,10/31/19 13:30,FALSE,RMPI m/m,CAD,2,2.5%,-1.8%
+2019.10.31USDCore PCE Price Index m m,10/31/19 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.1%
+2019.10.31USDEmployment Cost Index q q,10/31/19 13:30,FALSE,Employment Cost Index q/q,USD,2,0.7%,0.6%
+2019.10.31USDPersonal Income m m,10/31/19 13:30,FALSE,Personal Income m/m,USD,1,0.3%,0.5%
+2019.10.31USDPersonal Spending m m,10/31/19 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,0.2%
+2019.10.31USDUnemployment Claims,10/31/19 13:30,FALSE,Unemployment Claims,USD,1,215K,213K
+2019.10.31USDChicago PMI,10/31/19 14:45,FALSE,Chicago PMI,USD,2,48.4,47.1
+2019.10.31USDNatural Gas Storage,10/31/19 15:30,FALSE,Natural Gas Storage,USD,1,47B,87B
+2019.10.31CHFSNB Chairman Jordan Speaks,10/31/19 16:30,FALSE,SNB Chairman Jordan Speaks,CHF,2," "," "
+2019.10.31AUDAIG Manufacturing Index,10/31/19 22:30,FALSE,AIG Manufacturing Index,AUD,1," ",54.7
+

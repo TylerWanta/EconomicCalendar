@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.10.03CNYBank Holiday,10/3/19 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2019.10.03EURGerman Bank Holiday,10/3/19 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2019.10.03NZDANZ Commodity Prices m m,10/3/19 1:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",0.3%
+2019.10.03AUDTrade Balance,10/3/19 2:30,FALSE,Trade Balance,AUD,2,6.00B,7.25B
+2019.10.03USDFOMC Member Evans Speaks,10/3/19 7:45,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2019.10.03EURSpanish Services PMI,10/3/19 8:15,FALSE,Spanish Services PMI,EUR,1,53.9,54.3
+2019.10.03EURItalian Services PMI,10/3/19 8:45,FALSE,Italian Services PMI,EUR,1,50.4,50.6
+2019.10.03EURFrench Final Services PMI,10/3/19 8:50,FALSE,French Final Services PMI,EUR,1,51.6,51.6
+2019.10.03EURGerman Final Services PMI,10/3/19 8:55,FALSE,German Final Services PMI,EUR,1,52.5,52.5
+2019.10.03EURFinal Services PMI,10/3/19 9:00,FALSE,Final Services PMI,EUR,1,52.0,52.0
+2019.10.03GBPFinal Services PMI,10/3/19 9:30,FALSE,Final Services PMI,GBP,2,50.3,50.6
+2019.10.03EURSpanish 10-y Bond Auction,10/3/19 9:49,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.21|2.3
+2019.10.03EURPPI m m,10/3/19 10:00,FALSE,PPI m/m,EUR,1,-0.4%,0.1%
+2019.10.03EURRetail Sales m m,10/3/19 10:00,FALSE,Retail Sales m/m,EUR,1,0.3%,-0.5%
+2019.10.03EURFrench 10-y Bond Auction,10/3/19 10:03,FALSE,French 10-y Bond Auction,EUR,1," ",-0.36|1.6
+2019.10.03GBPPrime Minister Johnson Speaks,10/3/19 11:30,FALSE,Prime Minister Johnson Speaks,GBP,2," "," "
+2019.10.03USDChallenger Job Cuts y y,10/3/19 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",39.0%
+2019.10.03USDFOMC Member Quarles Speaks,10/3/19 13:30,FALSE,FOMC Member Quarles Speaks,USD,2," "," "
+2019.10.03USDUnemployment Claims,10/3/19 13:30,FALSE,Unemployment Claims,USD,1,215K,215K
+2019.10.03USDFinal Services PMI,10/3/19 14:45,FALSE,Final Services PMI,USD,1,50.9,50.9
+2019.10.03GBPMPC Member Tenreyro Speaks,10/3/19 15:00,FALSE,MPC Member Tenreyro Speaks,GBP,2," "," "
+2019.10.03USDFactory Orders m m,10/3/19 15:00,FALSE,Factory Orders m/m,USD,1,-0.5%,1.4%
+2019.10.03USDISM Services PMI,10/3/19 15:00,FALSE,ISM Services PMI,USD,3,55.1,56.4
+2019.10.03USDNatural Gas Storage,10/3/19 15:30,FALSE,Natural Gas Storage,USD,1,106B,102B
+2019.10.03USDFOMC Member Clarida Speaks,10/3/19 23:35,FALSE,FOMC Member Clarida Speaks,USD,2," "," "
+

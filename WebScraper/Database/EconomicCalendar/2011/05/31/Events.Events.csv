@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.05.31JPYFinal Manufacturing PMI,5/31/11 0:15,FALSE,Final Manufacturing PMI,JPY,1,,45.7
+2011.05.31JPYHousehold Spending y y,5/31/11 0:30,FALSE,Household Spending y/y,JPY,2,-2.7%,-8.5%
+2011.05.31JPYUnemployment Rate,5/31/11 0:30,FALSE,Unemployment Rate,JPY,1,4.7%,4.6%
+2011.05.31JPYPrelim Industrial Production m m,5/31/11 0:50,FALSE,Prelim Industrial Production m/m,JPY,2,2.6%,-15.5%
+2011.05.31NZDANZ Business Confidence,5/31/11 2:00,FALSE,ANZ Business Confidence,NZD,3,,14.2
+2011.05.31AUDBuilding Approvals m m,5/31/11 2:30,FALSE,Building Approvals m/m,AUD,3,-1.7%,8.6%
+2011.05.31AUDCurrent Account,5/31/11 2:30,FALSE,Current Account,AUD,2,-10.1B,-8.1B
+2011.05.31AUDPrivate Sector Credit m m,5/31/11 2:30,FALSE,Private Sector Credit m/m,AUD,2,0.5%,0.6%
+2011.05.31JPYAverage Cash Earnings y y,5/31/11 2:30,FALSE,Average Cash Earnings y/y,JPY,2,-0.2%,-0.1%
+2011.05.31JPYHousing Starts y y,5/31/11 6:00,FALSE,Housing Starts y/y,JPY,1,-3.0%,-2.4%
+2011.05.31CHFGDP q q,5/31/11 6:45,FALSE,GDP q/q,CHF,2,0.6%,0.8%
+2011.05.31CHFUBS Consumption Indicator,5/31/11 7:00,FALSE,UBS Consumption Indicator,CHF,2,,1.69
+2011.05.31EURGerman Retail Sales m m,5/31/11 7:00,FALSE,German Retail Sales m/m,EUR,2,1.7%,-2.7%
+2011.05.31EURFrench Consumer Spending m m,5/31/11 7:45,FALSE,French Consumer Spending m/m,EUR,2,-0.3%,-1.0%
+2011.05.31EURGerman Unemployment Change,5/31/11 8:55,FALSE,German Unemployment Change,EUR,2,-31K,-33K
+2011.05.31EURItalian Monthly Unemployment Rate,5/31/11 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.3%,8.3%
+2011.05.31EURCPI Flash Estimate y y,5/31/11 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.8%,2.8%
+2011.05.31EURItalian Prelim CPI m m,5/31/11 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.5%
+2011.05.31EURUnemployment Rate,5/31/11 10:00,FALSE,Unemployment Rate,EUR,2,9.9%,9.9%
+2011.05.31CADIPPI m m,5/31/11 13:30,FALSE,IPPI m/m,CAD,1,0.7%,1.0%
+2011.05.31CADRMPI m m,5/31/11 13:30,FALSE,RMPI m/m,CAD,2,3.7%,5.8%
+2011.05.31CADBOC Rate Statement,5/31/11 14:00,FALSE,BOC Rate Statement,CAD,3,,
+2011.05.31CADOvernight Rate,5/31/11 14:00,FALSE,Overnight Rate,CAD,3,1.00%,1.00%
+2011.05.31USDS&P CS Composite-20 HPI y y,5/31/11 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,-3.4%,-3.4%
+2011.05.31USDChicago PMI,5/31/11 14:45,FALSE,Chicago PMI,USD,2,63.8,67.6
+2011.05.31USDCB Consumer Confidence,5/31/11 15:00,FALSE,CB Consumer Confidence,USD,3,66.3,66.0
+2011.05.31NZDOverseas Trade Index q q,5/31/11 23:45,FALSE,Overseas Trade Index q/q,NZD,1,0.7%,0.8%
+

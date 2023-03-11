@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.01.04JPYFinal Manufacturing PMI,1/4/18 0:30,FALSE,Final Manufacturing PMI,JPY,1,54.2,54.2
+2018.01.04CNYCaixin Services PMI,1/4/18 1:45,FALSE,Caixin Services PMI,CNY,2,51.8,51.9
+2018.01.04GBPNationwide HPI m m,1/4/18 6:57,FALSE,Nationwide HPI m/m,GBP,1,0.1%,0.1%
+2018.01.04EURSpanish Services PMI,1/4/18 8:15,FALSE,Spanish Services PMI,EUR,1,54.7,54.4
+2018.01.04EURItalian Services PMI,1/4/18 8:45,FALSE,Italian Services PMI,EUR,1,54.7,54.7
+2018.01.04EURFrench Final Services PMI,1/4/18 8:50,FALSE,French Final Services PMI,EUR,1,59.4,59.4
+2018.01.04EURGerman Final Services PMI,1/4/18 8:55,FALSE,German Final Services PMI,EUR,1,55.8,55.8
+2018.01.04EURFinal Services PMI,1/4/18 9:00,FALSE,Final Services PMI,EUR,1,56.5,56.5
+2018.01.04GBPFinal Services PMI,1/4/18 9:30,FALSE,Final Services PMI,GBP,3,54.1,53.8
+2018.01.04GBPM4 Money Supply m m,1/4/18 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,0.6%
+2018.01.04GBPMortgage Approvals,1/4/18 9:30,FALSE,Mortgage Approvals,GBP,1,64K,65K
+2018.01.04GBPNet Lending to Individuals m m,1/4/18 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,4.9B,4.7B
+2018.01.04EURSpanish 10-y Bond Auction,1/4/18 9:51,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.49|2.0
+2018.01.04EURFrench 10-y Bond Auction,1/4/18 10:01,FALSE,French 10-y Bond Auction,EUR,1," ",0.36|1.9
+2018.01.04USDChallenger Job Cuts y y,1/4/18 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",30.1%
+2018.01.04USDADP Non-Farm Employment Change,1/4/18 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,191K,185K
+2018.01.04CADIPPI m m,1/4/18 13:30,FALSE,IPPI m/m,CAD,1,0.8%,1.1%
+2018.01.04CADRMPI m m,1/4/18 13:30,FALSE,RMPI m/m,CAD,2,4.0%,3.8%
+2018.01.04USDUnemployment Claims,1/4/18 13:30,FALSE,Unemployment Claims,USD,3,241K,247K
+2018.01.04USDFinal Services PMI,1/4/18 14:45,FALSE,Final Services PMI,USD,1,52.4,52.4
+2018.01.04USDNatural Gas Storage,1/4/18 15:30,FALSE,Natural Gas Storage,USD,1,-221B,-112B
+2018.01.04USDCrude Oil Inventories,1/4/18 16:00,FALSE,Crude Oil Inventories,USD,3,-5.2M,-4.6M
+2018.01.04JPYMonetary Base y y,1/4/18 23:50,FALSE,Monetary Base y/y,JPY,1,13.1%,13.2%
+

@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.08.01CADBank Holiday,8/1/11 0:00,TRUE,Bank Holiday,CAD,4,,
+2011.08.01CHFBank Holiday,8/1/11 0:00,TRUE,Bank Holiday,CHF,4,,
+2011.08.01AUDAIG Manufacturing Index,8/1/11 0:30,FALSE,AIG Manufacturing Index,AUD,1,,52.9
+2011.08.01AUDMI Inflation Gauge m m,8/1/11 1:30,FALSE,MI Inflation Gauge m/m,AUD,1,,0.0%
+2011.08.01AUDHIA New Home Sales m m,8/1/11 2:00,FALSE,HIA New Home Sales m/m,AUD,2,,-0.2%
+2011.08.01CNYManufacturing PMI,8/1/11 2:00,FALSE,Manufacturing PMI,CNY,3,50.2,50.9
+2011.08.01NZDANZ Commodity Prices m m,8/1/11 2:05,FALSE,ANZ Commodity Prices m/m,NZD,1,,-1.2%
+2011.08.01CNYCaixin Manufacturing PMI,8/1/11 3:30,FALSE,Caixin Manufacturing PMI,CNY,2,,48.9
+2011.08.01EURSpanish Manufacturing PMI,8/1/11 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,,47.3
+2011.08.01EURItalian Manufacturing PMI,8/1/11 8:45,FALSE,Italian Manufacturing PMI,EUR,2,50.6,49.9
+2011.08.01EURFrench Final Manufacturing PMI,8/1/11 8:50,FALSE,French Final Manufacturing PMI,EUR,1,50.2,50.1
+2011.08.01EURGerman Final Manufacturing PMI,8/1/11 8:55,FALSE,German Final Manufacturing PMI,EUR,1,52.1,52.1
+2011.08.01EURFinal Manufacturing PMI,8/1/11 9:00,FALSE,Final Manufacturing PMI,EUR,1,50.4,50.4
+2011.08.01EURItalian Monthly Unemployment Rate,8/1/11 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.0%,8.1%
+2011.08.01GBPFinal Manufacturing PMI,8/1/11 9:30,FALSE,Final Manufacturing PMI,GBP,3,51.1,51.4
+2011.08.01EURUnemployment Rate,8/1/11 10:00,FALSE,Unemployment Rate,EUR,2,9.9%,9.9%
+2011.08.01USDConstruction Spending m m,8/1/11 15:00,FALSE,Construction Spending m/m,USD,1,-0.1%,0.3%
+2011.08.01USDISM Manufacturing PMI,8/1/11 15:00,FALSE,ISM Manufacturing PMI,USD,3,55.0,55.3
+2011.08.01USDISM Manufacturing Prices,8/1/11 15:00,FALSE,ISM Manufacturing Prices,USD,1,64.4,68.0
+2011.08.01NZDLabor Cost Index q q,8/1/11 23:45,FALSE,Labor Cost Index q/q,NZD,3,0.5%,0.4%
+

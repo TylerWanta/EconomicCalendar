@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.09.10GBPRICS House Price Balance,9/10/20 0:01,FALSE,RICS House Price Balance,GBP,1,23%,13%
+2020.09.10JPYCore Machinery Orders m m,9/10/20 0:50,FALSE,Core Machinery Orders m/m,JPY,1,2.0%,-7.6%
+2020.09.10AUDMI Inflation Expectations,9/10/20 2:00,FALSE,MI Inflation Expectations,AUD,1," ",3.3%
+2020.09.10EURFrench Industrial Production m m,9/10/20 7:45,FALSE,French Industrial Production m/m,EUR,1,5.1%,13.0%
+2020.09.10EURItalian Industrial Production m m,9/10/20 9:00,FALSE,Italian Industrial Production m/m,EUR,1,3.6%,8.2%
+2020.09.10GBP30-y Bond Auction,9/10/20 11:30,FALSE,30-y Bond Auction,GBP,1," ",0.78|2.1
+2020.09.10EURMain Refinancing Rate,9/10/20 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2020.09.10EURMonetary Policy Statement,9/10/20 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2020.09.10EURECB Press Conference,9/10/20 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2020.09.10USDCore PPI m m,9/10/20 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.5%
+2020.09.10USDPPI m m,9/10/20 13:30,FALSE,PPI m/m,USD,2,0.2%,0.6%
+2020.09.10USDUnemployment Claims,9/10/20 13:30,FALSE,Unemployment Claims,USD,2,838K,884K
+2020.09.10GBPCB Leading Index m m,9/10/20 14:30,FALSE,CB Leading Index m/m,GBP,1," ",0.0%
+2020.09.10USDFinal Wholesale Inventories m m,9/10/20 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,-0.1%,-0.1%
+2020.09.10USDNatural Gas Storage,9/10/20 15:30,FALSE,Natural Gas Storage,USD,1,68B,35B
+2020.09.10USDCrude Oil Inventories,9/10/20 16:00,FALSE,Crude Oil Inventories,USD,2,-3.1M,-9.4M
+2020.09.10CADBOC Gov Macklem Speaks,9/10/20 17:30,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2020.09.10EURECB President Lagarde Speaks,9/10/20 18:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2020.09.10USD30-y Bond Auction,9/10/20 18:01,FALSE,30-y Bond Auction,USD,1," ",1.41|2.1
+2020.09.10NZDBusinessNZ Manufacturing Index,9/10/20 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",59.0
+2020.09.10NZDFPI m m,9/10/20 23:45,FALSE,FPI m/m,NZD,1," ",1.2%
+

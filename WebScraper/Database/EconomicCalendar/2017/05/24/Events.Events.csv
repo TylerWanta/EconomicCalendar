@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.05.24AllOPEC-JMMC Meetings,5/24/17 0:00,TRUE,OPEC-JMMC Meetings,All,2," "," "
+2017.05.24AUDMI Leading Index m m,5/24/17 1:30,FALSE,MI Leading Index m/m,AUD,1," ",0.1%
+2017.05.24AUDConstruction Work Done q q,5/24/17 2:30,FALSE,Construction Work Done q/q,AUD,2,-0.5%,0.6%
+2017.05.24EURGerman GfK Consumer Climate,5/24/17 7:00,FALSE,German GfK Consumer Climate,EUR,1,10.2,10.2
+2017.05.24EURECB Financial Stability Review,5/24/17 9:00,FALSE,ECB Financial Stability Review,EUR,1," "," "
+2017.05.24EURGerman 10-y Bond Auction,5/24/17 10:35,FALSE,German 10-y Bond Auction,EUR,1," ",0.33|1.5
+2017.05.24EURECB President Draghi Speaks,5/24/17 13:45,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2017.05.24USDHPI m m,5/24/17 13:58,FALSE,HPI m/m,USD,1,0.5%,0.8%
+2017.05.24EURBelgian NBB Business Climate,5/24/17 14:03,FALSE,Belgian NBB Business Climate,EUR,1,-0.5,-0.8
+2017.05.24CADBOC Rate Statement,5/24/17 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2017.05.24CADOvernight Rate,5/24/17 15:00,FALSE,Overnight Rate,CAD,3,0.50%,0.50%
+2017.05.24USDExisting Home Sales,5/24/17 15:00,FALSE,Existing Home Sales,USD,2,5.65M,5.70M
+2017.05.24USDCrude Oil Inventories,5/24/17 15:30,FALSE,Crude Oil Inventories,USD,3,-2.4M,-1.8M
+2017.05.24USDFOMC Meeting Minutes,5/24/17 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+2017.05.24USDFOMC Member Kaplan Speaks,5/24/17 23:00,FALSE,FOMC Member Kaplan Speaks,USD,2," "," "
+

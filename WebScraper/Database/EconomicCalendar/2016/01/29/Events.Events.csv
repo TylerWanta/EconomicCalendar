@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.01.29GBPGfK Consumer Confidence,1/29/16 0:05,FALSE,GfK Consumer Confidence,GBP,1,1,2
+2016.01.29AUDPPI q q,1/29/16 0:30,FALSE,PPI q/q,AUD,2,0.6%,0.9%
+2016.01.29AUDPrivate Sector Credit m m,1/29/16 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.6%,0.4%
+2016.01.29JPYBOJ Policy Rate,1/29/16 3:38,FALSE,BOJ Policy Rate,JPY,3," "," "
+2016.01.29JPYMonetary Policy Statement,1/29/16 3:38,FALSE,Monetary Policy Statement,JPY,3," "," "
+2016.01.29JPYBOJ Core CPI y y,1/29/16 5:00,FALSE,BOJ Core CPI y/y,JPY,1,1.3%,1.2%
+2016.01.29JPYBOJ Outlook Report,1/29/16 5:00,FALSE,BOJ Outlook Report,JPY,3," "," "
+2016.01.29JPYHousing Starts y y,1/29/16 5:00,FALSE,Housing Starts y/y,JPY,1,0.5%,1.7%
+2016.01.29EURFrench Flash GDP q q,1/29/16 6:30,FALSE,French Flash GDP q/q,EUR,1,0.2%,0.3%
+2016.01.29JPYBOJ Press Conference,1/29/16 6:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2016.01.29EURGerman Retail Sales m m,1/29/16 7:00,FALSE,German Retail Sales m/m,EUR,2,0.3%,0.4%
+2016.01.29EURFrench Consumer Spending m m,1/29/16 7:45,FALSE,French Consumer Spending m/m,EUR,1,0.6%,-1.4%
+2016.01.29EURFrench Prelim CPI m m,1/29/16 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.9%,0.2%
+2016.01.29CHFKOF Economic Barometer,1/29/16 8:00,FALSE,KOF Economic Barometer,CHF,2,95.9,96.8
+2016.01.29EURSpanish Flash CPI y y,1/29/16 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,0.1%,0.0%
+2016.01.29EURSpanish Flash GDP q q,1/29/16 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,0.8%,0.8%
+2016.01.29EURM3 Money Supply y y,1/29/16 9:00,FALSE,M3 Money Supply y/y,EUR,2,5.2%,5.0%
+2016.01.29EURPrivate Loans y y,1/29/16 9:00,FALSE,Private Loans y/y,EUR,1,1.5%,1.4%
+2016.01.29EURCPI Flash Estimate y y,1/29/16 10:00,FALSE,CPI Flash Estimate y/y,EUR,3,0.4%,0.2%
+2016.01.29EURCore CPI Flash Estimate y y,1/29/16 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,0.9%,0.9%
+2016.01.29CADGDP m m,1/29/16 13:30,FALSE,GDP m/m,CAD,3,0.3%,0.0%
+2016.01.29CADIPPI m m,1/29/16 13:30,FALSE,IPPI m/m,CAD,1,-0.4%,-0.3%
+2016.01.29CADRMPI m m,1/29/16 13:30,FALSE,RMPI m/m,CAD,2,-3.8%,-4.1%
+2016.01.29USDAdvance GDP Price Index q q,1/29/16 13:30,FALSE,Advance GDP Price Index q/q,USD,2,1.2%,1.3%
+2016.01.29USDAdvance GDP q q,1/29/16 13:30,FALSE,Advance GDP q/q,USD,3,0.8%,2.0%
+2016.01.29USDEmployment Cost Index q q,1/29/16 13:30,FALSE,Employment Cost Index q/q,USD,2,0.6%,0.6%
+2016.01.29USDGoods Trade Balance,1/29/16 13:30,FALSE,Goods Trade Balance,USD,2,-60.0B,-60.3B
+2016.01.29USDChicago PMI,1/29/16 14:45,FALSE,Chicago PMI,USD,2,45.4,42.9
+2016.01.29USDRevised UoM Consumer Sentiment,1/29/16 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,93.1,93.3
+2016.01.29USDRevised UoM Inflation Expectations,1/29/16 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.4%
+

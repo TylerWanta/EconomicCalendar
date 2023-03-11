@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.12.07AUDGDP q q,12/7/16 0:30,FALSE,GDP q/q,AUD,3,0.2%,0.6%
+2016.12.07JPYLeading Indicators,12/7/16 5:00,FALSE,Leading Indicators,JPY,1,101.6%,100.3%
+2016.12.07EURGerman Industrial Production m m,12/7/16 7:00,FALSE,German Industrial Production m/m,EUR,1,0.9%,-1.6%
+2016.12.07EURFrench Trade Balance,12/7/16 7:45,FALSE,French Trade Balance,EUR,1,-4.2B,-4.8B
+2016.12.07CHFForeign Currency Reserves,12/7/16 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",630B
+2016.12.07GBPHalifax HPI m m,12/7/16 8:30,FALSE,Halifax HPI m/m,GBP,2,0.2%,1.5%
+2016.12.07EURItalian Quarterly Unemployment Rate,12/7/16 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,11.6%,11.6%
+2016.12.07GBPIndustrial Production m m,12/7/16 9:30,FALSE,Industrial Production m/m,GBP,1,0.2%,-0.4%
+2016.12.07GBPManufacturing Production m m,12/7/16 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.2%,0.6%
+2016.12.07GBP30-y Bond Auction,12/7/16 10:33,FALSE,30-y Bond Auction,GBP,1," ",1.49|2.2
+2016.12.07GBPNIESR GDP Estimate,12/7/16 14:38,FALSE,NIESR GDP Estimate,GBP,1," ",0.4%
+2016.12.07CADBOC Rate Statement,12/7/16 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2016.12.07CADOvernight Rate,12/7/16 15:00,FALSE,Overnight Rate,CAD,3,0.50%,0.50%
+2016.12.07USDJOLTS Job Openings,12/7/16 15:00,FALSE,JOLTS Job Openings,USD,2,5.53M,5.63M
+2016.12.07USDCrude Oil Inventories,12/7/16 15:30,FALSE,Crude Oil Inventories,USD,3,-1.4M,-0.9M
+2016.12.07NZDRBNZ Gov Wheeler Speaks,12/7/16 20:00,FALSE,RBNZ Gov Wheeler Speaks,NZD,3," "," "
+2016.12.07USDConsumer Credit m m,12/7/16 20:00,FALSE,Consumer Credit m/m,USD,1,17.5B,21.8B
+2016.12.07JPYBank Lending y y,12/7/16 23:50,FALSE,Bank Lending y/y,JPY,1,2.4%,2.4%
+2016.12.07JPYCurrent Account,12/7/16 23:50,FALSE,Current Account,JPY,2,1.57T,1.48T
+2016.12.07JPYFinal GDP Price Index y y,12/7/16 23:50,FALSE,Final GDP Price Index y/y,JPY,1,-0.1%,-0.1%
+2016.12.07JPYFinal GDP q q,12/7/16 23:50,FALSE,Final GDP q/q,JPY,2,0.6%,0.5%
+

@@ -1,0 +1,31 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.07.15AUDMI Inflation Expectations,7/15/21 2:00,FALSE,MI Inflation Expectations,AUD,1," ",4.4%
+2021.07.15AUDEmployment Change,7/15/21 2:30,FALSE,Employment Change,AUD,3,19.7K,115.2K
+2021.07.15AUDUnemployment Rate,7/15/21 2:30,FALSE,Unemployment Rate,AUD,3,5.1%,5.1%
+2021.07.15CNYFixed Asset Investment ytd y,7/15/21 3:00,FALSE,Fixed Asset Investment ytd/y,CNY,1,12.1%,15.4%
+2021.07.15CNYGDP q y,7/15/21 3:00,FALSE,GDP q/y,CNY,3,8.0%,18.3%
+2021.07.15CNYIndustrial Production y y,7/15/21 3:00,FALSE,Industrial Production y/y,CNY,1,7.8%,8.8%
+2021.07.15CNYNBS Press Conference,7/15/21 3:00,FALSE,NBS Press Conference,CNY,1," "," "
+2021.07.15CNYRetail Sales y y,7/15/21 3:00,FALSE,Retail Sales y/y,CNY,1,10.9%,12.4%
+2021.07.15CNYUnemployment Rate,7/15/21 3:00,FALSE,Unemployment Rate,CNY,1,5.0%,5.0%
+2021.07.15JPYTertiary Industry Activity m m,7/15/21 5:30,FALSE,Tertiary Industry Activity m/m,JPY,1,-0.9%,-0.8%
+2021.07.15GBPAverage Earnings Index 3m y,7/15/21 7:00,FALSE,Average Earnings Index 3m/y,GBP,1,7.1%,5.7%
+2021.07.15GBPClaimant Count Change,7/15/21 7:00,FALSE,Claimant Count Change,GBP,1,-32.5K,-151.4K
+2021.07.15GBPUnemployment Rate,7/15/21 7:00,FALSE,Unemployment Rate,GBP,1,4.7%,4.7%
+2021.07.15GBPBOE Credit Conditions Survey,7/15/21 9:30,FALSE,BOE Credit Conditions Survey,GBP,1," "," "
+2021.07.15EURSpanish 10-y Bond Auction,7/15/21 10:00,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.60|1.8
+2021.07.15GBPMPC Member Saunders Speaks,7/15/21 11:00,FALSE,MPC Member Saunders Speaks,GBP,2," "," "
+2021.07.15USDEmpire State Manufacturing Index,7/15/21 13:30,FALSE,Empire State Manufacturing Index,USD,1,17.9,17.4
+2021.07.15USDImport Prices m m,7/15/21 13:30,FALSE,Import Prices m/m,USD,1,1.1%,1.4%
+2021.07.15USDPhilly Fed Manufacturing Index,7/15/21 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,28.1,30.7
+2021.07.15USDUnemployment Claims,7/15/21 13:30,FALSE,Unemployment Claims,USD,2,350K,386K
+2021.07.15CADADP Non-Farm Employment Change,7/15/21 13:35,FALSE,ADP Non-Farm Employment Change,CAD,1," ",-318.7K
+2021.07.15USDCapacity Utilization Rate,7/15/21 14:15,FALSE,Capacity Utilization Rate,USD,1,75.7%,75.1%
+2021.07.15USDIndustrial Production m m,7/15/21 14:15,FALSE,Industrial Production m/m,USD,2,0.6%,0.7%
+2021.07.15GBPCB Leading Index m m,7/15/21 14:30,FALSE,CB Leading Index m/m,GBP,1," ",0.6%
+2021.07.15USDFed Chair Powell Testifies,7/15/21 14:30,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2021.07.15USDNatural Gas Storage,7/15/21 15:30,FALSE,Natural Gas Storage,USD,1,45B,16B
+2021.07.15USDFOMC Member Evans Speaks,7/15/21 16:00,FALSE,FOMC Member Evans Speaks,USD,1," "," "
+2021.07.15NZDBusinessNZ Manufacturing Index,7/15/21 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",58.6
+2021.07.15NZDCPI q q,7/15/21 23:45,FALSE,CPI q/q,NZD,3,0.7%,0.8%
+

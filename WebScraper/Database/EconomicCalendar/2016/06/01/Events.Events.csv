@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.06.01USDTotal Vehicle Sales,6/1/16 0:00,TRUE,Total Vehicle Sales,USD,1,17.2M,17.4M
+2016.06.01USDWards Total Vehicle Sales,6/1/16 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.3M,17.5M
+2016.06.01GBPBRC Shop Price Index y y,6/1/16 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-1.7%
+2016.06.01AUDAIG Manufacturing Index,6/1/16 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",53.4
+2016.06.01JPYCapital Spending q y,6/1/16 0:50,FALSE,Capital Spending q/y,JPY,1,1.9%,8.5%
+2016.06.01CNYManufacturing PMI,6/1/16 2:00,FALSE,Manufacturing PMI,CNY,3,50.0,50.1
+2016.06.01CNYNon-Manufacturing PMI,6/1/16 2:00,FALSE,Non-Manufacturing PMI,CNY,2," ",53.5
+2016.06.01AUDGDP q q,6/1/16 2:30,FALSE,GDP q/q,AUD,3,0.6%,0.7%
+2016.06.01CNYCaixin Manufacturing PMI,6/1/16 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,49.3,49.4
+2016.06.01JPYFinal Manufacturing PMI,6/1/16 3:00,FALSE,Final Manufacturing PMI,JPY,1,47.6,47.6
+2016.06.01CHFGDP q q,6/1/16 6:45,FALSE,GDP q/q,CHF,1,0.3%,0.4%
+2016.06.01GBPNationwide HPI m m,6/1/16 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.3%,0.2%
+2016.06.01AUDCommodity Prices y y,6/1/16 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-9.4%
+2016.06.01CHFRetail Sales y y,6/1/16 8:15,FALSE,Retail Sales y/y,CHF,1,-0.8%,-1.6%
+2016.06.01EURSpanish Manufacturing PMI,6/1/16 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,52.6,53.5
+2016.06.01CHFManufacturing PMI,6/1/16 8:30,FALSE,Manufacturing PMI,CHF,1,54.2,54.7
+2016.06.01EURItalian Manufacturing PMI,6/1/16 8:45,FALSE,Italian Manufacturing PMI,EUR,1,53.5,53.9
+2016.06.01EURFrench Final Manufacturing PMI,6/1/16 8:50,FALSE,French Final Manufacturing PMI,EUR,1,48.3,48.3
+2016.06.01EURGerman Final Manufacturing PMI,6/1/16 8:55,FALSE,German Final Manufacturing PMI,EUR,1,52.5,52.4
+2016.06.01EURFinal Manufacturing PMI,6/1/16 9:00,FALSE,Final Manufacturing PMI,EUR,1,51.5,51.5
+2016.06.01GBPFinal Manufacturing PMI,6/1/16 9:30,FALSE,Final Manufacturing PMI,GBP,3,49.6,49.4
+2016.06.01GBPM4 Money Supply m m,6/1/16 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.2%,-0.4%
+2016.06.01GBPMortgage Approvals,6/1/16 9:30,FALSE,Mortgage Approvals,GBP,1,68K,70K
+2016.06.01GBPNet Lending to Individuals m m,6/1/16 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,5.3B,9.2B
+2016.06.01CADManufacturing PMI,6/1/16 14:30,FALSE,Manufacturing PMI,CAD,1," ",52.2
+2016.06.01USDFinal Manufacturing PMI,6/1/16 14:45,FALSE,Final Manufacturing PMI,USD,1,50.5,50.5
+2016.06.01USDConstruction Spending m m,6/1/16 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,1.5%
+2016.06.01USDISM Manufacturing PMI,6/1/16 15:00,FALSE,ISM Manufacturing PMI,USD,3,50.5,50.8
+2016.06.01USDISM Manufacturing Prices,6/1/16 15:00,FALSE,ISM Manufacturing Prices,USD,1,58.0,59.0
+2016.06.01NZDGDT Price Index,6/1/16 15:43,FALSE,GDT Price Index,NZD,3," ",2.6%
+2016.06.01USDBeige Book,6/1/16 19:00,FALSE,Beige Book,USD,1," "," "
+

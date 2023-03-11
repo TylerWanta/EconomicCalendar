@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.07.16EUREurogroup Meetings,7/16/15 0:00,TRUE,Eurogroup Meetings,EUR,3," "," "
+2015.07.16AUDMI Inflation Expectations,7/16/15 2:00,FALSE,MI Inflation Expectations,AUD,2," ",3.0%
+2015.07.16JPYBOJ Monthly Report,7/16/15 6:00,FALSE,BOJ Monthly Report,JPY,1," "," "
+2015.07.16CHFRetail Sales y y,7/16/15 8:15,FALSE,Retail Sales y/y,CHF,2,1.9%,1.6%
+2015.07.16EURItalian Trade Balance,7/16/15 9:03,FALSE,Italian Trade Balance,EUR,1,2.83B,3.73B
+2015.07.16EURSpanish 10-y Bond Auction,7/16/15 9:51,FALSE,Spanish 10-y Bond Auction,EUR,1," ",2.26|1.8
+2015.07.16EURFinal CPI y y,7/16/15 10:00,FALSE,Final CPI y/y,EUR,2,0.2%,0.2%
+2015.07.16EURFinal Core CPI y y,7/16/15 10:00,FALSE,Final Core CPI y/y,EUR,1,0.8%,0.8%
+2015.07.16EURTrade Balance,7/16/15 10:00,FALSE,Trade Balance,EUR,1,22.3B,23.9B
+2015.07.16EURMain Refinancing Rate,7/16/15 12:45,FALSE,Main Refinancing Rate,EUR,3,0.05%,0.05%
+2015.07.16CADForeign Securities Purchases,7/16/15 13:30,FALSE,Foreign Securities Purchases,CAD,2,8.21B,16.73B
+2015.07.16EURECB Press Conference,7/16/15 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2015.07.16USDUnemployment Claims,7/16/15 13:30,FALSE,Unemployment Claims,USD,3,284K,296K
+2015.07.16GBPCB Leading Index m m,7/16/15 14:30,FALSE,CB Leading Index m/m,GBP,1," ",0.3%
+2015.07.16USDNAHB Housing Market Index,7/16/15 15:00,FALSE,NAHB Housing Market Index,USD,1,59,60
+2015.07.16USDPhilly Fed Manufacturing Index,7/16/15 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,11.9,15.2
+2015.07.16USDNatural Gas Storage,7/16/15 15:30,FALSE,Natural Gas Storage,USD,1,89B,91B
+2015.07.16GBPBOE Gov Carney Speaks,7/16/15 19:00,FALSE,BOE Gov Carney Speaks,GBP,2," "," "
+2015.07.16USDFed Chair Yellen Testifies,7/16/15 19:30,FALSE,Fed Chair Yellen Testifies,USD,3," "," "
+2015.07.16USDTIC Long-Term Purchases,7/16/15 21:00,FALSE,TIC Long-Term Purchases,USD,1,30.3B,54.4B
+

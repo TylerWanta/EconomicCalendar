@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.11.03USDCongressional Elections,11/3/20 0:00,TRUE,Congressional Elections,USD,3," "," "
+2020.11.03USDPresidential Election,11/3/20 0:00,TRUE,Presidential Election,USD,3," "," "
+2020.11.03USDWards Total Vehicle Sales,11/3/20 0:00,TRUE,Wards Total Vehicle Sales,USD,1,16.5M,16.3M
+2020.11.03AUDCash Rate,11/3/20 3:30,FALSE,Cash Rate,AUD,3,0.10%,0.25%
+2020.11.03AUDRBA Rate Statement,11/3/20 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2020.11.03AUDRBA Gov Lowe Speaks,11/3/20 5:00,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2020.11.03CHFCPI m m,11/3/20 7:30,FALSE,CPI m/m,CHF,1,0.0%,0.0%
+2020.11.03EURFrench Gov Budget Balance,11/3/20 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-165.7B
+2020.11.03NZDGDT Price Index,11/3/20 14:12,FALSE,GDT Price Index,NZD,1," ",0.4%
+2020.11.03USDFactory Orders m m,11/3/20 15:00,FALSE,Factory Orders m/m,USD,1,1.0%,0.6%
+2020.11.03AUDAIG Construction Index,11/3/20 21:30,FALSE,AIG Construction Index,AUD,1," ",45.2
+2020.11.03NZDEmployment Change q q,11/3/20 21:45,FALSE,Employment Change q/q,NZD,3,-0.7%,-0.3%
+2020.11.03NZDLabor Cost Index q q,11/3/20 21:45,FALSE,Labor Cost Index q/q,NZD,1,0.2%,0.2%
+2020.11.03NZDUnemployment Rate,11/3/20 21:45,FALSE,Unemployment Rate,NZD,3,5.3%,4.0%
+2020.11.03JPYMonetary Base y y,11/3/20 23:50,FALSE,Monetary Base y/y,JPY,1,14.5%,14.3%
+2020.11.03JPYMonetary Policy Meeting Minutes,11/3/20 23:50,FALSE,Monetary Policy Meeting Minutes,JPY,1," "," "
+

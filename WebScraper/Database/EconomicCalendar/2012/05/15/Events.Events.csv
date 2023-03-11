@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.05.15EURECOFIN Meetings,5/15/12 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2012.05.15AUDMonetary Policy Meeting Minutes,5/15/12 2:30,FALSE,Monetary Policy Meeting Minutes,AUD,3," "," "
+2012.05.15AUDNew Motor Vehicle Sales m m,5/15/12 2:30,FALSE,New Motor Vehicle Sales m/m,AUD,2," ",4.1%
+2012.05.15CNYForeign Direct Investment ytd y,5/15/12 3:13,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",-2.8%
+2012.05.15JPYConsumer Confidence,5/15/12 6:00,FALSE,Consumer Confidence,JPY,1,40.9,40.3
+2012.05.15EURFrench Final CPI m m,5/15/12 6:30,FALSE,French Final CPI m/m,EUR,1,0.3%,0.8%
+2012.05.15EURFrench Prelim GDP q q,5/15/12 6:30,FALSE,French Prelim GDP q/q,EUR,2,0.0%,0.1%
+2012.05.15EURGerman Prelim GDP q q,5/15/12 7:00,FALSE,German Prelim GDP q/q,EUR,2,0.1%,-0.2%
+2012.05.15EURFrench Prelim Private Payrolls q q,5/15/12 7:45,FALSE,French Prelim Private Payrolls q/q,EUR,2,-0.2%,-0.1%
+2012.05.15EURItalian Prelim GDP q q,5/15/12 9:00,FALSE,Italian Prelim GDP q/q,EUR,2,-0.6%,-0.7%
+2012.05.15GBPGoods Trade Balance,5/15/12 9:30,FALSE,Goods Trade Balance,GBP,2,-8.4B,-8.6B
+2012.05.15EURFlash GDP q q,5/15/12 10:00,FALSE,Flash GDP q/q,EUR,2,-0.2%,-0.3%
+2012.05.15EURGerman ZEW Economic Sentiment,5/15/12 10:00,FALSE,German ZEW Economic Sentiment,EUR,3,19.1,23.4
+2012.05.15EURZEW Economic Sentiment,5/15/12 10:00,FALSE,ZEW Economic Sentiment,EUR,2,11.7,13.1
+2012.05.15GBPCB Leading Index m m,5/15/12 10:00,FALSE,CB Leading Index m/m,GBP,1," ",1.0%
+2012.05.15USDCPI m m,5/15/12 13:30,FALSE,CPI m/m,USD,2,0.1%,0.3%
+2012.05.15USDCPI y y,5/15/12 13:30,FALSE,CPI y/y,USD,3,2.3%,2.7%
+2012.05.15USDCore CPI m m,5/15/12 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.2%
+2012.05.15USDCore Retail Sales m m,5/15/12 13:30,FALSE,Core Retail Sales m/m,USD,3,0.3%,0.8%
+2012.05.15USDEmpire State Manufacturing Index,5/15/12 13:30,FALSE,Empire State Manufacturing Index,USD,2,9.3,6.6
+2012.05.15USDRetail Sales m m,5/15/12 13:30,FALSE,Retail Sales m/m,USD,3,0.2%,0.7%
+2012.05.15USDTIC Long-Term Purchases,5/15/12 14:00,FALSE,TIC Long-Term Purchases,USD,2,19.4B,10.1B
+2012.05.15USDFOMC Member Duke Speaks,5/15/12 14:30,FALSE,FOMC Member Duke Speaks,USD,1," "," "
+2012.05.15USDBusiness Inventories m m,5/15/12 15:00,FALSE,Business Inventories m/m,USD,2,0.5%,0.6%
+2012.05.15USDNAHB Housing Market Index,5/15/12 15:00,FALSE,NAHB Housing Market Index,USD,1,26,24
+2012.05.15NZDGDT Price Index,5/15/12 15:30,FALSE,GDT Price Index,NZD,1," ",-4.0%
+

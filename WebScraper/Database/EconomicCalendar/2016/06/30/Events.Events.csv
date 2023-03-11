@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.06.30GBPGfK Consumer Confidence,6/30/16 0:05,FALSE,GfK Consumer Confidence,GBP,1,-2,-1
+2016.06.30JPYPrelim Industrial Production m m,6/30/16 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-0.1%,0.5%
+2016.06.30NZDANZ Business Confidence,6/30/16 2:00,FALSE,ANZ Business Confidence,NZD,2," ",11.3
+2016.06.30AUDPrivate Sector Credit m m,6/30/16 2:30,FALSE,Private Sector Credit m/m,AUD,1,0.5%,0.5%
+2016.06.30JPYHousing Starts y y,6/30/16 6:06,FALSE,Housing Starts y/y,JPY,1,4.9%,9.0%
+2016.06.30EURGerman Retail Sales m m,6/30/16 7:00,FALSE,German Retail Sales m/m,EUR,2,0.7%,-0.3%
+2016.06.30EURFrench Consumer Spending m m,6/30/16 7:45,FALSE,French Consumer Spending m/m,EUR,1,-0.1%,-0.1%
+2016.06.30EURFrench Prelim CPI m m,6/30/16 7:45,FALSE,French Prelim CPI m/m,EUR,1,0.2%,0.4%
+2016.06.30CHFKOF Economic Barometer,6/30/16 8:00,FALSE,KOF Economic Barometer,CHF,2,102.7,101.8
+2016.06.30EURGerman Unemployment Change,6/30/16 8:55,FALSE,German Unemployment Change,EUR,2,-5K,-11K
+2016.06.30GBPCurrent Account,6/30/16 9:30,FALSE,Current Account,GBP,3,-27.3B,-34.0B
+2016.06.30GBPFinal GDP q q,6/30/16 9:30,FALSE,Final GDP q/q,GBP,3,0.4%,0.4%
+2016.06.30GBPIndex of Services 3m 3m,6/30/16 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.4%,0.6%
+2016.06.30GBPRevised Business Investment q q,6/30/16 9:30,FALSE,Revised Business Investment q/q,GBP,1,-0.4%,-0.5%
+2016.06.30EURCPI Flash Estimate y y,6/30/16 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,0.0%,-0.1%
+2016.06.30EURCore CPI Flash Estimate y y,6/30/16 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,0.8%,0.8%
+2016.06.30EURItalian Prelim CPI m m,6/30/16 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.3%
+2016.06.30EURItalian 10-y Bond Auction,6/30/16 10:22,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.42|1.4
+2016.06.30CADGDP m m,6/30/16 13:30,FALSE,GDP m/m,CAD,3,0.1%,-0.2%
+2016.06.30CADIPPI m m,6/30/16 13:30,FALSE,IPPI m/m,CAD,1,0.4%,-0.5%
+2016.06.30CADRMPI m m,6/30/16 13:30,FALSE,RMPI m/m,CAD,2,4.9%,0.7%
+2016.06.30USDUnemployment Claims,6/30/16 13:30,FALSE,Unemployment Claims,USD,3,267K,258K
+2016.06.30USDChicago PMI,6/30/16 14:45,FALSE,Chicago PMI,USD,2,50.6,49.3
+2016.06.30USDNatural Gas Storage,6/30/16 15:30,FALSE,Natural Gas Storage,USD,1,48B,62B
+2016.06.30GBPBOE Gov Carney Speaks,6/30/16 16:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2016.06.30USDFOMC Member Bullard Speaks,6/30/16 18:30,FALSE,FOMC Member Bullard Speaks,USD,3," "," "
+

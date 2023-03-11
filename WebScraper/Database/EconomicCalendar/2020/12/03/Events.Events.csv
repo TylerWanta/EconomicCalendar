@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.12.03AllOPEC-JMMC Meetings,12/3/20 0:00,TRUE,OPEC-JMMC Meetings,All,3," "," "
+2020.12.03NZDANZ Commodity Prices m m,12/3/20 0:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",2.0%
+2020.12.03AUDTrade Balance,12/3/20 0:30,FALSE,Trade Balance,AUD,1,5.83B,5.82B
+2020.12.03CNYCaixin Services PMI,12/3/20 1:45,FALSE,Caixin Services PMI,CNY,1,56.5,56.8
+2020.12.03JPY30-y Bond Auction,12/3/20 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.64|3.8
+2020.12.03EURSpanish Services PMI,12/3/20 8:15,FALSE,Spanish Services PMI,EUR,1,36.5,41.4
+2020.12.03EURItalian Services PMI,12/3/20 8:45,FALSE,Italian Services PMI,EUR,1,40.9,46.7
+2020.12.03EURFrench Final Services PMI,12/3/20 8:50,FALSE,French Final Services PMI,EUR,1,49.1,38.0
+2020.12.03EURGerman Final Services PMI,12/3/20 8:55,FALSE,German Final Services PMI,EUR,1,46.2,46.2
+2020.12.03EURFinal Services PMI,12/3/20 9:00,FALSE,Final Services PMI,EUR,1,41.3,41.3
+2020.12.03GBPFinal Services PMI,12/3/20 9:30,FALSE,Final Services PMI,GBP,1,45.8,45.8
+2020.12.03EURRetail Sales m m,12/3/20 10:00,FALSE,Retail Sales m/m,EUR,1,0.7%,-1.7%
+2020.12.03EURFrench 10-y Bond Auction,12/3/20 10:04,FALSE,French 10-y Bond Auction,EUR,1," ",-0.38|2.4
+2020.12.03USDChallenger Job Cuts y y,12/3/20 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",60.4%
+2020.12.03USDUnemployment Claims,12/3/20 13:30,FALSE,Unemployment Claims,USD,2,775K,787K
+2020.12.03USDFinal Services PMI,12/3/20 14:45,FALSE,Final Services PMI,USD,1,57.5,57.7
+2020.12.03USDISM Services PMI,12/3/20 15:00,FALSE,ISM Services PMI,USD,2,55.9,56.6
+2020.12.03USDNatural Gas Storage,12/3/20 15:30,FALSE,Natural Gas Storage,USD,1,-17B,-18B
+

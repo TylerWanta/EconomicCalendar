@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.04.03CADBank Holiday,4/3/15 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2015.04.03CHFBank Holiday,4/3/15 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2015.04.03EURGerman Bank Holiday,4/3/15 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2015.04.03GBPBank Holiday,4/3/15 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2015.04.03CNYCaixin Services PMI,4/3/15 2:45,FALSE,Caixin Services PMI,CNY,2," ",52.0
+2015.04.03JPYAverage Cash Earnings y y,4/3/15 6:44,FALSE,Average Cash Earnings y/y,JPY,2,0.7%,0.6%
+2015.04.03USDAverage Hourly Earnings m m,4/3/15 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.1%
+2015.04.03USDNon-Farm Employment Change,4/3/15 13:30,FALSE,Non-Farm Employment Change,USD,3,246K,264K
+2015.04.03USDUnemployment Rate,4/3/15 13:30,FALSE,Unemployment Rate,USD,3,5.5%,5.5%
+

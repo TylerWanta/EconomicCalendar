@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.06.02EURItalian Bank Holiday,6/2/20 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2020.06.02USDWards Total Vehicle Sales,6/2/20 0:00,TRUE,Wards Total Vehicle Sales,USD,1,11.1M,8.6M
+2020.06.02JPYMonetary Base y y,6/2/20 0:50,FALSE,Monetary Base y/y,JPY,1,2.6%,2.3%
+2020.06.02AUDCompany Operating Profits q q,6/2/20 2:30,FALSE,Company Operating Profits q/q,AUD,1,0.0%,-3.5%
+2020.06.02AUDCurrent Account,6/2/20 2:30,FALSE,Current Account,AUD,2,6.3B,1.7B
+2020.06.02JPY10-y Bond Auction,6/2/20 4:35,FALSE,10-y Bond Auction,JPY,1," ",0.00|4.1
+2020.06.02AUDCash Rate,6/2/20 5:30,FALSE,Cash Rate,AUD,3,0.25%,0.25%
+2020.06.02AUDRBA Rate Statement,6/2/20 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2020.06.02GBPNationwide HPI m m,6/2/20 7:00,FALSE,Nationwide HPI m/m,GBP,1,-1.0%,0.9%
+2020.06.02CHFRetail Sales y y,6/2/20 7:30,FALSE,Retail Sales y/y,CHF,1,-4.9%,-5.8%
+2020.06.02EURFrench Gov Budget Balance,6/2/20 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-52.5B
+2020.06.02EURSpanish Unemployment Change,6/2/20 8:00,FALSE,Spanish Unemployment Change,EUR,1,230.3K,282.9K
+2020.06.02CHFManufacturing PMI,6/2/20 8:30,FALSE,Manufacturing PMI,CHF,1,42.0,40.7
+2020.06.02GBPMortgage Approvals,6/2/20 9:30,FALSE,Mortgage Approvals,GBP,1,34K,56K
+2020.06.02GBPNet Lending to Individuals m m,6/2/20 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,1.7B,1.0B
+2020.06.02GBPM4 Money Supply m m,6/2/20 9:32,FALSE,M4 Money Supply m/m,GBP,1,2.5%,3.2%
+2020.06.02GBP10-y Bond Auction,6/2/20 11:38,FALSE,10-y Bond Auction,GBP,1," ",0.26|3.2
+2020.06.02NZDGDT Price Index,6/2/20 15:57,FALSE,GDT Price Index,NZD,1," ",1.0%
+2020.06.02AUDAIG Construction Index,6/2/20 23:30,FALSE,AIG Construction Index,AUD,1," ",21.6
+

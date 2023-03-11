@@ -1,0 +1,40 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.03.01USDTotal Vehicle Sales,3/1/11 0:00,TRUE,Total Vehicle Sales,USD,1,12.7M,12.6M
+2011.03.01AUDCurrent Account,3/1/11 0:30,FALSE,Current Account,AUD,2,-6.9B,-6.5B
+2011.03.01AUDRetail Sales m m,3/1/11 0:30,FALSE,Retail Sales m/m,AUD,3,0.3%,0.2%
+2011.03.01CNYManufacturing PMI,3/1/11 0:58,FALSE,Manufacturing PMI,CNY,3,52.2,52.9
+2011.03.01JPYAverage Cash Earnings y y,3/1/11 1:30,FALSE,Average Cash Earnings y/y,JPY,2,0.4%,0.1%
+2011.03.01NZDANZ Commodity Prices m m,3/1/11 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1,,3.8%
+2011.03.01CNYCaixin Manufacturing PMI,3/1/11 2:30,FALSE,Caixin Manufacturing PMI,CNY,2,,51.5
+2011.03.01AUDCash Rate,3/1/11 3:30,FALSE,Cash Rate,AUD,3,4.75%,4.75%
+2011.03.01AUDRBA Rate Statement,3/1/11 3:30,FALSE,RBA Rate Statement,AUD,3,,
+2011.03.01JPY10-y Bond Auction,3/1/11 3:45,FALSE,10-y Bond Auction,JPY,1,,1.24|2.7
+2011.03.01AUDCommodity Prices y y,3/1/11 5:30,FALSE,Commodity Prices y/y,AUD,2,,48.7%
+2011.03.01CHFGDP q q,3/1/11 6:45,FALSE,GDP q/q,CHF,2,0.5%,0.8%
+2011.03.01GBPNationwide HPI m m,3/1/11 7:00,FALSE,Nationwide HPI m/m,GBP,3,-0.2%,-0.1%
+2011.03.01EURSpanish Manufacturing PMI,3/1/11 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,,52.0
+2011.03.01CHFManufacturing PMI,3/1/11 8:30,FALSE,Manufacturing PMI,CHF,2,60.8,60.5
+2011.03.01EURItalian Manufacturing PMI,3/1/11 8:45,FALSE,Italian Manufacturing PMI,EUR,2,57.3,56.6
+2011.03.01EURFrench Final Manufacturing PMI,3/1/11 8:50,FALSE,French Final Manufacturing PMI,EUR,1,55.3,55.3
+2011.03.01EURGerman Final Manufacturing PMI,3/1/11 8:55,FALSE,German Final Manufacturing PMI,EUR,1,62.6,62.6
+2011.03.01EURGerman Unemployment Change,3/1/11 8:55,FALSE,German Unemployment Change,EUR,2,-13K,-18K
+2011.03.01EURFinal Manufacturing PMI,3/1/11 9:00,FALSE,Final Manufacturing PMI,EUR,1,59.0,59.0
+2011.03.01EURItalian Monthly Unemployment Rate,3/1/11 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.6%,8.6%
+2011.03.01GBPFinal Manufacturing PMI,3/1/11 9:30,FALSE,Final Manufacturing PMI,GBP,3,61.5,61.5
+2011.03.01GBPM4 Money Supply m m,3/1/11 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,-1.3%
+2011.03.01GBPMortgage Approvals,3/1/11 9:30,FALSE,Mortgage Approvals,GBP,1,43K,43K
+2011.03.01GBPNet Lending to Individuals m m,3/1/11 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,0.3B,0.5B
+2011.03.01EURCPI Flash Estimate y y,3/1/11 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.4%,2.3%
+2011.03.01EURItalian Prelim CPI m m,3/1/11 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.4%
+2011.03.01EURUnemployment Rate,3/1/11 10:00,FALSE,Unemployment Rate,EUR,2,10.0%,10.0%
+2011.03.01GBPMonetary Policy Report Hearings,3/1/11 10:00,FALSE,Monetary Policy Report Hearings,GBP,3,,
+2011.03.01NZDGDT Price Index,3/1/11 13:30,FALSE,GDT Price Index,NZD,1,,4.6%
+2011.03.01CADBOC Rate Statement,3/1/11 14:00,FALSE,BOC Rate Statement,CAD,3,,
+2011.03.01CADOvernight Rate,3/1/11 14:00,FALSE,Overnight Rate,CAD,3,1.00%,1.00%
+2011.03.01USDConstruction Spending m m,3/1/11 15:00,FALSE,Construction Spending m/m,USD,1,-0.4%,-1.6%
+2011.03.01USDFed Chairman Bernanke Testifies,3/1/11 15:00,FALSE,Fed Chairman Bernanke Testifies,USD,3,,
+2011.03.01USDFed Monetary Policy Report,3/1/11 15:00,FALSE,Fed Monetary Policy Report,USD,1,,
+2011.03.01USDISM Manufacturing PMI,3/1/11 15:00,FALSE,ISM Manufacturing PMI,USD,3,60.9,60.8
+2011.03.01USDISM Manufacturing Prices,3/1/11 15:00,FALSE,ISM Manufacturing Prices,USD,1,82.7,81.5
+2011.03.01JPYMonetary Base y y,3/1/11 23:50,FALSE,Monetary Base y/y,JPY,1,6.4%,5.5%
+

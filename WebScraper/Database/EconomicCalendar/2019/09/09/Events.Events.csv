@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.09.09JPYBank Lending y y,9/9/19 0:50,FALSE,Bank Lending y/y,JPY,1,2.3%,2.3%
+2019.09.09JPYCurrent Account,9/9/19 0:50,FALSE,Current Account,JPY,1,1.70T,1.94T
+2019.09.09JPYFinal GDP q q,9/9/19 0:50,FALSE,Final GDP q/q,JPY,1,0.3%,0.4%
+2019.09.09JPYFinal GDP Price Index y y,9/9/19 0:54,FALSE,Final GDP Price Index y/y,JPY,1,0.4%,0.4%
+2019.09.09AUDHome Loans m m,9/9/19 2:30,FALSE,Home Loans m/m,AUD,1,0.5%,-0.8%
+2019.09.09JPYEconomy Watchers Sentiment,9/9/19 6:00,FALSE,Economy Watchers Sentiment,JPY,1,41.4,41.2
+2019.09.09CHFUnemployment Rate,9/9/19 6:45,FALSE,Unemployment Rate,CHF,1,2.3%,2.3%
+2019.09.09EURGerman Trade Balance,9/9/19 7:00,FALSE,German Trade Balance,EUR,1,18.8B,18.0B
+2019.09.09EURSentix Investor Confidence,9/9/19 9:30,FALSE,Sentix Investor Confidence,EUR,1,-13.0,-13.7
+2019.09.09GBPConstruction Output m m,9/9/19 9:30,FALSE,Construction Output m/m,GBP,1,0.2%,-0.7%
+2019.09.09GBPGDP m m,9/9/19 9:30,FALSE,GDP m/m,GBP,3,0.1%,0.0%
+2019.09.09GBPGoods Trade Balance,9/9/19 9:30,FALSE,Goods Trade Balance,GBP,1,-9.6B,-8.9B
+2019.09.09GBPIndex of Services 3m 3m,9/9/19 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.1%,0.1%
+2019.09.09GBPIndustrial Production m m,9/9/19 9:30,FALSE,Industrial Production m/m,GBP,1,-0.3%,-0.1%
+2019.09.09GBPManufacturing Production m m,9/9/19 9:30,FALSE,Manufacturing Production m/m,GBP,3,-0.3%,-0.2%
+2019.09.09GBPNIESR GDP Estimate,9/9/19 12:45,FALSE,NIESR GDP Estimate,GBP,1," ",0.0%
+2019.09.09USDConsumer Credit m m,9/9/19 20:00,FALSE,Consumer Credit m/m,USD,1,16.2B,13.8B
+

@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.02.06AUDNAB Quarterly Business Confidence,2/6/20 0:30,FALSE,NAB Quarterly Business Confidence,AUD,1," ",-1
+2020.02.06AUDRetail Sales m m,2/6/20 0:30,FALSE,Retail Sales m/m,AUD,3,-0.2%,1.0%
+2020.02.06AUDTrade Balance,2/6/20 0:30,FALSE,Trade Balance,AUD,3,5.65B,5.52B
+2020.02.06JPY30-y Bond Auction,2/6/20 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.43|3.7
+2020.02.06EURGerman Factory Orders m m,2/6/20 7:00,FALSE,German Factory Orders m/m,EUR,1,0.6%,-0.8%
+2020.02.06EURECB President Lagarde Speaks,2/6/20 8:00,FALSE,ECB President Lagarde Speaks,EUR,3," "," "
+2020.02.06EURECB Economic Bulletin,2/6/20 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2020.02.06EURSpanish 10-y Bond Auction,2/6/20 9:49,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.44|1.5
+2020.02.06EURFrench 10-y Bond Auction,2/6/20 10:07,FALSE,French 10-y Bond Auction,EUR,1," ",0.04|1.7
+2020.02.06USDChallenger Job Cuts y y,2/6/20 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-25.2%
+2020.02.06USDPrelim Nonfarm Productivity q q,2/6/20 13:30,FALSE,Prelim Nonfarm Productivity q/q,USD,1,1.6%,-0.2%
+2020.02.06USDPrelim Unit Labor Costs q q,2/6/20 13:30,FALSE,Prelim Unit Labor Costs q/q,USD,1,1.3%,2.5%
+2020.02.06USDUnemployment Claims,2/6/20 13:30,FALSE,Unemployment Claims,USD,1,215K,217K
+2020.02.06USDFOMC Member Kaplan Speaks,2/6/20 14:15,FALSE,FOMC Member Kaplan Speaks,USD,1," "," "
+2020.02.06USDNatural Gas Storage,2/6/20 15:30,FALSE,Natural Gas Storage,USD,1,-123B,-201B
+2020.02.06AUDAIG Services Index,2/6/20 22:21,FALSE,AIG Services Index,AUD,1," ",48.7
+2020.02.06AUDRBA Gov Lowe Speaks,2/6/20 22:30,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2020.02.06JPYAverage Cash Earnings y y,2/6/20 23:30,FALSE,Average Cash Earnings y/y,JPY,1,-0.1%,0.1%
+2020.02.06JPYHousehold Spending y y,2/6/20 23:30,FALSE,Household Spending y/y,JPY,1,-1.7%,-2.0%
+

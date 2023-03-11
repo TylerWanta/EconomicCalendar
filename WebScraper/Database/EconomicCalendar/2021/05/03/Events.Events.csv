@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.05.03CNYBank Holiday,5/3/21 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2021.05.03GBPBank Holiday,5/3/21 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2021.05.03JPYBank Holiday,5/3/21 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2021.05.03USDWards Total Vehicle Sales,5/3/21 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.5M,17.7M
+2021.05.03AUDMI Inflation Gauge m m,5/3/21 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.4%
+2021.05.03AUDANZ Job Advertisements m m,5/3/21 2:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",7.8%
+2021.05.03EURGerman Retail Sales m m,5/3/21 7:00,FALSE,German Retail Sales m/m,EUR,1,2.9%,2.7%
+2021.05.03AUDCommodity Prices y y,5/3/21 7:30,FALSE,Commodity Prices y/y,AUD,1," ",27.2%
+2021.05.03EURSpanish Manufacturing PMI,5/3/21 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,59.1,56.9
+2021.05.03CHFManufacturing PMI,5/3/21 8:30,FALSE,Manufacturing PMI,CHF,1,66.4,66.3
+2021.05.03EURItalian Manufacturing PMI,5/3/21 8:45,FALSE,Italian Manufacturing PMI,EUR,1,60.9,59.8
+2021.05.03EURFrench Final Manufacturing PMI,5/3/21 8:50,FALSE,French Final Manufacturing PMI,EUR,1,59.2,59.2
+2021.05.03EURGerman Final Manufacturing PMI,5/3/21 8:55,FALSE,German Final Manufacturing PMI,EUR,1,66.4,66.4
+2021.05.03EURFinal Manufacturing PMI,5/3/21 9:00,FALSE,Final Manufacturing PMI,EUR,1,63.3,63.3
+2021.05.03CADManufacturing PMI,5/3/21 14:30,FALSE,Manufacturing PMI,CAD,1," ",58.5
+2021.05.03USDFinal Manufacturing PMI,5/3/21 14:45,FALSE,Final Manufacturing PMI,USD,1,60.7,60.6
+2021.05.03USDConstruction Spending m m,5/3/21 15:00,FALSE,Construction Spending m/m,USD,1,1.7%,-0.6%
+2021.05.03USDISM Manufacturing PMI,5/3/21 15:00,FALSE,ISM Manufacturing PMI,USD,2,65.0,64.7
+2021.05.03USDISM Manufacturing Prices,5/3/21 15:00,FALSE,ISM Manufacturing Prices,USD,1,86.0,85.6
+2021.05.03USDLoan Officer Survey,5/3/21 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2021.05.03USDFOMC Member Williams Speaks,5/3/21 19:10,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+2021.05.03USDFed Chair Powell Speaks,5/3/21 19:20,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+

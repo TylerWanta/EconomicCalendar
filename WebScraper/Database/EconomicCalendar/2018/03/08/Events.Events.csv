@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.03.08GBPRICS House Price Balance,3/8/18 0:01,FALSE,RICS House Price Balance,GBP,1,7%,7%
+2018.03.08AUDTrade Balance,3/8/18 0:30,FALSE,Trade Balance,AUD,3,0.21B,-1.15B
+2018.03.08CNYTrade Balance,3/8/18 3:09,FALSE,Trade Balance,CNY,2,-70B,136B
+2018.03.08CNYUSD-Denominated Trade Balance,3/8/18 3:15,FALSE,USD-Denominated Trade Balance,CNY,1,-2.3B,20.3B
+2018.03.08JPYEconomy Watchers Sentiment,3/8/18 5:03,FALSE,Economy Watchers Sentiment,JPY,1,50.6,49.9
+2018.03.08CHFUnemployment Rate,3/8/18 6:45,FALSE,Unemployment Rate,CHF,1,2.9%,3.0%
+2018.03.08EURGerman Factory Orders m m,3/8/18 7:00,FALSE,German Factory Orders m/m,EUR,1,-1.9%,3.0%
+2018.03.08USDChallenger Job Cuts y y,3/8/18 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-2.8%
+2018.03.08EURMain Refinancing Rate,3/8/18 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2018.03.08EURMonetary Policy Statement,3/8/18 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2018.03.08CADHousing Starts,3/8/18 13:13,FALSE,Housing Starts,CAD,1,217K,215K
+2018.03.08CADBuilding Permits m m,3/8/18 13:30,FALSE,Building Permits m/m,CAD,2,-0.3%,2.5%
+2018.03.08CADNHPI m m,3/8/18 13:30,FALSE,NHPI m/m,CAD,2,0.1%,0.0%
+2018.03.08EURECB Press Conference,3/8/18 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2018.03.08USDUnemployment Claims,3/8/18 13:30,FALSE,Unemployment Claims,USD,2,220K,210K
+2018.03.08USDNatural Gas Storage,3/8/18 15:30,FALSE,Natural Gas Storage,USD,1,-58B,-78B
+2018.03.08CADBOC Gov Poloz Speaks,3/8/18 16:30,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2018.03.08CADGov Council Member Lane Speaks,3/8/18 20:35,FALSE,Gov Council Member Lane Speaks,CAD,3," "," "
+2018.03.08JPYHousehold Spending y y,3/8/18 23:30,FALSE,Household Spending y/y,JPY,1,-1.1%,-0.1%
+2018.03.08JPYM2 Money Stock y y,3/8/18 23:50,FALSE,M2 Money Stock y/y,JPY,1,3.3%,3.4%
+

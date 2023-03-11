@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.03USDTotal Vehicle Sales,1/3/14 0:00,TRUE,Total Vehicle Sales,USD,1,16.0M,16.4M
+2014.01.03CNYNon-Manufacturing PMI,1/3/14 1:00,FALSE,Non-Manufacturing PMI,CNY,2," ",56.0
+2014.01.03GBPNationwide HPI m m,1/3/14 7:00,FALSE,Nationwide HPI m/m,GBP,2,0.8%,0.7%
+2014.01.03CHFKOF Economic Barometer,1/3/14 8:00,FALSE,KOF Economic Barometer,CHF,2,1.92,1.85
+2014.01.03EURSpanish Flash CPI y y,1/3/14 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,0.2%,0.2%
+2014.01.03EURSpanish Unemployment Change,1/3/14 8:00,FALSE,Spanish Unemployment Change,EUR,2,24.3K,-2.5K
+2014.01.03CHFManufacturing PMI,1/3/14 8:30,FALSE,Manufacturing PMI,CHF,2,56.4,56.5
+2014.01.03EURM3 Money Supply y y,1/3/14 9:00,FALSE,M3 Money Supply y/y,EUR,2,1.5%,1.4%
+2014.01.03EURPrivate Loans y y,1/3/14 9:00,FALSE,Private Loans y/y,EUR,1,-1.9%,-2.2%
+2014.01.03GBPConstruction PMI,1/3/14 9:30,FALSE,Construction PMI,GBP,3,62.3,62.6
+2014.01.03GBPM4 Money Supply m m,1/3/14 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.3%,0.1%
+2014.01.03GBPMortgage Approvals,1/3/14 9:30,FALSE,Mortgage Approvals,GBP,1,70K,68K
+2014.01.03GBPNet Lending to Individuals m m,1/3/14 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,2.0B,1.6B
+2014.01.03EURItalian Prelim CPI m m,1/3/14 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.3%,-0.3%
+2014.01.03USDNatural Gas Storage,1/3/14 15:30,FALSE,Natural Gas Storage,USD,1,-125B,-177B
+2014.01.03USDCrude Oil Inventories,1/3/14 16:00,FALSE,Crude Oil Inventories,USD,2,-2.3M,-4.7M
+2014.01.03USDFOMC Member Plosser Speaks,1/3/14 17:45,FALSE,FOMC Member Plosser Speaks,USD,2," "," "
+2014.01.03USDFOMC Member Stein Speaks,1/3/14 18:15,FALSE,FOMC Member Stein Speaks,USD,2," "," "
+2014.01.03USDFed Chairman Bernanke Speaks,1/3/14 19:30,FALSE,Fed Chairman Bernanke Speaks,USD,3," "," "
+

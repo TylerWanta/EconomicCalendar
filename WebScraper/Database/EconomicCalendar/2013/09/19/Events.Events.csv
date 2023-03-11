@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.09.19CNYBank Holiday,9/19/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.09.19JPYTrade Balance,9/19/13 0:50,FALSE,Trade Balance,JPY,2,-0.83T,-0.91T
+2013.09.19AUDRBA Bulletin,9/19/13 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2013.09.19JPYAll Industries Activity m m,9/19/13 5:30,FALSE,All Industries Activity m/m,JPY,1,0.3%,-0.7%
+2013.09.19CHFSECO Economic Forecasts,9/19/13 6:45,FALSE,SECO Economic Forecasts,CHF,1," "," "
+2013.09.19CHFTrade Balance,9/19/13 7:00,FALSE,Trade Balance,CHF,1,2.74B,2.49B
+2013.09.19JPYBOJ Gov Kuroda Speaks,9/19/13 7:32,FALSE,BOJ Gov Kuroda Speaks,JPY,3," "," "
+2013.09.19CHFLibor Rate,9/19/13 8:30,FALSE,Libor Rate,CHF,3,<0.25%,<0.25%
+2013.09.19CHFSNB Monetary Policy Assessment,9/19/13 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2013.09.19GBPRetail Sales m m,9/19/13 9:30,FALSE,Retail Sales m/m,GBP,3,0.4%,1.1%
+2013.09.19GBPCBI Industrial Order Expectations,9/19/13 11:00,FALSE,CBI Industrial Order Expectations,GBP,2,2,0
+2013.09.19CADWholesale Sales m m,9/19/13 13:30,FALSE,Wholesale Sales m/m,CAD,2,1.1%,-3.1%
+2013.09.19USDCurrent Account,9/19/13 13:30,FALSE,Current Account,USD,2,-96B,-105B
+2013.09.19USDUnemployment Claims,9/19/13 13:30,FALSE,Unemployment Claims,USD,3,331K,294K
+2013.09.19USDCB Leading Index m m,9/19/13 15:00,FALSE,CB Leading Index m/m,USD,1,0.6%,0.5%
+2013.09.19USDExisting Home Sales,9/19/13 15:00,FALSE,Existing Home Sales,USD,3,5.27M,5.39M
+2013.09.19USDPhilly Fed Manufacturing Index,9/19/13 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,10.2,9.3
+2013.09.19USDNatural Gas Storage,9/19/13 15:30,FALSE,Natural Gas Storage,USD,1,60B,65B
+2013.09.19NZDVisitor Arrivals m m,9/19/13 23:45,FALSE,Visitor Arrivals m/m,NZD,1," ",1.2%
+

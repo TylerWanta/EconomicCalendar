@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.01.23AllWEF Annual Meetings,1/23/18 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2018.01.23EURECOFIN Meetings,1/23/18 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2018.01.23JPYBOJ Outlook Report,1/23/18 3:14,FALSE,BOJ Outlook Report,JPY,3," "," "
+2018.01.23JPYBOJ Policy Rate,1/23/18 3:14,FALSE,BOJ Policy Rate,JPY,2,-0.10%,-0.10%
+2018.01.23JPYMonetary Policy Statement,1/23/18 3:14,FALSE,Monetary Policy Statement,JPY,3," "," "
+2018.01.23JPYAll Industries Activity m m,1/23/18 4:30,FALSE,All Industries Activity m/m,JPY,1,0.9%,0.3%
+2018.01.23JPYBOJ Press Conference,1/23/18 6:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2018.01.23GBPPublic Sector Net Borrowing,1/23/18 9:30,FALSE,Public Sector Net Borrowing,GBP,2,4.2B,6.6B
+2018.01.23EURGerman ZEW Economic Sentiment,1/23/18 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,17.8,17.4
+2018.01.23EURZEW Economic Sentiment,1/23/18 10:00,FALSE,ZEW Economic Sentiment,EUR,1,29.7,29.0
+2018.01.23GBPCBI Industrial Order Expectations,1/23/18 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,13,17
+2018.01.23USDRichmond Manufacturing Index,1/23/18 14:59,FALSE,Richmond Manufacturing Index,USD,1,19,20
+2018.01.23EURConsumer Confidence,1/23/18 15:00,FALSE,Consumer Confidence,EUR,1,1,1
+2018.01.23AUDMI Leading Index m m,1/23/18 23:30,FALSE,MI Leading Index m/m,AUD,1," ",0.1%
+2018.01.23JPYTrade Balance,1/23/18 23:50,FALSE,Trade Balance,JPY,1,0.27T,0.29T
+

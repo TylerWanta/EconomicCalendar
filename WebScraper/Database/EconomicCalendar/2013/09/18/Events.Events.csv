@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.09.18CNYBank Holiday,9/18/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.09.18AUDCB Leading Index m m,9/18/13 1:00,FALSE,CB Leading Index m/m,AUD,2," ",-1.1%
+2013.09.18AUDMI Leading Index m m,9/18/13 1:30,FALSE,MI Leading Index m/m,AUD,1," ",0.0%
+2013.09.18AUDRBA Assist Gov Edey Speaks,9/18/13 2:30,FALSE,RBA Assist Gov Edey Speaks,AUD,2," "," "
+2013.09.18GBPMPC Asset Purchase Facility Votes,9/18/13 9:30,FALSE,MPC Asset Purchase Facility Votes,GBP,3,0-0-9,0-0-9
+2013.09.18GBPMPC Official Bank Rate Votes,9/18/13 9:30,FALSE,MPC Official Bank Rate Votes,GBP,3,0-0-9,0-0-9
+2013.09.18CHFCredit Suisse Economic Expectations,9/18/13 10:00,FALSE,Credit Suisse Economic Expectations,CHF,2," ",7.2
+2013.09.18USDBuilding Permits,9/18/13 13:30,FALSE,Building Permits,USD,3,0.95M,0.95M
+2013.09.18USDHousing Starts,9/18/13 13:30,FALSE,Housing Starts,USD,2,0.93M,0.88M
+2013.09.18USDCrude Oil Inventories,9/18/13 15:30,FALSE,Crude Oil Inventories,USD,2,-1.2M,-0.2M
+2013.09.18CADBOC Gov Poloz Speaks,9/18/13 15:40,FALSE,BOC Gov Poloz Speaks,CAD,2," "," "
+2013.09.18USDFOMC Economic Projections,9/18/13 19:00,FALSE,FOMC Economic Projections,USD,3," "," "
+2013.09.18USDFOMC Statement,9/18/13 19:00,FALSE,FOMC Statement,USD,3," "," "
+2013.09.18USDFederal Funds Rate,9/18/13 19:00,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2013.09.18USDFOMC Press Conference,9/18/13 19:30,FALSE,FOMC Press Conference,USD,3," "," "
+2013.09.18NZDGDP q q,9/18/13 23:45,FALSE,GDP q/q,NZD,3,0.2%,0.4%
+

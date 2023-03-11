@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.07.30EURGerman Prelim CPI m m,7/30/20 0:00,TRUE,German Prelim CPI m/m,EUR,1,-0.2%,0.6%
+2020.07.30JPYRetail Sales y y,7/30/20 0:50,FALSE,Retail Sales y/y,JPY,1,-6.0%,-12.5%
+2020.07.30NZDANZ Business Confidence,7/30/20 2:00,FALSE,ANZ Business Confidence,NZD,1," ",-29.8
+2020.07.30AUDBuilding Approvals m m,7/30/20 2:30,FALSE,Building Approvals m/m,AUD,1,-2.0%,-15.8%
+2020.07.30AUDImport Prices q q,7/30/20 2:30,FALSE,Import Prices q/q,AUD,1,-2.5%,-1.0%
+2020.07.30CHFKOF Economic Barometer,7/30/20 8:00,FALSE,KOF Economic Barometer,CHF,2,72.5,60.6
+2020.07.30EURSpanish Flash CPI y y,7/30/20 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,-0.3%,-0.3%
+2020.07.30EURGerman Unemployment Change,7/30/20 8:55,FALSE,German Unemployment Change,EUR,1,42K,68K
+2020.07.30EURECB Economic Bulletin,7/30/20 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2020.07.30EURGerman Prelim GDP q q,7/30/20 9:00,FALSE,German Prelim GDP q/q,EUR,3,-9.0%,-2.0%
+2020.07.30EURItalian Monthly Unemployment Rate,7/30/20 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.5%,8.3%
+2020.07.30EURUnemployment Rate,7/30/20 10:00,FALSE,Unemployment Rate,EUR,1,7.7%,7.7%
+2020.07.30EURItalian 10-y Bond Auction,7/30/20 10:17,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.20|2.1
+2020.07.30USDAdvance GDP Price Index q q,7/30/20 13:30,FALSE,Advance GDP Price Index q/q,USD,2,0.0%,1.4%
+2020.07.30USDAdvance GDP q q,7/30/20 13:30,FALSE,Advance GDP q/q,USD,3,-34.5%,-5.0%
+2020.07.30USDUnemployment Claims,7/30/20 13:30,FALSE,Unemployment Claims,USD,2,1440K,1422K
+2020.07.30USDNatural Gas Storage,7/30/20 15:30,FALSE,Natural Gas Storage,USD,1,25B,37B
+

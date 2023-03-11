@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.08.09AUDRBA Gov Lowe Speaks,8/9/19 0:30,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2019.08.09JPYM2 Money Stock y y,8/9/19 0:50,FALSE,M2 Money Stock y/y,JPY,1,2.3%,2.3%
+2019.08.09JPYPrelim GDP Price Index y y,8/9/19 0:50,FALSE,Prelim GDP Price Index y/y,JPY,1,0.3%,0.1%
+2019.08.09JPYPrelim GDP q q,8/9/19 0:50,FALSE,Prelim GDP q/q,JPY,1,0.1%,0.6%
+2019.08.09AUDRBA Monetary Policy Statement,8/9/19 2:30,FALSE,RBA Monetary Policy Statement,AUD,3," "," "
+2019.08.09CNYCPI y y,8/9/19 2:30,FALSE,CPI y/y,CNY,2,2.7%,2.7%
+2019.08.09CNYPPI y y,8/9/19 2:30,FALSE,PPI y/y,CNY,1,0.0%,0.0%
+2019.08.09CHFUnemployment Rate,8/9/19 6:45,FALSE,Unemployment Rate,CHF,1,2.3%,2.3%
+2019.08.09EURGerman Trade Balance,8/9/19 7:00,FALSE,German Trade Balance,EUR,1,18.5B,18.7B
+2019.08.09EURFrench Industrial Production m m,8/9/19 7:45,FALSE,French Industrial Production m/m,EUR,1,2.1%,2.0%
+2019.08.09EURFrench Prelim Private Payrolls q q,8/9/19 7:45,FALSE,French Prelim Private Payrolls q/q,EUR,1,0.3%,0.5%
+2019.08.09EURItalian Trade Balance,8/9/19 9:02,FALSE,Italian Trade Balance,EUR,1,4.23B,5.39B
+2019.08.09GBPConstruction Output m m,8/9/19 9:30,FALSE,Construction Output m/m,GBP,1,-0.3%,0.3%
+2019.08.09GBPGDP m m,8/9/19 9:30,FALSE,GDP m/m,GBP,3,0.1%,0.2%
+2019.08.09GBPGoods Trade Balance,8/9/19 9:30,FALSE,Goods Trade Balance,GBP,1,-11.8B,-10.7B
+2019.08.09GBPIndex of Services 3m 3m,8/9/19 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.2%,0.2%
+2019.08.09GBPIndustrial Production m m,8/9/19 9:30,FALSE,Industrial Production m/m,GBP,1,-0.2%,1.2%
+2019.08.09GBPManufacturing Production m m,8/9/19 9:30,FALSE,Manufacturing Production m/m,GBP,3,-0.1%,1.4%
+2019.08.09GBPPrelim Business Investment q q,8/9/19 9:30,FALSE,Prelim Business Investment q/q,GBP,1,-0.5%,0.4%
+2019.08.09GBPPrelim GDP q q,8/9/19 9:30,FALSE,Prelim GDP q/q,GBP,3,0.0%,0.5%
+2019.08.09CADHousing Starts,8/9/19 13:13,FALSE,Housing Starts,CAD,1,202K,245K
+2019.08.09CADBuilding Permits m m,8/9/19 13:30,FALSE,Building Permits m/m,CAD,1,1.1%,-12.2%
+2019.08.09CADEmployment Change,8/9/19 13:30,FALSE,Employment Change,CAD,3,15.2K,-2.2K
+2019.08.09CADUnemployment Rate,8/9/19 13:30,FALSE,Unemployment Rate,CAD,3,5.5%,5.5%
+2019.08.09USDCore PPI m m,8/9/19 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.3%
+2019.08.09USDPPI m m,8/9/19 13:30,FALSE,PPI m/m,USD,2,0.2%,0.1%
+2019.08.09GBPNIESR GDP Estimate,8/9/19 13:33,FALSE,NIESR GDP Estimate,GBP,1," ",-0.2%
+

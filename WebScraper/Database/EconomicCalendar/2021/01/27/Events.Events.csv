@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.01.27GBPBRC Shop Price Index y y,1/27/21 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-1.8%
+2021.01.27AUDCPI q q,1/27/21 0:30,FALSE,CPI q/q,AUD,3,0.7%,1.6%
+2021.01.27AUDNAB Business Confidence,1/27/21 0:30,FALSE,NAB Business Confidence,AUD,1," ",13
+2021.01.27AUDTrimmed Mean CPI q q,1/27/21 0:30,FALSE,Trimmed Mean CPI q/q,AUD,3,0.4%,0.3%
+2021.01.27EURGerman GfK Consumer Climate,1/27/21 7:00,FALSE,German GfK Consumer Climate,EUR,1,-7.8,-7.5
+2021.01.27CHFCredit Suisse Economic Expectations,1/27/21 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",46.8
+2021.01.27EURGerman 10-y Bond Auction,1/27/21 10:34,FALSE,German 10-y Bond Auction,EUR,1," ",-0.52|1.6
+2021.01.27USDCore Durable Goods Orders m m,1/27/21 13:30,FALSE,Core Durable Goods Orders m/m,USD,1,0.5%,0.4%
+2021.01.27USDDurable Goods Orders m m,1/27/21 13:30,FALSE,Durable Goods Orders m/m,USD,1,1.0%,1.0%
+2021.01.27USDCrude Oil Inventories,1/27/21 15:30,FALSE,Crude Oil Inventories,USD,1,1.6M,4.4M
+2021.01.27USDFOMC Statement,1/27/21 19:00,FALSE,FOMC Statement,USD,3," "," "
+2021.01.27USDFederal Funds Rate,1/27/21 19:00,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2021.01.27USDFOMC Press Conference,1/27/21 19:30,FALSE,FOMC Press Conference,USD,3," "," "
+2021.01.27NZDTrade Balance,1/27/21 21:45,FALSE,Trade Balance,NZD,1,800M,290M
+2021.01.27JPYRetail Sales y y,1/27/21 23:50,FALSE,Retail Sales y/y,JPY,1,-0.4%,0.6%
+

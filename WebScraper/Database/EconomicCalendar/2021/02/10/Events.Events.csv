@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.02.10CNYBank Holiday,2/10/21 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2021.02.10JPYBank Holiday,2/10/21 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2021.02.10CNYCPI y y,2/10/21 1:30,FALSE,CPI y/y,CNY,1,0.0%,0.2%
+2021.02.10CNYPPI y y,2/10/21 1:30,FALSE,PPI y/y,CNY,1,0.3%,-0.4%
+2021.02.10CNYForeign Direct Investment ytd y,2/10/21 2:22,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",6.2%
+2021.02.10EURGerman Final CPI m m,2/10/21 7:00,FALSE,German Final CPI m/m,EUR,1,0.8%,0.8%
+2021.02.10EURFrench Industrial Production m m,2/10/21 7:45,FALSE,French Industrial Production m/m,EUR,1,0.4%,-0.7%
+2021.02.10USDCPI m m,2/10/21 13:30,FALSE,CPI m/m,USD,3,0.3%,0.4%
+2021.02.10USDCPI y y,2/10/21 13:30,FALSE,CPI y/y,USD,3,1.4%,1.4%
+2021.02.10USDCore CPI m m,2/10/21 13:30,FALSE,Core CPI m/m,USD,2,0.2%,0.1%
+2021.02.10USDFinal Wholesale Inventories m m,2/10/21 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.1%,0.1%
+2021.02.10USDCrude Oil Inventories,2/10/21 15:30,FALSE,Crude Oil Inventories,USD,2,-0.9M,-1.0M
+2021.02.10CADGov Council Member Lane Speaks,2/10/21 16:30,FALSE,Gov Council Member Lane Speaks,CAD,1," "," "
+2021.02.10GBPBOE Gov Bailey Speaks,2/10/21 17:00,FALSE,BOE Gov Bailey Speaks,GBP,2," "," "
+2021.02.10USD10-y Bond Auction,2/10/21 18:01,FALSE,10-y Bond Auction,USD,1," ",1.16|2.5
+2021.02.10USDFed Chair Powell Speaks,2/10/21 19:00,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2021.02.10USDFederal Budget Balance,2/10/21 19:00,FALSE,Federal Budget Balance,USD,1,-152.4B,-143.6B
+

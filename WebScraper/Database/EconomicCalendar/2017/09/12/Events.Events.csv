@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.09.12AUDNAB Business Confidence,9/12/17 2:30,FALSE,NAB Business Confidence,AUD,2," ",12
+2017.09.12EURFrench Final Private Payrolls q q,9/12/17 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,0.5%,0.5%
+2017.09.12EURItalian Quarterly Unemployment Rate,9/12/17 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,11.3%,11.6%
+2017.09.12GBPCPI y y,9/12/17 9:30,FALSE,CPI y/y,GBP,3,2.8%,2.6%
+2017.09.12GBPCore CPI y y,9/12/17 9:30,FALSE,Core CPI y/y,GBP,1,2.5%,2.4%
+2017.09.12GBPHPI y y,9/12/17 9:30,FALSE,HPI y/y,GBP,1,4.8%,5.1%
+2017.09.12GBPPPI Input m m,9/12/17 9:30,FALSE,PPI Input m/m,GBP,2,1.2%,-0.2%
+2017.09.12GBPPPI Output m m,9/12/17 9:30,FALSE,PPI Output m/m,GBP,1,0.1%,0.1%
+2017.09.12GBPRPI y y,9/12/17 9:30,FALSE,RPI y/y,GBP,2,3.7%,3.6%
+2017.09.12USDNFIB Small Business Index,9/12/17 11:00,FALSE,NFIB Small Business Index,USD,1,104.8,105.2
+2017.09.12USDJOLTS Job Openings,9/12/17 15:00,FALSE,JOLTS Job Openings,USD,2,5.96M,6.12M
+2017.09.12USD10-y Bond Auction,9/12/17 18:01,FALSE,10-y Bond Auction,USD,1," ",2.25|2.2
+2017.09.12NZDFPI m m,9/12/17 23:45,FALSE,FPI m/m,NZD,1," ",-0.2%
+

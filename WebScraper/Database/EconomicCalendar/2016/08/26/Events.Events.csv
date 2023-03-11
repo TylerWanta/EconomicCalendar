@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.08.26AllJackson Hole Symposium,8/26/16 0:00,TRUE,Jackson Hole Symposium,All,2," "," "
+2016.08.26JPYNational Core CPI y y,8/26/16 0:30,FALSE,National Core CPI y/y,JPY,1,-0.4%,-0.5%
+2016.08.26JPYTokyo Core CPI y y,8/26/16 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,-0.3%,-0.4%
+2016.08.26JPYBOJ Core CPI y y,8/26/16 6:00,FALSE,BOJ Core CPI y/y,JPY,1,0.6%,0.8%
+2016.08.26EURGerman GfK Consumer Climate,8/26/16 7:00,FALSE,German GfK Consumer Climate,EUR,1,10.2,10.0
+2016.08.26EURFrench Prelim GDP q q,8/26/16 7:45,FALSE,French Prelim GDP q/q,EUR,1,0.0%,0.0%
+2016.08.26EURM3 Money Supply y y,8/26/16 9:00,FALSE,M3 Money Supply y/y,EUR,2,5.0%,5.0%
+2016.08.26EURPrivate Loans y y,8/26/16 9:00,FALSE,Private Loans y/y,EUR,1,1.8%,1.8%
+2016.08.26GBPIndex of Services 3m 3m,8/26/16 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.4%,0.3%
+2016.08.26GBPPrelim Business Investment q q,8/26/16 9:30,FALSE,Prelim Business Investment q/q,GBP,2,-0.9%,-0.6%
+2016.08.26GBPSecond Estimate GDP q q,8/26/16 9:30,FALSE,Second Estimate GDP q/q,GBP,3,0.6%,0.6%
+2016.08.26USDGoods Trade Balance,8/26/16 13:30,FALSE,Goods Trade Balance,USD,1,-62.3B,-64.5B
+2016.08.26USDPrelim GDP Price Index q q,8/26/16 13:30,FALSE,Prelim GDP Price Index q/q,USD,1,2.2%,2.2%
+2016.08.26USDPrelim GDP q q,8/26/16 13:30,FALSE,Prelim GDP q/q,USD,3,1.1%,1.2%
+2016.08.26USDPrelim Wholesale Inventories m m,8/26/16 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.1%,0.3%
+2016.08.26USDFed Chair Yellen Speaks,8/26/16 15:00,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2016.08.26USDRevised UoM Consumer Sentiment,8/26/16 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,90.6,90.4
+2016.08.26USDRevised UoM Inflation Expectations,8/26/16 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.5%
+2016.08.26GBPMPC Member Shafik Speaks,8/26/16 15:30,FALSE,MPC Member Shafik Speaks,GBP,2," "," "
+

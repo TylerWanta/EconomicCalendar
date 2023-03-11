@@ -1,0 +1,30 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.05.01CHFBank Holiday,5/1/14 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2014.05.01CNYBank Holiday,5/1/14 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2014.05.01EURFrench Bank Holiday,5/1/14 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2014.05.01EURGerman Bank Holiday,5/1/14 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2014.05.01EURItalian Bank Holiday,5/1/14 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2014.05.01USDTotal Vehicle Sales,5/1/14 0:00,TRUE,Total Vehicle Sales,USD,1,16.2M,16.4M
+2014.05.01AUDAIG Manufacturing Index,5/1/14 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",47.9
+2014.05.01CNYManufacturing PMI,5/1/14 1:59,FALSE,Manufacturing PMI,CNY,3,50.5,50.3
+2014.05.01AUDImport Prices q q,5/1/14 2:30,FALSE,Import Prices q/q,AUD,2,1.9%,-0.6%
+2014.05.01GBPNationwide HPI m m,5/1/14 7:00,FALSE,Nationwide HPI m/m,GBP,2,0.6%,0.5%
+2014.05.01AUDCommodity Prices y y,5/1/14 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-12.5%
+2014.05.01GBPFinal Manufacturing PMI,5/1/14 9:30,FALSE,Final Manufacturing PMI,GBP,3,55.4,55.8
+2014.05.01GBPM4 Money Supply m m,5/1/14 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.9%,0.7%
+2014.05.01GBPMortgage Approvals,5/1/14 9:30,FALSE,Mortgage Approvals,GBP,1,73K,70K
+2014.05.01GBPNet Lending to Individuals m m,5/1/14 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,2.3B,2.1B
+2014.05.01USDChallenger Job Cuts y y,5/1/14 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-30.2%
+2014.05.01USDFed Chair Yellen Speaks,5/1/14 13:25,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2014.05.01USDCore PCE Price Index m m,5/1/14 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.1%
+2014.05.01USDPersonal Income m m,5/1/14 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.4%
+2014.05.01USDPersonal Spending m m,5/1/14 13:30,FALSE,Personal Spending m/m,USD,2,0.7%,0.5%
+2014.05.01USDUnemployment Claims,5/1/14 13:30,FALSE,Unemployment Claims,USD,3,317K,330K
+2014.05.01CADManufacturing PMI,5/1/14 14:30,FALSE,Manufacturing PMI,CAD,1," ",53.3
+2014.05.01USDFinal Manufacturing PMI,5/1/14 14:45,FALSE,Final Manufacturing PMI,USD,1,55.8,55.4
+2014.05.01USDConstruction Spending m m,5/1/14 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,-0.2%
+2014.05.01USDISM Manufacturing PMI,5/1/14 15:00,FALSE,ISM Manufacturing PMI,USD,3,54.3,53.7
+2014.05.01USDISM Manufacturing Prices,5/1/14 15:00,FALSE,ISM Manufacturing Prices,USD,1,59.4,59.0
+2014.05.01USDNatural Gas Storage,5/1/14 15:30,FALSE,Natural Gas Storage,USD,1,75B,49B
+2014.05.01GBPMPC Member Cunliffe Speaks,5/1/14 18:30,FALSE,MPC Member Cunliffe Speaks,GBP,2," "," "
+

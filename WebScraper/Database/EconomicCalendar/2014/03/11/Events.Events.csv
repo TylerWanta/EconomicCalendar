@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.03.11EURECOFIN Meetings,3/11/14 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2014.03.11JPYM2 Money Stock y y,3/11/14 0:50,FALSE,M2 Money Stock y/y,JPY,1,4.4%,4.3%
+2014.03.11GBPBRC Retail Sales Monitor y y,3/11/14 1:01,FALSE,BRC Retail Sales Monitor y/y,GBP,2," ",3.9%
+2014.03.11AUDNAB Business Confidence,3/11/14 1:30,FALSE,NAB Business Confidence,AUD,3," ",9
+2014.03.11JPYMonetary Policy Statement,3/11/14 4:00,FALSE,Monetary Policy Statement,JPY,3," "," "
+2014.03.11JPYPrelim Machine Tool Orders y y,3/11/14 7:00,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",40.3%
+2014.03.11EURGerman Trade Balance,3/11/14 8:00,FALSE,German Trade Balance,EUR,2,19.3B,18.3B
+2014.03.11JPYBOJ Press Conference,3/11/14 8:26,FALSE,BOJ Press Conference,JPY,3," "," "
+2014.03.11GBPIndustrial Production m m,3/11/14 10:30,FALSE,Industrial Production m/m,GBP,1,0.3%,0.5%
+2014.03.11GBPManufacturing Production m m,3/11/14 10:30,FALSE,Manufacturing Production m/m,GBP,3,0.3%,0.4%
+2014.03.11GBPMonetary Policy Report Hearings,3/11/14 10:30,FALSE,Monetary Policy Report Hearings,GBP,3," "," "
+2014.03.11GBP10-y Bond Auction,3/11/14 11:35,FALSE,10-y Bond Auction,GBP,1," ",2.73|1.8
+2014.03.11USDNFIB Small Business Index,3/11/14 12:30,FALSE,NFIB Small Business Index,USD,1,95.3,94.1
+2014.03.11USDFinal Wholesale Inventories m m,3/11/14 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.5%,0.4%
+2014.03.11USDJOLTS Job Openings,3/11/14 15:00,FALSE,JOLTS Job Openings,USD,3,4.02M,3.91M
+2014.03.11GBPNIESR GDP Estimate,3/11/14 16:00,FALSE,NIESR GDP Estimate,GBP,2," ",0.7%
+

@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.01.30CHFUBS Consumption Indicator,1/30/13 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.23
+2013.01.30CHFKOF Economic Barometer,1/30/13 8:00,FALSE,KOF Economic Barometer,CHF,2,1.21,1.29
+2013.01.30EURSpanish Flash GDP q q,1/30/13 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,-0.6%,-0.3%
+2013.01.30EURRetail PMI,1/30/13 9:10,FALSE,Retail PMI,EUR,1," ",44.5
+2013.01.30GBPM4 Money Supply m m,1/30/13 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.2%,-0.2%
+2013.01.30GBPMortgage Approvals,1/30/13 9:30,FALSE,Mortgage Approvals,GBP,1,55K,54K
+2013.01.30GBPNet Lending to Individuals m m,1/30/13 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,0.9B,0.1B
+2013.01.30EURItalian 10-y Bond Auction,1/30/13 10:11,FALSE,Italian 10-y Bond Auction,EUR,3," ",4.48|1.5
+2013.01.30EURGerman 30-y Bond Auction,1/30/13 10:34,FALSE,German 30-y Bond Auction,EUR,1," ",2.34|2.7
+2013.01.30USDADP Non-Farm Employment Change,1/30/13 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,164K,185K
+2013.01.30USDAdvance GDP Price Index q q,1/30/13 13:30,FALSE,Advance GDP Price Index q/q,USD,2,1.5%,2.7%
+2013.01.30USDAdvance GDP q q,1/30/13 13:30,FALSE,Advance GDP q/q,USD,3,1.1%,3.1%
+2013.01.30USDCrude Oil Inventories,1/30/13 15:30,FALSE,Crude Oil Inventories,USD,2,2.9M,2.8M
+2013.01.30EURGerman Buba President Weidmann Speaks,1/30/13 18:00,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2013.01.30USDFOMC Statement,1/30/13 19:15,FALSE,FOMC Statement,USD,3," "," "
+2013.01.30USDFederal Funds Rate,1/30/13 19:15,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2013.01.30NZDOfficial Cash Rate,1/30/13 20:00,FALSE,Official Cash Rate,NZD,3,2.50%,2.50%
+2013.01.30NZDRBNZ Rate Statement,1/30/13 20:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2013.01.30JPYFinal Manufacturing PMI,1/30/13 23:15,FALSE,Final Manufacturing PMI,JPY,1," ",45.0
+2013.01.30JPYPrelim Industrial Production m m,1/30/13 23:50,FALSE,Prelim Industrial Production m/m,JPY,2,4.2%,-1.4%
+

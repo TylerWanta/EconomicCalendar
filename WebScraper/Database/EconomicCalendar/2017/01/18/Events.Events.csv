@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.01.18AllWEF Annual Meetings,1/18/17 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2017.01.18EURGerman Final CPI m m,1/18/17 7:00,FALSE,German Final CPI m/m,EUR,1,0.7%,0.7%
+2017.01.18GBPAverage Earnings Index 3m y,1/18/17 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,2.6%,2.6%
+2017.01.18GBPClaimant Count Change,1/18/17 9:30,FALSE,Claimant Count Change,GBP,3,4.6K,1.3K
+2017.01.18GBPUnemployment Rate,1/18/17 9:30,FALSE,Unemployment Rate,GBP,2,4.8%,4.8%
+2017.01.18EURFinal CPI y y,1/18/17 10:00,FALSE,Final CPI y/y,EUR,2,1.1%,1.1%
+2017.01.18EURFinal Core CPI y y,1/18/17 10:00,FALSE,Final Core CPI y/y,EUR,1,0.9%,0.9%
+2017.01.18USDCPI m m,1/18/17 13:30,FALSE,CPI m/m,USD,3,0.3%,0.2%
+2017.01.18USDCPI y y,1/18/17 13:30,FALSE,CPI y/y,USD,3," ",1.7%
+2017.01.18USDCore CPI m m,1/18/17 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.2%
+2017.01.18USDCapacity Utilization Rate,1/18/17 14:15,FALSE,Capacity Utilization Rate,USD,2,75.6%,74.9%
+2017.01.18USDIndustrial Production m m,1/18/17 14:15,FALSE,Industrial Production m/m,USD,2,0.8%,-0.7%
+2017.01.18CADBOC Monetary Policy Report,1/18/17 15:00,FALSE,BOC Monetary Policy Report,CAD,3," "," "
+2017.01.18CADBOC Rate Statement,1/18/17 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2017.01.18CADOvernight Rate,1/18/17 15:00,FALSE,Overnight Rate,CAD,3,0.50%,0.50%
+2017.01.18USDNAHB Housing Market Index,1/18/17 15:00,FALSE,NAHB Housing Market Index,USD,1,69,69
+2017.01.18USDFOMC Member Kashkari Speaks,1/18/17 16:00,FALSE,FOMC Member Kashkari Speaks,USD,2," "," "
+2017.01.18CADBOC Press Conference,1/18/17 16:15,FALSE,BOC Press Conference,CAD,3," "," "
+2017.01.18USDBeige Book,1/18/17 19:00,FALSE,Beige Book,USD,1," "," "
+2017.01.18USDFed Chair Yellen Speaks,1/18/17 20:00,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2017.01.18USDTIC Long-Term Purchases,1/18/17 21:00,FALSE,TIC Long-Term Purchases,USD,1,21.3B,9.3B
+2017.01.18NZDBusinessNZ Manufacturing Index,1/18/17 21:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",54.5
+2017.01.18NZDBuilding Consents m m,1/18/17 21:45,FALSE,Building Consents m/m,NZD,1," ",2.0%
+

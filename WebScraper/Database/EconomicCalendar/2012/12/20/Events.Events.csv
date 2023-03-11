@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.12.20NZDANZ Business Confidence,12/20/12 0:00,FALSE,ANZ Business Confidence,NZD,3," ",26.4
+2012.12.20AUDRBA Bulletin,12/20/12 0:30,FALSE,RBA Bulletin,AUD,1," "," "
+2012.12.20CNYCB Leading Index m m,12/20/12 2:00,FALSE,CB Leading Index m/m,CNY,1," ",1.6%
+2012.12.20JPYMonetary Policy Statement,12/20/12 4:01,FALSE,Monetary Policy Statement,JPY,3," "," "
+2012.12.20JPYOvernight Call Rate,12/20/12 4:01,FALSE,Overnight Call Rate,JPY,3,<0.10%,<0.10%
+2012.12.20CHFTrade Balance,12/20/12 7:00,FALSE,Trade Balance,CHF,2,2.21B,2.73B
+2012.12.20EURGerman Import Prices m m,12/20/12 7:00,FALSE,German Import Prices m/m,EUR,1,0.0%,-0.6%
+2012.12.20EURGerman PPI m m,12/20/12 7:00,FALSE,German PPI m/m,EUR,2,-0.1%,0.0%
+2012.12.20JPYBOJ Press Conference,12/20/12 7:41,FALSE,BOJ Press Conference,JPY,3," "," "
+2012.12.20EURItalian Retail Sales m m,12/20/12 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.0%,-0.1%
+2012.12.20GBPRetail Sales m m,12/20/12 9:30,FALSE,Retail Sales m/m,GBP,3,0.3%,-0.7%
+2012.12.20CADCore Retail Sales m m,12/20/12 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.2%,0.1%
+2012.12.20CADRetail Sales m m,12/20/12 13:30,FALSE,Retail Sales m/m,CAD,2,0.2%,0.2%
+2012.12.20USDFinal GDP Price Index q q,12/20/12 13:30,FALSE,Final GDP Price Index q/q,USD,1,2.7%,2.7%
+2012.12.20USDFinal GDP q q,12/20/12 13:30,FALSE,Final GDP q/q,USD,2,2.8%,2.7%
+2012.12.20USDUnemployment Claims,12/20/12 13:30,FALSE,Unemployment Claims,USD,3,358K,344K
+2012.12.20EURBelgian NBB Business Climate,12/20/12 14:00,FALSE,Belgian NBB Business Climate,EUR,1,-13.1,-13.4
+2012.12.20EURConsumer Confidence,12/20/12 15:00,FALSE,Consumer Confidence,EUR,1,-26,-27
+2012.12.20USDCB Leading Index m m,12/20/12 15:00,FALSE,CB Leading Index m/m,USD,1,-0.2%,0.3%
+2012.12.20USDExisting Home Sales,12/20/12 15:00,FALSE,Existing Home Sales,USD,3,4.88M,4.76M
+2012.12.20USDHPI m m,12/20/12 15:00,FALSE,HPI m/m,USD,1,0.2%,0.0%
+2012.12.20USDPhilly Fed Manufacturing Index,12/20/12 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,-2.2,-10.7
+2012.12.20USDNatural Gas Storage,12/20/12 15:30,FALSE,Natural Gas Storage,USD,1,-73B,2B
+2012.12.20NZDVisitor Arrivals m m,12/20/12 21:45,FALSE,Visitor Arrivals m/m,NZD,1," ",-1.6%
+

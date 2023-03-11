@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.04.02CHFBank Holiday,4/2/18 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2018.04.02EURFrench Bank Holiday,4/2/18 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2018.04.02EURGerman Bank Holiday,4/2/18 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2018.04.02EURItalian Bank Holiday,4/2/18 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2018.04.02GBPBank Holiday,4/2/18 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2018.04.02JPYTankan Manufacturing Index,4/2/18 0:50,FALSE,Tankan Manufacturing Index,JPY,1,25,25
+2018.04.02JPYTankan Non-Manufacturing Index,4/2/18 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,1,24,23
+2018.04.02JPYFinal Manufacturing PMI,4/2/18 1:30,FALSE,Final Manufacturing PMI,JPY,1,53.2,53.2
+2018.04.02AUDMI Inflation Gauge m m,4/2/18 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",-0.1%
+2018.04.02CNYCaixin Manufacturing PMI,4/2/18 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,51.8,51.6
+2018.04.02CADManufacturing PMI,4/2/18 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.6
+2018.04.02USDFinal Manufacturing PMI,4/2/18 14:45,FALSE,Final Manufacturing PMI,USD,1,55.7,55.7
+2018.04.02USDConstruction Spending m m,4/2/18 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,0.0%
+2018.04.02USDISM Manufacturing PMI,4/2/18 15:00,FALSE,ISM Manufacturing PMI,USD,3,60.1,60.8
+2018.04.02USDISM Manufacturing Prices,4/2/18 15:00,FALSE,ISM Manufacturing Prices,USD,1,72.5,74.2
+2018.04.02AUDAIG Manufacturing Index,4/2/18 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",57.5
+

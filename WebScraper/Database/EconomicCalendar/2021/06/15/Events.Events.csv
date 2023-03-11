@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.06.15AUDHPI q q,6/15/21 2:30,FALSE,HPI q/q,AUD,1,4.8%,3.0%
+2021.06.15AUDMonetary Policy Meeting Minutes,6/15/21 2:30,FALSE,Monetary Policy Meeting Minutes,AUD,2," "," "
+2021.06.15JPYTertiary Industry Activity m m,6/15/21 5:30,FALSE,Tertiary Industry Activity m/m,JPY,1,-0.7%,2.4%
+2021.06.15EURGerman Final CPI m m,6/15/21 7:00,FALSE,German Final CPI m/m,EUR,1,0.5%,0.5%
+2021.06.15GBPAverage Earnings Index 3m y,6/15/21 7:00,FALSE,Average Earnings Index 3m/y,GBP,1,4.9%,4.3%
+2021.06.15GBPClaimant Count Change,6/15/21 7:00,FALSE,Claimant Count Change,GBP,1,25.0K,-55.8K
+2021.06.15GBPUnemployment Rate,6/15/21 7:00,FALSE,Unemployment Rate,GBP,1,4.7%,4.8%
+2021.06.15EURFrench Final CPI m m,6/15/21 7:45,FALSE,French Final CPI m/m,EUR,1,0.3%,0.3%
+2021.06.15CHFSECO Economic Forecasts,6/15/21 8:00,FALSE,SECO Economic Forecasts,CHF,1," "," "
+2021.06.15EURTrade Balance,6/15/21 10:00,FALSE,Trade Balance,EUR,1,14.9B,18.3B
+2021.06.15GBP30-y Bond Auction,6/15/21 11:30,FALSE,30-y Bond Auction,GBP,1," ",1.30|2.2
+2021.06.15CADHousing Starts,6/15/21 13:15,FALSE,Housing Starts,CAD,1,279K,267K
+2021.06.15GBPBOE Gov Bailey Speaks,6/15/21 13:15,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2021.06.15USDCore PPI m m,6/15/21 13:30,FALSE,Core PPI m/m,USD,2,0.5%,0.7%
+2021.06.15USDCore Retail Sales m m,6/15/21 13:30,FALSE,Core Retail Sales m/m,USD,3,0.4%,0.0%
+2021.06.15USDEmpire State Manufacturing Index,6/15/21 13:30,FALSE,Empire State Manufacturing Index,USD,1,22.2,24.3
+2021.06.15USDPPI m m,6/15/21 13:30,FALSE,PPI m/m,USD,3,0.5%,0.6%
+2021.06.15USDRetail Sales m m,6/15/21 13:30,FALSE,Retail Sales m/m,USD,3,-0.6%,0.9%
+2021.06.15USDCapacity Utilization Rate,6/15/21 14:15,FALSE,Capacity Utilization Rate,USD,1,75.2%,74.6%
+2021.06.15USDIndustrial Production m m,6/15/21 14:15,FALSE,Industrial Production m/m,USD,2,0.6%,0.1%
+2021.06.15USDBusiness Inventories m m,6/15/21 15:00,FALSE,Business Inventories m/m,USD,1,-0.1%,0.2%
+2021.06.15USDNAHB Housing Market Index,6/15/21 15:00,FALSE,NAHB Housing Market Index,USD,1,83,83
+2021.06.15NZDGDT Price Index,6/15/21 15:37,FALSE,GDT Price Index,NZD,1," ",-0.9%
+2021.06.15USDTIC Long-Term Purchases,6/15/21 21:00,FALSE,TIC Long-Term Purchases,USD,1,119.5B,262.4B
+2021.06.15NZDCurrent Account,6/15/21 23:45,FALSE,Current Account,NZD,1,-2.49B,-2.59B
+

@@ -1,0 +1,9 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.05.20CADBank Holiday,5/20/13 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2013.05.20CHFBank Holiday,5/20/13 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2013.05.20EURFrench Bank Holiday,5/20/13 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2013.05.20EURGerman Bank Holiday,5/20/13 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2013.05.20GBPRightmove HPI m m,5/20/13 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",2.1%
+2013.05.20USDFOMC Member Evans Speaks,5/20/13 18:00,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2013.05.20NZDVisitor Arrivals m m,5/20/13 23:45,FALSE,Visitor Arrivals m/m,NZD,1," ",1.2%
+

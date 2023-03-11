@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.10.04CNYBank Holiday,10/4/11 0:00,TRUE,Bank Holiday,CNY,4,,
+2011.10.04EURECOFIN Meetings,10/4/11 0:00,TRUE,ECOFIN Meetings,EUR,2,,
+2011.10.04JPYMonetary Base y y,10/4/11 0:50,FALSE,Monetary Base y/y,JPY,1,16.3%,15.9%
+2011.10.04AUDBuilding Approvals m m,10/4/11 1:30,FALSE,Building Approvals m/m,AUD,3,1.1%,1.8%
+2011.10.04AUDTrade Balance,10/4/11 1:30,FALSE,Trade Balance,AUD,3,2.14B,1.82B
+2011.10.04JPYAverage Cash Earnings y y,10/4/11 2:30,FALSE,Average Cash Earnings y/y,JPY,2,0.7%,-0.2%
+2011.10.04AUDCash Rate,10/4/11 4:30,FALSE,Cash Rate,AUD,3,4.75%,4.75%
+2011.10.04AUDRBA Rate Statement,10/4/11 4:30,FALSE,RBA Rate Statement,AUD,3,,
+2011.10.04JPY10-y Bond Auction,10/4/11 4:45,FALSE,10-y Bond Auction,JPY,1,,1.08|3.0
+2011.10.04AUDCommodity Prices y y,10/4/11 6:30,FALSE,Commodity Prices y/y,AUD,2,,25.1%
+2011.10.04EURSpanish Unemployment Change,10/4/11 8:00,FALSE,Spanish Unemployment Change,EUR,2,,51.2K
+2011.10.04GBPConstruction PMI,10/4/11 9:30,FALSE,Construction PMI,GBP,3,51.7,52.6
+2011.10.04GBPMPC Member Miles Speaks,10/4/11 9:30,FALSE,MPC Member Miles Speaks,GBP,2,,
+2011.10.04EURPPI m m,10/4/11 10:00,FALSE,PPI m/m,EUR,1,-0.2%,0.5%
+2011.10.04GBP10-y Bond Auction,10/4/11 10:40,FALSE,10-y Bond Auction,GBP,2,,2.76|2.0
+2011.10.04EURECB President Trichet Speaks,10/4/11 14:00,FALSE,ECB President Trichet Speaks,EUR,3,,
+2011.10.04USDFOMC Member Raskin Speaks,10/4/11 14:00,FALSE,FOMC Member Raskin Speaks,USD,2,,
+2011.10.04NZDGDT Price Index,10/4/11 14:30,FALSE,GDT Price Index,NZD,1,,-2.5%
+2011.10.04USDFactory Orders m m,10/4/11 15:00,FALSE,Factory Orders m/m,USD,2,0.2%,2.1%
+2011.10.04USDFed Chairman Bernanke Testifies,10/4/11 15:00,FALSE,Fed Chairman Bernanke Testifies,USD,3,,
+2011.10.04AUDAIG Services Index,10/4/11 23:22,FALSE,AIG Services Index,AUD,2,,52.1
+

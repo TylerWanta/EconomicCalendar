@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.12.31CNYBank Holiday,12/31/19 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2019.12.31EURGerman Bank Holiday,12/31/19 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2019.12.31JPYBank Holiday,12/31/19 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2019.12.31NZDBank Holiday,12/31/19 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2019.12.31CNYManufacturing PMI,12/31/19 1:00,FALSE,Manufacturing PMI,CNY,3,50.1,50.2
+2019.12.31CNYNon-Manufacturing PMI,12/31/19 1:00,FALSE,Non-Manufacturing PMI,CNY,2,54.2,54.4
+2019.12.31USDHPI m m,12/31/19 14:00,FALSE,HPI m/m,USD,1,0.4%,0.7%
+2019.12.31USDS&P CS Composite-20 HPI y y,12/31/19 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,1,2.1%,2.1%
+2019.12.31USDCB Consumer Confidence,12/31/19 15:00,FALSE,CB Consumer Confidence,USD,3,128.0,126.8
+

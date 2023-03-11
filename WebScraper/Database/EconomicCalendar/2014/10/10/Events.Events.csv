@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.10.10AllG20 Meetings,10/10/14 0:00,TRUE,G20 Meetings,All,2," "," "
+2014.10.10AllIMF Meetings,10/10/14 0:00,TRUE,IMF Meetings,All,2," "," "
+2014.10.10JPYBank Lending y y,10/10/14 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.2%
+2014.10.10JPYMonetary Policy Meeting Minutes,10/10/14 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,2," "," "
+2014.10.10JPYTertiary Industry Activity m m,10/10/14 0:50,FALSE,Tertiary Industry Activity m/m,JPY,2,0.2%,-0.3%
+2014.10.10AUDHome Loans m m,10/10/14 1:30,FALSE,Home Loans m/m,AUD,2,0.2%,0.4%
+2014.10.10AUDRBA Assist Gov Edey Speaks,10/10/14 1:45,FALSE,RBA Assist Gov Edey Speaks,AUD,2," "," "
+2014.10.10JPYConsumer Confidence,10/10/14 6:00,FALSE,Consumer Confidence,JPY,1,42.2,41.2
+2014.10.10EURFrench Industrial Production m m,10/10/14 7:45,FALSE,French Industrial Production m/m,EUR,2,-0.2%,0.3%
+2014.10.10EURItalian Industrial Production m m,10/10/14 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.6%,-1.0%
+2014.10.10GBPConstruction Output m m,10/10/14 9:30,FALSE,Construction Output m/m,GBP,1,0.5%,1.9%
+2014.10.10GBPFPC Meeting Minutes,10/10/14 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2014.10.10GBPGoods Trade Balance,10/10/14 9:30,FALSE,Goods Trade Balance,GBP,2,-9.6B,-10.4B
+2014.10.10GBPCB Leading Index m m,10/10/14 10:00,FALSE,CB Leading Index m/m,GBP,1," ",0.1%
+2014.10.10CADEmployment Change,10/10/14 13:30,FALSE,Employment Change,CAD,3,18.7K,-11.0K
+2014.10.10CADUnemployment Rate,10/10/14 13:30,FALSE,Unemployment Rate,CAD,3,7.0%,7.0%
+2014.10.10USDImport Prices m m,10/10/14 13:30,FALSE,Import Prices m/m,USD,2,-0.5%,-0.6%
+2014.10.10USDFOMC Member Plosser Speaks,10/10/14 14:00,FALSE,FOMC Member Plosser Speaks,USD,2," "," "
+2014.10.10CADBOC Business Outlook Survey,10/10/14 15:30,FALSE,BOC Business Outlook Survey,CAD,2," "," "
+2014.10.10USDFOMC Member Fisher Speaks,10/10/14 20:30,FALSE,FOMC Member Fisher Speaks,USD,2," "," "
+

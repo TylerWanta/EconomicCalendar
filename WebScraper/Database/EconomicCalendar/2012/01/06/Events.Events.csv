@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.01.06EURItalian Bank Holiday,1/6/12 0:00,TRUE,Italian Bank Holiday,EUR,4,,
+2012.01.06GBPHalifax HPI m m,1/6/12 8:00,FALSE,Halifax HPI m/m,GBP,3,-0.1%,-1.0%
+2012.01.06CHFForeign Currency Reserves,1/6/12 8:10,FALSE,Foreign Currency Reserves,CHF,3,,232B
+2012.01.06CHFCPI m m,1/6/12 8:15,FALSE,CPI m/m,CHF,3,0.0%,-0.2%
+2012.01.06EURRetail Sales m m,1/6/12 10:00,FALSE,Retail Sales m/m,EUR,2,-0.2%,0.1%
+2012.01.06EURUnemployment Rate,1/6/12 10:00,FALSE,Unemployment Rate,EUR,2,10.3%,10.3%
+2012.01.06EURGerman Factory Orders m m,1/6/12 11:00,FALSE,German Factory Orders m/m,EUR,2,-1.6%,5.0%
+2012.01.06CADEmployment Change,1/6/12 12:00,FALSE,Employment Change,CAD,3,17.8K,-18.6K
+2012.01.06CADUnemployment Rate,1/6/12 12:00,FALSE,Unemployment Rate,CAD,3,7.4%,7.4%
+2012.01.06USDAverage Hourly Earnings m m,1/6/12 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.0%
+2012.01.06USDNon-Farm Employment Change,1/6/12 13:30,FALSE,Non-Farm Employment Change,USD,3,152K,100K
+2012.01.06USDUnemployment Rate,1/6/12 13:30,FALSE,Unemployment Rate,USD,3,8.7%,8.6%
+2012.01.06USDFOMC Member Dudley Speaks,1/6/12 14:00,FALSE,FOMC Member Dudley Speaks,USD,1,,
+2012.01.06USDFOMC Member Duke Speaks,1/6/12 17:40,FALSE,FOMC Member Duke Speaks,USD,1,,
+2012.01.06USDFOMC Member Raskin Speaks,1/6/12 18:00,FALSE,FOMC Member Raskin Speaks,USD,1,,
+

@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.06.02AllOPEC Meetings,6/2/16 0:00,TRUE,OPEC Meetings,All,3," "," "
+2016.06.02EURItalian Bank Holiday,6/2/16 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2016.06.02JPYMonetary Base y y,6/2/16 0:50,FALSE,Monetary Base y/y,JPY,1,27.2%,26.8%
+2016.06.02AUDRetail Sales m m,6/2/16 2:30,FALSE,Retail Sales m/m,AUD,3,0.3%,0.4%
+2016.06.02AUDTrade Balance,6/2/16 2:30,FALSE,Trade Balance,AUD,3,-2.11B,-1.97B
+2016.06.02JPY10-y Bond Auction,6/2/16 4:45,FALSE,10-y Bond Auction,JPY,1," ",-0.10|3.4
+2016.06.02JPYConsumer Confidence,6/2/16 6:00,FALSE,Consumer Confidence,JPY,1,40.4,40.8
+2016.06.02EURSpanish Unemployment Change,6/2/16 8:00,FALSE,Spanish Unemployment Change,EUR,2,-110.0K,-83.6K
+2016.06.02GBPConstruction PMI,6/2/16 9:30,FALSE,Construction PMI,GBP,3,51.9,52.0
+2016.06.02EURSpanish 10-y Bond Auction,6/2/16 9:47,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.59|4.3
+2016.06.02EURFrench 10-y Bond Auction,6/2/16 9:58,FALSE,French 10-y Bond Auction,EUR,1," ",0.57|1.7
+2016.06.02EURPPI m m,6/2/16 10:00,FALSE,PPI m/m,EUR,1,0.1%,0.3%
+2016.06.02USDChallenger Job Cuts y y,6/2/16 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",5.8%
+2016.06.02EURMain Refinancing Rate,6/2/16 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2016.06.02EURMonetary Policy Statement,6/2/16 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2016.06.02USDADP Non-Farm Employment Change,6/2/16 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,174K,166K
+2016.06.02EURECB Press Conference,6/2/16 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2016.06.02USDUnemployment Claims,6/2/16 13:30,FALSE,Unemployment Claims,USD,3,270K,268K
+2016.06.02USDFOMC Member Powell Speaks,6/2/16 13:35,FALSE,FOMC Member Powell Speaks,USD,2," "," "
+2016.06.02GBPBOE Gov Carney Speaks,6/2/16 14:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2016.06.02USDNatural Gas Storage,6/2/16 15:30,FALSE,Natural Gas Storage,USD,1,83B,71B
+2016.06.02USDCrude Oil Inventories,6/2/16 16:00,FALSE,Crude Oil Inventories,USD,3,-2.7M,-4.2M
+2016.06.02CADGov Council Member Schembri Speaks,6/2/16 16:45,FALSE,Gov Council Member Schembri Speaks,CAD,2," "," "
+

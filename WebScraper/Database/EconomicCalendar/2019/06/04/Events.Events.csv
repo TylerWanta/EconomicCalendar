@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.06.04GBPBRC Retail Sales Monitor y y,6/4/19 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,0.9%,3.7%
+2019.06.04JPYMonetary Base y y,6/4/19 0:50,FALSE,Monetary Base y/y,JPY,1,3.2%,3.1%
+2019.06.04AUDCurrent Account,6/4/19 2:30,FALSE,Current Account,AUD,2,-2.9B,-6.3B
+2019.06.04AUDRetail Sales m m,6/4/19 2:30,FALSE,Retail Sales m/m,AUD,3,0.2%,0.3%
+2019.06.04JPY10-y Bond Auction,6/4/19 4:35,FALSE,10-y Bond Auction,JPY,1," ",-0.06|4.4
+2019.06.04AUDCash Rate,6/4/19 5:30,FALSE,Cash Rate,AUD,3,1.25%,1.50%
+2019.06.04AUDRBA Rate Statement,6/4/19 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2019.06.04EURFrench Gov Budget Balance,6/4/19 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-40.7B
+2019.06.04EURSpanish Unemployment Change,6/4/19 8:00,FALSE,Spanish Unemployment Change,EUR,1,-67.0K,-91.5K
+2019.06.04EURItalian Monthly Unemployment Rate,6/4/19 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.3%,10.2%
+2019.06.04GBPConstruction PMI,6/4/19 9:30,FALSE,Construction PMI,GBP,1,50.6,50.5
+2019.06.04EURCPI Flash Estimate y y,6/4/19 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,1.4%,1.7%
+2019.06.04EURCore CPI Flash Estimate y y,6/4/19 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,1.0%,1.3%
+2019.06.04EURUnemployment Rate,6/4/19 10:00,FALSE,Unemployment Rate,EUR,1,7.7%,7.7%
+2019.06.04AUDRBA Gov Lowe Speaks,6/4/19 10:30,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2019.06.04USDFOMC Member Williams Speaks,6/4/19 13:30,FALSE,FOMC Member Williams Speaks,USD,2," "," "
+2019.06.04USDFed Chair Powell Speaks,6/4/19 14:55,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2019.06.04USDFactory Orders m m,6/4/19 15:00,FALSE,Factory Orders m/m,USD,1,-1.0%,1.3%
+2019.06.04NZDGDT Price Index,6/4/19 15:13,FALSE,GDT Price Index,NZD,1," ",-1.2%
+2019.06.04AUDAIG Services Index,6/4/19 23:30,FALSE,AIG Services Index,AUD,1," ",46.5
+

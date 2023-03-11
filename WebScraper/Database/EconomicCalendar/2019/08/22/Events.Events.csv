@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.08.22AUDFlash Manufacturing PMI,8/22/19 0:00,FALSE,Flash Manufacturing PMI,AUD,1," ",51.6
+2019.08.22AUDFlash Services PMI,8/22/19 0:00,FALSE,Flash Services PMI,AUD,1," ",52.3
+2019.08.22AllJackson Hole Symposium,8/22/19 0:00,TRUE,Jackson Hole Symposium,All,2," "," "
+2019.08.22JPYFlash Manufacturing PMI,8/22/19 1:30,FALSE,Flash Manufacturing PMI,JPY,1,49.8,49.4
+2019.08.22JPYAll Industries Activity m m,8/22/19 5:30,FALSE,All Industries Activity m/m,JPY,1,-0.7%,0.5%
+2019.08.22EURFrench Flash Manufacturing PMI,8/22/19 8:15,FALSE,French Flash Manufacturing PMI,EUR,2,49.5,49.7
+2019.08.22EURFrench Flash Services PMI,8/22/19 8:15,FALSE,French Flash Services PMI,EUR,3,52.5,52.6
+2019.08.22EURGerman Flash Manufacturing PMI,8/22/19 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,43.1,43.2
+2019.08.22EURGerman Flash Services PMI,8/22/19 8:30,FALSE,German Flash Services PMI,EUR,3,54.1,54.5
+2019.08.22EURFlash Manufacturing PMI,8/22/19 9:00,FALSE,Flash Manufacturing PMI,EUR,2,46.3,46.5
+2019.08.22EURFlash Services PMI,8/22/19 9:00,FALSE,Flash Services PMI,EUR,2,53.0,53.2
+2019.08.22GBPCBI Realized Sales,8/22/19 11:00,FALSE,CBI Realized Sales,GBP,1,-13,-16
+2019.08.22EURECB Monetary Policy Meeting Accounts,8/22/19 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,2," "," "
+2019.08.22CADWholesale Sales m m,8/22/19 13:30,FALSE,Wholesale Sales m/m,CAD,1,-0.2%,-1.9%
+2019.08.22USDUnemployment Claims,8/22/19 13:30,FALSE,Unemployment Claims,USD,1,217K,221K
+2019.08.22USDFlash Manufacturing PMI,8/22/19 14:45,FALSE,Flash Manufacturing PMI,USD,2,50.5,50.4
+2019.08.22USDFlash Services PMI,8/22/19 14:45,FALSE,Flash Services PMI,USD,1,52.9,53.0
+2019.08.22EURConsumer Confidence,8/22/19 14:56,FALSE,Consumer Confidence,EUR,1,-7,-7
+2019.08.22USDCB Leading Index m m,8/22/19 15:00,FALSE,CB Leading Index m/m,USD,1,0.2%,-0.1%
+2019.08.22USDNatural Gas Storage,8/22/19 15:30,FALSE,Natural Gas Storage,USD,1,57B,49B
+2019.08.22NZDRetail Sales q q,8/22/19 23:45,FALSE,Retail Sales q/q,NZD,3,0.1%,0.7%
+2019.08.22NZDCore Retail Sales q q,8/22/19 23:48,FALSE,Core Retail Sales q/q,NZD,2,0.2%,0.6%
+

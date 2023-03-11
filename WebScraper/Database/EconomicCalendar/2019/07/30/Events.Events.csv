@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.07.30EURGerman Prelim CPI m m,7/30/19 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.3%,0.3%
+2019.07.30JPYUnemployment Rate,7/30/19 0:30,FALSE,Unemployment Rate,JPY,1,2.4%,2.4%
+2019.07.30JPYPrelim Industrial Production m m,7/30/19 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-1.8%,2.0%
+2019.07.30AUDBuilding Approvals m m,7/30/19 2:30,FALSE,Building Approvals m/m,AUD,2,0.2%,0.3%
+2019.07.30JPYBOJ Outlook Report,7/30/19 3:55,FALSE,BOJ Outlook Report,JPY,3," "," "
+2019.07.30JPYBOJ Policy Rate,7/30/19 3:55,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2019.07.30JPYMonetary Policy Statement,7/30/19 3:55,FALSE,Monetary Policy Statement,JPY,3," "," "
+2019.07.30EURFrench Flash GDP q q,7/30/19 6:30,FALSE,French Flash GDP q/q,EUR,1,0.3%,0.3%
+2019.07.30EURGerman GfK Consumer Climate,7/30/19 7:00,FALSE,German GfK Consumer Climate,EUR,1,9.7,9.8
+2019.07.30JPYBOJ Press Conference,7/30/19 7:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2019.07.30EURFrench Consumer Spending m m,7/30/19 7:45,FALSE,French Consumer Spending m/m,EUR,1,0.2%,0.3%
+2019.07.30EURFrench Gov Budget Balance,7/30/19 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-83.9B
+2019.07.30CHFKOF Economic Barometer,7/30/19 8:00,FALSE,KOF Economic Barometer,CHF,1,93.5,93.8
+2019.07.30EURItalian 10-y Bond Auction,7/30/19 10:19,FALSE,Italian 10-y Bond Auction,EUR,1," ",2.09|1.3
+2019.07.30USDCore PCE Price Index m m,7/30/19 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.2%,0.2%
+2019.07.30USDPersonal Income m m,7/30/19 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.4%
+2019.07.30USDPersonal Spending m m,7/30/19 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,0.5%
+2019.07.30USDS&P CS Composite-20 HPI y y,7/30/19 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,1,2.4%,2.5%
+2019.07.30USDCB Consumer Confidence,7/30/19 15:00,FALSE,CB Consumer Confidence,USD,3,125.1,124.3
+2019.07.30USDPending Home Sales m m,7/30/19 15:00,FALSE,Pending Home Sales m/m,USD,1,0.5%,1.1%
+

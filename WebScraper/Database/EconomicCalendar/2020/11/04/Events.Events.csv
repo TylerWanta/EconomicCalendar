@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.11.04EURECOFIN Meetings,11/4/20 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2020.11.04NZDANZ Commodity Prices m m,11/4/20 0:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-0.2%
+2020.11.04AUDRetail Sales m m,11/4/20 0:30,FALSE,Retail Sales m/m,AUD,1,-1.5%,-1.5%
+2020.11.04CNYCaixin Services PMI,11/4/20 1:45,FALSE,Caixin Services PMI,CNY,1,55.1,54.8
+2020.11.04JPY10-y Bond Auction,11/4/20 3:35,FALSE,10-y Bond Auction,JPY,1," ",0.02|4.1
+2020.11.04EURSpanish Unemployment Change,11/4/20 8:00,FALSE,Spanish Unemployment Change,EUR,1,50.2K,-26.3K
+2020.11.04EURSpanish Services PMI,11/4/20 8:15,FALSE,Spanish Services PMI,EUR,1,40.0,42.4
+2020.11.04EURItalian Services PMI,11/4/20 8:45,FALSE,Italian Services PMI,EUR,1,47.4,48.8
+2020.11.04EURFrench Final Services PMI,11/4/20 8:50,FALSE,French Final Services PMI,EUR,1,46.5,46.5
+2020.11.04EURGerman Final Services PMI,11/4/20 8:55,FALSE,German Final Services PMI,EUR,1,48.9,48.9
+2020.11.04EURFinal Services PMI,11/4/20 9:00,FALSE,Final Services PMI,EUR,1,46.2,46.2
+2020.11.04GBPFinal Services PMI,11/4/20 9:30,FALSE,Final Services PMI,GBP,1,52.3,52.3
+2020.11.04EURPPI m m,11/4/20 10:00,FALSE,PPI m/m,EUR,1,0.3%,0.1%
+2020.11.04USDADP Non-Farm Employment Change,11/4/20 13:15,FALSE,ADP Non-Farm Employment Change,USD,2,650K,753K
+2020.11.04CADTrade Balance,11/4/20 13:30,FALSE,Trade Balance,CAD,2,-2.2B,-3.2B
+2020.11.04USDTrade Balance,11/4/20 13:30,FALSE,Trade Balance,USD,1,-64.2B,-67.0B
+2020.11.04USDFinal Services PMI,11/4/20 14:45,FALSE,Final Services PMI,USD,1,56.0,56.0
+2020.11.04USDISM Services PMI,11/4/20 15:00,FALSE,ISM Services PMI,USD,3,57.4,57.8
+2020.11.04USDCrude Oil Inventories,11/4/20 15:30,FALSE,Crude Oil Inventories,USD,1,0.3M,4.3M
+

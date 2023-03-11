@@ -11,6 +11,7 @@ using WebScraper.Firestore;
 using System.Threading.Tasks;
 using System.Linq;
 using WebScraper.Types;
+using WebScraper.Database;
 
 namespace WebScraper
 {
@@ -21,19 +22,21 @@ namespace WebScraper
             // setup validation for firestore
             string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
-            
+
             // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
             // while we are still gathering / storing data
-            if (args.Contains("catchup"))
-            {
-                CheckScrapeTillToday().GetAwaiter().GetResult();
-            }
+            //if (args.Contains("catchup"))
+            //{
+            //    CheckScrapeTillToday().GetAwaiter().GetResult();
+            //}
 
-            // setup daily scraping service
-            if (args.Contains("service"))
-            {
-                SetupScrapingService();
-            }
+            //setup daily scraping service
+            //if (args.Contains("service"))
+            //{
+            //    SetupScrapingService();
+            //}
+
+            MoveEventsFromFirestoreToExcelDB().GetAwaiter().GetResult();
         }
 
         // Needs to return a task so we can await it and the main program doesn't start shutting down before we finish saving records
@@ -110,6 +113,32 @@ namespace WebScraper
                     serviceConfigurator.WhenStopped(service => service.OnStop());
                 });
             });
+        }
+
+        static async Task<bool> MoveEventsFromFirestoreToExcelDB()
+        {
+            DateTime startTime = new DateTime(2011, 1, 1, 0, 0, 0, DateTimeKind.Utc);
+            DateTime endTime = new DateTime(2023, 3, 12, 0, 0, 0, DateTimeKind.Utc);
+
+            EconomicEventsDB firestoreDB = new EconomicEventsDB();
+            EconomicCalendarDB excelDB = new EconomicCalendarDB();
+
+            DateTime dateLow = startTime;
+            DateTime dateHigh = startTime.AddDays(1);
+
+            while (dateLow < endTime)
+            {
+                List<EconomicEvent> events = await firestoreDB.GetEventsBetween(dateLow, dateHigh);
+                if (events.Any())
+                {
+                    excelDB.Add(dateLow, events);
+                }
+
+                dateLow = dateLow.AddDays(1);
+                dateHigh = dateHigh.AddDays(1);
+            }
+
+            return true;
         }
     }
 }

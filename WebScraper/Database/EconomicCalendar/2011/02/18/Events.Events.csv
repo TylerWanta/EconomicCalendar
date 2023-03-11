@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.02.18AllG20 Meetings,2/18/11 0:00,TRUE,G20 Meetings,All,2,,
+2011.02.18CNYCB Leading Index m m,2/18/11 2:00,FALSE,CB Leading Index m/m,CNY,1,,0.5%
+2011.02.18EURGerman PPI m m,2/18/11 7:00,FALSE,German PPI m/m,EUR,2,0.6%,0.7%
+2011.02.18GBPRetail Sales m m,2/18/11 9:30,FALSE,Retail Sales m/m,GBP,3,0.6%,-1.4%
+2011.02.18GBPPrelim Mortgage Approvals,2/18/11 9:34,FALSE,Prelim Mortgage Approvals,GBP,2,46K,41K
+2011.02.18CADCPI m m,2/18/11 12:00,FALSE,CPI m/m,CAD,2,0.3%,0.0%
+2011.02.18CADCore CPI m m,2/18/11 12:00,FALSE,Core CPI m/m,CAD,3,0.2%,-0.3%
+2011.02.18USDFed Chairman Bernanke Speaks,2/18/11 13:00,FALSE,Fed Chairman Bernanke Speaks,USD,3,,
+2011.02.18GBPBOE Gov King Speaks,2/18/11 13:20,FALSE,BOE Gov King Speaks,GBP,3,,
+2011.02.18USDTreasury Sec Geithner Speaks,2/18/11 14:45,FALSE,Treasury Sec Geithner Speaks,USD,2,,
+2011.02.18GBPMPC Member Tucker Speaks,2/18/11 18:30,FALSE,MPC Member Tucker Speaks,GBP,2,,
+

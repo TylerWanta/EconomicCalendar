@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.09.06AUDTrade Balance,9/6/18 2:30,FALSE,Trade Balance,AUD,3,1.46B,1.94B
+2018.09.06CHFGDP q q,9/6/18 6:45,FALSE,GDP q/q,CHF,1,0.5%,1.0%
+2018.09.06EURGerman Factory Orders m m,9/6/18 7:00,FALSE,German Factory Orders m/m,EUR,1,1.8%,-3.9%
+2018.09.06EURSpanish 10-y Bond Auction,9/6/18 9:54,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.42|1.5
+2018.09.06EURFrench 10-y Bond Auction,9/6/18 10:04,FALSE,French 10-y Bond Auction,EUR,1," ",0.74|2.0
+2018.09.06USDChallenger Job Cuts y y,9/6/18 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-4.2%
+2018.09.06USDADP Non-Farm Employment Change,9/6/18 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,195K,217K
+2018.09.06CADBuilding Permits m m,9/6/18 13:30,FALSE,Building Permits m/m,CAD,1,1.1%,-1.3%
+2018.09.06USDRevised Nonfarm Productivity q q,9/6/18 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,1,2.9%,2.9%
+2018.09.06USDRevised Unit Labor Costs q q,9/6/18 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,-0.9%,-0.9%
+2018.09.06USDUnemployment Claims,9/6/18 13:30,FALSE,Unemployment Claims,USD,1,214K,213K
+2018.09.06USDFinal Services PMI,9/6/18 14:45,FALSE,Final Services PMI,USD,1,55.2,55.2
+2018.09.06USDFOMC Member Williams Speaks,9/6/18 15:00,FALSE,FOMC Member Williams Speaks,USD,2," "," "
+2018.09.06USDFactory Orders m m,9/6/18 15:00,FALSE,Factory Orders m/m,USD,1,-0.5%,0.6%
+2018.09.06USDISM Services PMI,9/6/18 15:00,FALSE,ISM Services PMI,USD,3,56.8,55.7
+2018.09.06USDNatural Gas Storage,9/6/18 15:30,FALSE,Natural Gas Storage,USD,1,60B,70B
+2018.09.06USDCrude Oil Inventories,9/6/18 16:00,FALSE,Crude Oil Inventories,USD,3,-2.2M,-2.6M
+2018.09.06CHFGov Board Member Zurbrugg Speaks,9/6/18 17:30,FALSE,Gov Board Member Zurbrugg Speaks,CHF,2," "," "
+2018.09.06CADGov Council Member Wilkins Speaks,9/6/18 19:30,FALSE,Gov Council Member Wilkins Speaks,CAD,2," "," "
+2018.09.06NZDRBNZ Gov Orr Speaks,9/6/18 22:27,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2018.09.06AUDAIG Construction Index,9/6/18 23:30,FALSE,AIG Construction Index,AUD,1," ",52.0
+

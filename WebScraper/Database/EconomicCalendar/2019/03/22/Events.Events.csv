@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.03.22JPYNational Core CPI y y,3/22/19 0:30,FALSE,National Core CPI y/y,JPY,1,0.8%,0.8%
+2019.03.22JPYFlash Manufacturing PMI,3/22/19 1:30,FALSE,Flash Manufacturing PMI,JPY,1,49.2,48.9
+2019.03.22EURFrench Flash Manufacturing PMI,3/22/19 9:15,FALSE,French Flash Manufacturing PMI,EUR,2,51.4,51.5
+2019.03.22EURFrench Flash Services PMI,3/22/19 9:15,FALSE,French Flash Services PMI,EUR,3,50.6,50.2
+2019.03.22EURGerman Flash Manufacturing PMI,3/22/19 9:30,FALSE,German Flash Manufacturing PMI,EUR,3,48.0,47.6
+2019.03.22EURGerman Flash Services PMI,3/22/19 9:30,FALSE,German Flash Services PMI,EUR,3,54.8,55.3
+2019.03.22EURCurrent Account,3/22/19 10:00,FALSE,Current Account,EUR,1,17.3B,16.2B
+2019.03.22EURFlash Manufacturing PMI,3/22/19 10:00,FALSE,Flash Manufacturing PMI,EUR,2,49.5,49.3
+2019.03.22EURFlash Services PMI,3/22/19 10:00,FALSE,Flash Services PMI,EUR,2,52.7,52.8
+2019.03.22GBPBOE Quarterly Bulletin,3/22/19 13:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2019.03.22CADCPI m m,3/22/19 13:30,FALSE,CPI m/m,CAD,3,0.6%,0.1%
+2019.03.22CADCommon CPI y y,3/22/19 13:30,FALSE,Common CPI y/y,CAD,2,1.8%,1.9%
+2019.03.22CADCore Retail Sales m m,3/22/19 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.2%,-0.8%
+2019.03.22CADMedian CPI y y,3/22/19 13:30,FALSE,Median CPI y/y,CAD,2,1.7%,1.8%
+2019.03.22CADRetail Sales m m,3/22/19 13:30,FALSE,Retail Sales m/m,CAD,2,0.4%,-0.3%
+2019.03.22CADTrimmed CPI y y,3/22/19 13:30,FALSE,Trimmed CPI y/y,CAD,2,1.8%,1.9%
+2019.03.22CADCore CPI m m,3/22/19 13:32,FALSE,Core CPI m/m,CAD,1," ",0.3%
+2019.03.22USDFlash Manufacturing PMI,3/22/19 14:45,FALSE,Flash Manufacturing PMI,USD,1,53.5,53.0
+2019.03.22USDFlash Services PMI,3/22/19 14:45,FALSE,Flash Services PMI,USD,1,55.7,56.0
+2019.03.22USDExisting Home Sales,3/22/19 15:00,FALSE,Existing Home Sales,USD,1,5.10M,4.93M
+2019.03.22USDFinal Wholesale Inventories m m,3/22/19 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.2%,1.1%
+2019.03.22USDFederal Budget Balance,3/22/19 19:00,FALSE,Federal Budget Balance,USD,1,-228.0B,8.7B
+

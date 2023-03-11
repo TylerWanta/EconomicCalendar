@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.12.27CADBank Holiday,12/27/11 0:00,TRUE,Bank Holiday,CAD,4,,
+2011.12.27GBPBank Holiday,12/27/11 0:00,TRUE,Bank Holiday,GBP,4,,
+2011.12.27JPYHousing Starts y y,12/27/11 5:00,FALSE,Housing Starts y/y,JPY,1,-4.8%,-5.8%
+2011.12.27CHFUBS Consumption Indicator,12/27/11 7:00,FALSE,UBS Consumption Indicator,CHF,2,,0.90
+2011.12.27USDS&P CS Composite-20 HPI y y,12/27/11 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,-3.2%,-3.5%
+2011.12.27USDRichmond Manufacturing Index,12/27/11 14:59,FALSE,Richmond Manufacturing Index,USD,1,6,0
+2011.12.27USDCB Consumer Confidence,12/27/11 15:00,FALSE,CB Consumer Confidence,USD,3,58.5,55.2
+2011.12.27USDTreasury Currency Report,12/27/11 21:00,FALSE,Treasury Currency Report,USD,2,,
+2011.12.27JPYHousehold Spending y y,12/27/11 23:30,FALSE,Household Spending y/y,JPY,2,-1.1%,-0.4%
+2011.12.27JPYNational Core CPI y y,12/27/11 23:30,FALSE,National Core CPI y/y,JPY,1,-0.2%,-0.1%
+2011.12.27JPYTokyo Core CPI y y,12/27/11 23:30,FALSE,Tokyo Core CPI y/y,JPY,2,-0.4%,-0.5%
+2011.12.27JPYUnemployment Rate,12/27/11 23:30,FALSE,Unemployment Rate,JPY,1,4.5%,4.5%
+2011.12.27JPYPrelim Industrial Production m m,12/27/11 23:50,FALSE,Prelim Industrial Production m/m,JPY,2,-0.7%,2.2%
+2011.12.27JPYRetail Sales y y,12/27/11 23:50,FALSE,Retail Sales y/y,JPY,2,0.1%,1.9%
+

@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.09.05GBPBRC Shop Price Index y y,9/5/12 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",1.0%
+2012.09.05AUDAIG Services Index,9/5/12 0:29,FALSE,AIG Services Index,AUD,2," ",46.5
+2012.09.05AUDGDP q q,9/5/12 2:30,FALSE,GDP q/q,AUD,3,0.8%,1.4%
+2012.09.05CNYCaixin Services PMI,9/5/12 3:30,FALSE,Caixin Services PMI,CNY,1," ",53.1
+2012.09.05CHFGov Board Member Danthine Speaks,9/5/12 8:00,FALSE,Gov Board Member Danthine Speaks,CHF,2," "," "
+2012.09.05CHFCPI m m,9/5/12 8:15,FALSE,CPI m/m,CHF,3,0.1%,-0.5%
+2012.09.05EURSpanish Services PMI,9/5/12 8:15,FALSE,Spanish Services PMI,EUR,1," ",43.7
+2012.09.05EURItalian Services PMI,9/5/12 8:45,FALSE,Italian Services PMI,EUR,1,43.3,43.0
+2012.09.05EURFrench Final Services PMI,9/5/12 8:50,FALSE,French Final Services PMI,EUR,1,50.2,50.2
+2012.09.05EURGerman Final Services PMI,9/5/12 8:55,FALSE,German Final Services PMI,EUR,1,48.3,48.3
+2012.09.05EURFinal Services PMI,9/5/12 9:00,FALSE,Final Services PMI,EUR,1,47.5,47.5
+2012.09.05EURRetail Sales m m,9/5/12 10:00,FALSE,Retail Sales m/m,EUR,2,-0.2%,0.1%
+2012.09.05EURGerman 10-y Bond Auction,9/5/12 10:35,FALSE,German 10-y Bond Auction,EUR,2," ",1.42|1.8
+2012.09.05GBP30-y Bond Auction,9/5/12 10:36,FALSE,30-y Bond Auction,GBP,1," ",3.22|2.2
+2012.09.05USDRevised Nonfarm Productivity q q,9/5/12 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,2,1.8%,1.6%
+2012.09.05USDRevised Unit Labor Costs q q,9/5/12 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,1.5%,1.7%
+2012.09.05CADBOC Rate Statement,9/5/12 14:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2012.09.05CADOvernight Rate,9/5/12 14:00,FALSE,Overnight Rate,CAD,3,1.00%,1.00%
+

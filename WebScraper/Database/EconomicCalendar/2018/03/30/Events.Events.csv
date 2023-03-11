@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.03.30CADBank Holiday,3/30/18 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2018.03.30CHFBank Holiday,3/30/18 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2018.03.30EURGerman Bank Holiday,3/30/18 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2018.03.30GBPBank Holiday,3/30/18 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2018.03.30JPYTokyo Core CPI y y,3/30/18 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.9%,0.9%
+2018.03.30JPYUnemployment Rate,3/30/18 0:30,FALSE,Unemployment Rate,JPY,1,2.6%,2.4%
+2018.03.30JPYPrelim Industrial Production m m,3/30/18 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,5.1%,-6.8%
+2018.03.30JPYHousing Starts y y,3/30/18 6:00,FALSE,Housing Starts y/y,JPY,1,-4.1%,-13.2%
+2018.03.30EURFrench Consumer Spending m m,3/30/18 7:45,FALSE,French Consumer Spending m/m,EUR,1,2.2%,-1.9%
+2018.03.30EURFrench Prelim CPI m m,3/30/18 7:45,FALSE,French Prelim CPI m/m,EUR,1,0.8%,0.0%
+2018.03.30EURItalian Prelim CPI m m,3/30/18 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.1%,0.0%
+

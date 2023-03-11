@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.11.12CADBank Holiday,11/12/12 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2012.11.12EUREurogroup Meetings,11/12/12 0:00,TRUE,Eurogroup Meetings,EUR,3," "," "
+2012.11.12USDBank Holiday,11/12/12 0:00,TRUE,Bank Holiday,USD,4," "," "
+2012.11.12AUDHome Loans m m,11/12/12 0:30,FALSE,Home Loans m/m,AUD,2,1.1%,2.1%
+2012.11.12CNYNew Loans,11/12/12 2:00,FALSE,New Loans,CNY,2,601B,623B
+2012.11.12JPYBOJ Gov Shirakawa Speaks,11/12/12 2:30,FALSE,BOJ Gov Shirakawa Speaks,JPY,2," "," "
+2012.11.12JPYPrelim Machine Tool Orders y y,11/12/12 6:00,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-2.8%
+2012.11.12EURGerman WPI m m,11/12/12 7:00,FALSE,German WPI m/m,EUR,1,0.5%,1.3%
+2012.11.12CNYM2 Money Supply y y,11/12/12 8:00,FALSE,M2 Money Supply y/y,CNY,1,14.5%,14.8%
+2012.11.12NZDFPI m m,11/12/12 21:45,FALSE,FPI m/m,NZD,1," ",-0.9%
+

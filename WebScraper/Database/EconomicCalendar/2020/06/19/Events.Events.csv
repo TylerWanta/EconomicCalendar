@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.06.19EUREU Economic Summit,6/19/20 0:00,TRUE,EU Economic Summit,EUR,3," "," "
+2020.06.19GBPGfK Consumer Confidence,6/19/20 0:01,FALSE,GfK Consumer Confidence,GBP,1,-36,-36
+2020.06.19JPYNational Core CPI y y,6/19/20 0:30,FALSE,National Core CPI y/y,JPY,1,-0.1%,-0.2%
+2020.06.19JPYMonetary Policy Meeting Minutes,6/19/20 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,1," "," "
+2020.06.19AUDRetail Sales m m,6/19/20 2:30,FALSE,Retail Sales m/m,AUD,2," ",-17.7%
+2020.06.19EURGerman PPI m m,6/19/20 7:00,FALSE,German PPI m/m,EUR,1,-0.3%,-0.7%
+2020.06.19GBPPublic Sector Net Borrowing,6/19/20 7:00,FALSE,Public Sector Net Borrowing,GBP,1,49.3B,47.8B
+2020.06.19GBPRetail Sales m m,6/19/20 7:00,FALSE,Retail Sales m/m,GBP,2,6.3%,-18.0%
+2020.06.19EURCurrent Account,6/19/20 9:00,FALSE,Current Account,EUR,1,16.3B,27.4B
+2020.06.19CADCore Retail Sales m m,6/19/20 13:30,FALSE,Core Retail Sales m/m,CAD,3,-12.7%,-0.2%
+2020.06.19CADRetail Sales m m,6/19/20 13:30,FALSE,Retail Sales m/m,CAD,2,-15.0%,-9.9%
+2020.06.19USDCurrent Account,6/19/20 13:30,FALSE,Current Account,USD,1,-101B,-104B
+2020.06.19USDFOMC Member Quarles Speaks,6/19/20 17:00,FALSE,FOMC Member Quarles Speaks,USD,1," "," "
+2020.06.19USDFed Chair Powell Speaks,6/19/20 18:00,FALSE,Fed Chair Powell Speaks,USD,2," "," "
+

@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.10.03EURGerman Bank Holiday,10/3/14 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2014.10.03AUDAIG Services Index,10/3/14 0:30,FALSE,AIG Services Index,AUD,1," ",49.4
+2014.10.03AUDHIA New Home Sales m m,10/3/14 2:00,FALSE,HIA New Home Sales m/m,AUD,1," ",-5.7%
+2014.10.03CNYNon-Manufacturing PMI,10/3/14 2:00,FALSE,Non-Manufacturing PMI,CNY,2," ",54.4
+2014.10.03EURSpanish Services PMI,10/3/14 8:15,FALSE,Spanish Services PMI,EUR,2,56.9,58.1
+2014.10.03EURItalian Services PMI,10/3/14 8:45,FALSE,Italian Services PMI,EUR,2,49.6,49.8
+2014.10.03EURFrench Final Services PMI,10/3/14 8:50,FALSE,French Final Services PMI,EUR,1,49.4,49.4
+2014.10.03EURGerman Final Services PMI,10/3/14 8:55,FALSE,German Final Services PMI,EUR,2,55.4,55.4
+2014.10.03EURFinal Services PMI,10/3/14 9:00,FALSE,Final Services PMI,EUR,1,52.8,52.8
+2014.10.03GBPFinal Services PMI,10/3/14 9:30,FALSE,Final Services PMI,GBP,3,59.1,60.5
+2014.10.03EURRetail Sales m m,10/3/14 10:00,FALSE,Retail Sales m/m,EUR,2,0.1%,-0.4%
+2014.10.03CADTrade Balance,10/3/14 13:30,FALSE,Trade Balance,CAD,3,1.5B,2.2B
+2014.10.03USDAverage Hourly Earnings m m,10/3/14 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.3%
+2014.10.03USDNon-Farm Employment Change,10/3/14 13:30,FALSE,Non-Farm Employment Change,USD,3,216K,180K
+2014.10.03USDTrade Balance,10/3/14 13:30,FALSE,Trade Balance,USD,3,-41.0B,-40.3B
+2014.10.03USDUnemployment Rate,10/3/14 13:30,FALSE,Unemployment Rate,USD,3,6.1%,6.1%
+2014.10.03USDFinal Services PMI,10/3/14 14:45,FALSE,Final Services PMI,USD,1,58.5,58.5
+2014.10.03USDISM Services PMI,10/3/14 15:00,FALSE,ISM Services PMI,USD,3,58.5,59.6
+

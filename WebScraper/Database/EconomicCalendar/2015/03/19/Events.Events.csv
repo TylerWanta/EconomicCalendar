@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.03.19EUREU Economic Summit,3/19/15 0:00,TRUE,EU Economic Summit,EUR,3," "," "
+2015.03.19AUDRBA Bulletin,3/19/15 1:30,FALSE,RBA Bulletin,AUD,1," "," "
+2015.03.19JPYAll Industries Activity m m,3/19/15 5:30,FALSE,All Industries Activity m/m,JPY,1,1.9%,-0.1%
+2015.03.19CHFSECO Economic Forecasts,3/19/15 7:45,FALSE,SECO Economic Forecasts,CHF,1," "," "
+2015.03.19CHFTrade Balance,3/19/15 8:00,FALSE,Trade Balance,CHF,2,2.87B,3.41B
+2015.03.19CHFLibor Rate,3/19/15 9:30,FALSE,Libor Rate,CHF,3,-0.75%,-0.75%
+2015.03.19CHFSNB Monetary Policy Assessment,3/19/15 9:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2015.03.19CHFSNB Press Conference,3/19/15 9:30,FALSE,SNB Press Conference,CHF,3," "," "
+2015.03.19EURECB Economic Bulletin,3/19/15 10:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2015.03.19EURLong Term Refinancing Operation,3/19/15 11:20,FALSE,Long Term Refinancing Operation,EUR,3,40.0B,129.8B
+2015.03.19GBP10-y Bond Auction,3/19/15 11:36,FALSE,10-y Bond Auction,GBP,1," ",1.62|1.6
+2015.03.19USDCurrent Account,3/19/15 13:30,FALSE,Current Account,USD,2,-103B,-99B
+2015.03.19USDUnemployment Claims,3/19/15 13:30,FALSE,Unemployment Claims,USD,3,295K,290K
+2015.03.19USDCB Leading Index m m,3/19/15 15:00,FALSE,CB Leading Index m/m,USD,1,0.3%,0.2%
+2015.03.19USDFOMC Member Tarullo Speaks,3/19/15 15:00,FALSE,FOMC Member Tarullo Speaks,USD,1," "," "
+2015.03.19USDPhilly Fed Manufacturing Index,3/19/15 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,7.2,5.2
+2015.03.19USDNatural Gas Storage,3/19/15 15:30,FALSE,Natural Gas Storage,USD,1,-50B,-198B
+2015.03.19NZDVisitor Arrivals m m,3/19/15 22:45,FALSE,Visitor Arrivals m/m,NZD,1," ",1.2%
+

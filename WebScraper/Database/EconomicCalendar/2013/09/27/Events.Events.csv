@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.09.27EURGerman Prelim CPI m m,9/27/13 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.0%,0.0%
+2013.09.27GBPGfK Consumer Confidence,9/27/13 0:05,FALSE,GfK Consumer Confidence,GBP,1,-10,-13
+2013.09.27JPYNational Core CPI y y,9/27/13 0:30,FALSE,National Core CPI y/y,JPY,2,0.7%,0.7%
+2013.09.27JPYTokyo Core CPI y y,9/27/13 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,0.3%,0.4%
+2013.09.27USDFOMC Member George Speaks,9/27/13 2:15,FALSE,FOMC Member George Speaks,USD,2," "," "
+2013.09.27GBPNationwide HPI m m,9/27/13 7:00,FALSE,Nationwide HPI m/m,GBP,2,0.5%,0.7%
+2013.09.27EURFrench Consumer Spending m m,9/27/13 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.1%,0.4%
+2013.09.27CHFKOF Economic Barometer,9/27/13 8:00,FALSE,KOF Economic Barometer,CHF,2,1.46,1.37
+2013.09.27EURSpanish Flash CPI y y,9/27/13 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,0.9%,1.5%
+2013.09.27EURRetail PMI,9/27/13 9:10,FALSE,Retail PMI,EUR,1," ",50.3
+2013.09.27GBPIndex of Services 3m 3m,9/27/13 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.6%,0.6%
+2013.09.27EURECB President Draghi Speaks,9/27/13 10:00,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2013.09.27EURItalian 10-y Bond Auction,9/27/13 10:15,FALSE,Italian 10-y Bond Auction,EUR,3," ",4.46|1.5
+2013.09.27USDCore PCE Price Index m m,9/27/13 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.1%
+2013.09.27USDFOMC Member Rosengren Speaks,9/27/13 13:30,FALSE,FOMC Member Rosengren Speaks,USD,2," "," "
+2013.09.27USDPersonal Income m m,9/27/13 13:30,FALSE,Personal Income m/m,USD,1,0.5%,0.2%
+2013.09.27USDPersonal Spending m m,9/27/13 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,0.2%
+2013.09.27USDRevised UoM Consumer Sentiment,9/27/13 14:55,FALSE,Revised UoM Consumer Sentiment,USD,2,78.2,76.8
+2013.09.27USDRevised UoM Inflation Expectations,9/27/13 14:55,FALSE,Revised UoM Inflation Expectations,USD,1," ",3.2%
+2013.09.27USDFOMC Member Evans Speaks,9/27/13 15:45,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2013.09.27USDFOMC Member Dudley Speaks,9/27/13 19:00,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2013.09.27USDPresident Obama Speaks,9/27/13 20:30,FALSE,President Obama Speaks,USD,1," "," "
+

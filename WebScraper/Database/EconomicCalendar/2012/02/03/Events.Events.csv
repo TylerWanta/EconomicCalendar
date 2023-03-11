@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.02.03CNYNon-Manufacturing PMI,2/3/12 1:00,FALSE,Non-Manufacturing PMI,CNY,1,,56.0
+2012.02.03CNYCaixin Services PMI,2/3/12 2:30,FALSE,Caixin Services PMI,CNY,1,,52.5
+2012.02.03EURSpanish Services PMI,2/3/12 8:15,FALSE,Spanish Services PMI,EUR,1,,42.1
+2012.02.03EURItalian Services PMI,2/3/12 8:45,FALSE,Italian Services PMI,EUR,1,45.5,44.5
+2012.02.03EURFrench Final Services PMI,2/3/12 8:50,FALSE,French Final Services PMI,EUR,1,51.7,51.7
+2012.02.03EURGerman Final Services PMI,2/3/12 8:55,FALSE,German Final Services PMI,EUR,1,54.5,54.5
+2012.02.03EURFinal Services PMI,2/3/12 9:00,FALSE,Final Services PMI,EUR,1,50.5,50.5
+2012.02.03GBPFinal Services PMI,2/3/12 9:30,FALSE,Final Services PMI,GBP,3,53.5,54.0
+2012.02.03EURItalian Prelim CPI m m,2/3/12 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.4%
+2012.02.03EURRetail Sales m m,2/3/12 10:00,FALSE,Retail Sales m/m,EUR,2,0.4%,-0.4%
+2012.02.03CADEmployment Change,2/3/12 12:00,FALSE,Employment Change,CAD,3,23.3K,17.5K
+2012.02.03CADUnemployment Rate,2/3/12 12:00,FALSE,Unemployment Rate,CAD,3,7.5%,7.5%
+2012.02.03USDAverage Hourly Earnings m m,2/3/12 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.1%
+2012.02.03USDNon-Farm Employment Change,2/3/12 13:30,FALSE,Non-Farm Employment Change,USD,3,150K,203K
+2012.02.03USDUnemployment Rate,2/3/12 13:30,FALSE,Unemployment Rate,USD,3,8.5%,8.5%
+2012.02.03USDFactory Orders m m,2/3/12 15:00,FALSE,Factory Orders m/m,USD,2,1.5%,2.2%
+2012.02.03USDISM Services PMI,2/3/12 15:00,FALSE,ISM Services PMI,USD,3,53.1,52.6
+

@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.08.06CADBank Holiday,8/6/12 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2012.08.06AUDMI Inflation Gauge m m,8/6/12 1:30,FALSE,MI Inflation Gauge m/m,AUD,1," ",-0.2%
+2012.08.06AUDANZ Job Advertisements m m,8/6/12 2:30,FALSE,ANZ Job Advertisements m/m,AUD,2," ",-1.1%
+2012.08.06JPYLeading Indicators,8/6/12 6:00,FALSE,Leading Indicators,JPY,1,93.0%,95.2%
+2012.08.06GBPHalifax HPI m m,8/6/12 8:00,FALSE,Halifax HPI m/m,GBP,2,-0.5%,0.8%
+2012.08.06EURSentix Investor Confidence,8/6/12 9:30,FALSE,Sentix Investor Confidence,EUR,2,-30.8,-29.6
+2012.08.06USDFed Chairman Bernanke Speaks,8/6/12 14:00,FALSE,Fed Chairman Bernanke Speaks,USD,3," "," "
+2012.08.06USDLoan Officer Survey,8/6/12 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2012.08.06NZDLabor Cost Index q q,8/6/12 23:45,FALSE,Labor Cost Index q/q,NZD,2,0.6%,0.5%
+

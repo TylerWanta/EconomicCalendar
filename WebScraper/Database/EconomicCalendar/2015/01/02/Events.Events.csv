@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.01.02CHFBank Holiday,1/2/15 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2015.01.02AUDCommodity Prices y y,1/2/15 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-18.4%
+2015.01.02EURSpanish Manufacturing PMI,1/2/15 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,54.9,54.7
+2015.01.02EURItalian Manufacturing PMI,1/2/15 8:45,FALSE,Italian Manufacturing PMI,EUR,2,49.6,49.0
+2015.01.02EURFrench Final Manufacturing PMI,1/2/15 8:50,FALSE,French Final Manufacturing PMI,EUR,1,47.9,47.9
+2015.01.02EURGerman Final Manufacturing PMI,1/2/15 8:55,FALSE,German Final Manufacturing PMI,EUR,2,51.2,51.2
+2015.01.02EURFinal Manufacturing PMI,1/2/15 9:00,FALSE,Final Manufacturing PMI,EUR,1,50.8,50.8
+2015.01.02GBPFinal Manufacturing PMI,1/2/15 9:30,FALSE,Final Manufacturing PMI,GBP,3,53.7,53.3
+2015.01.02GBPM4 Money Supply m m,1/2/15 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.2%,0.0%
+2015.01.02GBPMortgage Approvals,1/2/15 9:30,FALSE,Mortgage Approvals,GBP,1,59K,60K
+2015.01.02GBPNet Lending to Individuals m m,1/2/15 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,2.5B,2.7B
+2015.01.02CADManufacturing PMI,1/2/15 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.3
+2015.01.02USDFinal Manufacturing PMI,1/2/15 14:45,FALSE,Final Manufacturing PMI,USD,1,54.1,53.7
+2015.01.02USDConstruction Spending m m,1/2/15 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,1.2%
+2015.01.02USDISM Manufacturing PMI,1/2/15 15:00,FALSE,ISM Manufacturing PMI,USD,3,57.6,58.7
+2015.01.02USDISM Manufacturing Prices,1/2/15 15:00,FALSE,ISM Manufacturing Prices,USD,1,43.1,44.5
+

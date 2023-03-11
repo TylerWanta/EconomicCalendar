@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.12.31AUDBank Holiday,12/31/14 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2014.12.31CNYBank Holiday,12/31/14 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2014.12.31EURGerman Bank Holiday,12/31/14 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2014.12.31JPYBank Holiday,12/31/14 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2014.12.31NZDBank Holiday,12/31/14 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2014.12.31AUDPrivate Sector Credit m m,12/31/14 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.5%,0.6%
+2014.12.31CNYCaixin Manufacturing PMI,12/31/14 1:45,FALSE,Caixin Manufacturing PMI,CNY,3,49.5,49.5
+2014.12.31GBPHousing Equity Withdrawal q q,12/31/14 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-9.2B,-10.6B
+2014.12.31USDUnemployment Claims,12/31/14 13:30,FALSE,Unemployment Claims,USD,3,287K,281K
+2014.12.31USDChicago PMI,12/31/14 14:45,FALSE,Chicago PMI,USD,2,60.2,60.8
+2014.12.31USDPending Home Sales m m,12/31/14 15:00,FALSE,Pending Home Sales m/m,USD,2,0.6%,-1.2%
+2014.12.31USDCrude Oil Inventories,12/31/14 15:30,FALSE,Crude Oil Inventories,USD,2,0.2M,7.3M
+2014.12.31USDNatural Gas Storage,12/31/14 17:00,FALSE,Natural Gas Storage,USD,1,-37B,-49B
+

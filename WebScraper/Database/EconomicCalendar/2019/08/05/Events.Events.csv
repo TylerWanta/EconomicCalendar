@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.08.05CADBank Holiday,8/5/19 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2019.08.05AUDMI Inflation Gauge m m,8/5/19 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.0%
+2019.08.05NZDANZ Commodity Prices m m,8/5/19 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-3.9%
+2019.08.05CNYCaixin Services PMI,8/5/19 2:45,FALSE,Caixin Services PMI,CNY,1,52.0,52.0
+2019.08.05CHFSECO Consumer Climate,8/5/19 6:45,FALSE,SECO Consumer Climate,CHF,1,-8,-6
+2019.08.05CHFRetail Sales y y,8/5/19 7:30,FALSE,Retail Sales y/y,CHF,1,-0.6%,-1.1%
+2019.08.05EURSpanish Services PMI,8/5/19 8:15,FALSE,Spanish Services PMI,EUR,1,53.6,53.6
+2019.08.05EURItalian Services PMI,8/5/19 8:45,FALSE,Italian Services PMI,EUR,1,50.6,50.5
+2019.08.05EURFrench Final Services PMI,8/5/19 8:50,FALSE,French Final Services PMI,EUR,1,52.2,52.2
+2019.08.05EURGerman Final Services PMI,8/5/19 8:55,FALSE,German Final Services PMI,EUR,1,55.4,55.4
+2019.08.05EURFinal Services PMI,8/5/19 9:00,FALSE,Final Services PMI,EUR,1,53.3,53.3
+2019.08.05EURSentix Investor Confidence,8/5/19 9:30,FALSE,Sentix Investor Confidence,EUR,1,-6.9,-5.8
+2019.08.05GBPFinal Services PMI,8/5/19 9:30,FALSE,Final Services PMI,GBP,2,50.4,50.2
+2019.08.05USDFinal Services PMI,8/5/19 14:45,FALSE,Final Services PMI,USD,1,52.2,52.2
+2019.08.05USDISM Services PMI,8/5/19 15:00,FALSE,ISM Services PMI,USD,3,55.5,55.1
+2019.08.05USDFOMC Member Brainard Speaks,8/5/19 18:30,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+2019.08.05USDLoan Officer Survey,8/5/19 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2019.08.05NZDEmployment Change q q,8/5/19 23:45,FALSE,Employment Change q/q,NZD,3,0.3%,-0.1%
+2019.08.05NZDLabor Cost Index q q,8/5/19 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.7%,0.3%
+2019.08.05NZDUnemployment Rate,8/5/19 23:45,FALSE,Unemployment Rate,NZD,3,4.3%,4.2%
+

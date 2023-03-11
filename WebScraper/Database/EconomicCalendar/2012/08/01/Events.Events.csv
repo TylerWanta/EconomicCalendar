@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.08.01CHFBank Holiday,8/1/12 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2012.08.01USDTotal Vehicle Sales,8/1/12 0:00,TRUE,Total Vehicle Sales,USD,1,14.0M,14.1M
+2012.08.01GBPBRC Shop Price Index y y,8/1/12 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",1.1%
+2012.08.01AUDAIG Manufacturing Index,8/1/12 0:21,FALSE,AIG Manufacturing Index,AUD,1," ",47.2
+2012.08.01CNYManufacturing PMI,8/1/12 2:00,FALSE,Manufacturing PMI,CNY,3,50.4,50.2
+2012.08.01AUDHPI q q,8/1/12 2:30,FALSE,HPI q/q,AUD,2,-0.5%,-0.1%
+2012.08.01CNYCaixin Manufacturing PMI,8/1/12 3:30,FALSE,Caixin Manufacturing PMI,CNY,2," ",49.5
+2012.08.01GBPNationwide HPI m m,8/1/12 7:00,FALSE,Nationwide HPI m/m,GBP,2,-0.1%,-0.6%
+2012.08.01AUDCommodity Prices y y,8/1/12 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-9.9%
+2012.08.01EURSpanish Manufacturing PMI,8/1/12 8:15,FALSE,Spanish Manufacturing PMI,EUR,2," ",41.1
+2012.08.01EURItalian Manufacturing PMI,8/1/12 8:45,FALSE,Italian Manufacturing PMI,EUR,2,44.2,44.6
+2012.08.01EURFrench Final Manufacturing PMI,8/1/12 8:50,FALSE,French Final Manufacturing PMI,EUR,1,43.6,43.6
+2012.08.01EURGerman Final Manufacturing PMI,8/1/12 8:55,FALSE,German Final Manufacturing PMI,EUR,1,43.4,43.3
+2012.08.01EURFinal Manufacturing PMI,8/1/12 9:00,FALSE,Final Manufacturing PMI,EUR,1,44.1,44.1
+2012.08.01GBPFinal Manufacturing PMI,8/1/12 9:30,FALSE,Final Manufacturing PMI,GBP,3,48.6,48.4
+2012.08.01USDADP Non-Farm Employment Change,8/1/12 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,121K,172K
+2012.08.01USDFinal Manufacturing PMI,8/1/12 14:00,FALSE,Final Manufacturing PMI,USD,1,51.9,51.8
+2012.08.01CADManufacturing PMI,8/1/12 14:30,FALSE,Manufacturing PMI,CAD,1," ",54.8
+2012.08.01USDConstruction Spending m m,8/1/12 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,1.6%
+2012.08.01USDISM Manufacturing PMI,8/1/12 15:00,FALSE,ISM Manufacturing PMI,USD,3,50.3,49.7
+2012.08.01USDISM Manufacturing Prices,8/1/12 15:00,FALSE,ISM Manufacturing Prices,USD,1,39.3,37.0
+2012.08.01NZDGDT Price Index,8/1/12 15:30,FALSE,GDT Price Index,NZD,1," ",-1.2%
+2012.08.01USDCrude Oil Inventories,8/1/12 15:30,FALSE,Crude Oil Inventories,USD,2,-1.5M,2.7M
+2012.08.01USDFOMC Statement,8/1/12 19:13,FALSE,FOMC Statement,USD,3," "," "
+2012.08.01USDFederal Funds Rate,8/1/12 19:13,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+

@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.12.01AUDCompany Operating Profits q q,12/1/14 0:30,FALSE,Company Operating Profits q/q,AUD,2,-1.2%,-7.5%
+2014.12.01CNYManufacturing PMI,12/1/14 0:59,FALSE,Manufacturing PMI,CNY,3,50.5,50.8
+2014.12.01JPYFinal Manufacturing PMI,12/1/14 1:35,FALSE,Final Manufacturing PMI,JPY,1,52.1,52.1
+2014.12.01CNYCaixin Manufacturing PMI,12/1/14 1:45,FALSE,Caixin Manufacturing PMI,CNY,3,50.0,50.0
+2014.12.01AUDCommodity Prices y y,12/1/14 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-17.6%
+2014.12.01EURSpanish Manufacturing PMI,12/1/14 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,53.1,52.6
+2014.12.01CHFManufacturing PMI,12/1/14 8:30,FALSE,Manufacturing PMI,CHF,1,52.9,55.3
+2014.12.01EURItalian Manufacturing PMI,12/1/14 8:45,FALSE,Italian Manufacturing PMI,EUR,2,49.5,49.0
+2014.12.01EURFrench Final Manufacturing PMI,12/1/14 8:50,FALSE,French Final Manufacturing PMI,EUR,1,47.6,47.6
+2014.12.01EURGerman Final Manufacturing PMI,12/1/14 8:55,FALSE,German Final Manufacturing PMI,EUR,2,50.0,50.0
+2014.12.01EURFinal Manufacturing PMI,12/1/14 9:00,FALSE,Final Manufacturing PMI,EUR,1,50.4,50.4
+2014.12.01GBPFinal Manufacturing PMI,12/1/14 9:30,FALSE,Final Manufacturing PMI,GBP,3,53.1,53.3
+2014.12.01GBPM4 Money Supply m m,12/1/14 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.2%,-0.7%
+2014.12.01GBPMortgage Approvals,12/1/14 9:30,FALSE,Mortgage Approvals,GBP,1,59K,61K
+2014.12.01GBPNet Lending to Individuals m m,12/1/14 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,2.8B,2.7B
+2014.12.01CADManufacturing PMI,12/1/14 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.3
+2014.12.01USDFinal Manufacturing PMI,12/1/14 14:45,FALSE,Final Manufacturing PMI,USD,1,55.0,54.7
+2014.12.01USDISM Manufacturing PMI,12/1/14 15:00,FALSE,ISM Manufacturing PMI,USD,3,57.9,59.0
+2014.12.01USDISM Manufacturing Prices,12/1/14 15:00,FALSE,ISM Manufacturing Prices,USD,1,52.6,53.5
+2014.12.01USDFOMC Member Dudley Speaks,12/1/14 17:15,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2014.12.01USDFOMC Member Fischer Speaks,12/1/14 18:00,FALSE,FOMC Member Fischer Speaks,USD,2," "," "
+2014.12.01JPYMonetary Base y y,12/1/14 23:50,FALSE,Monetary Base y/y,JPY,1,37.2%,36.9%
+

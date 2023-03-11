@@ -1,0 +1,36 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.05.13JPYBank Lending y y,5/13/15 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.6%
+2015.05.13JPYCurrent Account,5/13/15 0:50,FALSE,Current Account,JPY,2,1.34T,0.61T
+2015.05.13AUDWage Price Index q q,5/13/15 2:30,FALSE,Wage Price Index q/q,AUD,2,0.6%,0.6%
+2015.05.13JPYEconomy Watchers Sentiment,5/13/15 6:00,FALSE,Economy Watchers Sentiment,JPY,1,52.1,52.2
+2015.05.13CNYFixed Asset Investment ytd y,5/13/15 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,13.6%,13.5%
+2015.05.13CNYIndustrial Production y y,5/13/15 6:30,FALSE,Industrial Production y/y,CNY,3,6.1%,5.6%
+2015.05.13CNYRetail Sales y y,5/13/15 6:30,FALSE,Retail Sales y/y,CNY,1,10.4%,10.2%
+2015.05.13EURFrench Prelim GDP q q,5/13/15 6:30,FALSE,French Prelim GDP q/q,EUR,2,0.4%,0.0%
+2015.05.13EURGerman Final CPI m m,5/13/15 7:00,FALSE,German Final CPI m/m,EUR,1,-0.1%,-0.1%
+2015.05.13EURGerman Prelim GDP q q,5/13/15 7:00,FALSE,German Prelim GDP q/q,EUR,3,0.5%,0.7%
+2015.05.13EURGerman WPI m m,5/13/15 7:00,FALSE,German WPI m/m,EUR,1,0.4%,1.0%
+2015.05.13EURFrench Final CPI m m,5/13/15 7:45,FALSE,French Final CPI m/m,EUR,1,0.2%,0.7%
+2015.05.13EURFrench Prelim Private Payrolls q q,5/13/15 7:45,FALSE,French Prelim Private Payrolls q/q,EUR,1,0.0%,0.0%
+2015.05.13EURItalian Prelim GDP q q,5/13/15 9:00,FALSE,Italian Prelim GDP q/q,EUR,2,0.2%,0.0%
+2015.05.13CNYM2 Money Supply y y,5/13/15 9:03,FALSE,M2 Money Supply y/y,CNY,1,11.9%,11.6%
+2015.05.13CNYNew Loans,5/13/15 9:03,FALSE,New Loans,CNY,2,1210B,1180B
+2015.05.13GBPAverage Earnings Index 3m y,5/13/15 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,1.7%,1.7%
+2015.05.13GBPClaimant Count Change,5/13/15 9:30,FALSE,Claimant Count Change,GBP,3,-20.5K,-16.7K
+2015.05.13GBPUnemployment Rate,5/13/15 9:30,FALSE,Unemployment Rate,GBP,2,5.5%,5.6%
+2015.05.13EURFlash GDP q q,5/13/15 10:00,FALSE,Flash GDP q/q,EUR,2,0.5%,0.3%
+2015.05.13EURIndustrial Production m m,5/13/15 10:00,FALSE,Industrial Production m/m,EUR,1,0.1%,1.0%
+2015.05.13GBPBOE Gov Carney Speaks,5/13/15 10:30,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2015.05.13GBPBOE Inflation Letter,5/13/15 10:30,FALSE,BOE Inflation Letter,GBP,2," "," "
+2015.05.13GBPBOE Monetary Policy Report,5/13/15 10:30,FALSE,BOE Monetary Policy Report,GBP,3," "," "
+2015.05.13EURGerman 10-y Bond Auction,5/13/15 10:33,FALSE,German 10-y Bond Auction,EUR,2," ",0.13|1.5
+2015.05.13USDCore Retail Sales m m,5/13/15 13:30,FALSE,Core Retail Sales m/m,USD,3,0.4%,0.7%
+2015.05.13USDImport Prices m m,5/13/15 13:30,FALSE,Import Prices m/m,USD,2,0.3%,-0.2%
+2015.05.13USDRetail Sales m m,5/13/15 13:30,FALSE,Retail Sales m/m,USD,3,0.3%,1.1%
+2015.05.13USDBusiness Inventories m m,5/13/15 15:00,FALSE,Business Inventories m/m,USD,2,0.2%,0.2%
+2015.05.13USDCrude Oil Inventories,5/13/15 15:30,FALSE,Crude Oil Inventories,USD,2,-0.1M,-3.9M
+2015.05.13USD10-y Bond Auction,5/13/15 18:01,FALSE,10-y Bond Auction,USD,2," ",1.93|2.6
+2015.05.13NZDBusinessNZ Manufacturing Index,5/13/15 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,2," ",54.6
+2015.05.13NZDCore Retail Sales q q,5/13/15 23:45,FALSE,Core Retail Sales q/q,NZD,2,1.5%,1.9%
+2015.05.13NZDRetail Sales q q,5/13/15 23:45,FALSE,Retail Sales q/q,NZD,3,1.6%,1.9%
+

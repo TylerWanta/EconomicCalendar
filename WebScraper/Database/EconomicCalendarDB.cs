@@ -9,7 +9,7 @@ namespace WebScraper.Database
 {
     public class EconomicCalendarDB
     {
-        public string DBDirectory => "C:\\Users\\WantaTyler\\source\\repos\\EconomicCalendar\\WebScraper\\Database\\Data";
+        public string DBDirectory => "C:/Users/WantaTyler/source/repos/EconomicCalendar/WebScraper/Database/EconomicCalendar";
 
         public string EventsDocument => "Events.csv";
 
@@ -21,7 +21,7 @@ namespace WebScraper.Database
 
         public string EventsPath(DateTime date)
         {
-            return $"{DBDirectory}\\{date.ToString("yyyy\\MM\\dd")}\\{EventsDocument}";
+            return $"{DBDirectory}/{date.ToString("yyyy/MM/dd")}";
         }
 
         public void Add(DateTime date, List<EconomicEvent> economicEvents)
@@ -31,15 +31,16 @@ namespace WebScraper.Database
             WorkBook book = null;
             WorkSheet worksheet = null;
 
-            string path = EventsPath(date);
+            string pathToFile = EventsPath(date);
 
-            if (Directory.Exists(path))
+            if (Directory.Exists($"{pathToFile}/{WorkSheetName}.{EventsDocument}"))
             {
-                book = WorkBook.LoadCSV(path, ExcelFileFormat.XLSX, Delimiter);
+                book = WorkBook.LoadCSV(pathToFile, ExcelFileFormat.XLSX, Delimiter);
                 worksheet = book.GetWorkSheet(WorkSheetName);
             }
             else
             {
+                Directory.CreateDirectory($"{pathToFile}");
                 book = WorkBook.Create();
                 worksheet = book.CreateWorkSheet(WorkSheetName);
             }
@@ -56,7 +57,8 @@ namespace WebScraper.Database
                 }
             }
 
-            book.SaveAsCsv(path, Delimiter);
+            // will automatically append the worksheet name right before the document name. Will end up as /Events.Events.csv
+            book.SaveAsCsv($"{pathToFile}/{EventsDocument}", Delimiter);
             book.Close();
         }
 
@@ -69,7 +71,7 @@ namespace WebScraper.Database
                 throw new Exception("Not all events occur on the same day");
             }
 
-            if (events.Where(e => e.Date.Kind == DateTimeKind.Utc).Count() > 0)
+            if (events.Where(e => e.Date.Kind != DateTimeKind.Utc).Count() > 0)
             {
                 throw new Exception("Not all dates are in UTC");
             }

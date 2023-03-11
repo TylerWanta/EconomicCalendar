@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.09.09AllG7 Meetings,9/9/11 0:00,TRUE,G7 Meetings,All,3,,
+2011.09.09USDPresident Obama Speaks,9/9/11 0:00,FALSE,President Obama Speaks,USD,1,,
+2011.09.09JPYFinal GDP Price Index y y,9/9/11 0:50,FALSE,Final GDP Price Index y/y,JPY,1,-2.2%,-2.2%
+2011.09.09JPYFinal GDP q q,9/9/11 0:50,FALSE,Final GDP q/q,JPY,2,-0.5%,-0.3%
+2011.09.09JPYM2 Money Stock y y,9/9/11 0:50,FALSE,M2 Money Stock y/y,JPY,1,2.9%,3.0%
+2011.09.09CNYCPI y y,9/9/11 2:30,FALSE,CPI y/y,CNY,3,6.3%,6.5%
+2011.09.09CNYPPI y y,9/9/11 2:30,FALSE,PPI y/y,CNY,2,7.2%,7.5%
+2011.09.09JPYConsumer Confidence,9/9/11 6:00,FALSE,Consumer Confidence,JPY,1,41.3,37.0
+2011.09.09CNYFixed Asset Investment ytd y,9/9/11 6:32,FALSE,Fixed Asset Investment ytd/y,CNY,2,25.2%,25.4%
+2011.09.09CNYIndustrial Production y y,9/9/11 6:32,FALSE,Industrial Production y/y,CNY,2,14.2%,14.0%
+2011.09.09CNYRetail Sales y y,9/9/11 6:32,FALSE,Retail Sales y/y,CNY,1,16.9%,17.2%
+2011.09.09EURGerman Final CPI m m,9/9/11 7:00,FALSE,German Final CPI m/m,EUR,1,-0.1%,-0.1%
+2011.09.09EURGerman WPI m m,9/9/11 7:00,FALSE,German WPI m/m,EUR,1,0.3%,-0.6%
+2011.09.09EURFrench Gov Budget Balance,9/9/11 7:45,FALSE,French Gov Budget Balance,EUR,1,,-61.3B
+2011.09.09EURFrench Industrial Production m m,9/9/11 7:45,FALSE,French Industrial Production m/m,EUR,2,0.4%,-1.5%
+2011.09.09GBPPPI Input m m,9/9/11 9:30,FALSE,PPI Input m/m,GBP,3,-1.6%,0.5%
+2011.09.09GBPPPI Output m m,9/9/11 9:30,FALSE,PPI Output m/m,GBP,1,0.2%,0.3%
+2011.09.09GBPCB Leading Index m m,9/9/11 10:00,FALSE,CB Leading Index m/m,GBP,1,,0.0%
+2011.09.09CADEmployment Change,9/9/11 12:00,FALSE,Employment Change,CAD,3,24.2K,7.1K
+2011.09.09CADUnemployment Rate,9/9/11 12:00,FALSE,Unemployment Rate,CAD,3,7.3%,7.2%
+2011.09.09CADHousing Starts,9/9/11 13:15,FALSE,Housing Starts,CAD,3,200K,205K
+2011.09.09CADLabor Productivity q q,9/9/11 13:30,FALSE,Labor Productivity q/q,CAD,2,-0.2%,0.4%
+2011.09.09USDFinal Wholesale Inventories m m,9/9/11 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.8%,0.6%
+

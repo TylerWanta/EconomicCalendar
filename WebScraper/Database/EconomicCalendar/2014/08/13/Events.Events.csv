@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.08.13JPYMonetary Policy Meeting Minutes,8/13/14 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,2," "," "
+2014.08.13JPYPrelim GDP Price Index y y,8/13/14 0:50,FALSE,Prelim GDP Price Index y/y,JPY,1,1.7%,-0.1%
+2014.08.13JPYPrelim GDP q q,8/13/14 0:50,FALSE,Prelim GDP q/q,JPY,3,-1.7%,1.6%
+2014.08.13AUDWestpac Consumer Sentiment,8/13/14 1:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",1.9%
+2014.08.13AUDWage Price Index q q,8/13/14 2:30,FALSE,Wage Price Index q/q,AUD,2,0.8%,0.7%
+2014.08.13CNYM2 Money Supply y y,8/13/14 3:34,FALSE,M2 Money Supply y/y,CNY,1,14.5%,14.7%
+2014.08.13CNYNew Loans,8/13/14 3:34,FALSE,New Loans,CNY,2,780B,1080B
+2014.08.13CNYFixed Asset Investment ytd y,8/13/14 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,17.4%,17.3%
+2014.08.13CNYIndustrial Production y y,8/13/14 6:30,FALSE,Industrial Production y/y,CNY,3,9.1%,9.2%
+2014.08.13CNYRetail Sales y y,8/13/14 6:30,FALSE,Retail Sales y/y,CNY,1,12.5%,12.4%
+2014.08.13EURGerman Final CPI m m,8/13/14 7:00,FALSE,German Final CPI m/m,EUR,1,0.3%,0.3%
+2014.08.13EURGerman WPI m m,8/13/14 7:00,FALSE,German WPI m/m,EUR,1,0.3%,-0.1%
+2014.08.13EURFrench Final CPI m m,8/13/14 7:45,FALSE,French Final CPI m/m,EUR,1,-0.2%,0.0%
+2014.08.13GBPAverage Earnings Index 3m y,8/13/14 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,-0.1%,0.4%
+2014.08.13GBPClaimant Count Change,8/13/14 9:30,FALSE,Claimant Count Change,GBP,3,-29.7K,-39.5K
+2014.08.13GBPUnemployment Rate,8/13/14 9:30,FALSE,Unemployment Rate,GBP,2,6.4%,6.5%
+2014.08.13CHFCredit Suisse Economic Expectations,8/13/14 10:00,FALSE,Credit Suisse Economic Expectations,CHF,2," ",0.1
+2014.08.13EURIndustrial Production m m,8/13/14 10:00,FALSE,Industrial Production m/m,EUR,2,0.5%,-1.1%
+2014.08.13GBPBOE Gov Carney Speaks,8/13/14 10:30,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2014.08.13GBPBOE Monetary Policy Report,8/13/14 10:30,FALSE,BOE Monetary Policy Report,GBP,3," "," "
+2014.08.13EURGerman 10-y Bond Auction,8/13/14 10:33,FALSE,German 10-y Bond Auction,EUR,2," ",1.20|1.6
+2014.08.13USDCore Retail Sales m m,8/13/14 13:30,FALSE,Core Retail Sales m/m,USD,3,0.4%,0.4%
+2014.08.13USDRetail Sales m m,8/13/14 13:30,FALSE,Retail Sales m/m,USD,3,0.2%,0.2%
+2014.08.13USDFOMC Member Dudley Speaks,8/13/14 14:05,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2014.08.13USDBusiness Inventories m m,8/13/14 15:00,FALSE,Business Inventories m/m,USD,2,0.4%,0.5%
+2014.08.13USDCrude Oil Inventories,8/13/14 15:30,FALSE,Crude Oil Inventories,USD,2,-0.8M,-1.8M
+2014.08.13USD10-y Bond Auction,8/13/14 18:01,FALSE,10-y Bond Auction,USD,2," ",2.60|2.6
+2014.08.13NZDBusinessNZ Manufacturing Index,8/13/14 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,2," ",53.4
+2014.08.13NZDCore Retail Sales q q,8/13/14 23:45,FALSE,Core Retail Sales q/q,NZD,2,1.1%,1.0%
+2014.08.13NZDRetail Sales q q,8/13/14 23:45,FALSE,Retail Sales q/q,NZD,3,1.0%,0.8%
+

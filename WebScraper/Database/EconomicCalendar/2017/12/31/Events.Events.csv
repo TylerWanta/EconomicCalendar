@@ -1,0 +1,8 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.31AUDBank Holiday,12/31/17 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2017.12.31CNYBank Holiday,12/31/17 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2017.12.31JPYBank Holiday,12/31/17 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2017.12.31NZDBank Holiday,12/31/17 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2017.12.31CNYManufacturing PMI,12/31/17 0:42,FALSE,Manufacturing PMI,CNY,2,51.6,51.8
+2017.12.31CNYNon-Manufacturing PMI,12/31/17 0:42,FALSE,Non-Manufacturing PMI,CNY,2," ",54.8
+

@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.12.23AUDGoods Trade Balance,12/23/20 0:30,FALSE,Goods Trade Balance,AUD,1," ",4.67B
+2020.12.23AUDPrivate Sector Credit m m,12/23/20 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.1%,0.0%
+2020.12.23EURGerman Import Prices m m,12/23/20 7:00,FALSE,German Import Prices m/m,EUR,1,0.3%,0.3%
+2020.12.23CADGDP m m,12/23/20 13:30,FALSE,GDP m/m,CAD,2,0.3%,0.8%
+2020.12.23USDCore Durable Goods Orders m m,12/23/20 13:30,FALSE,Core Durable Goods Orders m/m,USD,1,0.5%,1.9%
+2020.12.23USDCore PCE Price Index m m,12/23/20 13:30,FALSE,Core PCE Price Index m/m,USD,1,0.1%,0.0%
+2020.12.23USDDurable Goods Orders m m,12/23/20 13:30,FALSE,Durable Goods Orders m/m,USD,1,0.6%,1.8%
+2020.12.23USDPersonal Income m m,12/23/20 13:30,FALSE,Personal Income m/m,USD,1,-0.3%,-0.6%
+2020.12.23USDPersonal Spending m m,12/23/20 13:30,FALSE,Personal Spending m/m,USD,1,-0.2%,0.3%
+2020.12.23USDUnemployment Claims,12/23/20 13:30,FALSE,Unemployment Claims,USD,1,882K,892K
+2020.12.23CHFSNB Quarterly Bulletin,12/23/20 14:00,FALSE,SNB Quarterly Bulletin,CHF,1," "," "
+2020.12.23USDHPI m m,12/23/20 14:00,FALSE,HPI m/m,USD,1,0.6%,1.7%
+2020.12.23USDNew Home Sales,12/23/20 15:00,FALSE,New Home Sales,USD,1,994K,945K
+2020.12.23USDRevised UoM Consumer Sentiment,12/23/20 15:00,FALSE,Revised UoM Consumer Sentiment,USD,1,81.0,81.4
+2020.12.23USDRevised UoM Inflation Expectations,12/23/20 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.3%
+2020.12.23USDCrude Oil Inventories,12/23/20 15:30,FALSE,Crude Oil Inventories,USD,1,-2.9M,-3.1M
+2020.12.23USDNatural Gas Storage,12/23/20 17:00,FALSE,Natural Gas Storage,USD,1,-160B,-122B
+2020.12.23JPYSPPI y y,12/23/20 23:50,FALSE,SPPI y/y,JPY,1,-0.6%,-0.5%
+

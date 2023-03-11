@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.06.08JPYBank Lending y y,6/8/12 0:50,FALSE,Bank Lending y/y,JPY,1," ",0.3%
+2012.06.08JPYCurrent Account,6/8/12 0:50,FALSE,Current Account,JPY,3,0.62T,0.79T
+2012.06.08JPYFinal GDP q q,6/8/12 0:50,FALSE,Final GDP q/q,JPY,2,1.1%,1.0%
+2012.06.08JPYFinal GDP Price Index y y,6/8/12 1:01,FALSE,Final GDP Price Index y/y,JPY,1,-1.2%,-1.2%
+2012.06.08AUDHome Loans m m,6/8/12 2:30,FALSE,Home Loans m/m,AUD,2,0.1%,0.8%
+2012.06.08AUDTrade Balance,6/8/12 2:30,FALSE,Trade Balance,AUD,3,-0.92B,-1.28B
+2012.06.08AUDRBA Gov Stevens Speaks,6/8/12 4:30,FALSE,RBA Gov Stevens Speaks,AUD,3," "," "
+2012.06.08JPYEconomy Watchers Sentiment,6/8/12 6:00,FALSE,Economy Watchers Sentiment,JPY,1,51.2,50.9
+2012.06.08EURGerman Trade Balance,6/8/12 7:00,FALSE,German Trade Balance,EUR,1,13.3B,14.0B
+2012.06.08EURFrench Gov Budget Balance,6/8/12 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-29.4B
+2012.06.08EURFrench Trade Balance,6/8/12 7:45,FALSE,French Trade Balance,EUR,1,-5.7B,-5.6B
+2012.06.08EURItalian Industrial Production m m,6/8/12 9:00,FALSE,Italian Industrial Production m/m,EUR,1,-0.4%,0.6%
+2012.06.08GBPConsumer Inflation Expectations,6/8/12 9:30,FALSE,Consumer Inflation Expectations,GBP,2," ",3.5%
+2012.06.08GBPPPI Input m m,6/8/12 9:30,FALSE,PPI Input m/m,GBP,3,-1.2%,-1.4%
+2012.06.08GBPPPI Output m m,6/8/12 9:30,FALSE,PPI Output m/m,GBP,1,0.2%,0.6%
+2012.06.08CADHousing Starts,6/8/12 13:13,FALSE,Housing Starts,CAD,2,226K,244K
+2012.06.08CADEmployment Change,6/8/12 13:30,FALSE,Employment Change,CAD,3,10.0K,58.2K
+2012.06.08CADLabor Productivity q q,6/8/12 13:30,FALSE,Labor Productivity q/q,CAD,2,0.3%,0.7%
+2012.06.08CADTrade Balance,6/8/12 13:30,FALSE,Trade Balance,CAD,3,0.2B,0.2B
+2012.06.08CADUnemployment Rate,6/8/12 13:30,FALSE,Unemployment Rate,CAD,3,7.3%,7.3%
+2012.06.08USDTrade Balance,6/8/12 13:30,FALSE,Trade Balance,USD,3,-49.4B,-52.6B
+2012.06.08USDFinal Wholesale Inventories m m,6/8/12 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.5%,0.3%
+2012.06.08USDPresident Obama Speaks,6/8/12 15:15,FALSE,President Obama Speaks,USD,1," "," "
+

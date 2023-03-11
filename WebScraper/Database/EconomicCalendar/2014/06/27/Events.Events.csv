@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.06.27EUREU Economic Summit,6/27/14 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2014.06.27EURGerman Prelim CPI m m,6/27/14 0:00,TRUE,German Prelim CPI m/m,EUR,3,0.2%,-0.1%
+2014.06.27GBPGfK Consumer Confidence,6/27/14 0:05,FALSE,GfK Consumer Confidence,GBP,1,2,0
+2014.06.27JPYHousehold Spending y y,6/27/14 0:30,FALSE,Household Spending y/y,JPY,2,-1.9%,-4.6%
+2014.06.27JPYNational Core CPI y y,6/27/14 0:30,FALSE,National Core CPI y/y,JPY,1,3.4%,3.2%
+2014.06.27JPYTokyo Core CPI y y,6/27/14 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,2.8%,2.8%
+2014.06.27JPYUnemployment Rate,6/27/14 0:30,FALSE,Unemployment Rate,JPY,1,3.6%,3.6%
+2014.06.27JPYRetail Sales y y,6/27/14 0:50,FALSE,Retail Sales y/y,JPY,2,-1.9%,-4.3%
+2014.06.27NZDRBNZ Statement of Intent,6/27/14 3:00,FALSE,RBNZ Statement of Intent,NZD,2," "," "
+2014.06.27EURGerman Import Prices m m,6/27/14 7:00,FALSE,German Import Prices m/m,EUR,1,0.2%,-0.3%
+2014.06.27EURFrench Consumer Spending m m,6/27/14 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.3%,-0.2%
+2014.06.27CHFKOF Economic Barometer,6/27/14 8:00,FALSE,KOF Economic Barometer,CHF,2,100.2,100.1
+2014.06.27EURSpanish Flash CPI y y,6/27/14 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,0.3%,0.2%
+2014.06.27GBPCurrent Account,6/27/14 9:30,FALSE,Current Account,GBP,3,-17.1B,-23.5B
+2014.06.27GBPFinal GDP q q,6/27/14 9:30,FALSE,Final GDP q/q,GBP,2,0.8%,0.8%
+2014.06.27GBPIndex of Services 3m 3m,6/27/14 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.9%,0.8%
+2014.06.27GBPRevised Business Investment q q,6/27/14 9:30,FALSE,Revised Business Investment q/q,GBP,1,2.7%,2.7%
+2014.06.27EURItalian 10-y Bond Auction,6/27/14 10:21,FALSE,Italian 10-y Bond Auction,EUR,1," ",3.01|1.3
+2014.06.27CADIPPI m m,6/27/14 13:30,FALSE,IPPI m/m,CAD,1,0.4%,-0.3%
+2014.06.27CADRMPI m m,6/27/14 13:30,FALSE,RMPI m/m,CAD,2,1.3%,0.1%
+2014.06.27USDRevised UoM Consumer Sentiment,6/27/14 14:55,FALSE,Revised UoM Consumer Sentiment,USD,2,82.2,81.2
+2014.06.27USDRevised UoM Inflation Expectations,6/27/14 14:55,FALSE,Revised UoM Inflation Expectations,USD,1," ",3.0%
+

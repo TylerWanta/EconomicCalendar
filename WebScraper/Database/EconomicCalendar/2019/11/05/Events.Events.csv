@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.11.05NZDANZ Commodity Prices m m,11/5/19 0:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",0.0%
+2019.11.05GBPBRC Retail Sales Monitor y y,11/5/19 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,-1.4%,-1.7%
+2019.11.05CNYCaixin Services PMI,11/5/19 1:45,FALSE,Caixin Services PMI,CNY,2,51.5,51.3
+2019.11.05AUDCash Rate,11/5/19 3:30,FALSE,Cash Rate,AUD,2,0.75%,0.75%
+2019.11.05AUDRBA Rate Statement,11/5/19 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2019.11.05EURFrench Gov Budget Balance,11/5/19 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-123.1B
+2019.11.05EURSpanish Unemployment Change,11/5/19 8:00,FALSE,Spanish Unemployment Change,EUR,1,62.0K,13.9K
+2019.11.05GBPFinal Services PMI,11/5/19 9:30,FALSE,Final Services PMI,GBP,2,49.6,49.5
+2019.11.05EURPPI m m,11/5/19 10:00,FALSE,PPI m/m,EUR,1,0.1%,-0.5%
+2019.11.05GBP10-y Bond Auction,11/5/19 10:30,FALSE,10-y Bond Auction,GBP,1," ",0.63|1.9
+2019.11.05CADTrade Balance,11/5/19 13:30,FALSE,Trade Balance,CAD,3,-0.6B,-1.2B
+2019.11.05USDTrade Balance,11/5/19 13:30,FALSE,Trade Balance,USD,1,-52.9B,-55.0B
+2019.11.05USDFinal Services PMI,11/5/19 14:45,FALSE,Final Services PMI,USD,1,51.0,51.0
+2019.11.05USDISM Services PMI,11/5/19 15:00,FALSE,ISM Services PMI,USD,3,53.5,52.6
+2019.11.05USDJOLTS Job Openings,11/5/19 15:00,FALSE,JOLTS Job Openings,USD,1,7.06M,7.30M
+2019.11.05NZDGDT Price Index,11/5/19 15:06,FALSE,GDT Price Index,NZD,1," ",0.5%
+2019.11.05USDIBD TIPP Economic Optimism,11/5/19 15:12,FALSE,IBD/TIPP Economic Optimism,USD,1,53.2,52.6
+2019.11.05NZDEmployment Change q q,11/5/19 21:45,FALSE,Employment Change q/q,NZD,3,0.2%,0.6%
+2019.11.05NZDLabor Cost Index q q,11/5/19 21:45,FALSE,Labor Cost Index q/q,NZD,1,0.6%,0.8%
+2019.11.05NZDUnemployment Rate,11/5/19 21:45,FALSE,Unemployment Rate,NZD,3,4.1%,3.9%
+2019.11.05JPYMonetary Policy Meeting Minutes,11/5/19 23:50,FALSE,Monetary Policy Meeting Minutes,JPY,1," "," "
+

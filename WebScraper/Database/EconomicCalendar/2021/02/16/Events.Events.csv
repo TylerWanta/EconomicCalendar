@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.02.16CNYBank Holiday,2/16/21 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2021.02.16EURECOFIN Meetings,2/16/21 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2021.02.16AUDMonetary Policy Meeting Minutes,2/16/21 0:30,FALSE,Monetary Policy Meeting Minutes,AUD,2," "," "
+2021.02.16JPYTertiary Industry Activity m m,2/16/21 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,-0.6%,-0.6%
+2021.02.16EURItalian Trade Balance,2/16/21 9:00,FALSE,Italian Trade Balance,EUR,1,6.25B,6.75B
+2021.02.16EURFlash Employment Change q q,2/16/21 10:00,FALSE,Flash Employment Change q/q,EUR,1,0.9%,1.0%
+2021.02.16EURFlash GDP q q,2/16/21 10:00,FALSE,Flash GDP q/q,EUR,1,-0.7%,-0.7%
+2021.02.16EURGerman ZEW Economic Sentiment,2/16/21 10:00,FALSE,German ZEW Economic Sentiment,EUR,1,59.7,61.8
+2021.02.16EURZEW Economic Sentiment,2/16/21 10:00,FALSE,ZEW Economic Sentiment,EUR,1,59.2,58.3
+2021.02.16CADForeign Securities Purchases,2/16/21 13:30,FALSE,Foreign Securities Purchases,CAD,1,7.72B,11.78B
+2021.02.16USDEmpire State Manufacturing Index,2/16/21 13:30,FALSE,Empire State Manufacturing Index,USD,1,6.2,3.5
+2021.02.16NZDGDT Price Index,2/16/21 14:20,FALSE,GDT Price Index,NZD,1," ",1.8%
+2021.02.16GBPCB Leading Index m m,2/16/21 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.3%
+2021.02.16AUDCB Leading Index m m,2/16/21 15:30,FALSE,CB Leading Index m/m,AUD,1," ",0.8%
+2021.02.16USDFOMC Member Bowman Speaks,2/16/21 16:10,FALSE,FOMC Member Bowman Speaks,USD,1," "," "
+2021.02.16USDFOMC Member Daly Speaks,2/16/21 20:00,FALSE,FOMC Member Daly Speaks,USD,1," "," "
+2021.02.16USDTIC Long-Term Purchases,2/16/21 21:00,FALSE,TIC Long-Term Purchases,USD,1,103.5B,149.2B
+2021.02.16AUDMI Leading Index m m,2/16/21 23:30,FALSE,MI Leading Index m/m,AUD,1," ",0.1%
+2021.02.16JPYCore Machinery Orders m m,2/16/21 23:50,FALSE,Core Machinery Orders m/m,JPY,1,-6.1%,1.5%
+2021.02.16JPYTrade Balance,2/16/21 23:50,FALSE,Trade Balance,JPY,1,0.49T,0.51T
+

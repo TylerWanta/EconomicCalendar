@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.01.27AUDCPI q q,1/27/16 0:30,FALSE,CPI q/q,AUD,3,0.3%,0.5%
+2016.01.27AUDTrimmed Mean CPI q q,1/27/16 0:30,FALSE,Trimmed Mean CPI q/q,AUD,2,0.5%,0.3%
+2016.01.27CHFUBS Consumption Indicator,1/27/16 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.55
+2016.01.27EURGerman GfK Consumer Climate,1/27/16 7:00,FALSE,German GfK Consumer Climate,EUR,1,9.3,9.4
+2016.01.27GBPNationwide HPI m m,1/27/16 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.6%,0.8%
+2016.01.27GBPHigh Street Lending,1/27/16 9:30,FALSE,High Street Lending,GBP,1,45.5K,44.5K
+2016.01.27EURGerman 30-y Bond Auction,1/27/16 10:33,FALSE,German 30-y Bond Auction,EUR,1," ",1.49|1.0
+2016.01.27USDNew Home Sales,1/27/16 15:00,FALSE,New Home Sales,USD,2,501K,491K
+2016.01.27USDCrude Oil Inventories,1/27/16 15:30,FALSE,Crude Oil Inventories,USD,3,3.8M,4.0M
+2016.01.27USDFOMC Statement,1/27/16 19:00,FALSE,FOMC Statement,USD,3," "," "
+2016.01.27USDFederal Funds Rate,1/27/16 19:00,FALSE,Federal Funds Rate,USD,3,0.50%,0.50%
+2016.01.27GBPMPC Member Shafik Speaks,1/27/16 19:30,FALSE,MPC Member Shafik Speaks,GBP,2," "," "
+2016.01.27NZDOfficial Cash Rate,1/27/16 20:00,FALSE,Official Cash Rate,NZD,3,2.50%,2.50%
+2016.01.27NZDRBNZ Rate Statement,1/27/16 20:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2016.01.27NZDTrade Balance,1/27/16 21:45,FALSE,Trade Balance,NZD,3,-130M,-799M
+2016.01.27JPYRetail Sales y y,1/27/16 23:50,FALSE,Retail Sales y/y,JPY,2,0.1%,-1.1%
+

@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.12.04AllOPEC Meetings,12/4/13 0:00,TRUE,OPEC Meetings,All,1," "," "
+2013.12.04GBPBRC Shop Price Index y y,12/4/13 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-0.5%
+2013.12.04AUDGDP q q,12/4/13 0:30,FALSE,GDP q/q,AUD,3,0.7%,0.7%
+2013.12.04CNYCaixin Services PMI,12/4/13 1:45,FALSE,Caixin Services PMI,CNY,2," ",52.6
+2013.12.04EURSpanish Services PMI,12/4/13 8:15,FALSE,Spanish Services PMI,EUR,2,50.7,49.6
+2013.12.04EURItalian Services PMI,12/4/13 8:45,FALSE,Italian Services PMI,EUR,2,51.2,50.5
+2013.12.04EURFrench Final Services PMI,12/4/13 8:50,FALSE,French Final Services PMI,EUR,1,48.8,48.8
+2013.12.04EURGerman Final Services PMI,12/4/13 8:55,FALSE,German Final Services PMI,EUR,1,54.5,54.5
+2013.12.04EURFinal Services PMI,12/4/13 9:00,FALSE,Final Services PMI,EUR,1,50.9,50.9
+2013.12.04GBPFinal Services PMI,12/4/13 9:30,FALSE,Final Services PMI,GBP,3,62.1,62.5
+2013.12.04EURRetail Sales m m,12/4/13 10:00,FALSE,Retail Sales m/m,EUR,2,0.2%,-0.6%
+2013.12.04EURRevised GDP q q,12/4/13 10:00,FALSE,Revised GDP q/q,EUR,1,0.1%,0.1%
+2013.12.04USDADP Non-Farm Employment Change,12/4/13 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,172K,184K
+2013.12.04CADTrade Balance,12/4/13 13:30,FALSE,Trade Balance,CAD,3,-0.7B,-0.3B
+2013.12.04USDTrade Balance,12/4/13 13:30,FALSE,Trade Balance,USD,3,-40.3B,-43.0B
+2013.12.04USDFinal Services PMI,12/4/13 14:00,FALSE,Final Services PMI,USD,1,57.1,57.1
+2013.12.04CADBOC Rate Statement,12/4/13 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2013.12.04CADOvernight Rate,12/4/13 15:00,FALSE,Overnight Rate,CAD,3,1.00%,1.00%
+2013.12.04USDISM Services PMI,12/4/13 15:00,FALSE,ISM Services PMI,USD,3,55.4,55.4
+2013.12.04USDNew Home Sales,12/4/13 15:00,FALSE,New Home Sales,USD,3,432K,354K
+2013.12.04USDCrude Oil Inventories,12/4/13 15:30,FALSE,Crude Oil Inventories,USD,2,-0.5M,3.0M
+2013.12.04USDPresident Obama Speaks,12/4/13 16:20,FALSE,President Obama Speaks,USD,1," "," "
+2013.12.04USDBeige Book,12/4/13 19:00,FALSE,Beige Book,USD,2," "," "
+

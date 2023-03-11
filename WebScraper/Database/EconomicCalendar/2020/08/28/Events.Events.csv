@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.08.28AllJackson Hole Symposium,8/28/20 0:00,TRUE,Jackson Hole Symposium,All,3," "," "
+2020.08.28JPYTokyo Core CPI y y,8/28/20 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.3%,0.4%
+2020.08.28EURGerman GfK Consumer Climate,8/28/20 7:00,FALSE,German GfK Consumer Climate,EUR,1,1.0,-0.2
+2020.08.28EURGerman Import Prices m m,8/28/20 7:03,FALSE,German Import Prices m/m,EUR,1,0.2%,0.6%
+2020.08.28EURFrench Consumer Spending m m,8/28/20 7:45,FALSE,French Consumer Spending m/m,EUR,1,1.2%,10.3%
+2020.08.28EURFrench Prelim CPI m m,8/28/20 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.2%,0.4%
+2020.08.28EURFrench Prelim GDP q q,8/28/20 7:45,FALSE,French Prelim GDP q/q,EUR,1,-13.8%,-13.8%
+2020.08.28CHFKOF Economic Barometer,8/28/20 8:00,FALSE,KOF Economic Barometer,CHF,2,90.3,86.0
+2020.08.28EURItalian 10-y Bond Auction,8/28/20 10:20,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.04|1.4
+2020.08.28CADGDP m m,8/28/20 13:30,FALSE,GDP m/m,CAD,2,5.2%,4.8%
+2020.08.28USDCore PCE Price Index m m,8/28/20 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.5%,0.3%
+2020.08.28USDGoods Trade Balance,8/28/20 13:30,FALSE,Goods Trade Balance,USD,1,-72.3B,-71.0B
+2020.08.28USDPersonal Income m m,8/28/20 13:30,FALSE,Personal Income m/m,USD,1,-0.3%,-1.0%
+2020.08.28USDPersonal Spending m m,8/28/20 13:30,FALSE,Personal Spending m/m,USD,2,1.5%,6.2%
+2020.08.28USDPrelim Wholesale Inventories m m,8/28/20 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,-1.0%,-1.4%
+2020.08.28GBPBOE Gov Bailey Speaks,8/28/20 14:05,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2020.08.28USDChicago PMI,8/28/20 14:45,FALSE,Chicago PMI,USD,2,51.0,51.9
+2020.08.28USDRevised UoM Consumer Sentiment,8/28/20 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,72.8,72.8
+2020.08.28USDRevised UoM Inflation Expectations,8/28/20 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",3.0%
+

@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.12.11EUREU Economic Summit,12/11/20 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2020.12.11EUREuro Summit,12/11/20 0:00,TRUE,Euro Summit,EUR,3," "," "
+2020.12.11EURGerman Final CPI m m,12/11/20 7:00,FALSE,German Final CPI m/m,EUR,1,-0.8%,-0.8%
+2020.12.11GBPBOE Financial Stability Report,12/11/20 7:00,FALSE,BOE Financial Stability Report,GBP,1," "," "
+2020.12.11GBPFPC Meeting Minutes,12/11/20 7:00,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2020.12.11GBPFPC Statement,12/11/20 7:00,FALSE,FPC Statement,GBP,1," "," "
+2020.12.11GBPBOE Gov Bailey Speaks,12/11/20 8:30,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2020.12.11EURItalian Industrial Production m m,12/11/20 9:00,FALSE,Italian Industrial Production m/m,EUR,1,1.1%,-5.1%
+2020.12.11GBPConsumer Inflation Expectations,12/11/20 9:30,FALSE,Consumer Inflation Expectations,GBP,1," ",2.8%
+2020.12.11EURItalian Quarterly Unemployment Rate,12/11/20 10:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,9.8%,8.4%
+2020.12.11CADCapacity Utilization Rate,12/11/20 13:30,FALSE,Capacity Utilization Rate,CAD,1,77.8%,70.7%
+2020.12.11USDCore PPI m m,12/11/20 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.1%
+2020.12.11USDPPI m m,12/11/20 13:30,FALSE,PPI m/m,USD,2,0.1%,0.3%
+2020.12.11GBPCB Leading Index m m,12/11/20 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-1.5%
+2020.12.11USDPrelim UoM Consumer Sentiment,12/11/20 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,1,76.1,76.9
+2020.12.11USDPrelim UoM Inflation Expectations,12/11/20 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.8%
+

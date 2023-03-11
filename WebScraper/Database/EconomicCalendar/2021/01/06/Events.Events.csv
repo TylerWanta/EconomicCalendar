@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.01.06EURGerman Prelim CPI m m,1/6/21 0:00,TRUE,German Prelim CPI m/m,EUR,1,0.6%,-0.8%
+2021.01.06EURItalian Bank Holiday,1/6/21 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2021.01.06GBPBRC Shop Price Index y y,1/6/21 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-1.8%
+2021.01.06CNYCaixin Services PMI,1/6/21 1:45,FALSE,Caixin Services PMI,CNY,1,58.1,57.8
+2021.01.06JPY10-y Bond Auction,1/6/21 3:35,FALSE,10-y Bond Auction,JPY,1," ",0.02|3.4
+2021.01.06JPYConsumer Confidence,1/6/21 5:00,FALSE,Consumer Confidence,JPY,1,32.6,33.7
+2021.01.06EURFrench Prelim CPI m m,1/6/21 7:45,FALSE,French Prelim CPI m/m,EUR,1,0.4%,0.2%
+2021.01.06EURSpanish Services PMI,1/6/21 8:15,FALSE,Spanish Services PMI,EUR,1,44.5,39.5
+2021.01.06EURItalian Services PMI,1/6/21 8:45,FALSE,Italian Services PMI,EUR,1,45.0,39.4
+2021.01.06EURFrench Final Services PMI,1/6/21 8:50,FALSE,French Final Services PMI,EUR,1,49.2,49.2
+2021.01.06EURGerman Final Services PMI,1/6/21 8:55,FALSE,German Final Services PMI,EUR,1,47.7,47.7
+2021.01.06EURFinal Services PMI,1/6/21 9:00,FALSE,Final Services PMI,EUR,1,47.4,47.3
+2021.01.06GBPFinal Services PMI,1/6/21 9:30,FALSE,Final Services PMI,GBP,1,49.9,49.9
+2021.01.06EURPPI m m,1/6/21 10:00,FALSE,PPI m/m,EUR,1,0.2%,0.4%
+2021.01.06GBP10-y Bond Auction,1/6/21 10:05,FALSE,10-y Bond Auction,GBP,1," ",0.43|2.7
+2021.01.06EURGerman 10-y Bond Auction,1/6/21 10:36,FALSE,German 10-y Bond Auction,EUR,1," ",-0.57|2.0
+2021.01.06USDADP Non-Farm Employment Change,1/6/21 13:15,FALSE,ADP Non-Farm Employment Change,USD,2,60K,304K
+2021.01.06GBPBOE Gov Bailey Speaks,1/6/21 14:30,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2021.01.06USDFinal Services PMI,1/6/21 14:45,FALSE,Final Services PMI,USD,1,55.2,55.3
+2021.01.06USDFactory Orders m m,1/6/21 15:00,FALSE,Factory Orders m/m,USD,1,0.7%,1.3%
+2021.01.06USDCrude Oil Inventories,1/6/21 15:30,FALSE,Crude Oil Inventories,USD,1,-2.8M,-6.1M
+2021.01.06USDFOMC Meeting Minutes,1/6/21 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+2021.01.06JPYAverage Cash Earnings y y,1/6/21 23:30,FALSE,Average Cash Earnings y/y,JPY,1,-0.9%,-0.7%
+

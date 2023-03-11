@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.08.01CHFBank Holiday,8/1/13 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2013.08.01USDTotal Vehicle Sales,8/1/13 0:00,TRUE,Total Vehicle Sales,USD,1,15.8M,16.0M
+2013.08.01AUDAIG Manufacturing Index,8/1/13 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",49.6
+2013.08.01CNYManufacturing PMI,8/1/13 1:58,FALSE,Manufacturing PMI,CNY,3,49.8,50.1
+2013.08.01AUDHIA New Home Sales m m,8/1/13 2:00,FALSE,HIA New Home Sales m/m,AUD,2," ",1.6%
+2013.08.01AUDImport Prices q q,8/1/13 2:30,FALSE,Import Prices q/q,AUD,2,1.9%,0.0%
+2013.08.01CNYCaixin Manufacturing PMI,8/1/13 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,47.7,47.7
+2013.08.01JPY10-y Bond Auction,8/1/13 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.88|2.4
+2013.08.01AUDCommodity Prices y y,8/1/13 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-10.4%
+2013.08.01EURSpanish Manufacturing PMI,8/1/13 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,50.7,50.0
+2013.08.01EURItalian Manufacturing PMI,8/1/13 8:45,FALSE,Italian Manufacturing PMI,EUR,2,49.8,49.1
+2013.08.01EURFrench Final Manufacturing PMI,8/1/13 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.8,49.8
+2013.08.01EURGerman Final Manufacturing PMI,8/1/13 8:55,FALSE,German Final Manufacturing PMI,EUR,1,50.3,50.3
+2013.08.01EURFinal Manufacturing PMI,8/1/13 9:00,FALSE,Final Manufacturing PMI,EUR,1,50.1,50.1
+2013.08.01GBPFinal Manufacturing PMI,8/1/13 9:30,FALSE,Final Manufacturing PMI,GBP,3,52.8,52.9
+2013.08.01GBPAsset Purchase Facility,8/1/13 12:00,FALSE,Asset Purchase Facility,GBP,3,375B,375B
+2013.08.01GBPOfficial Bank Rate,8/1/13 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2013.08.01USDChallenger Job Cuts y y,8/1/13 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",4.8%
+2013.08.01EURMain Refinancing Rate,8/1/13 12:45,FALSE,Main Refinancing Rate,EUR,3,0.50%,0.50%
+2013.08.01EURECB Press Conference,8/1/13 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2013.08.01USDUnemployment Claims,8/1/13 13:30,FALSE,Unemployment Claims,USD,3,346K,345K
+2013.08.01USDFinal Manufacturing PMI,8/1/13 14:00,FALSE,Final Manufacturing PMI,USD,1,53.1,53.2
+2013.08.01CADManufacturing PMI,8/1/13 14:30,FALSE,Manufacturing PMI,CAD,1," ",52.4
+2013.08.01USDConstruction Spending m m,8/1/13 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,1.3%
+2013.08.01USDISM Manufacturing PMI,8/1/13 15:00,FALSE,ISM Manufacturing PMI,USD,3,52.1,50.9
+2013.08.01USDISM Manufacturing Prices,8/1/13 15:00,FALSE,ISM Manufacturing Prices,USD,1,53.0,52.5
+2013.08.01USDNatural Gas Storage,8/1/13 15:30,FALSE,Natural Gas Storage,USD,1,55B,41B
+

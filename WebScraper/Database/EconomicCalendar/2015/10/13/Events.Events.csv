@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.10.13GBPBRC Retail Sales Monitor y y,10/13/15 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",-1.0%
+2015.10.13JPYBank Lending y y,10/13/15 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.7%
+2015.10.13JPYMonetary Policy Meeting Minutes,10/13/15 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,2," "," "
+2015.10.13AUDNAB Business Confidence,10/13/15 1:30,FALSE,NAB Business Confidence,AUD,3," ",1
+2015.10.13CNYTrade Balance,10/13/15 3:00,FALSE,Trade Balance,CNY,3,292B,368B
+2015.10.13CNYUSD-Denominated Trade Balance,10/13/15 4:08,FALSE,USD-Denominated Trade Balance,CNY,1,46.9B,60.2B
+2015.10.13JPYConsumer Confidence,10/13/15 6:00,FALSE,Consumer Confidence,JPY,1,41.6,41.7
+2015.10.13JPYPrelim Machine Tool Orders y y,10/13/15 6:58,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-16.5%
+2015.10.13EURGerman Final CPI m m,10/13/15 7:00,FALSE,German Final CPI m/m,EUR,1,-0.2%,-0.2%
+2015.10.13EURGerman WPI m m,10/13/15 7:00,FALSE,German WPI m/m,EUR,1,-0.3%,-0.8%
+2015.10.13CHFPPI m m,10/13/15 8:15,FALSE,PPI m/m,CHF,2,-0.1%,-0.7%
+2015.10.13GBPBOE Credit Conditions Survey,10/13/15 9:30,FALSE,BOE Credit Conditions Survey,GBP,2," "," "
+2015.10.13GBPCPI y y,10/13/15 9:30,FALSE,CPI y/y,GBP,3,0.0%,0.0%
+2015.10.13GBPCore CPI y y,10/13/15 9:30,FALSE,Core CPI y/y,GBP,1,1.1%,1.0%
+2015.10.13GBPONS HPI y y,10/13/15 9:30,FALSE,ONS HPI y/y,GBP,1,5.5%,5.2%
+2015.10.13GBPPPI Input m m,10/13/15 9:30,FALSE,PPI Input m/m,GBP,2,0.2%,-3.0%
+2015.10.13GBPPPI Output m m,10/13/15 9:30,FALSE,PPI Output m/m,GBP,1,-0.2%,-0.5%
+2015.10.13GBPRPI y y,10/13/15 9:30,FALSE,RPI y/y,GBP,2,1.0%,1.1%
+2015.10.13EURGerman ZEW Economic Sentiment,10/13/15 10:00,FALSE,German ZEW Economic Sentiment,EUR,3,6.8,12.1
+2015.10.13EURZEW Economic Sentiment,10/13/15 10:00,FALSE,ZEW Economic Sentiment,EUR,2,30.1,33.3
+2015.10.13GBPMPC Member Vlieghe Speaks,10/13/15 10:00,FALSE,MPC Member Vlieghe Speaks,GBP,2," "," "
+2015.10.13GBPMPC Member McCafferty Speaks,10/13/15 11:00,FALSE,MPC Member McCafferty Speaks,GBP,2," "," "
+2015.10.13USDNFIB Small Business Index,10/13/15 11:00,FALSE,NFIB Small Business Index,USD,1,95.6,95.9
+2015.10.13GBPMPC Member Haldane Speaks,10/13/15 18:00,FALSE,MPC Member Haldane Speaks,GBP,2," "," "
+2015.10.13NZDRBNZ Gov Wheeler Speaks,10/13/15 21:10,FALSE,RBNZ Gov Wheeler Speaks,NZD,3," "," "
+

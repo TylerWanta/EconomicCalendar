@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.02.07EUREU Economic Summit,2/7/13 0:00,TRUE,EU Economic Summit,EUR,3," "," "
+2013.02.07AUDEmployment Change,2/7/13 0:30,FALSE,Employment Change,AUD,3,5.8K,-3.8K
+2013.02.07AUDNAB Quarterly Business Confidence,2/7/13 0:30,FALSE,NAB Quarterly Business Confidence,AUD,2," ",-4
+2013.02.07AUDUnemployment Rate,2/7/13 0:30,FALSE,Unemployment Rate,AUD,3,5.5%,5.4%
+2013.02.07JPYLeading Indicators,2/7/13 5:00,FALSE,Leading Indicators,JPY,1,93.8%,92.1%
+2013.02.07CHFSECO Consumer Climate,2/7/13 6:45,FALSE,SECO Consumer Climate,CHF,2,-11,-17
+2013.02.07EURFrench Trade Balance,2/7/13 7:45,FALSE,French Trade Balance,EUR,1,-4.2B,-4.3B
+2013.02.07CHFForeign Currency Reserves,2/7/13 8:00,FALSE,Foreign Currency Reserves,CHF,3," ",427B
+2013.02.07GBPGoods Trade Balance,2/7/13 9:30,FALSE,Goods Trade Balance,GBP,2,-8.9B,-9.3B
+2013.02.07GBPIndustrial Production m m,2/7/13 9:30,FALSE,Industrial Production m/m,GBP,1,0.7%,0.2%
+2013.02.07GBPManufacturing Production m m,2/7/13 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.7%,-0.3%
+2013.02.07GBPBOE Gov Carney Speaks,2/7/13 9:45,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2013.02.07EURFrench 10-y Bond Auction,2/7/13 10:04,FALSE,French 10-y Bond Auction,EUR,2," ",2.07|1.7
+2013.02.07EURGerman Industrial Production m m,2/7/13 11:00,FALSE,German Industrial Production m/m,EUR,2,0.2%,-0.2%
+2013.02.07GBPAsset Purchase Facility,2/7/13 12:00,FALSE,Asset Purchase Facility,GBP,3,375B,375B
+2013.02.07GBPMPC Rate Statement,2/7/13 12:00,FALSE,MPC Rate Statement,GBP,3," "," "
+2013.02.07GBPOfficial Bank Rate,2/7/13 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2013.02.07EURMain Refinancing Rate,2/7/13 12:45,FALSE,Main Refinancing Rate,EUR,3,0.75%,0.75%
+2013.02.07CADBuilding Permits m m,2/7/13 13:30,FALSE,Building Permits m/m,CAD,3,4.3%,-14.5%
+2013.02.07CADNHPI m m,2/7/13 13:30,FALSE,NHPI m/m,CAD,2,0.2%,0.1%
+2013.02.07EURECB Press Conference,2/7/13 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2013.02.07USDPrelim Nonfarm Productivity q q,2/7/13 13:30,FALSE,Prelim Nonfarm Productivity q/q,USD,2,-1.3%,2.9%
+2013.02.07USDPrelim Unit Labor Costs q q,2/7/13 13:30,FALSE,Prelim Unit Labor Costs q/q,USD,2,3.1%,-1.9%
+2013.02.07USDUnemployment Claims,2/7/13 13:30,FALSE,Unemployment Claims,USD,3,361K,371K
+2013.02.07USDFOMC Member Stein Speaks,2/7/13 14:30,FALSE,FOMC Member Stein Speaks,USD,2," "," "
+2013.02.07GBPNIESR GDP Estimate,2/7/13 15:00,FALSE,NIESR GDP Estimate,GBP,2," ",-0.3%
+2013.02.07USDNatural Gas Storage,2/7/13 15:30,FALSE,Natural Gas Storage,USD,1,-135B,-194B
+2013.02.07USDConsumer Credit m m,2/7/13 20:00,FALSE,Consumer Credit m/m,USD,1,14.1B,15.9B
+2013.02.07JPYBank Lending y y,2/7/13 23:50,FALSE,Bank Lending y/y,JPY,1," ",1.1%
+2013.02.07JPYCurrent Account,2/7/13 23:50,FALSE,Current Account,JPY,3,0.18T,0.23T
+

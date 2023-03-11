@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.11.04AUDMI Inflation Gauge m m,11/4/19 0:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2019.11.04AUDANZ Job Advertisements m m,11/4/19 0:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",0.3%
+2019.11.04AUDRetail Sales m m,11/4/19 0:30,FALSE,Retail Sales m/m,AUD,3,0.4%,0.4%
+2019.11.04CHFSECO Consumer Climate,11/4/19 6:45,FALSE,SECO Consumer Climate,CHF,1,-8,-8
+2019.11.04EURSpanish Manufacturing PMI,11/4/19 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,47.5,47.7
+2019.11.04EURItalian Manufacturing PMI,11/4/19 8:45,FALSE,Italian Manufacturing PMI,EUR,1,47.6,47.8
+2019.11.04EURFrench Final Manufacturing PMI,11/4/19 8:50,FALSE,French Final Manufacturing PMI,EUR,1,50.5,50.5
+2019.11.04EURGerman Final Manufacturing PMI,11/4/19 8:55,FALSE,German Final Manufacturing PMI,EUR,1,41.9,41.9
+2019.11.04EURFinal Manufacturing PMI,11/4/19 9:00,FALSE,Final Manufacturing PMI,EUR,1,45.7,45.7
+2019.11.04EURSentix Investor Confidence,11/4/19 9:30,FALSE,Sentix Investor Confidence,EUR,1,-13.2,-16.8
+2019.11.04GBPConstruction PMI,11/4/19 9:30,FALSE,Construction PMI,GBP,1,44.3,43.3
+2019.11.04USDFactory Orders m m,11/4/19 15:00,FALSE,Factory Orders m/m,USD,1,-0.5%,-0.1%
+2019.11.04USDLoan Officer Survey,11/4/19 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2019.11.04EURECB President Lagarde Speaks,11/4/19 19:30,FALSE,ECB President Lagarde Speaks,EUR,3," "," "
+2019.11.04NZDRBNZ Gov Orr Speaks,11/4/19 20:05,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2019.11.04AUDAIG Services Index,11/4/19 21:30,FALSE,AIG Services Index,AUD,1," ",51.5
+2019.11.04JPYMonetary Base y y,11/4/19 23:50,FALSE,Monetary Base y/y,JPY,1,2.9%,3.0%
+

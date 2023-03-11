@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.05.06EURECOFIN Meetings,5/6/14 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2014.05.06AUDTrade Balance,5/6/14 2:30,FALSE,Trade Balance,AUD,3,1.10B,1.26B
+2014.05.06AUDCash Rate,5/6/14 5:30,FALSE,Cash Rate,AUD,3,2.50%,2.50%
+2014.05.06AUDRBA Rate Statement,5/6/14 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2014.05.06EURSpanish Unemployment Change,5/6/14 8:00,FALSE,Spanish Unemployment Change,EUR,2,-49.1K,-16.6K
+2014.05.06EURSpanish Services PMI,5/6/14 8:15,FALSE,Spanish Services PMI,EUR,2,54.3,54.0
+2014.05.06EURItalian Services PMI,5/6/14 8:45,FALSE,Italian Services PMI,EUR,2,51.2,49.5
+2014.05.06EURFrench Final Services PMI,5/6/14 8:50,FALSE,French Final Services PMI,EUR,1,50.3,50.3
+2014.05.06EURGerman Final Services PMI,5/6/14 8:55,FALSE,German Final Services PMI,EUR,1,55.0,55.0
+2014.05.06EURFinal Services PMI,5/6/14 9:00,FALSE,Final Services PMI,EUR,1,53.1,53.1
+2014.05.06GBPFinal Services PMI,5/6/14 9:30,FALSE,Final Services PMI,GBP,3,57.9,57.6
+2014.05.06EURRetail Sales m m,5/6/14 10:00,FALSE,Retail Sales m/m,EUR,2,-0.2%,0.1%
+2014.05.06CADTrade Balance,5/6/14 13:30,FALSE,Trade Balance,CAD,3,0.4B,0.8B
+2014.05.06USDTrade Balance,5/6/14 13:30,FALSE,Trade Balance,USD,3,-40.1B,-41.9B
+2014.05.06CADIvey PMI,5/6/14 15:00,FALSE,Ivey PMI,CAD,3,54.5,55.2
+2014.05.06USDIBD TIPP Economic Optimism,5/6/14 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,47.6,48.0
+2014.05.06NZDGDT Price Index,5/6/14 15:44,FALSE,GDT Price Index,NZD,2," ",-2.6%
+2014.05.06USDFOMC Member Stein Speaks,5/6/14 22:30,FALSE,FOMC Member Stein Speaks,USD,2," "," "
+2014.05.06NZDEmployment Change q q,5/6/14 23:45,FALSE,Employment Change q/q,NZD,3,0.6%,1.0%
+2014.05.06NZDLabor Cost Index q q,5/6/14 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.6%
+2014.05.06NZDUnemployment Rate,5/6/14 23:45,FALSE,Unemployment Rate,NZD,3,5.8%,6.0%
+

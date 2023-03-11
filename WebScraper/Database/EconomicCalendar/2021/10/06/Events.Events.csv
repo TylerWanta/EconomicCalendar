@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.10.06CNYBank Holiday,10/6/21 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2021.10.06NZDOfficial Cash Rate,10/6/21 2:00,FALSE,Official Cash Rate,NZD,3,0.50%,0.25%
+2021.10.06NZDRBNZ Rate Statement,10/6/21 2:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2021.10.06EURGerman Factory Orders m m,10/6/21 7:00,FALSE,German Factory Orders m/m,EUR,1,-2.3%,4.9%
+2021.10.06GBPConstruction PMI,10/6/21 9:30,FALSE,Construction PMI,GBP,1,53.9,55.2
+2021.10.06GBPHousing Equity Withdrawal q q,10/6/21 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-0.9B,6.1B
+2021.10.06EURRetail Sales m m,10/6/21 10:00,FALSE,Retail Sales m/m,EUR,1,0.7%,-2.6%
+2021.10.06USDADP Non-Farm Employment Change,10/6/21 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,425K,340K
+2021.10.06USDCrude Oil Inventories,10/6/21 15:30,FALSE,Crude Oil Inventories,USD,2,0.8M,4.6M
+2021.10.06USDFOMC Member Bostic Speaks,10/6/21 16:30,FALSE,FOMC Member Bostic Speaks,USD,1," "," "
+2021.10.06AUDAIG Services Index,10/6/21 22:30,FALSE,AIG Services Index,AUD,1," ",45.6
+

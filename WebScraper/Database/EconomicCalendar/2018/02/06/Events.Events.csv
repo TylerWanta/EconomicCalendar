@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.02.06GBPBRC Retail Sales Monitor y y,2/6/18 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",0.6%
+2018.02.06AUDRetail Sales m m,2/6/18 0:30,FALSE,Retail Sales m/m,AUD,3,-0.2%,1.3%
+2018.02.06AUDTrade Balance,2/6/18 0:30,FALSE,Trade Balance,AUD,3,0.25B,0.04B
+2018.02.06AUDCash Rate,2/6/18 3:30,FALSE,Cash Rate,AUD,2,1.50%,1.50%
+2018.02.06AUDRBA Rate Statement,2/6/18 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2018.02.06EURGerman Factory Orders m m,2/6/18 7:00,FALSE,German Factory Orders m/m,EUR,1,0.6%,-0.1%
+2018.02.06EURFrench Gov Budget Balance,2/6/18 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-84.7B
+2018.02.06EURGerman Buba President Weidmann Speaks,2/6/18 9:00,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2018.02.06EURRetail PMI,2/6/18 9:10,FALSE,Retail PMI,EUR,1," ",53.0
+2018.02.06CADTrade Balance,2/6/18 13:30,FALSE,Trade Balance,CAD,3,-2.3B,-2.7B
+2018.02.06USDTrade Balance,2/6/18 13:30,FALSE,Trade Balance,USD,1,-52.1B,-50.4B
+2018.02.06NZDGDT Price Index,2/6/18 14:36,FALSE,GDT Price Index,NZD,2," ",4.9%
+2018.02.06CADIvey PMI,2/6/18 15:00,FALSE,Ivey PMI,CAD,2,60.7,60.4
+2018.02.06USDJOLTS Job Openings,2/6/18 15:00,FALSE,JOLTS Job Openings,USD,1,5.95M,5.98M
+2018.02.06USDIBD TIPP Economic Optimism,2/6/18 15:01,FALSE,IBD/TIPP Economic Optimism,USD,1,55.4,55.1
+2018.02.06NZDEmployment Change q q,2/6/18 21:45,FALSE,Employment Change q/q,NZD,3,0.4%,2.2%
+2018.02.06NZDLabor Cost Index q q,2/6/18 21:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.7%
+2018.02.06NZDUnemployment Rate,2/6/18 21:45,FALSE,Unemployment Rate,NZD,3,4.7%,4.6%
+2018.02.06AUDAIG Construction Index,2/6/18 22:30,FALSE,AIG Construction Index,AUD,1," ",52.8
+

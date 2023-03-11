@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.08.15EURFrench Bank Holiday,8/15/16 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2016.08.15EURItalian Bank Holiday,8/15/16 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2016.08.15GBPRightmove HPI m m,8/15/16 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",-0.9%
+2016.08.15JPYPrelim GDP Price Index y y,8/15/16 0:50,FALSE,Prelim GDP Price Index y/y,JPY,1,0.7%,0.9%
+2016.08.15JPYPrelim GDP q q,8/15/16 0:50,FALSE,Prelim GDP q/q,JPY,3,0.2%,0.5%
+2016.08.15JPYRevised Industrial Production m m,8/15/16 5:30,FALSE,Revised Industrial Production m/m,JPY,1,1.9%,1.9%
+2016.08.15CHFPPI m m,8/15/16 8:15,FALSE,PPI m/m,CHF,2,-0.2%,0.1%
+2016.08.15EURGerman Buba Monthly Report,8/15/16 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2016.08.15USDEmpire State Manufacturing Index,8/15/16 13:30,FALSE,Empire State Manufacturing Index,USD,2,2.1,0.6
+2016.08.15USDNAHB Housing Market Index,8/15/16 15:00,FALSE,NAHB Housing Market Index,USD,1,60,58
+2016.08.15USDTIC Long-Term Purchases,8/15/16 21:00,FALSE,TIC Long-Term Purchases,USD,1,42.3B,40.8B
+

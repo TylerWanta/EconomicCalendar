@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.09.30CNYBank Holiday,9/30/19 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2019.09.30EURGerman Prelim CPI m m,9/30/19 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.1%,-0.2%
+2019.09.30JPYBOJ Summary of Opinions,9/30/19 0:50,FALSE,BOJ Summary of Opinions,JPY,1," "," "
+2019.09.30JPYPrelim Industrial Production m m,9/30/19 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-0.5%,1.3%
+2019.09.30JPYRetail Sales y y,9/30/19 0:50,FALSE,Retail Sales y/y,JPY,1,0.7%,-2.0%
+2019.09.30NZDANZ Business Confidence,9/30/19 1:00,FALSE,ANZ Business Confidence,NZD,3," ",-52.3
+2019.09.30AUDMI Inflation Gauge m m,9/30/19 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.0%
+2019.09.30CNYManufacturing PMI,9/30/19 2:00,FALSE,Manufacturing PMI,CNY,3,49.6,49.5
+2019.09.30CNYNon-Manufacturing PMI,9/30/19 2:02,FALSE,Non-Manufacturing PMI,CNY,2,53.9,53.8
+2019.09.30AUDPrivate Sector Credit m m,9/30/19 2:30,FALSE,Private Sector Credit m/m,AUD,1,0.3%,0.2%
+2019.09.30CNYCaixin Manufacturing PMI,9/30/19 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,50.2,50.4
+2019.09.30JPYHousing Starts y y,9/30/19 6:00,FALSE,Housing Starts y/y,JPY,1,-6.1%,-4.1%
+2019.09.30EURGerman Retail Sales m m,9/30/19 7:00,FALSE,German Retail Sales m/m,EUR,1,0.5%,-0.8%
+2019.09.30CHFKOF Economic Barometer,9/30/19 8:00,FALSE,KOF Economic Barometer,CHF,1,96.2,95.5
+2019.09.30EURSpanish Flash CPI y y,9/30/19 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,0.3%,0.3%
+2019.09.30EURGerman Unemployment Change,9/30/19 8:55,FALSE,German Unemployment Change,EUR,1,5K,2K
+2019.09.30EURItalian Monthly Unemployment Rate,9/30/19 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,9.9%,9.8%
+2019.09.30GBPCurrent Account,9/30/19 9:30,FALSE,Current Account,GBP,3,-19.2B,-33.1B
+2019.09.30GBPFinal GDP q q,9/30/19 9:30,FALSE,Final GDP q/q,GBP,2,-0.2%,-0.2%
+2019.09.30GBPM4 Money Supply m m,9/30/19 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.5%,0.7%
+2019.09.30GBPMortgage Approvals,9/30/19 9:30,FALSE,Mortgage Approvals,GBP,1,67K,67K
+2019.09.30GBPNet Lending to Individuals m m,9/30/19 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,5.1B,5.5B
+2019.09.30GBPRevised Business Investment q q,9/30/19 9:30,FALSE,Revised Business Investment q/q,GBP,1,-0.5%,-0.5%
+2019.09.30EURItalian Prelim CPI m m,9/30/19 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,-0.3%,0.4%
+2019.09.30EURUnemployment Rate,9/30/19 10:00,FALSE,Unemployment Rate,EUR,1,7.5%,7.5%
+2019.09.30CADIPPI m m,9/30/19 13:30,FALSE,IPPI m/m,CAD,1,-0.2%,-0.3%
+2019.09.30CADRMPI m m,9/30/19 13:30,FALSE,RMPI m/m,CAD,2,1.3%,1.3%
+2019.09.30USDChicago PMI,9/30/19 14:45,FALSE,Chicago PMI,USD,2,50.0,50.4
+2019.09.30NZDNZIER Business Confidence,9/30/19 22:00,FALSE,NZIER Business Confidence,NZD,3," ",-34
+2019.09.30AUDAIG Manufacturing Index,9/30/19 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",53.1
+

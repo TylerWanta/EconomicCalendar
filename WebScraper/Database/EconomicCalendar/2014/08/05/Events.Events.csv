@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.08.05AUDAIG Services Index,8/5/14 0:30,FALSE,AIG Services Index,AUD,1," ",47.6
+2014.08.05AUDTrade Balance,8/5/14 2:30,FALSE,Trade Balance,AUD,3,-2.00B,-2.04B
+2014.08.05CNYCaixin Services PMI,8/5/14 2:45,FALSE,Caixin Services PMI,CNY,2," ",53.1
+2014.08.05JPY10-y Bond Auction,8/5/14 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.56|3.4
+2014.08.05AUDCash Rate,8/5/14 5:30,FALSE,Cash Rate,AUD,3,2.50%,2.50%
+2014.08.05AUDRBA Rate Statement,8/5/14 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2014.08.05EURSpanish Services PMI,8/5/14 8:15,FALSE,Spanish Services PMI,EUR,2,55.1,54.8
+2014.08.05EURItalian Services PMI,8/5/14 8:45,FALSE,Italian Services PMI,EUR,2,53.2,53.9
+2014.08.05EURFrench Final Services PMI,8/5/14 8:50,FALSE,French Final Services PMI,EUR,1,50.4,50.4
+2014.08.05EURGerman Final Services PMI,8/5/14 8:55,FALSE,German Final Services PMI,EUR,1,56.6,56.6
+2014.08.05EURFinal Services PMI,8/5/14 9:00,FALSE,Final Services PMI,EUR,1,54.4,54.4
+2014.08.05GBPFinal Services PMI,8/5/14 9:30,FALSE,Final Services PMI,GBP,3,58.1,57.7
+2014.08.05EURRetail Sales m m,8/5/14 10:00,FALSE,Retail Sales m/m,EUR,2,0.4%,0.3%
+2014.08.05USDFinal Services PMI,8/5/14 14:45,FALSE,Final Services PMI,USD,1,61.0,61.0
+2014.08.05USDFactory Orders m m,8/5/14 15:00,FALSE,Factory Orders m/m,USD,2,0.6%,-0.6%
+2014.08.05USDIBD TIPP Economic Optimism,8/5/14 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,46.2,45.6
+2014.08.05USDISM Services PMI,8/5/14 15:00,FALSE,ISM Services PMI,USD,3,56.6,56.0
+2014.08.05NZDGDT Price Index,8/5/14 15:26,FALSE,GDT Price Index,NZD,3," ",-8.9%
+2014.08.05NZDEmployment Change q q,8/5/14 23:45,FALSE,Employment Change q/q,NZD,3,0.7%,0.9%
+2014.08.05NZDLabor Cost Index q q,8/5/14 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.3%
+2014.08.05NZDUnemployment Rate,8/5/14 23:45,FALSE,Unemployment Rate,NZD,3,5.8%,5.9%
+

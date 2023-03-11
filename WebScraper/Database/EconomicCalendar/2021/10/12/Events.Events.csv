@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.10.12GBPBRC Retail Sales Monitor y y,10/12/21 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,1.3%,1.5%
+2021.10.12JPYBank Lending y y,10/12/21 0:50,FALSE,Bank Lending y/y,JPY,1,0.8%,0.6%
+2021.10.12JPYPPI y y,10/12/21 0:50,FALSE,PPI y/y,JPY,1,5.8%,5.8%
+2021.10.12AUDNAB Business Confidence,10/12/21 1:30,FALSE,NAB Business Confidence,AUD,1," ",-6
+2021.10.12JPY30-y Bond Auction,10/12/21 4:35,FALSE,30-y Bond Auction,JPY,1," ",0.65|3.0
+2021.10.12EURGerman WPI m m,10/12/21 7:00,FALSE,German WPI m/m,EUR,1,0.7%,0.5%
+2021.10.12GBPAverage Earnings Index 3m y,10/12/21 7:00,FALSE,Average Earnings Index 3m/y,GBP,1,6.9%,8.3%
+2021.10.12GBPClaimant Count Change,10/12/21 7:00,FALSE,Claimant Count Change,GBP,1,-60.5K,-88.0K
+2021.10.12GBPUnemployment Rate,10/12/21 7:00,FALSE,Unemployment Rate,GBP,1,4.5%,4.6%
+2021.10.12EURGerman ZEW Economic Sentiment,10/12/21 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,23.7,26.5
+2021.10.12EURZEW Economic Sentiment,10/12/21 10:00,FALSE,ZEW Economic Sentiment,EUR,2,27.9,31.1
+2021.10.12USDNFIB Small Business Index,10/12/21 11:00,FALSE,NFIB Small Business Index,USD,1,99.7,100.1
+2021.10.12USDJOLTS Job Openings,10/12/21 15:00,FALSE,JOLTS Job Openings,USD,2,10.95M,11.10M
+2021.10.12USDFOMC Member Clarida Speaks,10/12/21 16:15,FALSE,FOMC Member Clarida Speaks,USD,2," "," "
+2021.10.12USDFOMC Member Bostic Speaks,10/12/21 17:30,FALSE,FOMC Member Bostic Speaks,USD,1," "," "
+2021.10.12USD10-y Bond Auction,10/12/21 18:01,FALSE,10-y Bond Auction,USD,2," ",1.34|2.6
+2021.10.12NZDFPI m m,10/12/21 22:45,FALSE,FPI m/m,NZD,1," ",0.3%
+

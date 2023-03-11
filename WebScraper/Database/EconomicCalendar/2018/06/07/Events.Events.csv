@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.06.07AUDTrade Balance,6/7/18 2:30,FALSE,Trade Balance,AUD,3,0.98B,1.73B
+2018.06.07JPYLeading Indicators,6/7/18 6:00,FALSE,Leading Indicators,JPY,1,105.6%,104.4%
+2018.06.07CHFUnemployment Rate,6/7/18 6:45,FALSE,Unemployment Rate,CHF,1,2.6%,2.7%
+2018.06.07EURGerman Factory Orders m m,6/7/18 7:00,FALSE,German Factory Orders m/m,EUR,1,0.7%,-1.1%
+2018.06.07EURFrench Trade Balance,6/7/18 7:45,FALSE,French Trade Balance,EUR,1,-5.1B,-5.0B
+2018.06.07CHFForeign Currency Reserves,6/7/18 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",757B
+2018.06.07GBPHalifax HPI m m,6/7/18 8:30,FALSE,Halifax HPI m/m,GBP,2,1.1%,-3.1%
+2018.06.07EURItalian Retail Sales m m,6/7/18 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.2%
+2018.06.07EURSpanish 10-y Bond Auction,6/7/18 9:50,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.37|2.3
+2018.06.07EURRevised GDP q q,6/7/18 10:00,FALSE,Revised GDP q/q,EUR,1,0.4%,0.4%
+2018.06.07EURFrench 10-y Bond Auction,6/7/18 10:03,FALSE,French 10-y Bond Auction,EUR,1," ",0.81|1.9
+2018.06.07USDUnemployment Claims,6/7/18 13:30,FALSE,Unemployment Claims,USD,2,223K,223K
+2018.06.07USDIBD TIPP Economic Optimism,6/7/18 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,54.2,53.6
+2018.06.07CADBOC Financial System Review,6/7/18 15:30,FALSE,BOC Financial System Review,CAD,2," "," "
+2018.06.07USDNatural Gas Storage,6/7/18 15:30,FALSE,Natural Gas Storage,USD,1,87B,96B
+2018.06.07GBPMPC Member Ramsden Speaks,6/7/18 16:00,FALSE,MPC Member Ramsden Speaks,GBP,2," "," "
+2018.06.07CADBOC Gov Poloz Speaks,6/7/18 16:15,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2018.06.07USDConsumer Credit m m,6/7/18 20:00,FALSE,Consumer Credit m/m,USD,1,13.9B,12.3B
+

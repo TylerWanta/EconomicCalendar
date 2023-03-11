@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.18AUDBank Holiday,4/18/19 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2019.04.18AUDFlash Manufacturing PMI,4/18/19 0:00,FALSE,Flash Manufacturing PMI,AUD,1," ",52.0
+2019.04.18AUDFlash Services PMI,4/18/19 0:00,FALSE,Flash Services PMI,AUD,1," ",49.3
+2019.04.18NZDBank Holiday,4/18/19 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2019.04.18JPYFlash Manufacturing PMI,4/18/19 1:30,FALSE,Flash Manufacturing PMI,JPY,1,49.4,49.2
+2019.04.18AUDEmployment Change,4/18/19 2:30,FALSE,Employment Change,AUD,3,15.2K,10.7K
+2019.04.18AUDNAB Quarterly Business Confidence,4/18/19 2:30,FALSE,NAB Quarterly Business Confidence,AUD,1," ",1
+2019.04.18AUDUnemployment Rate,4/18/19 2:30,FALSE,Unemployment Rate,AUD,3,5.0%,4.9%
+2019.04.18CHFTrade Balance,4/18/19 7:00,FALSE,Trade Balance,CHF,1,2.87B,2.94B
+2019.04.18EURGerman PPI m m,4/18/19 7:00,FALSE,German PPI m/m,EUR,1,0.2%,-0.1%
+2019.04.18EURFrench Flash Manufacturing PMI,4/18/19 8:15,FALSE,French Flash Manufacturing PMI,EUR,2,50.0,49.7
+2019.04.18EURFrench Flash Services PMI,4/18/19 8:15,FALSE,French Flash Services PMI,EUR,3,49.8,49.1
+2019.04.18CNYForeign Direct Investment ytd y,4/18/19 8:21,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",5.5%
+2019.04.18EURGerman Flash Manufacturing PMI,4/18/19 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,45.2,44.1
+2019.04.18EURGerman Flash Services PMI,4/18/19 8:30,FALSE,German Flash Services PMI,EUR,3,55.0,55.4
+2019.04.18EURFlash Manufacturing PMI,4/18/19 9:00,FALSE,Flash Manufacturing PMI,EUR,2,48.1,47.5
+2019.04.18EURFlash Services PMI,4/18/19 9:00,FALSE,Flash Services PMI,EUR,2,53.1,53.3
+2019.04.18GBPBOE Credit Conditions Survey,4/18/19 9:30,FALSE,BOE Credit Conditions Survey,GBP,2," "," "
+2019.04.18GBPRetail Sales m m,4/18/19 9:30,FALSE,Retail Sales m/m,GBP,3,-0.3%,0.6%
+2019.04.18CADADP Non-Farm Employment Change,4/18/19 13:30,FALSE,ADP Non-Farm Employment Change,CAD,1," ",-21.2K
+2019.04.18CADCore Retail Sales m m,4/18/19 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.2%,-0.6%
+2019.04.18CADRetail Sales m m,4/18/19 13:30,FALSE,Retail Sales m/m,CAD,2,0.4%,-0.4%
+2019.04.18USDCore Retail Sales m m,4/18/19 13:30,FALSE,Core Retail Sales m/m,USD,3,0.7%,-0.2%
+2019.04.18USDPhilly Fed Manufacturing Index,4/18/19 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,11.2,13.7
+2019.04.18USDRetail Sales m m,4/18/19 13:30,FALSE,Retail Sales m/m,USD,3,0.9%,-0.2%
+2019.04.18USDUnemployment Claims,4/18/19 13:30,FALSE,Unemployment Claims,USD,1,207K,197K
+2019.04.18USDFlash Manufacturing PMI,4/18/19 14:45,FALSE,Flash Manufacturing PMI,USD,1,52.8,52.4
+2019.04.18USDFlash Services PMI,4/18/19 14:45,FALSE,Flash Services PMI,USD,1,55.0,55.3
+2019.04.18USDBusiness Inventories m m,4/18/19 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.9%
+2019.04.18USDCB Leading Index m m,4/18/19 15:00,FALSE,CB Leading Index m/m,USD,1,0.4%,0.1%
+2019.04.18USDNatural Gas Storage,4/18/19 15:30,FALSE,Natural Gas Storage,USD,1,82B,25B
+

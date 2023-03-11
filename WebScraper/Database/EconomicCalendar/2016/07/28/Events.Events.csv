@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.07.28EURGerman Prelim CPI m m,7/28/16 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.2%,0.1%
+2016.07.28AUDImport Prices q q,7/28/16 2:30,FALSE,Import Prices q/q,AUD,1,1.6%,-3.0%
+2016.07.28GBPNationwide HPI m m,7/28/16 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.0%,0.2%
+2016.07.28EURSpanish Unemployment Rate,7/28/16 8:00,FALSE,Spanish Unemployment Rate,EUR,2,20.5%,21.0%
+2016.07.28EURGerman Unemployment Change,7/28/16 8:55,FALSE,German Unemployment Change,EUR,2,-3K,-6K
+2016.07.28EURItalian 10-y Bond Auction,7/28/16 10:16,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.35|1.5
+2016.07.28USDGoods Trade Balance,7/28/16 13:30,FALSE,Goods Trade Balance,USD,1,-62.2B,-61.1B
+2016.07.28USDUnemployment Claims,7/28/16 13:30,FALSE,Unemployment Claims,USD,3,261K,252K
+2016.07.28USDNatural Gas Storage,7/28/16 15:30,FALSE,Natural Gas Storage,USD,1,29B,34B
+2016.07.28GBPGfK Consumer Confidence,7/28/16 23:05,FALSE,GfK Consumer Confidence,GBP,1,-7,-9
+2016.07.28NZDBuilding Consents m m,7/28/16 23:45,FALSE,Building Consents m/m,NZD,1," ",0.1%
+

@@ -63,5 +63,48 @@ namespace WebScraper.Types
             // format yyyy.MM.dd so that they will be in order when viewing them in the Firestore console
             _id = date.ToString("yyyy.MM.dd") + symbol + title.Replace('/', ' ');
         }
+
+        public EconomicEvent(DocumentSnapshot doc)
+        {
+             _id = doc.Id;
+            
+            if (doc.TryGetValue<DateTime>("Date", out DateTime date))
+            {
+                _date = date;
+            }
+
+            if (doc.TryGetValue<bool>("AllDay", out bool allDay))
+            {
+                _allDay = allDay;
+            }
+
+
+            if (doc.TryGetValue<string>("Title", out string title))
+            {
+                _title = title;
+            }
+
+
+            if (doc.TryGetValue<string>("Symbol", out string symbol))
+            {
+                _symbol = symbol;
+            }
+
+
+            if (doc.TryGetValue<byte>("Impact", out byte impact))
+            {
+                _impact = impact;
+            }
+
+            if (doc.TryGetValue<string>("Forecast", out string forecast))
+            {
+                _forecast = forecast;
+            }
+
+            if (doc.TryGetValue<string>("Previous", out string previous))
+            {
+                _previous = previous;
+            }
+        }
     }
 }

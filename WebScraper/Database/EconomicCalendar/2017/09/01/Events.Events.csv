@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.09.01USDTotal Vehicle Sales,9/1/17 0:00,TRUE,Total Vehicle Sales,USD,1,16.6M,16.7M
+2017.09.01USDWards Total Vehicle Sales,9/1/17 0:00,TRUE,Wards Total Vehicle Sales,USD,1,16.6M,16.7M
+2017.09.01AUDAIG Manufacturing Index,9/1/17 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",56.0
+2017.09.01JPYCapital Spending q y,9/1/17 0:50,FALSE,Capital Spending q/y,JPY,1,8.0%,4.5%
+2017.09.01JPYFinal Manufacturing PMI,9/1/17 1:30,FALSE,Final Manufacturing PMI,JPY,1,52.8,52.8
+2017.09.01CNYCaixin Manufacturing PMI,9/1/17 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,50.9,51.1
+2017.09.01JPYConsumer Confidence,9/1/17 6:00,FALSE,Consumer Confidence,JPY,1,43.5,43.8
+2017.09.01AUDCommodity Prices y y,9/1/17 7:30,FALSE,Commodity Prices y/y,AUD,1," ",21.7%
+2017.09.01CHFRetail Sales y y,9/1/17 8:15,FALSE,Retail Sales y/y,CHF,1,1.7%,1.7%
+2017.09.01EURSpanish Manufacturing PMI,9/1/17 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,54.4,54.0
+2017.09.01CHFManufacturing PMI,9/1/17 8:30,FALSE,Manufacturing PMI,CHF,1,60.4,60.9
+2017.09.01EURItalian Manufacturing PMI,9/1/17 8:45,FALSE,Italian Manufacturing PMI,EUR,1,55.3,55.1
+2017.09.01EURFrench Final Manufacturing PMI,9/1/17 8:50,FALSE,French Final Manufacturing PMI,EUR,1,55.8,55.8
+2017.09.01EURGerman Final Manufacturing PMI,9/1/17 8:55,FALSE,German Final Manufacturing PMI,EUR,1,59.4,59.4
+2017.09.01EURFinal Manufacturing PMI,9/1/17 9:00,FALSE,Final Manufacturing PMI,EUR,1,57.4,57.4
+2017.09.01GBPFinal Manufacturing PMI,9/1/17 9:30,FALSE,Final Manufacturing PMI,GBP,3,55.0,55.3
+2017.09.01USDAverage Hourly Earnings m m,9/1/17 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.2%,0.3%
+2017.09.01USDNon-Farm Employment Change,9/1/17 13:30,FALSE,Non-Farm Employment Change,USD,3,180K,189K
+2017.09.01USDUnemployment Rate,9/1/17 13:30,FALSE,Unemployment Rate,USD,3,4.3%,4.3%
+2017.09.01CADManufacturing PMI,9/1/17 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.5
+2017.09.01USDFinal Manufacturing PMI,9/1/17 14:45,FALSE,Final Manufacturing PMI,USD,1,52.5,52.5
+2017.09.01USDConstruction Spending m m,9/1/17 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,-1.4%
+2017.09.01USDISM Manufacturing PMI,9/1/17 15:00,FALSE,ISM Manufacturing PMI,USD,3,56.5,56.3
+2017.09.01USDISM Manufacturing Prices,9/1/17 15:00,FALSE,ISM Manufacturing Prices,USD,1,61.9,62.0
+2017.09.01USDRevised UoM Consumer Sentiment,9/1/17 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,97.4,97.6
+2017.09.01USDRevised UoM Inflation Expectations,9/1/17 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.6%
+

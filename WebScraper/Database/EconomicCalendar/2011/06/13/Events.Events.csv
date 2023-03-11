@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.06.13CHFBank Holiday,6/13/11 0:00,TRUE,Bank Holiday,CHF,4,,
+2011.06.13EURFrench Bank Holiday,6/13/11 0:00,TRUE,French Bank Holiday,EUR,4,,
+2011.06.13EURGerman Bank Holiday,6/13/11 0:00,TRUE,German Bank Holiday,EUR,4,,
+2011.06.13GBPBOE Quarterly Bulletin,6/13/11 0:01,FALSE,BOE Quarterly Bulletin,GBP,1,,
+2011.06.13JPYCore Machinery Orders m m,6/13/11 0:50,FALSE,Core Machinery Orders m/m,JPY,2,2.0%,2.9%
+2011.06.13CNYM2 Money Supply y y,6/13/11 2:59,FALSE,M2 Money Supply y/y,CNY,1,15.5%,15.3%
+2011.06.13CNYNew Loans,6/13/11 2:59,FALSE,New Loans,CNY,2,655B,740B
+2011.06.13NZDREINZ HPI m m,6/13/11 4:41,FALSE,REINZ HPI m/m,NZD,2,,1.1%
+2011.06.13EURItalian Industrial Production m m,6/13/11 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.2%,0.7%
+2011.06.13EURECB President Trichet Speaks,6/13/11 14:00,FALSE,ECB President Trichet Speaks,EUR,2,,
+2011.06.13USDPresident Obama Speaks,6/13/11 18:45,FALSE,President Obama Speaks,USD,1,,
+2011.06.13GBPMPC Member Weale Speaks,6/13/11 19:00,FALSE,MPC Member Weale Speaks,GBP,2,,
+2011.06.13NZDFPI m m,6/13/11 23:45,FALSE,FPI m/m,NZD,1,,0.1%
+

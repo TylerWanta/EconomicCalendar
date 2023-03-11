@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.02.20AUDEmployment Change,2/20/20 0:30,FALSE,Employment Change,AUD,3,10.0K,28.7K
+2020.02.20AUDUnemployment Rate,2/20/20 0:30,FALSE,Unemployment Rate,AUD,3,5.2%,5.1%
+2020.02.20EURGerman GfK Consumer Climate,2/20/20 6:59,FALSE,German GfK Consumer Climate,EUR,1,9.9,9.9
+2020.02.20CHFTrade Balance,2/20/20 7:00,FALSE,Trade Balance,CHF,1,2.54B,1.97B
+2020.02.20EURGerman PPI m m,2/20/20 7:00,FALSE,German PPI m/m,EUR,1,0.1%,0.1%
+2020.02.20EURFrench Final CPI m m,2/20/20 7:45,FALSE,French Final CPI m/m,EUR,1,-0.4%,-0.4%
+2020.02.20CNYM2 Money Supply y y,2/20/20 8:00,FALSE,M2 Money Supply y/y,CNY,1,8.6%,8.7%
+2020.02.20CNYNew Loans,2/20/20 8:00,FALSE,New Loans,CNY,2,3100B,1140B
+2020.02.20GBPRetail Sales m m,2/20/20 9:30,FALSE,Retail Sales m/m,GBP,3,0.7%,-0.5%
+2020.02.20EURSpanish 10-y Bond Auction,2/20/20 9:44,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.35|1.6
+2020.02.20GBPCBI Industrial Order Expectations,2/20/20 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,-19,-22
+2020.02.20EURECB Monetary Policy Meeting Accounts,2/20/20 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,3," "," "
+2020.02.20CADNHPI m m,2/20/20 13:30,FALSE,NHPI m/m,CAD,1,0.2%,0.2%
+2020.02.20USDPhilly Fed Manufacturing Index,2/20/20 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,10.1,17.0
+2020.02.20USDUnemployment Claims,2/20/20 13:30,FALSE,Unemployment Claims,USD,1,210K,206K
+2020.02.20CADADP Non-Farm Employment Change,2/20/20 13:34,FALSE,ADP Non-Farm Employment Change,CAD,1," ",46.7K
+2020.02.20EURConsumer Confidence,2/20/20 14:57,FALSE,Consumer Confidence,EUR,1,-8,-8
+2020.02.20USDCB Leading Index m m,2/20/20 15:00,FALSE,CB Leading Index m/m,USD,1,0.4%,-0.3%
+2020.02.20USDNatural Gas Storage,2/20/20 15:30,FALSE,Natural Gas Storage,USD,1,-143B,-115B
+2020.02.20USDCrude Oil Inventories,2/20/20 16:00,FALSE,Crude Oil Inventories,USD,2,3.3M,7.5M
+2020.02.20AUDFlash Manufacturing PMI,2/20/20 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",49.6
+2020.02.20AUDFlash Services PMI,2/20/20 22:00,FALSE,Flash Services PMI,AUD,1," ",50.6
+2020.02.20NZDRBNZ Gov Orr Speaks,2/20/20 23:00,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2020.02.20JPYNational Core CPI y y,2/20/20 23:30,FALSE,National Core CPI y/y,JPY,1,0.7%,0.7%
+

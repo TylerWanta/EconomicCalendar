@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.11.12AUDMI Inflation Expectations,11/12/15 0:00,FALSE,MI Inflation Expectations,AUD,2," ",3.5%
+2015.11.12GBPRICS House Price Balance,11/12/15 0:01,FALSE,RICS House Price Balance,GBP,1,45%,44%
+2015.11.12AUDEmployment Change,11/12/15 0:30,FALSE,Employment Change,AUD,3,14.8K,-0.8K
+2015.11.12AUDUnemployment Rate,11/12/15 0:30,FALSE,Unemployment Rate,AUD,3,6.2%,6.2%
+2015.11.12JPY30-y Bond Auction,11/12/15 3:45,FALSE,30-y Bond Auction,JPY,1," ",1.35|3.3
+2015.11.12EURGerman Final CPI m m,11/12/15 7:00,FALSE,German Final CPI m/m,EUR,1,0.0%,0.0%
+2015.11.12EURFrench Final CPI m m,11/12/15 7:45,FALSE,French Final CPI m/m,EUR,1,0.1%,-0.4%
+2015.11.12CNYM2 Money Supply y y,11/12/15 8:00,FALSE,M2 Money Supply y/y,CNY,1,13.2%,13.1%
+2015.11.12CNYNew Loans,11/12/15 8:00,FALSE,New Loans,CNY,1,800B,1050B
+2015.11.12EURIndustrial Production m m,11/12/15 10:00,FALSE,Industrial Production m/m,EUR,1,-0.1%,-0.4%
+2015.11.12EURECB President Draghi Speaks,11/12/15 10:30,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2015.11.12CADNHPI m m,11/12/15 13:30,FALSE,NHPI m/m,CAD,2,0.2%,0.3%
+2015.11.12USDUnemployment Claims,11/12/15 13:30,FALSE,Unemployment Claims,USD,3,270K,276K
+2015.11.12USDFed Chair Yellen Speaks,11/12/15 14:30,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2015.11.12USDJOLTS Job Openings,11/12/15 15:00,FALSE,JOLTS Job Openings,USD,2,5.39M,5.38M
+2015.11.12USDFOMC Member Evans Speaks,11/12/15 15:15,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2015.11.12USDCrude Oil Inventories,11/12/15 16:00,FALSE,Crude Oil Inventories,USD,2,0.8M,2.8M
+2015.11.12GBPMPC Member Haldane Speaks,11/12/15 17:00,FALSE,MPC Member Haldane Speaks,GBP,2," "," "
+2015.11.12USDFOMC Member Dudley Speaks,11/12/15 17:15,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2015.11.12USD30-y Bond Auction,11/12/15 18:01,FALSE,30-y Bond Auction,USD,1," ",2.91|2.5
+2015.11.12USDFederal Budget Balance,11/12/15 18:57,FALSE,Federal Budget Balance,USD,1,-130.2B,91.1B
+2015.11.12USDFOMC Member Fischer Speaks,11/12/15 23:00,FALSE,FOMC Member Fischer Speaks,USD,2," "," "
+

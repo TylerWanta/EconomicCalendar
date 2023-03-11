@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.01.06EURItalian Bank Holiday,1/6/15 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2015.01.06AUDTrade Balance,1/6/15 0:30,FALSE,Trade Balance,AUD,3,-1.59B,-0.88B
+2015.01.06CNYCaixin Services PMI,1/6/15 1:45,FALSE,Caixin Services PMI,CNY,2," ",53.0
+2015.01.06JPY10-y Bond Auction,1/6/15 3:45,FALSE,10-y Bond Auction,JPY,1," ",0.47|3.0
+2015.01.06EURSpanish Services PMI,1/6/15 8:15,FALSE,Spanish Services PMI,EUR,2,52.9,52.7
+2015.01.06EURItalian Services PMI,1/6/15 8:45,FALSE,Italian Services PMI,EUR,2,51.4,51.8
+2015.01.06EURFrench Final Services PMI,1/6/15 8:50,FALSE,French Final Services PMI,EUR,1,49.8,49.8
+2015.01.06EURGerman Final Services PMI,1/6/15 8:55,FALSE,German Final Services PMI,EUR,2,51.4,51.4
+2015.01.06EURFinal Services PMI,1/6/15 9:00,FALSE,Final Services PMI,EUR,1,51.9,51.9
+2015.01.06GBPBOE Credit Conditions Survey,1/6/15 9:30,FALSE,BOE Credit Conditions Survey,GBP,2," "," "
+2015.01.06GBPFinal Services PMI,1/6/15 9:30,FALSE,Final Services PMI,GBP,3,58.9,58.6
+2015.01.06GBP10-y Bond Auction,1/6/15 10:35,FALSE,10-y Bond Auction,GBP,1," ",2.21|1.5
+2015.01.06CADIPPI m m,1/6/15 13:30,FALSE,IPPI m/m,CAD,1,-0.5%,-0.6%
+2015.01.06CADRMPI m m,1/6/15 13:30,FALSE,RMPI m/m,CAD,2,-4.6%,-4.2%
+2015.01.06USDFinal Services PMI,1/6/15 14:45,FALSE,Final Services PMI,USD,1,53.8,53.6
+2015.01.06NZDGDT Price Index,1/6/15 14:49,FALSE,GDT Price Index,NZD,3," ",2.4%
+2015.01.06USDFactory Orders m m,1/6/15 15:00,FALSE,Factory Orders m/m,USD,2,-0.3%,-0.7%
+2015.01.06USDISM Services PMI,1/6/15 15:00,FALSE,ISM Services PMI,USD,3,58.2,59.3
+2015.01.06AUDAIG Services Index,1/6/15 22:20,FALSE,AIG Services Index,AUD,1," ",43.8
+

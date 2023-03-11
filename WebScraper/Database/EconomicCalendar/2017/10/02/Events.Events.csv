@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.10.02CNYBank Holiday,10/2/17 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2017.10.02JPYTankan Manufacturing Index,10/2/17 0:50,FALSE,Tankan Manufacturing Index,JPY,2,18,17
+2017.10.02JPYTankan Non-Manufacturing Index,10/2/17 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,2,24,23
+2017.10.02AUDMI Inflation Gauge m m,10/2/17 1:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2017.10.02JPYFinal Manufacturing PMI,10/2/17 1:30,FALSE,Final Manufacturing PMI,JPY,1,52.6,52.6
+2017.10.02CHFRetail Sales y y,10/2/17 8:15,FALSE,Retail Sales y/y,CHF,1,0.5%,0.0%
+2017.10.02EURSpanish Manufacturing PMI,10/2/17 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,53.2,52.4
+2017.10.02CHFManufacturing PMI,10/2/17 8:30,FALSE,Manufacturing PMI,CHF,1,60.6,61.2
+2017.10.02EURItalian Manufacturing PMI,10/2/17 8:45,FALSE,Italian Manufacturing PMI,EUR,1,56.9,56.3
+2017.10.02EURFrench Final Manufacturing PMI,10/2/17 8:50,FALSE,French Final Manufacturing PMI,EUR,1,56.0,56.0
+2017.10.02EURGerman Final Manufacturing PMI,10/2/17 8:55,FALSE,German Final Manufacturing PMI,EUR,1,60.6,60.6
+2017.10.02EURFinal Manufacturing PMI,10/2/17 9:00,FALSE,Final Manufacturing PMI,EUR,1,58.2,58.2
+2017.10.02EURItalian Monthly Unemployment Rate,10/2/17 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,11.2%,11.3%
+2017.10.02GBPFinal Manufacturing PMI,10/2/17 9:30,FALSE,Final Manufacturing PMI,GBP,3,56.3,56.7
+2017.10.02EURUnemployment Rate,10/2/17 10:00,FALSE,Unemployment Rate,EUR,1,9.0%,9.1%
+2017.10.02CADManufacturing PMI,10/2/17 14:30,FALSE,Manufacturing PMI,CAD,1," ",54.6
+2017.10.02USDFinal Manufacturing PMI,10/2/17 14:45,FALSE,Final Manufacturing PMI,USD,1,53.0,53.0
+2017.10.02USDConstruction Spending m m,10/2/17 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,-1.2%
+2017.10.02USDISM Manufacturing PMI,10/2/17 15:00,FALSE,ISM Manufacturing PMI,USD,3,57.9,58.8
+2017.10.02USDISM Manufacturing Prices,10/2/17 15:00,FALSE,ISM Manufacturing Prices,USD,1,64.5,62.0
+2017.10.02USDFOMC Member Kaplan Speaks,10/2/17 19:00,FALSE,FOMC Member Kaplan Speaks,USD,2," "," "
+2017.10.02NZDNZIER Business Confidence,10/2/17 22:00,FALSE,NZIER Business Confidence,NZD,2," ",18
+

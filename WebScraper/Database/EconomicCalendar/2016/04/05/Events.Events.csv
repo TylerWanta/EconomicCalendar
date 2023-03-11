@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.04.05AUDAIG Services Index,4/5/16 0:30,FALSE,AIG Services Index,AUD,1," ",51.8
+2016.04.05JPYAverage Cash Earnings y y,4/5/16 1:00,FALSE,Average Cash Earnings y/y,JPY,1,0.2%,0.0%
+2016.04.05NZDANZ Commodity Prices m m,4/5/16 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",0.5%
+2016.04.05AUDTrade Balance,4/5/16 2:30,FALSE,Trade Balance,AUD,3,-2.55B,-3.16B
+2016.04.05JPY10-y Bond Auction,4/5/16 4:45,FALSE,10-y Bond Auction,JPY,1," ",-0.02|3.2
+2016.04.05AUDCash Rate,4/5/16 5:30,FALSE,Cash Rate,AUD,3,2.00%,2.00%
+2016.04.05AUDRBA Rate Statement,4/5/16 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2016.04.05EURGerman Factory Orders m m,4/5/16 7:00,FALSE,German Factory Orders m/m,EUR,2,0.5%,0.5%
+2016.04.05EURSpanish Services PMI,4/5/16 8:15,FALSE,Spanish Services PMI,EUR,1,54.2,54.1
+2016.04.05EURItalian Services PMI,4/5/16 8:45,FALSE,Italian Services PMI,EUR,1,54.3,53.8
+2016.04.05EURFrench Final Services PMI,4/5/16 8:50,FALSE,French Final Services PMI,EUR,1,51.2,51.2
+2016.04.05EURGerman Final Services PMI,4/5/16 8:55,FALSE,German Final Services PMI,EUR,1,55.5,55.5
+2016.04.05EURFinal Services PMI,4/5/16 9:00,FALSE,Final Services PMI,EUR,1,54.1,54.0
+2016.04.05GBPFPC Meeting Minutes,4/5/16 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2016.04.05GBPFinal Services PMI,4/5/16 9:30,FALSE,Final Services PMI,GBP,3,53.9,52.7
+2016.04.05EURRetail Sales m m,4/5/16 10:00,FALSE,Retail Sales m/m,EUR,1,0.2%,0.3%
+2016.04.05CADTrade Balance,4/5/16 13:30,FALSE,Trade Balance,CAD,3,0.9B,-0.6B
+2016.04.05USDTrade Balance,4/5/16 13:30,FALSE,Trade Balance,USD,2,-46.3B,-45.9B
+2016.04.05USDFinal Services PMI,4/5/16 14:45,FALSE,Final Services PMI,USD,1,51.0,51.0
+2016.04.05USDIBD TIPP Economic Optimism,4/5/16 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,47.7,46.8
+2016.04.05USDISM Services PMI,4/5/16 15:00,FALSE,ISM Services PMI,USD,3,54.1,53.4
+2016.04.05USDJOLTS Job Openings,4/5/16 15:00,FALSE,JOLTS Job Openings,USD,2,5.57M,5.60M
+2016.04.05NZDGDT Price Index,4/5/16 15:27,FALSE,GDT Price Index,NZD,3," ",-2.9%
+2016.04.05CADGov Council Member Wilkins Speaks,4/5/16 21:00,FALSE,Gov Council Member Wilkins Speaks,CAD,2," "," "
+

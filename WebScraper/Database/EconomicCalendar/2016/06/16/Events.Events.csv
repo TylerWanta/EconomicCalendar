@@ -1,0 +1,37 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.06.16EUREurogroup Meetings,6/16/16 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2016.06.16CADBOC Gov Poloz Speaks,6/16/16 0:55,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2016.06.16AUDMI Inflation Expectations,6/16/16 2:00,FALSE,MI Inflation Expectations,AUD,1," ",3.2%
+2016.06.16AUDEmployment Change,6/16/16 2:30,FALSE,Employment Change,AUD,3,14.9K,0.8K
+2016.06.16AUDNew Motor Vehicle Sales m m,6/16/16 2:30,FALSE,New Motor Vehicle Sales m/m,AUD,1," ",-2.8%
+2016.06.16AUDRBA Bulletin,6/16/16 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2016.06.16AUDUnemployment Rate,6/16/16 2:30,FALSE,Unemployment Rate,AUD,3,5.7%,5.7%
+2016.06.16JPYBOJ Policy Rate,6/16/16 3:45,FALSE,BOJ Policy Rate,JPY,3," ",-0.10%
+2016.06.16JPYMonetary Policy Statement,6/16/16 3:45,FALSE,Monetary Policy Statement,JPY,3," "," "
+2016.06.16CHFSNB Financial Stability Report,6/16/16 5:30,FALSE,SNB Financial Stability Report,CHF,2," "," "
+2016.06.16CHFSECO Economic Forecasts,6/16/16 6:45,FALSE,SECO Economic Forecasts,CHF,1," "," "
+2016.06.16JPYBOJ Press Conference,6/16/16 7:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2016.06.16CHFLibor Rate,6/16/16 8:30,FALSE,Libor Rate,CHF,3,-0.75%,-0.75%
+2016.06.16CHFSNB Monetary Policy Assessment,6/16/16 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2016.06.16CHFSNB Press Conference,6/16/16 9:00,FALSE,SNB Press Conference,CHF,3," "," "
+2016.06.16EURECB Economic Bulletin,6/16/16 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2016.06.16GBPRetail Sales m m,6/16/16 9:30,FALSE,Retail Sales m/m,GBP,3,0.3%,1.9%
+2016.06.16EURSpanish 10-y Bond Auction,6/16/16 9:43,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.50|1.5
+2016.06.16EURFinal CPI y y,6/16/16 10:00,FALSE,Final CPI y/y,EUR,2,-0.1%,-0.1%
+2016.06.16EURFinal Core CPI y y,6/16/16 10:00,FALSE,Final Core CPI y/y,EUR,1,0.8%,0.8%
+2016.06.16GBPAsset Purchase Facility,6/16/16 12:00,FALSE,Asset Purchase Facility,GBP,2,375B,375B
+2016.06.16GBPMPC Asset Purchase Facility Votes,6/16/16 12:00,FALSE,MPC Asset Purchase Facility Votes,GBP,2,0-0-9,0-0-9
+2016.06.16GBPMPC Official Bank Rate Votes,6/16/16 12:00,FALSE,MPC Official Bank Rate Votes,GBP,3,0-0-9,0-0-9
+2016.06.16GBPMonetary Policy Summary,6/16/16 12:00,FALSE,Monetary Policy Summary,GBP,3," "," "
+2016.06.16GBPOfficial Bank Rate,6/16/16 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2016.06.16CADForeign Securities Purchases,6/16/16 13:30,FALSE,Foreign Securities Purchases,CAD,2,14.70B,17.05B
+2016.06.16USDCPI m m,6/16/16 13:30,FALSE,CPI m/m,USD,3,0.3%,0.4%
+2016.06.16USDCPI y y,6/16/16 13:30,FALSE,CPI y/y,USD,3,1.0%,1.1%
+2016.06.16USDCore CPI m m,6/16/16 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.2%
+2016.06.16USDCurrent Account,6/16/16 13:30,FALSE,Current Account,USD,2,-125B,-113B
+2016.06.16USDPhilly Fed Manufacturing Index,6/16/16 13:30,FALSE,Philly Fed Manufacturing Index,USD,3,1.1,-1.8
+2016.06.16USDUnemployment Claims,6/16/16 13:30,FALSE,Unemployment Claims,USD,3,267K,264K
+2016.06.16USDNAHB Housing Market Index,6/16/16 15:00,FALSE,NAHB Housing Market Index,USD,1,59,58
+2016.06.16USDNatural Gas Storage,6/16/16 15:30,FALSE,Natural Gas Storage,USD,1,66B,65B
+2016.06.16NZDBusinessNZ Manufacturing Index,6/16/16 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",56.6
+

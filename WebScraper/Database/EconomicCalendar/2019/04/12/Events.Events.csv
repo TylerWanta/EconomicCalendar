@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.12AllIMF Meetings,4/12/19 0:00,TRUE,IMF Meetings,All,1," "," "
+2019.04.12AUDRBA Financial Stability Review,4/12/19 2:30,FALSE,RBA Financial Stability Review,AUD,2," "," "
+2019.04.12EURGerman WPI m m,4/12/19 7:00,FALSE,German WPI m/m,EUR,1,0.2%,0.3%
+2019.04.12CNYUSD-Denominated Trade Balance,4/12/19 7:30,FALSE,USD-Denominated Trade Balance,CNY,1,7.7B,4.1B
+2019.04.12CNYTrade Balance,4/12/19 8:31,FALSE,Trade Balance,CNY,3,2B,34B
+2019.04.12CNYM2 Money Supply y y,4/12/19 9:00,FALSE,M2 Money Supply y/y,CNY,1,8.2%,8.0%
+2019.04.12CNYNew Loans,4/12/19 9:00,FALSE,New Loans,CNY,1,1223B,886B
+2019.04.12EURIndustrial Production m m,4/12/19 10:00,FALSE,Industrial Production m/m,EUR,1,-0.5%,1.9%
+2019.04.12USDImport Prices m m,4/12/19 13:30,FALSE,Import Prices m/m,USD,1,0.4%,1.0%
+2019.04.12GBPCB Leading Index m m,4/12/19 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.5%
+2019.04.12USDPrelim UoM Consumer Sentiment,4/12/19 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,2,98.1,98.4
+2019.04.12USDPrelim UoM Inflation Expectations,4/12/19 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.5%
+2019.04.12GBPBOE Gov Carney Speaks,4/12/19 17:30,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2019.04.12CADGov Council Member Lane Speaks,4/12/19 19:00,FALSE,Gov Council Member Lane Speaks,CAD,2," "," "
+

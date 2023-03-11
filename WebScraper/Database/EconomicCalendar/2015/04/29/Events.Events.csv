@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.04.29EURGerman Prelim CPI m m,4/29/15 0:00,TRUE,German Prelim CPI m/m,EUR,2,-0.1%,0.5%
+2015.04.29NZDANZ Business Confidence,4/29/15 2:00,FALSE,ANZ Business Confidence,NZD,3," ",35.8
+2015.04.29GBPNationwide HPI m m,4/29/15 6:58,FALSE,Nationwide HPI m/m,GBP,1,0.2%,0.1%
+2015.04.29CHFUBS Consumption Indicator,4/29/15 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.21
+2015.04.29EURM3 Money Supply y y,4/29/15 9:00,FALSE,M3 Money Supply y/y,EUR,2,4.3%,4.0%
+2015.04.29EURPrivate Loans y y,4/29/15 9:00,FALSE,Private Loans y/y,EUR,2,0.1%,-0.1%
+2015.04.29EURItalian 10-y Bond Auction,4/29/15 10:27,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.34|1.5
+2015.04.29GBP10-y Bond Auction,4/29/15 10:38,FALSE,10-y Bond Auction,GBP,1," ",1.68|1.4
+2015.04.29GBPCBI Realized Sales,4/29/15 11:00,FALSE,CBI Realized Sales,GBP,1,26,18
+2015.04.29CADIPPI m m,4/29/15 13:30,FALSE,IPPI m/m,CAD,1,-0.1%,1.9%
+2015.04.29CADRMPI m m,4/29/15 13:30,FALSE,RMPI m/m,CAD,2,-1.8%,5.9%
+2015.04.29USDAdvance GDP Price Index q q,4/29/15 13:30,FALSE,Advance GDP Price Index q/q,USD,2,0.4%,0.1%
+2015.04.29USDAdvance GDP q q,4/29/15 13:30,FALSE,Advance GDP q/q,USD,3,1.0%,2.2%
+2015.04.29USDPending Home Sales m m,4/29/15 15:00,FALSE,Pending Home Sales m/m,USD,2,1.1%,3.6%
+2015.04.29USDCrude Oil Inventories,4/29/15 15:30,FALSE,Crude Oil Inventories,USD,2,2.1M,5.3M
+2015.04.29USDFOMC Statement,4/29/15 19:00,FALSE,FOMC Statement,USD,3," "," "
+2015.04.29USDFederal Funds Rate,4/29/15 19:00,FALSE,Federal Funds Rate,USD,3,<0.25%,<0.25%
+2015.04.29NZDOfficial Cash Rate,4/29/15 22:00,FALSE,Official Cash Rate,NZD,3,3.50%,3.50%
+2015.04.29NZDRBNZ Rate Statement,4/29/15 22:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2015.04.29GBPGfK Consumer Confidence,4/29/15 23:35,FALSE,GfK Consumer Confidence,GBP,1,5,4
+2015.04.29NZDBuilding Consents m m,4/29/15 23:45,FALSE,Building Consents m/m,NZD,2," ",-6.5%
+

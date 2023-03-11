@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.04.02AUDBank Holiday,4/2/15 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2015.04.02NZDBank Holiday,4/2/15 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2015.04.02AUDMI Inflation Gauge m m,4/2/15 0:30,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.0%
+2015.04.02JPYMonetary Base y y,4/2/15 0:50,FALSE,Monetary Base y/y,JPY,1,35.3%,36.7%
+2015.04.02NZDANZ Commodity Prices m m,4/2/15 1:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",4.2%
+2015.04.02AUDTrade Balance,4/2/15 1:30,FALSE,Trade Balance,AUD,3,-1.28B,-1.00B
+2015.04.02JPY10-y Bond Auction,4/2/15 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.40|2.8
+2015.04.02GBPConstruction PMI,4/2/15 9:30,FALSE,Construction PMI,GBP,3,59.7,60.1
+2015.04.02EURFrench 10-y Bond Auction,4/2/15 9:59,FALSE,French 10-y Bond Auction,EUR,1," ",0.67|1.5
+2015.04.02EURECB Monetary Policy Meeting Accounts,4/2/15 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,2," "," "
+2015.04.02USDChallenger Job Cuts y y,4/2/15 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",20.9%
+2015.04.02CADTrade Balance,4/2/15 13:30,FALSE,Trade Balance,CAD,3,-2.0B,-1.5B
+2015.04.02USDTrade Balance,4/2/15 13:30,FALSE,Trade Balance,USD,3,-41.3B,-42.7B
+2015.04.02USDUnemployment Claims,4/2/15 13:30,FALSE,Unemployment Claims,USD,3,286K,288K
+2015.04.02USDFed Chair Yellen Speaks,4/2/15 13:40,FALSE,Fed Chair Yellen Speaks,USD,2," "," "
+2015.04.02USDFactory Orders m m,4/2/15 15:00,FALSE,Factory Orders m/m,USD,2,-0.4%,-0.7%
+2015.04.02USDNatural Gas Storage,4/2/15 15:30,FALSE,Natural Gas Storage,USD,1,-9B,12B
+2015.04.02USDPresident Obama Speaks,4/2/15 19:15,FALSE,President Obama Speaks,USD,1," "," "
+2015.04.02USDFOMC Member Brainard Speaks,4/2/15 20:45,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+

@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.09.22AllG20 Meetings,9/22/11 0:00,TRUE,G20 Meetings,All,2,,
+2011.09.22JPYBank Holiday,9/22/11 0:00,TRUE,Bank Holiday,JPY,4,,
+2011.09.22CNYCaixin Flash Manufacturing PMI,9/22/11 3:30,FALSE,Caixin Flash Manufacturing PMI,CNY,3,,49.9
+2011.09.22AUDRBA Annual Report,9/22/11 6:30,FALSE,RBA Annual Report,AUD,1,,
+2011.09.22EURFrench Flash Manufacturing PMI,9/22/11 8:00,FALSE,French Flash Manufacturing PMI,EUR,2,48.6,49.1
+2011.09.22EURFrench Flash Services PMI,9/22/11 8:00,FALSE,French Flash Services PMI,EUR,2,54.4,56.8
+2011.09.22EURGerman Flash Manufacturing PMI,9/22/11 8:30,FALSE,German Flash Manufacturing PMI,EUR,2,50.2,50.9
+2011.09.22EURGerman Flash Services PMI,9/22/11 8:30,FALSE,German Flash Services PMI,EUR,2,50.6,51.1
+2011.09.22EURFlash Manufacturing PMI,9/22/11 9:00,FALSE,Flash Manufacturing PMI,EUR,2,48.6,49.0
+2011.09.22EURFlash Services PMI,9/22/11 9:00,FALSE,Flash Services PMI,EUR,2,51.1,51.5
+2011.09.22CHFCredit Suisse Economic Expectations,9/22/11 10:00,FALSE,Credit Suisse Economic Expectations,CHF,2,,-71.4
+2011.09.22EURIndustrial New Orders m m,9/22/11 10:00,FALSE,Industrial New Orders m/m,EUR,2,-1.1%,-1.2%
+2011.09.22GBPCBI Industrial Order Expectations,9/22/11 11:00,FALSE,CBI Industrial Order Expectations,GBP,2,-5,1
+2011.09.22CADCore Retail Sales m m,9/22/11 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.2%,0.0%
+2011.09.22CADRetail Sales m m,9/22/11 13:30,FALSE,Retail Sales m/m,CAD,2,-0.2%,0.8%
+2011.09.22USDUnemployment Claims,9/22/11 13:30,FALSE,Unemployment Claims,USD,3,419K,432K
+2011.09.22EURConsumer Confidence,9/22/11 15:00,FALSE,Consumer Confidence,EUR,1,-18,-17
+2011.09.22USDCB Leading Index m m,9/22/11 15:00,FALSE,CB Leading Index m/m,USD,1,0.2%,0.6%
+2011.09.22USDHPI m m,9/22/11 15:00,FALSE,HPI m/m,USD,1,0.0%,0.7%
+2011.09.22USDNatural Gas Storage,9/22/11 15:30,FALSE,Natural Gas Storage,USD,1,91B,87B
+

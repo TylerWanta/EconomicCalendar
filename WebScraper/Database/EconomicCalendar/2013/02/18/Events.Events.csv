@@ -1,0 +1,10 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.02.18CADBank Holiday,2/18/13 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2013.02.18USDBank Holiday,2/18/13 0:00,TRUE,Bank Holiday,USD,4," "," "
+2013.02.18GBPRightmove HPI m m,2/18/13 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.2%
+2013.02.18AUDNew Motor Vehicle Sales m m,2/18/13 0:30,FALSE,New Motor Vehicle Sales m/m,AUD,2," ",2.7%
+2013.02.18EURCurrent Account,2/18/13 9:00,FALSE,Current Account,EUR,2,15.3B,15.9B
+2013.02.18EURGerman Buba Monthly Report,2/18/13 11:00,FALSE,German Buba Monthly Report,EUR,2," "," "
+2013.02.18EURECB President Draghi Speaks,2/18/13 14:30,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2013.02.18JPYMonetary Policy Meeting Minutes,2/18/13 23:50,FALSE,Monetary Policy Meeting Minutes,JPY,2," "," "
+

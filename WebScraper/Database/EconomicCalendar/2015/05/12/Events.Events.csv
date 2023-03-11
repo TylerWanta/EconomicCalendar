@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.05.12EURECOFIN Meetings,5/12/15 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2015.05.12GBPBRC Retail Sales Monitor y y,5/12/15 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",3.2%
+2015.05.12AUDHome Loans m m,5/12/15 2:30,FALSE,Home Loans m/m,AUD,2,1.1%,1.1%
+2015.05.12NZDREINZ HPI m m,5/12/15 3:14,FALSE,REINZ HPI m/m,NZD,1," ",6.7%
+2015.05.12JPY10-y Bond Auction,5/12/15 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.37|2.7
+2015.05.12JPYLeading Indicators,5/12/15 6:00,FALSE,Leading Indicators,JPY,1,105.5%,104.8%
+2015.05.12GBPIndustrial Production m m,5/12/15 9:30,FALSE,Industrial Production m/m,GBP,1,0.0%,0.1%
+2015.05.12GBPManufacturing Production m m,5/12/15 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.3%,0.5%
+2015.05.12AUDAnnual Budget Release,5/12/15 10:30,FALSE,Annual Budget Release,AUD,3," "," "
+2015.05.12USDNFIB Small Business Index,5/12/15 13:48,FALSE,NFIB Small Business Index,USD,1,96.1,95.2
+2015.05.12GBPNIESR GDP Estimate,5/12/15 15:00,FALSE,NIESR GDP Estimate,GBP,2," ",0.3%
+2015.05.12USDJOLTS Job Openings,5/12/15 15:02,FALSE,JOLTS Job Openings,USD,2,5.16M,5.14M
+2015.05.12USDFOMC Member Williams Speaks,5/12/15 17:45,FALSE,FOMC Member Williams Speaks,USD,2," "," "
+2015.05.12USDFederal Budget Balance,5/12/15 18:58,FALSE,Federal Budget Balance,USD,1,151.3B,-52.9B
+2015.05.12NZDRBNZ Financial Stability Report,5/12/15 22:00,FALSE,RBNZ Financial Stability Report,NZD,3," "," "
+2015.05.12NZDRBNZ Gov Wheeler Speaks,5/12/15 22:05,FALSE,RBNZ Gov Wheeler Speaks,NZD,3," "," "
+2015.05.12NZDFPI m m,5/12/15 23:45,FALSE,FPI m/m,NZD,1," ",0.1%
+

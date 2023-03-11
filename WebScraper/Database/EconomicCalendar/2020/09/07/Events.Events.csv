@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.09.07CADBank Holiday,9/7/20 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2020.09.07USDBank Holiday,9/7/20 0:00,TRUE,Bank Holiday,USD,4," "," "
+2020.09.07AUDANZ Job Advertisements m m,9/7/20 2:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",19.1%
+2020.09.07CNYTrade Balance,9/7/20 4:01,FALSE,Trade Balance,CNY,1,385B,442B
+2020.09.07CNYUSD-Denominated Trade Balance,9/7/20 4:13,FALSE,USD-Denominated Trade Balance,CNY,1,49.8B,62.3B
+2020.09.07JPYLeading Indicators,9/7/20 6:00,FALSE,Leading Indicators,JPY,1,87.2%,83.8%
+2020.09.07EURGerman Industrial Production m m,9/7/20 7:00,FALSE,German Industrial Production m/m,EUR,1,4.5%,9.3%
+2020.09.07CHFForeign Currency Reserves,9/7/20 8:00,FALSE,Foreign Currency Reserves,CHF,2," ",847B
+2020.09.07GBPHalifax HPI m m,9/7/20 8:30,FALSE,Halifax HPI m/m,GBP,1,1.0%,1.7%
+2020.09.07EURSentix Investor Confidence,9/7/20 9:30,FALSE,Sentix Investor Confidence,EUR,1,-11.4,-13.4
+

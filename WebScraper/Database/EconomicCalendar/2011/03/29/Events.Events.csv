@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.03.29EURGerman Prelim CPI m m,3/29/11 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.4%,0.5%
+2011.03.29JPYHousehold Spending y y,3/29/11 0:30,FALSE,Household Spending y/y,JPY,2,0.1%,-1.0%
+2011.03.29JPYUnemployment Rate,3/29/11 0:30,FALSE,Unemployment Rate,JPY,1,4.9%,4.9%
+2011.03.29JPYRetail Sales y y,3/29/11 0:50,FALSE,Retail Sales y/y,JPY,2,-0.4%,0.1%
+2011.03.29AUDHIA New Home Sales m m,3/29/11 1:00,FALSE,HIA New Home Sales m/m,AUD,2,,2.5%
+2011.03.29CHFUBS Consumption Indicator,3/29/11 7:00,FALSE,UBS Consumption Indicator,CHF,2,,1.66
+2011.03.29EURGerman GfK Consumer Climate,3/29/11 7:00,FALSE,German GfK Consumer Climate,EUR,2,5.9,6.0
+2011.03.29EURFrench Consumer Spending m m,3/29/11 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.6%,-0.3%
+2011.03.29GBPCurrent Account,3/29/11 9:30,FALSE,Current Account,GBP,3,-10.3B,-8.7B
+2011.03.29GBPFinal GDP q q,3/29/11 9:30,FALSE,Final GDP q/q,GBP,2,-0.6%,-0.6%
+2011.03.29GBPM4 Money Supply m m,3/29/11 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.7%,0.8%
+2011.03.29GBPMortgage Approvals,3/29/11 9:30,FALSE,Mortgage Approvals,GBP,1,47K,46K
+2011.03.29GBPNet Lending to Individuals m m,3/29/11 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,1.2B,1.6B
+2011.03.29GBPRevised Business Investment q q,3/29/11 9:30,FALSE,Revised Business Investment q/q,GBP,1,-2.3%,-2.5%
+2011.03.29USDS&P CS Composite-20 HPI y y,3/29/11 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,-3.1%,-2.4%
+2011.03.29USDCB Consumer Confidence,3/29/11 15:00,FALSE,CB Consumer Confidence,USD,3,64.9,72.0
+2011.03.29GBPMPC Member Weale Speaks,3/29/11 16:00,FALSE,MPC Member Weale Speaks,GBP,2,,
+2011.03.29NZDBuilding Consents m m,3/29/11 22:45,FALSE,Building Consents m/m,NZD,3,,9.1%
+

@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.09.11EUREurogroup Meetings,9/11/20 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2020.09.11JPYBSI Manufacturing Index,9/11/20 0:50,FALSE,BSI Manufacturing Index,JPY,1,-36.1,-52.3
+2020.09.11JPYPPI y y,9/11/20 0:50,FALSE,PPI y/y,JPY,1,-0.5%,-0.9%
+2020.09.11EURGerman Final CPI m m,9/11/20 7:00,FALSE,German Final CPI m/m,EUR,1,-0.1%,-0.1%
+2020.09.11EURGerman WPI m m,9/11/20 7:00,FALSE,German WPI m/m,EUR,1,0.5%,0.5%
+2020.09.11GBPConstruction Output m m,9/11/20 7:00,FALSE,Construction Output m/m,GBP,1,10.3%,23.5%
+2020.09.11GBPGDP m m,9/11/20 7:00,FALSE,GDP m/m,GBP,1,6.6%,8.7%
+2020.09.11GBPGoods Trade Balance,9/11/20 7:00,FALSE,Goods Trade Balance,GBP,1,-7.4B,-6.6B
+2020.09.11GBPIndex of Services 3m 3m,9/11/20 7:00,FALSE,Index of Services 3m/3m,GBP,1,-7.8%,-19.9%
+2020.09.11GBPIndustrial Production m m,9/11/20 7:00,FALSE,Industrial Production m/m,GBP,1,4.2%,9.3%
+2020.09.11GBPManufacturing Production m m,9/11/20 7:00,FALSE,Manufacturing Production m/m,GBP,1,5.0%,11.0%
+2020.09.11EURGerman Buba President Weidmann Speaks,9/11/20 9:00,FALSE,German Buba President Weidmann Speaks,EUR,1," "," "
+2020.09.11EURItalian Quarterly Unemployment Rate,9/11/20 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,8.4%,9.2%
+2020.09.11CNYM2 Money Supply y y,9/11/20 9:01,FALSE,M2 Money Supply y/y,CNY,1,10.7%,10.7%
+2020.09.11CNYNew Loans,9/11/20 9:01,FALSE,New Loans,CNY,1,1250B,993B
+2020.09.11GBPConsumer Inflation Expectations,9/11/20 9:30,FALSE,Consumer Inflation Expectations,GBP,1," ",2.9%
+2020.09.11CNYForeign Direct Investment ytd y,9/11/20 11:35,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",0.5%
+2020.09.11CADCapacity Utilization Rate,9/11/20 13:30,FALSE,Capacity Utilization Rate,CAD,1,70.9%,79.8%
+2020.09.11USDCPI m m,9/11/20 13:30,FALSE,CPI m/m,USD,2,0.3%,0.6%
+2020.09.11USDCPI y y,9/11/20 13:30,FALSE,CPI y/y,USD,3,1.2%,1.0%
+2020.09.11USDCore CPI m m,9/11/20 13:30,FALSE,Core CPI m/m,USD,2,0.2%,0.6%
+2020.09.11GBPNIESR GDP Estimate,9/11/20 13:52,FALSE,NIESR GDP Estimate,GBP,1," ",-7.6%
+2020.09.11USDFederal Budget Balance,9/11/20 19:00,FALSE,Federal Budget Balance,USD,1,-238.7B,-63.0B
+

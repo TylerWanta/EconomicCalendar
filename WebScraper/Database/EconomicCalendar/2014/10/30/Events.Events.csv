@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.10.30EURGerman Prelim CPI m m,10/30/14 0:00,TRUE,German Prelim CPI m/m,EUR,3,-0.1%,0.0%
+2014.10.30AUDHIA New Home Sales m m,10/30/14 0:36,FALSE,HIA New Home Sales m/m,AUD,1," ",3.3%
+2014.10.30AUDImport Prices q q,10/30/14 1:30,FALSE,Import Prices q/q,AUD,2,0.3%,-3.0%
+2014.10.30CHFUBS Consumption Indicator,10/30/14 8:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.28
+2014.10.30GBPNationwide HPI m m,10/30/14 8:00,FALSE,Nationwide HPI m/m,GBP,2,0.4%,-0.1%
+2014.10.30GBPMPC Member Cunliffe Speaks,10/30/14 8:45,FALSE,MPC Member Cunliffe Speaks,GBP,2," "," "
+2014.10.30CHFKOF Economic Barometer,10/30/14 9:00,FALSE,KOF Economic Barometer,CHF,2,99.2,99.3
+2014.10.30EURSpanish Flash CPI y y,10/30/14 9:00,FALSE,Spanish Flash CPI y/y,EUR,2,0.0%,-0.2%
+2014.10.30EURSpanish Flash GDP q q,10/30/14 9:00,FALSE,Spanish Flash GDP q/q,EUR,2,0.5%,0.6%
+2014.10.30EURGerman Unemployment Change,10/30/14 9:55,FALSE,German Unemployment Change,EUR,2,4K,9K
+2014.10.30EURItalian 10-y Bond Auction,10/30/14 11:22,FALSE,Italian 10-y Bond Auction,EUR,2," ",2.45|1.3
+2014.10.30USDAdvance GDP Price Index q q,10/30/14 13:30,FALSE,Advance GDP Price Index q/q,USD,2,2.0%,2.1%
+2014.10.30USDAdvance GDP q q,10/30/14 13:30,FALSE,Advance GDP q/q,USD,3,3.1%,4.6%
+2014.10.30USDUnemployment Claims,10/30/14 13:30,FALSE,Unemployment Claims,USD,3,284K,284K
+2014.10.30USDFed Chair Yellen Speaks,10/30/14 14:00,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2014.10.30USDNatural Gas Storage,10/30/14 15:30,FALSE,Natural Gas Storage,USD,1,83B,94B
+2014.10.30NZDBuilding Consents m m,10/30/14 22:45,FALSE,Building Consents m/m,NZD,2," ",-0.8%
+

@@ -1,0 +1,37 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.06.29EUREU Economic Summit,6/29/18 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2018.06.29EURItalian Bank Holiday,6/29/18 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2018.06.29GBPGfK Consumer Confidence,6/29/18 0:01,FALSE,GfK Consumer Confidence,GBP,1,-7,-7
+2018.06.29JPYTokyo Core CPI y y,6/29/18 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.6%,0.5%
+2018.06.29JPYUnemployment Rate,6/29/18 0:30,FALSE,Unemployment Rate,JPY,1,2.5%,2.5%
+2018.06.29JPYPrelim Industrial Production m m,6/29/18 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-1.1%,0.5%
+2018.06.29AUDHIA New Home Sales m m,6/29/18 2:08,FALSE,HIA New Home Sales m/m,AUD,1," ",-4.2%
+2018.06.29AUDPrivate Sector Credit m m,6/29/18 2:30,FALSE,Private Sector Credit m/m,AUD,1,0.4%,0.4%
+2018.06.29JPYHousing Starts y y,6/29/18 6:00,FALSE,Housing Starts y/y,JPY,1,-5.9%,0.3%
+2018.06.29JPYConsumer Confidence,6/29/18 6:03,FALSE,Consumer Confidence,JPY,1,43.9,43.8
+2018.06.29EURGerman Import Prices m m,6/29/18 7:00,FALSE,German Import Prices m/m,EUR,1,1.0%,0.6%
+2018.06.29EURGerman Retail Sales m m,6/29/18 7:00,FALSE,German Retail Sales m/m,EUR,2,-0.5%,1.6%
+2018.06.29EURFrench Prelim CPI m m,6/29/18 7:48,FALSE,French Prelim CPI m/m,EUR,1,0.1%,0.4%
+2018.06.29EURFrench Consumer Spending m m,6/29/18 7:52,FALSE,French Consumer Spending m/m,EUR,1,0.8%,-1.8%
+2018.06.29CHFKOF Economic Barometer,6/29/18 8:00,FALSE,KOF Economic Barometer,CHF,2,100.3,100.0
+2018.06.29EURGerman Unemployment Change,6/29/18 8:55,FALSE,German Unemployment Change,EUR,1,-8K,-12K
+2018.06.29GBPCurrent Account,6/29/18 9:30,FALSE,Current Account,GBP,3,-18.0B,-19.5B
+2018.06.29GBPFinal GDP q q,6/29/18 9:30,FALSE,Final GDP q/q,GBP,2,0.1%,0.1%
+2018.06.29GBPIndex of Services 3m 3m,6/29/18 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.0%,0.3%
+2018.06.29GBPM4 Money Supply m m,6/29/18 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.3%,0.1%
+2018.06.29GBPMortgage Approvals,6/29/18 9:30,FALSE,Mortgage Approvals,GBP,1,62K,63K
+2018.06.29GBPNet Lending to Individuals m m,6/29/18 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,5.2B,5.6B
+2018.06.29GBPRevised Business Investment q q,6/29/18 9:30,FALSE,Revised Business Investment q/q,GBP,1,-0.2%,-0.2%
+2018.06.29EURCPI Flash Estimate y y,6/29/18 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.0%,1.9%
+2018.06.29EURCore CPI Flash Estimate y y,6/29/18 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,1.0%,1.1%
+2018.06.29CADGDP m m,6/29/18 13:30,FALSE,GDP m/m,CAD,3,0.0%,0.3%
+2018.06.29CADIPPI m m,6/29/18 13:30,FALSE,IPPI m/m,CAD,1,0.9%,0.4%
+2018.06.29CADRMPI m m,6/29/18 13:30,FALSE,RMPI m/m,CAD,2,1.2%,0.8%
+2018.06.29USDCore PCE Price Index m m,6/29/18 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.2%,0.2%
+2018.06.29USDPersonal Income m m,6/29/18 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.2%
+2018.06.29USDPersonal Spending m m,6/29/18 13:30,FALSE,Personal Spending m/m,USD,2,0.4%,0.5%
+2018.06.29USDChicago PMI,6/29/18 14:45,FALSE,Chicago PMI,USD,2,60.1,62.7
+2018.06.29USDRevised UoM Consumer Sentiment,6/29/18 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,99.1,99.3
+2018.06.29USDRevised UoM Inflation Expectations,6/29/18 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.9%
+2018.06.29CADBOC Business Outlook Survey,6/29/18 15:30,FALSE,BOC Business Outlook Survey,CAD,3," "," "
+

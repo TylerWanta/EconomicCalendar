@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.06.10CHFBank Holiday,6/10/19 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2019.06.10EURFrench Bank Holiday,6/10/19 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2019.06.10EURGerman Bank Holiday,6/10/19 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2019.06.10JPYBank Lending y y,6/10/19 0:50,FALSE,Bank Lending y/y,JPY,1,2.4%,2.4%
+2019.06.10JPYCurrent Account,6/10/19 0:50,FALSE,Current Account,JPY,1,1.44T,1.27T
+2019.06.10JPYFinal GDP Price Index y y,6/10/19 0:50,FALSE,Final GDP Price Index y/y,JPY,1,0.2%,0.2%
+2019.06.10JPYFinal GDP q q,6/10/19 0:50,FALSE,Final GDP q/q,JPY,1,0.6%,0.5%
+2019.06.10CNYUSD-Denominated Trade Balance,6/10/19 2:33,FALSE,USD-Denominated Trade Balance,CNY,1,23.2B,13.8B
+2019.06.10CNYTrade Balance,6/10/19 2:34,FALSE,Trade Balance,CNY,2,136B,94B
+2019.06.10JPYEconomy Watchers Sentiment,6/10/19 6:00,FALSE,Economy Watchers Sentiment,JPY,1,45.5,45.3
+2019.06.10EURItalian Industrial Production m m,6/10/19 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.2%,-1.0%
+2019.06.10GBPConstruction Output m m,6/10/19 9:30,FALSE,Construction Output m/m,GBP,1,0.6%,-1.9%
+2019.06.10GBPGDP m m,6/10/19 9:30,FALSE,GDP m/m,GBP,3,-0.1%,-0.1%
+2019.06.10GBPGoods Trade Balance,6/10/19 9:30,FALSE,Goods Trade Balance,GBP,1,-13.1B,-15.4B
+2019.06.10GBPIndex of Services 3m 3m,6/10/19 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.2%,0.3%
+2019.06.10GBPIndustrial Production m m,6/10/19 9:30,FALSE,Industrial Production m/m,GBP,1,-0.7%,0.7%
+2019.06.10GBPManufacturing Production m m,6/10/19 9:30,FALSE,Manufacturing Production m/m,GBP,3,-1.1%,0.9%
+2019.06.10GBPMPC Member Tenreyro Speaks,6/10/19 10:00,FALSE,MPC Member Tenreyro Speaks,GBP,2," "," "
+2019.06.10GBPNIESR GDP Estimate,6/10/19 13:10,FALSE,NIESR GDP Estimate,GBP,1," ",0.3%
+2019.06.10CADHousing Starts,6/10/19 13:13,FALSE,Housing Starts,CAD,1,220K,233K
+2019.06.10CADBuilding Permits m m,6/10/19 13:30,FALSE,Building Permits m/m,CAD,1,0.9%,2.8%
+2019.06.10USDJOLTS Job Openings,6/10/19 15:00,FALSE,JOLTS Job Openings,USD,1,7.50M,7.47M
+2019.06.10GBPMPC Member Saunders Speaks,6/10/19 18:00,FALSE,MPC Member Saunders Speaks,GBP,2," "," "
+2019.06.10NZDManufacturing Sales q q,6/10/19 23:45,FALSE,Manufacturing Sales q/q,NZD,1," ",-0.5%
+

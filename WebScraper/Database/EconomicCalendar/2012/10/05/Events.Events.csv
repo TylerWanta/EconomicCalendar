@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.10.05AUDAIG Construction Index,10/5/12 0:29,FALSE,AIG Construction Index,AUD,1," ",32.2
+2012.10.05JPYMonetary Policy Statement,10/5/12 4:14,FALSE,Monetary Policy Statement,JPY,3," "," "
+2012.10.05JPYOvernight Call Rate,10/5/12 4:14,FALSE,Overnight Call Rate,JPY,3,<0.10%,<0.10%
+2012.10.05JPYLeading Indicators,10/5/12 6:00,FALSE,Leading Indicators,JPY,1,93.6%,93.0%
+2012.10.05CHFForeign Currency Reserves,10/5/12 8:00,FALSE,Foreign Currency Reserves,CHF,3," ",421B
+2012.10.05JPYBOJ Press Conference,10/5/12 8:27,FALSE,BOJ Press Conference,JPY,3," "," "
+2012.10.05EURFinal GDP q q,10/5/12 10:05,FALSE,Final GDP q/q,EUR,1,-0.2%,-0.2%
+2012.10.05EURGerman Factory Orders m m,10/5/12 11:00,FALSE,German Factory Orders m/m,EUR,2,-0.5%,0.3%
+2012.10.05CADBuilding Permits m m,10/5/12 13:30,FALSE,Building Permits m/m,CAD,3,-0.7%,-2.8%
+2012.10.05CADEmployment Change,10/5/12 13:30,FALSE,Employment Change,CAD,3,11.7K,34.3K
+2012.10.05CADUnemployment Rate,10/5/12 13:30,FALSE,Unemployment Rate,CAD,3,7.3%,7.3%
+2012.10.05USDAverage Hourly Earnings m m,10/5/12 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.0%
+2012.10.05USDNon-Farm Employment Change,10/5/12 13:30,FALSE,Non-Farm Employment Change,USD,3,114K,142K
+2012.10.05USDUnemployment Rate,10/5/12 13:30,FALSE,Unemployment Rate,USD,3,8.2%,8.1%
+2012.10.05USDFOMC Member Duke Speaks,10/5/12 18:00,FALSE,FOMC Member Duke Speaks,USD,1," "," "
+2012.10.05USDConsumer Credit m m,10/5/12 20:00,FALSE,Consumer Credit m/m,USD,1,6.8B,-2.5B
+

@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.06.02EURItalian Bank Holiday,6/2/17 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2017.06.02JPYMonetary Base y y,6/2/17 0:50,FALSE,Monetary Base y/y,JPY,1,19.6%,19.8%
+2017.06.02AUDHIA New Home Sales m m,6/2/17 2:00,FALSE,HIA New Home Sales m/m,AUD,1," ",-1.1%
+2017.06.02JPYConsumer Confidence,6/2/17 6:00,FALSE,Consumer Confidence,JPY,1,43.6,43.2
+2017.06.02EURSpanish Unemployment Change,6/2/17 8:00,FALSE,Spanish Unemployment Change,EUR,2,-110.2K,-129.3K
+2017.06.02GBPConstruction PMI,6/2/17 9:30,FALSE,Construction PMI,GBP,3,52.7,53.1
+2017.06.02EURPPI m m,6/2/17 10:00,FALSE,PPI m/m,EUR,1,0.2%,-0.3%
+2017.06.02CADLabor Productivity q q,6/2/17 13:30,FALSE,Labor Productivity q/q,CAD,2,0.2%,0.4%
+2017.06.02CADTrade Balance,6/2/17 13:30,FALSE,Trade Balance,CAD,3,0.0B,-0.9B
+2017.06.02USDAverage Hourly Earnings m m,6/2/17 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.2%,0.2%
+2017.06.02USDNon-Farm Employment Change,6/2/17 13:30,FALSE,Non-Farm Employment Change,USD,3,181K,174K
+2017.06.02USDTrade Balance,6/2/17 13:30,FALSE,Trade Balance,USD,2,-45.5B,-45.3B
+2017.06.02USDUnemployment Rate,6/2/17 13:30,FALSE,Unemployment Rate,USD,3,4.4%,4.4%
+

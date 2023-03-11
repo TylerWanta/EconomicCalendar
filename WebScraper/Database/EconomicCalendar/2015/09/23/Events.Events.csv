@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.09.23AUDCB Leading Index m m,9/23/15 1:00,FALSE,CB Leading Index m/m,AUD,1," ",-0.3%
+2015.09.23CNYCaixin Flash Manufacturing PMI,9/23/15 2:45,FALSE,Caixin Flash Manufacturing PMI,CNY,3,47.6,47.3
+2015.09.23EURFrench Flash Manufacturing PMI,9/23/15 8:00,FALSE,French Flash Manufacturing PMI,EUR,3,48.6,48.3
+2015.09.23EURFrench Flash Services PMI,9/23/15 8:00,FALSE,French Flash Services PMI,EUR,2,51.1,50.6
+2015.09.23EURGerman Flash Manufacturing PMI,9/23/15 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,52.8,53.3
+2015.09.23EURGerman Flash Services PMI,9/23/15 8:30,FALSE,German Flash Services PMI,EUR,2,54.5,54.9
+2015.09.23EURFlash Manufacturing PMI,9/23/15 9:00,FALSE,Flash Manufacturing PMI,EUR,2,52.2,52.3
+2015.09.23EURFlash Services PMI,9/23/15 9:00,FALSE,Flash Services PMI,EUR,2,54.1,54.4
+2015.09.23CADCore Retail Sales m m,9/23/15 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.4%,0.5%
+2015.09.23CADRetail Sales m m,9/23/15 13:30,FALSE,Retail Sales m/m,CAD,2,0.5%,0.4%
+2015.09.23CHFSNB Quarterly Bulletin,9/23/15 14:00,FALSE,SNB Quarterly Bulletin,CHF,1," "," "
+2015.09.23EURECB President Draghi Speaks,9/23/15 14:00,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2015.09.23USDFlash Manufacturing PMI,9/23/15 14:45,FALSE,Flash Manufacturing PMI,USD,1,53.3,53.0
+2015.09.23USDCrude Oil Inventories,9/23/15 15:30,FALSE,Crude Oil Inventories,USD,2,-1.0M,-2.1M
+2015.09.23GBPMPC Member Broadbent Speaks,9/23/15 17:00,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2015.09.23USDFOMC Member Lockhart Speaks,9/23/15 17:30,FALSE,FOMC Member Lockhart Speaks,USD,2," "," "
+2015.09.23NZDTrade Balance,9/23/15 23:45,FALSE,Trade Balance,NZD,2,-875M,-726M
+

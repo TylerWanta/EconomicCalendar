@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.06.12JPYBSI Manufacturing Index,6/12/18 0:50,FALSE,BSI Manufacturing Index,JPY,1,3.2,2.9
+2018.06.12JPYPPI y y,6/12/18 0:50,FALSE,PPI y/y,JPY,1,2.1%,2.1%
+2018.06.12AUDHome Loans m m,6/12/18 2:30,FALSE,Home Loans m/m,AUD,1,-1.7%,-2.3%
+2018.06.12AUDNAB Business Confidence,6/12/18 2:30,FALSE,NAB Business Confidence,AUD,2," ",11
+2018.06.12JPYTertiary Industry Activity m m,6/12/18 5:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.6%,-0.3%
+2018.06.12EURFrench Final Private Payrolls q q,6/12/18 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,0.3%,0.3%
+2018.06.12EURItalian Quarterly Unemployment Rate,6/12/18 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,11.1%,11.1%
+2018.06.12GBPAverage Earnings Index 3m y,6/12/18 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,2.5%,2.6%
+2018.06.12GBPClaimant Count Change,6/12/18 9:30,FALSE,Claimant Count Change,GBP,2,11.3K,28.2K
+2018.06.12GBPUnemployment Rate,6/12/18 9:30,FALSE,Unemployment Rate,GBP,2,4.2%,4.2%
+2018.06.12CNYM2 Money Supply y y,6/12/18 10:00,FALSE,M2 Money Supply y/y,CNY,1,8.5%,8.3%
+2018.06.12CNYNew Loans,6/12/18 10:00,FALSE,New Loans,CNY,1,1200B,1180B
+2018.06.12EURGerman ZEW Economic Sentiment,6/12/18 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,-14.6,-8.2
+2018.06.12EURZEW Economic Sentiment,6/12/18 10:00,FALSE,ZEW Economic Sentiment,EUR,1,0.1,2.4
+2018.06.12USDNFIB Small Business Index,6/12/18 11:00,FALSE,NFIB Small Business Index,USD,1,105.2,104.8
+2018.06.12USDCPI m m,6/12/18 13:30,FALSE,CPI m/m,USD,3,0.2%,0.2%
+2018.06.12USDCPI y y,6/12/18 13:30,FALSE,CPI y/y,USD,3,2.8%,2.5%
+2018.06.12USDCore CPI m m,6/12/18 13:30,FALSE,Core CPI m/m,USD,3,0.1%,0.1%
+2018.06.12USD30-y Bond Auction,6/12/18 18:01,FALSE,30-y Bond Auction,USD,1," ",3.13|2.4
+2018.06.12USDFederal Budget Balance,6/12/18 19:00,FALSE,Federal Budget Balance,USD,1,-119.0B,214.3B
+2018.06.12NZDFPI m m,6/12/18 23:45,FALSE,FPI m/m,NZD,1," ",0.1%
+

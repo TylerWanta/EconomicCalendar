@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.05.13CHFBank Holiday,5/13/21 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2021.05.13EURFrench Bank Holiday,5/13/21 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2021.05.13EURGerman Bank Holiday,5/13/21 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2021.05.13GBPRICS House Price Balance,5/13/21 0:01,FALSE,RICS House Price Balance,GBP,1,62%,62%
+2021.05.13JPYBank Lending y y,5/13/21 0:50,FALSE,Bank Lending y/y,JPY,1,6.3%,6.2%
+2021.05.13JPYCurrent Account,5/13/21 0:50,FALSE,Current Account,JPY,1,1.87T,1.84T
+2021.05.13JPY30-y Bond Auction,5/13/21 4:35,FALSE,30-y Bond Auction,JPY,1," ",0.69|3.1
+2021.05.13JPYEconomy Watchers Sentiment,5/13/21 6:00,FALSE,Economy Watchers Sentiment,JPY,1,47.1,49.0
+2021.05.13CNYForeign Direct Investment ytd y,5/13/21 8:55,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",39.9%
+2021.05.13GBPMPC Member Cunliffe Speaks,5/13/21 13:00,FALSE,MPC Member Cunliffe Speaks,GBP,1," "," "
+2021.05.13USDCore PPI m m,5/13/21 13:30,FALSE,Core PPI m/m,USD,1,0.4%,0.7%
+2021.05.13USDPPI m m,5/13/21 13:30,FALSE,PPI m/m,USD,1,0.3%,1.0%
+2021.05.13USDUnemployment Claims,5/13/21 13:30,FALSE,Unemployment Claims,USD,2,487K,507K
+2021.05.13USDFOMC Member Barkin Speaks,5/13/21 15:00,FALSE,FOMC Member Barkin Speaks,USD,1," "," "
+2021.05.13USDNatural Gas Storage,5/13/21 15:30,FALSE,Natural Gas Storage,USD,1,74B,60B
+2021.05.13CADBOC Gov Macklem Speaks,5/13/21 16:00,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2021.05.13GBPBOE Gov Bailey Speaks,5/13/21 17:00,FALSE,BOE Gov Bailey Speaks,GBP,2," "," "
+2021.05.13USDFOMC Member Waller Speaks,5/13/21 18:00,FALSE,FOMC Member Waller Speaks,USD,1," "," "
+2021.05.13USD30-y Bond Auction,5/13/21 18:01,FALSE,30-y Bond Auction,USD,2," ",2.32|2.5
+2021.05.13NZDBusinessNZ Manufacturing Index,5/13/21 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",63.6
+

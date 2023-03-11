@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.03.16EURECOFIN Meetings,3/16/21 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2021.03.16AUDHPI q q,3/16/21 1:30,FALSE,HPI q/q,AUD,1,1.9%,0.8%
+2021.03.16AUDMonetary Policy Meeting Minutes,3/16/21 1:30,FALSE,Monetary Policy Meeting Minutes,AUD,1," "," "
+2021.03.16NZDCredit Card Spending y y,3/16/21 3:00,FALSE,Credit Card Spending y/y,NZD,1," ",-6.7%
+2021.03.16JPYBOJ Gov Kuroda Speaks,3/16/21 5:06,FALSE,BOJ Gov Kuroda Speaks,JPY,2," "," "
+2021.03.16JPYRevised Industrial Production m m,3/16/21 5:30,FALSE,Revised Industrial Production m/m,JPY,1,4.2%,4.2%
+2021.03.16EURFrench Final CPI m m,3/16/21 8:45,FALSE,French Final CPI m/m,EUR,1,-0.1%,-0.1%
+2021.03.16EURGerman ZEW Economic Sentiment,3/16/21 11:00,FALSE,German ZEW Economic Sentiment,EUR,1,74.0,71.2
+2021.03.16EURZEW Economic Sentiment,3/16/21 11:00,FALSE,ZEW Economic Sentiment,EUR,1,72.0,69.6
+2021.03.16CADForeign Securities Purchases,3/16/21 13:30,FALSE,Foreign Securities Purchases,CAD,1,7.95B,5.33B
+2021.03.16USDCore Retail Sales m m,3/16/21 13:30,FALSE,Core Retail Sales m/m,USD,3,0.2%,8.3%
+2021.03.16USDImport Prices m m,3/16/21 13:30,FALSE,Import Prices m/m,USD,1,1.1%,1.4%
+2021.03.16USDRetail Sales m m,3/16/21 13:30,FALSE,Retail Sales m/m,USD,3,-0.5%,7.6%
+2021.03.16USDCapacity Utilization Rate,3/16/21 14:15,FALSE,Capacity Utilization Rate,USD,1,75.6%,75.5%
+2021.03.16USDIndustrial Production m m,3/16/21 14:15,FALSE,Industrial Production m/m,USD,1,0.4%,1.1%
+2021.03.16USDBusiness Inventories m m,3/16/21 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.8%
+2021.03.16USDNAHB Housing Market Index,3/16/21 15:00,FALSE,NAHB Housing Market Index,USD,1,84,84
+2021.03.16NZDGDT Price Index,3/16/21 15:19,FALSE,GDT Price Index,NZD,1," ",15.0%
+2021.03.16NZDCurrent Account,3/16/21 22:45,FALSE,Current Account,NZD,1,-2.85B,-3.62B
+

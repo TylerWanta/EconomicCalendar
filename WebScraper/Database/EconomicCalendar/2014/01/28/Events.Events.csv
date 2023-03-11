@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.28EURECOFIN Meetings,1/28/14 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2014.01.28AUDNAB Business Confidence,1/28/14 0:30,FALSE,NAB Business Confidence,AUD,3," ",6
+2014.01.28EURGerman Import Prices m m,1/28/14 7:00,FALSE,German Import Prices m/m,EUR,1,0.3%,0.1%
+2014.01.28GBPIndex of Services 3m 3m,1/28/14 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.7%,0.8%
+2014.01.28GBPPrelim GDP q q,1/28/14 9:30,FALSE,Prelim GDP q/q,GBP,3,0.7%,0.8%
+2014.01.28USDCore Durable Goods Orders m m,1/28/14 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.7%,2.4%
+2014.01.28USDDurable Goods Orders m m,1/28/14 13:30,FALSE,Durable Goods Orders m/m,USD,2,1.9%,3.4%
+2014.01.28USDS&P CS Composite-20 HPI y y,1/28/14 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,13.7%,13.6%
+2014.01.28USDRichmond Manufacturing Index,1/28/14 14:59,FALSE,Richmond Manufacturing Index,USD,1,13,13
+2014.01.28USDCB Consumer Confidence,1/28/14 15:00,FALSE,CB Consumer Confidence,USD,3,78.3,77.5
+2014.01.28AUDMI Leading Index m m,1/28/14 23:30,FALSE,MI Leading Index m/m,AUD,1," ",-0.1%
+

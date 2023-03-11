@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.04.01USDWards Total Vehicle Sales,4/1/20 0:00,TRUE,Wards Total Vehicle Sales,USD,1,12.2M,16.8M
+2020.04.01GBPBRC Shop Price Index y y,4/1/20 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-0.6%
+2020.04.01JPYTankan Manufacturing Index,4/1/20 0:50,FALSE,Tankan Manufacturing Index,JPY,1,-10,0
+2020.04.01JPYTankan Non-Manufacturing Index,4/1/20 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,1,3,20
+2020.04.01AUDBuilding Approvals m m,4/1/20 1:30,FALSE,Building Approvals m/m,AUD,1,3.1%,-15.1%
+2020.04.01AUDMonetary Policy Meeting Minutes,4/1/20 1:30,FALSE,Monetary Policy Meeting Minutes,AUD,2," "," "
+2020.04.01JPYFinal Manufacturing PMI,4/1/20 1:30,FALSE,Final Manufacturing PMI,JPY,1,44.9,44.8
+2020.04.01CNYCaixin Manufacturing PMI,4/1/20 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,45.0,40.3
+2020.04.01AUDCommodity Prices y y,4/1/20 6:30,FALSE,Commodity Prices y/y,AUD,1," ",-6.0%
+2020.04.01EURGerman Retail Sales m m,4/1/20 7:00,FALSE,German Retail Sales m/m,EUR,1,0.1%,1.0%
+2020.04.01EURSpanish Manufacturing PMI,4/1/20 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,44.0,50.4
+2020.04.01CHFManufacturing PMI,4/1/20 8:30,FALSE,Manufacturing PMI,CHF,1,42.3,49.5
+2020.04.01EURItalian Manufacturing PMI,4/1/20 8:45,FALSE,Italian Manufacturing PMI,EUR,1,41.1,48.7
+2020.04.01EURFrench Final Manufacturing PMI,4/1/20 8:50,FALSE,French Final Manufacturing PMI,EUR,1,42.9,42.9
+2020.04.01EURGerman Final Manufacturing PMI,4/1/20 8:55,FALSE,German Final Manufacturing PMI,EUR,1,45.6,45.7
+2020.04.01EURFinal Manufacturing PMI,4/1/20 9:00,FALSE,Final Manufacturing PMI,EUR,1,44.7,44.8
+2020.04.01EURItalian Monthly Unemployment Rate,4/1/20 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.0%,9.8%
+2020.04.01GBPFinal Manufacturing PMI,4/1/20 9:30,FALSE,Final Manufacturing PMI,GBP,1,47.1,48.0
+2020.04.01EURUnemployment Rate,4/1/20 10:00,FALSE,Unemployment Rate,EUR,1,7.4%,7.4%
+2020.04.01USDADP Non-Farm Employment Change,4/1/20 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,-150K,179K
+2020.04.01CADManufacturing PMI,4/1/20 14:30,FALSE,Manufacturing PMI,CAD,1," ",51.8
+2020.04.01USDFinal Manufacturing PMI,4/1/20 14:45,FALSE,Final Manufacturing PMI,USD,1,48.2,49.2
+2020.04.01USDConstruction Spending m m,4/1/20 15:00,FALSE,Construction Spending m/m,USD,1,0.6%,2.8%
+2020.04.01USDISM Manufacturing PMI,4/1/20 15:00,FALSE,ISM Manufacturing PMI,USD,3,44.9,50.1
+2020.04.01USDISM Manufacturing Prices,4/1/20 15:00,FALSE,ISM Manufacturing Prices,USD,1,41.6,45.9
+2020.04.01USDCrude Oil Inventories,4/1/20 15:30,FALSE,Crude Oil Inventories,USD,1,3.7M,1.6M
+2020.04.01USDPresident Trump Speaks,4/1/20 22:37,FALSE,President Trump Speaks,USD,3," "," "
+

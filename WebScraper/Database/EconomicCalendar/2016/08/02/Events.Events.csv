@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.08.02USDTotal Vehicle Sales,8/2/16 0:00,TRUE,Total Vehicle Sales,USD,1,17.1M,16.7M
+2016.08.02USDWards Total Vehicle Sales,8/2/16 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.3M,17.0M
+2016.08.02JPYMonetary Base y y,8/2/16 0:50,FALSE,Monetary Base y/y,JPY,1,24.3%,25.4%
+2016.08.02AUDBuilding Approvals m m,8/2/16 2:30,FALSE,Building Approvals m/m,AUD,3,0.9%,-5.4%
+2016.08.02AUDTrade Balance,8/2/16 2:30,FALSE,Trade Balance,AUD,3,-2.00B,-2.42B
+2016.08.02NZDInflation Expectations q q,8/2/16 4:00,FALSE,Inflation Expectations q/q,NZD,3," ",1.64%
+2016.08.02JPY10-y Bond Auction,8/2/16 4:45,FALSE,10-y Bond Auction,JPY,1," ",-0.24|3.6
+2016.08.02AUDCash Rate,8/2/16 5:30,FALSE,Cash Rate,AUD,3,1.50%,1.75%
+2016.08.02AUDRBA Rate Statement,8/2/16 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2016.08.02JPYConsumer Confidence,8/2/16 6:00,FALSE,Consumer Confidence,JPY,1,42.2,41.8
+2016.08.02AUDCommodity Prices y y,8/2/16 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-10.0%
+2016.08.02EURSpanish Unemployment Change,8/2/16 8:00,FALSE,Spanish Unemployment Change,EUR,2,-70.0K,-124.3K
+2016.08.02CHFRetail Sales y y,8/2/16 8:15,FALSE,Retail Sales y/y,CHF,1,-2.0%,-1.7%
+2016.08.02CHFManufacturing PMI,8/2/16 8:30,FALSE,Manufacturing PMI,CHF,1,51.9,51.6
+2016.08.02GBPConstruction PMI,8/2/16 9:30,FALSE,Construction PMI,GBP,3,44.2,46.0
+2016.08.02EURPPI m m,8/2/16 10:00,FALSE,PPI m/m,EUR,1,0.4%,0.6%
+2016.08.02USDCore PCE Price Index m m,8/2/16 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.2%
+2016.08.02USDPersonal Income m m,8/2/16 13:30,FALSE,Personal Income m/m,USD,1,0.3%,0.2%
+2016.08.02USDPersonal Spending m m,8/2/16 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,0.4%
+2016.08.02CADManufacturing PMI,8/2/16 14:30,FALSE,Manufacturing PMI,CAD,1," ",51.8
+2016.08.02NZDGDT Price Index,8/2/16 15:10,FALSE,GDT Price Index,NZD,3," ",0.0%
+2016.08.02NZDLabor Cost Index q q,8/2/16 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.4%,0.4%
+

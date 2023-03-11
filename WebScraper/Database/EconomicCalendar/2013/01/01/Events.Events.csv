@@ -1,0 +1,14 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.01.01CADBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2013.01.01CHFBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2013.01.01CNYBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.01.01EURFrench Bank Holiday,1/1/13 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2013.01.01EURGerman Bank Holiday,1/1/13 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2013.01.01EURItalian Bank Holiday,1/1/13 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2013.01.01GBPBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2013.01.01JPYBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2013.01.01NZDBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2013.01.01USDBank Holiday,1/1/13 0:00,TRUE,Bank Holiday,USD,4," "," "
+2013.01.01CNYManufacturing PMI,1/1/13 1:00,FALSE,Manufacturing PMI,CNY,3,51.0,50.6
+2013.01.01AUDAIG Manufacturing Index,1/1/13 22:30,FALSE,AIG Manufacturing Index,AUD,1," ",44.3
+

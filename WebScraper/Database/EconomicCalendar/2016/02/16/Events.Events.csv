@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.02.16AUDMonetary Policy Meeting Minutes,2/16/16 0:30,FALSE,Monetary Policy Meeting Minutes,AUD,3," "," "
+2016.02.16CNYM2 Money Supply y y,2/16/16 2:00,FALSE,M2 Money Supply y/y,CNY,1,13.5%,13.3%
+2016.02.16CNYNew Loans,2/16/16 2:00,FALSE,New Loans,CNY,1,1900B,598B
+2016.02.16NZDInflation Expectations q q,2/16/16 2:00,FALSE,Inflation Expectations q/q,NZD,3," ",1.85%
+2016.02.16EURItalian Trade Balance,2/16/16 9:00,FALSE,Italian Trade Balance,EUR,1,3.87B,4.40B
+2016.02.16GBPCPI y y,2/16/16 9:30,FALSE,CPI y/y,GBP,3,0.3%,0.2%
+2016.02.16GBPCore CPI y y,2/16/16 9:30,FALSE,Core CPI y/y,GBP,1,1.3%,1.4%
+2016.02.16GBPONS HPI y y,2/16/16 9:30,FALSE,ONS HPI y/y,GBP,1,7.9%,7.7%
+2016.02.16GBPPPI Input m m,2/16/16 9:30,FALSE,PPI Input m/m,GBP,2,-1.2%,-0.3%
+2016.02.16GBPPPI Output m m,2/16/16 9:30,FALSE,PPI Output m/m,GBP,1,-0.2%,-0.3%
+2016.02.16GBPRPI y y,2/16/16 9:30,FALSE,RPI y/y,GBP,2,1.4%,1.2%
+2016.02.16EURGerman ZEW Economic Sentiment,2/16/16 10:00,FALSE,German ZEW Economic Sentiment,EUR,3,0.1,10.2
+2016.02.16EURZEW Economic Sentiment,2/16/16 10:00,FALSE,ZEW Economic Sentiment,EUR,2,10.3,22.7
+2016.02.16CADManufacturing Sales m m,2/16/16 13:30,FALSE,Manufacturing Sales m/m,CAD,3,0.9%,1.2%
+2016.02.16USDEmpire State Manufacturing Index,2/16/16 13:30,FALSE,Empire State Manufacturing Index,USD,2,-10.5,-19.4
+2016.02.16NZDGDT Price Index,2/16/16 14:12,FALSE,GDT Price Index,NZD,3," ",-7.4%
+2016.02.16USDNAHB Housing Market Index,2/16/16 15:00,FALSE,NAHB Housing Market Index,USD,1,60,61
+2016.02.16USDTIC Long-Term Purchases,2/16/16 21:00,FALSE,TIC Long-Term Purchases,USD,1,30.2B,31.4B
+2016.02.16AUDMI Leading Index m m,2/16/16 23:30,FALSE,MI Leading Index m/m,AUD,1," ",-0.3%
+2016.02.16JPYCore Machinery Orders m m,2/16/16 23:50,FALSE,Core Machinery Orders m/m,JPY,1,4.6%,-14.4%
+

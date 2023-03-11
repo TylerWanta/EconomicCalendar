@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.01.04USDTotal Vehicle Sales,1/4/17 0:00,TRUE,Total Vehicle Sales,USD,1,17.8M,17.9M
+2017.01.04USDWards Total Vehicle Sales,1/4/17 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.7M,17.6M
+2017.01.04GBPBRC Shop Price Index y y,1/4/17 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-1.7%
+2017.01.04JPYFinal Manufacturing PMI,1/4/17 0:30,FALSE,Final Manufacturing PMI,JPY,1,51.9,51.9
+2017.01.04EURSpanish Unemployment Change,1/4/17 8:00,FALSE,Spanish Unemployment Change,EUR,2,-44.2K,24.8K
+2017.01.04EURSpanish Services PMI,1/4/17 8:15,FALSE,Spanish Services PMI,EUR,1,54.8,55.1
+2017.01.04EURItalian Services PMI,1/4/17 8:45,FALSE,Italian Services PMI,EUR,1,52.7,53.3
+2017.01.04EURFrench Final Services PMI,1/4/17 8:50,FALSE,French Final Services PMI,EUR,1,52.6,52.6
+2017.01.04EURGerman Final Services PMI,1/4/17 8:55,FALSE,German Final Services PMI,EUR,1,53.8,53.8
+2017.01.04EURFinal Services PMI,1/4/17 9:00,FALSE,Final Services PMI,EUR,1,53.1,53.1
+2017.01.04GBPConstruction PMI,1/4/17 9:30,FALSE,Construction PMI,GBP,3,52.6,52.8
+2017.01.04GBPM4 Money Supply m m,1/4/17 9:30,FALSE,M4 Money Supply m/m,GBP,1,1.4%,1.1%
+2017.01.04GBPMortgage Approvals,1/4/17 9:30,FALSE,Mortgage Approvals,GBP,1,69K,67K
+2017.01.04GBPNet Lending to Individuals m m,1/4/17 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,4.9B,4.9B
+2017.01.04EURCPI Flash Estimate y y,1/4/17 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,1.0%,0.6%
+2017.01.04EURCore CPI Flash Estimate y y,1/4/17 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,0.8%,0.8%
+2017.01.04EURItalian Prelim CPI m m,1/4/17 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.3%,-0.1%
+2017.01.04USDFOMC Meeting Minutes,1/4/17 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+2017.01.04AUDAIG Services Index,1/4/17 22:30,FALSE,AIG Services Index,AUD,1," ",51.1
+2017.01.04JPYMonetary Base y y,1/4/17 23:50,FALSE,Monetary Base y/y,JPY,1,22.3%,21.5%
+

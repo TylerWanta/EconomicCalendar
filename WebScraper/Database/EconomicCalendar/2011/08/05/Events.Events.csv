@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.08.05AUDAIG Construction Index,8/5/11 0:23,FALSE,AIG Construction Index,AUD,1,,35.8
+2011.08.05AUDRBA Monetary Policy Statement,8/5/11 2:30,FALSE,RBA Monetary Policy Statement,AUD,3,,
+2011.08.05JPYBOJ Monthly Report,8/5/11 6:00,FALSE,BOJ Monthly Report,JPY,2,,
+2011.08.05JPYLeading Indicators,8/5/11 6:00,FALSE,Leading Indicators,JPY,1,103.6%,99.4%
+2011.08.05EURFrench Trade Balance,8/5/11 7:45,FALSE,French Trade Balance,EUR,1,-6.3B,-6.4B
+2011.08.05CHFForeign Currency Reserves,8/5/11 8:00,FALSE,Foreign Currency Reserves,CHF,3,,196B
+2011.08.05GBPHalifax HPI m m,8/5/11 8:00,FALSE,Halifax HPI m/m,GBP,3,0.1%,1.5%
+2011.08.05CHFCPI m m,8/5/11 8:15,FALSE,CPI m/m,CHF,2,-0.5%,-0.2%
+2011.08.05EURItalian Industrial Production m m,8/5/11 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.4%,-0.6%
+2011.08.05GBPPPI Input m m,8/5/11 9:30,FALSE,PPI Input m/m,GBP,3,0.6%,0.2%
+2011.08.05GBPPPI Output m m,8/5/11 9:30,FALSE,PPI Output m/m,GBP,1,0.2%,0.1%
+2011.08.05EURItalian Prelim GDP q q,8/5/11 10:00,FALSE,Italian Prelim GDP q/q,EUR,1,0.2%,0.1%
+2011.08.05EURGerman Industrial Production m m,8/5/11 11:00,FALSE,German Industrial Production m/m,EUR,2,0.1%,0.9%
+2011.08.05CADEmployment Change,8/5/11 12:00,FALSE,Employment Change,CAD,3,17.7K,28.4K
+2011.08.05CADUnemployment Rate,8/5/11 12:00,FALSE,Unemployment Rate,CAD,3,7.4%,7.4%
+2011.08.05CADBuilding Permits m m,8/5/11 13:30,FALSE,Building Permits m/m,CAD,3,-4.8%,20.9%
+2011.08.05USDAverage Hourly Earnings m m,8/5/11 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.0%
+2011.08.05USDNon-Farm Employment Change,8/5/11 13:30,FALSE,Non-Farm Employment Change,USD,3,89K,46K
+2011.08.05USDUnemployment Rate,8/5/11 13:30,FALSE,Unemployment Rate,USD,3,9.2%,9.2%
+2011.08.05CADIvey PMI,8/5/11 15:00,FALSE,Ivey PMI,CAD,3,61.2,59.9
+2011.08.05USDPresident Obama Speaks,8/5/11 16:00,FALSE,President Obama Speaks,USD,1,,
+2011.08.05USDConsumer Credit m m,8/5/11 20:00,FALSE,Consumer Credit m/m,USD,1,5.0B,5.1B
+2011.08.05USDIBD TIPP Economic Optimism,8/5/11 22:30,FALSE,IBD/TIPP Economic Optimism,USD,1,43.1,41.4
+

@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.12.26CADBank Holiday,12/26/19 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2019.12.26CHFBank Holiday,12/26/19 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2019.12.26EURGerman Bank Holiday,12/26/19 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2019.12.26EURItalian Bank Holiday,12/26/19 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2019.12.26GBPBank Holiday,12/26/19 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2019.12.26JPYBOJ Gov Kuroda Speaks,12/26/19 4:37,FALSE,BOJ Gov Kuroda Speaks,JPY,1," "," "
+2019.12.26JPYHousing Starts y y,12/26/19 5:00,FALSE,Housing Starts y/y,JPY,1,-7.9%,-7.4%
+2019.12.26USDUnemployment Claims,12/26/19 13:30,FALSE,Unemployment Claims,USD,1,222K,235K
+2019.12.26JPYTokyo Core CPI y y,12/26/19 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.6%,0.6%
+2019.12.26JPYUnemployment Rate,12/26/19 23:30,FALSE,Unemployment Rate,JPY,1,2.4%,2.4%
+2019.12.26JPYBOJ Summary of Opinions,12/26/19 23:50,FALSE,BOJ Summary of Opinions,JPY,1," "," "
+2019.12.26JPYPrelim Industrial Production m m,12/26/19 23:50,FALSE,Prelim Industrial Production m/m,JPY,1,-1.1%,-4.5%
+2019.12.26JPYRetail Sales y y,12/26/19 23:50,FALSE,Retail Sales y/y,JPY,1,-1.7%,-7.0%
+

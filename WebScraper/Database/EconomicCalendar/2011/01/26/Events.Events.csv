@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.01.26AllWEF Annual Meetings,1/26/11 0:00,TRUE,WEF Annual Meetings,All,2,,
+2011.01.26NZDCredit Card Spending y y,1/26/11 2:00,FALSE,Credit Card Spending y/y,NZD,1,,3.7%
+2011.01.26USDPresident Obama Speaks,1/26/11 2:00,FALSE,President Obama Speaks,USD,2,,
+2011.01.26JPYBOJ Monthly Report,1/26/11 5:00,FALSE,BOJ Monthly Report,JPY,2,,
+2011.01.26EURGerman Import Prices m m,1/26/11 7:00,FALSE,German Import Prices m/m,EUR,1,1.3%,1.2%
+2011.01.26EURItalian Retail Sales m m,1/26/11 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.1%,0.3%
+2011.01.26GBPHigh Street Lending,1/26/11 9:30,FALSE,High Street Lending,GBP,2,29.9K,29.7K
+2011.01.26GBPMPC Asset Purchase Facility Votes,1/26/11 9:30,FALSE,MPC Asset Purchase Facility Votes,GBP,3,1-0-8,1-0-8
+2011.01.26GBPMPC Official Bank Rate Votes,1/26/11 9:30,FALSE,MPC Official Bank Rate Votes,GBP,3,1-0-8,1-0-8
+2011.01.26EURGerman 30-y Bond Auction,1/26/11 10:05,FALSE,German 30-y Bond Auction,EUR,1,,3.33|1.2
+2011.01.26USDNew Home Sales,1/26/11 15:00,FALSE,New Home Sales,USD,3,302K,280K
+2011.01.26USDCrude Oil Inventories,1/26/11 15:30,FALSE,Crude Oil Inventories,USD,2,0.9M,2.6M
+2011.01.26USDFOMC Statement,1/26/11 19:15,FALSE,FOMC Statement,USD,3,,
+2011.01.26USDFederal Funds Rate,1/26/11 19:15,FALSE,Federal Funds Rate,USD,3,<0.25%,<0.25%
+2011.01.26NZDOfficial Cash Rate,1/26/11 20:00,FALSE,Official Cash Rate,NZD,3,3.00%,3.00%
+2011.01.26NZDRBNZ Rate Statement,1/26/11 20:00,FALSE,RBNZ Rate Statement,NZD,3,,
+2011.01.26AUDMI Leading Index m m,1/26/11 23:30,FALSE,MI Leading Index m/m,AUD,2,,0.3%
+2011.01.26JPYTrade Balance,1/26/11 23:50,FALSE,Trade Balance,JPY,2,0.53T,0.54T
+

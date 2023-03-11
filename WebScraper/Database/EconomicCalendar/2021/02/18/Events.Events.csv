@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.02.18AUDEmployment Change,2/18/21 0:30,FALSE,Employment Change,AUD,3,30.2K,50.0K
+2021.02.18AUDUnemployment Rate,2/18/21 0:30,FALSE,Unemployment Rate,AUD,3,6.5%,6.6%
+2021.02.18CHFTrade Balance,2/18/21 7:00,FALSE,Trade Balance,CHF,1,3.32B,2.89B
+2021.02.18EURSpanish 10-y Bond Auction,2/18/21 9:51,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.16|1.6
+2021.02.18GBPMPC Member Saunders Speaks,2/18/21 11:00,FALSE,MPC Member Saunders Speaks,GBP,1," "," "
+2021.02.18EURECB Monetary Policy Meeting Accounts,2/18/21 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,1," "," "
+2021.02.18USDFOMC Member Brainard Speaks,2/18/21 13:00,FALSE,FOMC Member Brainard Speaks,USD,1," "," "
+2021.02.18USDPhilly Fed Manufacturing Index,2/18/21 13:29,FALSE,Philly Fed Manufacturing Index,USD,2,20.3,26.5
+2021.02.18CADNHPI m m,2/18/21 13:30,FALSE,NHPI m/m,CAD,1,0.2%,0.3%
+2021.02.18USDBuilding Permits,2/18/21 13:30,FALSE,Building Permits,USD,1,1.67M,1.70M
+2021.02.18USDHousing Starts,2/18/21 13:30,FALSE,Housing Starts,USD,1,1.66M,1.68M
+2021.02.18USDImport Prices m m,2/18/21 13:30,FALSE,Import Prices m/m,USD,1,1.0%,1.0%
+2021.02.18USDUnemployment Claims,2/18/21 13:30,FALSE,Unemployment Claims,USD,1,775K,848K
+2021.02.18CADADP Non-Farm Employment Change,2/18/21 13:35,FALSE,ADP Non-Farm Employment Change,CAD,1," ",338.2K
+2021.02.18EURConsumer Confidence,2/18/21 14:10,FALSE,Consumer Confidence,EUR,1,-15,-16
+2021.02.18USDNatural Gas Storage,2/18/21 15:30,FALSE,Natural Gas Storage,USD,1,-250B,-171B
+2021.02.18USDCrude Oil Inventories,2/18/21 16:00,FALSE,Crude Oil Inventories,USD,2,-2.1M,-6.6M
+2021.02.18NZDPPI Input q q,2/18/21 21:45,FALSE,PPI Input q/q,NZD,1,0.1%,0.6%
+2021.02.18NZDPPI Output q q,2/18/21 21:45,FALSE,PPI Output q/q,NZD,1,-0.2%,-0.3%
+2021.02.18AUDFlash Manufacturing PMI,2/18/21 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",57.2
+2021.02.18AUDFlash Services PMI,2/18/21 22:00,FALSE,Flash Services PMI,AUD,1," ",55.6
+2021.02.18JPYNational Core CPI y y,2/18/21 23:30,FALSE,National Core CPI y/y,JPY,1,-0.6%,-1.0%
+

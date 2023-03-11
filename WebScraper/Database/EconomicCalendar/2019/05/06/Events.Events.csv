@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.05.06GBPBank Holiday,5/6/19 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2019.05.06AUDMI Inflation Gauge m m,5/6/19 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.4%
+2019.05.06NZDANZ Commodity Prices m m,5/6/19 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",4.1%
+2019.05.06AUDANZ Job Advertisements m m,5/6/19 2:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",-1.7%
+2019.05.06CNYCaixin Services PMI,5/6/19 2:45,FALSE,Caixin Services PMI,CNY,3,54.3,54.4
+2019.05.06EURSpanish Unemployment Change,5/6/19 8:00,FALSE,Spanish Unemployment Change,EUR,1,-85.0K,-34.0K
+2019.05.06EURSpanish Services PMI,5/6/19 8:15,FALSE,Spanish Services PMI,EUR,1,54.9,56.8
+2019.05.06EURItalian Services PMI,5/6/19 8:45,FALSE,Italian Services PMI,EUR,1,54.4,53.1
+2019.05.06EURFrench Final Services PMI,5/6/19 8:50,FALSE,French Final Services PMI,EUR,1,50.5,50.5
+2019.05.06EURGerman Final Services PMI,5/6/19 8:55,FALSE,German Final Services PMI,EUR,1,55.6,55.6
+2019.05.06EURFinal Services PMI,5/6/19 9:00,FALSE,Final Services PMI,EUR,1,52.5,52.5
+2019.05.06EURSentix Investor Confidence,5/6/19 9:30,FALSE,Sentix Investor Confidence,EUR,1,1.1,-0.3
+2019.05.06EURRetail Sales m m,5/6/19 10:00,FALSE,Retail Sales m/m,EUR,1,-0.1%,0.5%
+2019.05.06CADBOC Gov Poloz Speaks,5/6/19 18:45,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2019.05.06USDLoan Officer Survey,5/6/19 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2019.05.06AUDAIG Construction Index,5/6/19 23:30,FALSE,AIG Construction Index,AUD,1," ",45.6
+

@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.09.03NZDANZ Commodity Prices m m,9/3/20 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",2.9%
+2020.09.03AUDTrade Balance,9/3/20 2:30,FALSE,Trade Balance,AUD,1,5.00B,8.15B
+2020.09.03CNYCaixin Services PMI,9/3/20 2:45,FALSE,Caixin Services PMI,CNY,1,54.0,54.1
+2020.09.03JPY30-y Bond Auction,9/3/20 4:35,FALSE,30-y Bond Auction,JPY,1," ",0.62|3.4
+2020.09.03CHFCPI m m,9/3/20 7:30,FALSE,CPI m/m,CHF,1,0.1%,-0.2%
+2020.09.03EURSpanish Services PMI,9/3/20 8:15,FALSE,Spanish Services PMI,EUR,1,48.0,51.9
+2020.09.03EURItalian Services PMI,9/3/20 8:45,FALSE,Italian Services PMI,EUR,1,49.4,51.6
+2020.09.03EURFrench Final Services PMI,9/3/20 8:50,FALSE,French Final Services PMI,EUR,1,51.9,51.9
+2020.09.03EURGerman Final Services PMI,9/3/20 8:55,FALSE,German Final Services PMI,EUR,1,50.8,50.8
+2020.09.03EURFinal Services PMI,9/3/20 9:00,FALSE,Final Services PMI,EUR,1,50.1,50.1
+2020.09.03GBPFinal Services PMI,9/3/20 9:30,FALSE,Final Services PMI,GBP,1,60.1,60.1
+2020.09.03EURSpanish 10-y Bond Auction,9/3/20 9:53,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.26|3.0
+2020.09.03EURRetail Sales m m,9/3/20 10:00,FALSE,Retail Sales m/m,EUR,1,1.3%,5.3%
+2020.09.03EURFrench 10-y Bond Auction,9/3/20 10:04,FALSE,French 10-y Bond Auction,EUR,1," ",-0.27|2.1
+2020.09.03USDChallenger Job Cuts y y,9/3/20 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",576.1%
+2020.09.03CADTrade Balance,9/3/20 13:30,FALSE,Trade Balance,CAD,2,-2.5B,-1.6B
+2020.09.03USDRevised Nonfarm Productivity q q,9/3/20 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,1,7.3%,7.3%
+2020.09.03USDRevised Unit Labor Costs q q,9/3/20 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,12.0%,12.2%
+2020.09.03USDTrade Balance,9/3/20 13:30,FALSE,Trade Balance,USD,1,-58.2B,-53.5B
+2020.09.03USDUnemployment Claims,9/3/20 13:30,FALSE,Unemployment Claims,USD,2,955K,1011K
+2020.09.03USDFinal Services PMI,9/3/20 14:45,FALSE,Final Services PMI,USD,1,54.8,54.8
+2020.09.03GBPBOE Gov Bailey Speaks,9/3/20 15:00,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2020.09.03USDISM Services PMI,9/3/20 15:00,FALSE,ISM Services PMI,USD,3,57.0,58.1
+2020.09.03USDNatural Gas Storage,9/3/20 15:30,FALSE,Natural Gas Storage,USD,1,37B,45B
+

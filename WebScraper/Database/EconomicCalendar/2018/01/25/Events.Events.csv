@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.01.25AUDBank Holiday,1/25/18 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2018.01.25AllWEF Annual Meetings,1/25/18 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2018.01.25EURGerman GfK Consumer Climate,1/25/18 7:00,FALSE,German GfK Consumer Climate,EUR,1,10.8,10.8
+2018.01.25EURSpanish Unemployment Rate,1/25/18 8:00,FALSE,Spanish Unemployment Rate,EUR,2,16.1%,16.4%
+2018.01.25EURGerman ifo Business Climate,1/25/18 9:00,FALSE,German ifo Business Climate,EUR,2,117.1,117.2
+2018.01.25GBPHigh Street Lending,1/25/18 9:30,FALSE,High Street Lending,GBP,1,39.9K,39.0K
+2018.01.25GBPCBI Realized Sales,1/25/18 11:00,FALSE,CBI Realized Sales,GBP,1,12,20
+2018.01.25EURMain Refinancing Rate,1/25/18 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2018.01.25EURMonetary Policy Statement,1/25/18 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2018.01.25CADCore Retail Sales m m,1/25/18 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.8%,0.8%
+2018.01.25CADRetail Sales m m,1/25/18 13:30,FALSE,Retail Sales m/m,CAD,2,0.7%,1.6%
+2018.01.25EURECB Press Conference,1/25/18 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2018.01.25USDUnemployment Claims,1/25/18 13:30,FALSE,Unemployment Claims,USD,2,239K,216K
+2018.01.25EURBelgian NBB Business Climate,1/25/18 14:00,FALSE,Belgian NBB Business Climate,EUR,1,0.4,0.1
+2018.01.25USDCB Leading Index m m,1/25/18 15:00,FALSE,CB Leading Index m/m,USD,1,0.5%,0.4%
+2018.01.25USDNew Home Sales,1/25/18 15:00,FALSE,New Home Sales,USD,2,679K,689K
+2018.01.25USDNatural Gas Storage,1/25/18 15:30,FALSE,Natural Gas Storage,USD,1,-270B,-183B
+2018.01.25JPYNational Core CPI y y,1/25/18 23:30,FALSE,National Core CPI y/y,JPY,1,0.9%,0.9%
+2018.01.25JPYTokyo Core CPI y y,1/25/18 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.8%,0.8%
+2018.01.25JPYMonetary Policy Meeting Minutes,1/25/18 23:50,FALSE,Monetary Policy Meeting Minutes,JPY,1," "," "
+2018.01.25JPYSPPI y y,1/25/18 23:50,FALSE,SPPI y/y,JPY,1,0.8%,0.8%
+

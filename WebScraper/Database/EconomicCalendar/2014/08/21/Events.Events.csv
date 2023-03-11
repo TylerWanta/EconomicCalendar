@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.08.21AllJackson Hole Symposium,8/21/14 0:00,TRUE,Jackson Hole Symposium,All,2," "," "
+2014.08.21AUDCB Leading Index m m,8/21/14 1:00,FALSE,CB Leading Index m/m,AUD,2," ",0.2%
+2014.08.21JPYFlash Manufacturing PMI,8/21/14 2:35,FALSE,Flash Manufacturing PMI,JPY,1,51.7,50.5
+2014.08.21CNYCaixin Flash Manufacturing PMI,8/21/14 2:45,FALSE,Caixin Flash Manufacturing PMI,CNY,3,51.5,51.7
+2014.08.21NZDCredit Card Spending y y,8/21/14 4:00,FALSE,Credit Card Spending y/y,NZD,1," ",6.0%
+2014.08.21CHFTrade Balance,8/21/14 7:00,FALSE,Trade Balance,CHF,2,1.87B,1.41B
+2014.08.21EURFrench Flash Manufacturing PMI,8/21/14 8:00,FALSE,French Flash Manufacturing PMI,EUR,3,47.9,47.8
+2014.08.21EURFrench Flash Services PMI,8/21/14 8:00,FALSE,French Flash Services PMI,EUR,2,50.3,50.4
+2014.08.21EURGerman Flash Manufacturing PMI,8/21/14 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,51.7,52.4
+2014.08.21EURGerman Flash Services PMI,8/21/14 8:30,FALSE,German Flash Services PMI,EUR,2,55.5,56.7
+2014.08.21EURFlash Manufacturing PMI,8/21/14 9:00,FALSE,Flash Manufacturing PMI,EUR,2,51.4,51.8
+2014.08.21EURFlash Services PMI,8/21/14 9:00,FALSE,Flash Services PMI,EUR,2,53.6,54.2
+2014.08.21GBPPublic Sector Net Borrowing,8/21/14 9:30,FALSE,Public Sector Net Borrowing,GBP,2,-1.9B,9.8B
+2014.08.21GBPRetail Sales m m,8/21/14 9:30,FALSE,Retail Sales m/m,GBP,3,0.4%,0.2%
+2014.08.21GBP10-y Bond Auction,8/21/14 10:37,FALSE,10-y Bond Auction,GBP,1," ",2.70|1.8
+2014.08.21USDUnemployment Claims,8/21/14 13:30,FALSE,Unemployment Claims,USD,3,302K,312K
+2014.08.21USDFlash Manufacturing PMI,8/21/14 14:45,FALSE,Flash Manufacturing PMI,USD,2,55.7,55.8
+2014.08.21EURConsumer Confidence,8/21/14 15:00,FALSE,Consumer Confidence,EUR,1,-9,-8
+2014.08.21USDCB Leading Index m m,8/21/14 15:00,FALSE,CB Leading Index m/m,USD,1,0.6%,0.6%
+2014.08.21USDExisting Home Sales,8/21/14 15:00,FALSE,Existing Home Sales,USD,2,5.01M,5.03M
+2014.08.21USDPhilly Fed Manufacturing Index,8/21/14 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,19.7,23.9
+2014.08.21USDNatural Gas Storage,8/21/14 15:30,FALSE,Natural Gas Storage,USD,1,83B,78B
+

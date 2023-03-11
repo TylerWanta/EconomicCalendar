@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.05.21CADBank Holiday,5/21/18 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2018.05.21CHFBank Holiday,5/21/18 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2018.05.21EURFrench Bank Holiday,5/21/18 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2018.05.21EURGerman Bank Holiday,5/21/18 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2018.05.21GBPRightmove HPI m m,5/21/18 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.4%
+2018.05.21JPYTrade Balance,5/21/18 0:50,FALSE,Trade Balance,JPY,1,0.11T,0.17T
+2018.05.21NZDCredit Card Spending y y,5/21/18 4:00,FALSE,Credit Card Spending y/y,NZD,1," ",7.4%
+2018.05.21AUDCB Leading Index m m,5/21/18 15:30,FALSE,CB Leading Index m/m,AUD,1," ",0.2%
+2018.05.21USDFOMC Member Bostic Speaks,5/21/18 16:30,FALSE,FOMC Member Bostic Speaks,USD,2," "," "
+

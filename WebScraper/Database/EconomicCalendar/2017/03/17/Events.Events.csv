@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.03.17AllG20 Meetings,3/17/17 0:00,TRUE,G20 Meetings,All,3," "," "
+2017.03.17EURItalian Trade Balance,3/17/17 10:00,FALSE,Italian Trade Balance,EUR,1,3.45B,5.73B
+2017.03.17EURTrade Balance,3/17/17 11:00,FALSE,Trade Balance,EUR,1,22.3B,23.1B
+2017.03.17GBPBOE Quarterly Bulletin,3/17/17 13:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2017.03.17CADManufacturing Sales m m,3/17/17 13:30,FALSE,Manufacturing Sales m/m,CAD,3,0.7%,2.1%
+2017.03.17USDCapacity Utilization Rate,3/17/17 14:15,FALSE,Capacity Utilization Rate,USD,2,75.5%,75.5%
+2017.03.17USDIndustrial Production m m,3/17/17 14:15,FALSE,Industrial Production m/m,USD,2,0.3%,-0.1%
+2017.03.17USDCB Leading Index m m,3/17/17 15:00,FALSE,CB Leading Index m/m,USD,1,0.4%,0.6%
+2017.03.17USDPrelim UoM Consumer Sentiment,3/17/17 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,97.1,96.3
+2017.03.17USDPrelim UoM Inflation Expectations,3/17/17 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.7%
+2017.03.17USDLabor Market Conditions Index m m,3/17/17 15:01,FALSE,Labor Market Conditions Index m/m,USD,1," ",1.3
+

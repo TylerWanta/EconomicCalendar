@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.05.31AllOPEC Meetings,5/31/13 0:00,TRUE,OPEC Meetings,All,1," "," "
+2013.05.31GBPGfK Consumer Confidence,5/31/13 0:01,FALSE,GfK Consumer Confidence,GBP,1,-25,-27
+2013.05.31JPYFinal Manufacturing PMI,5/31/13 0:15,FALSE,Final Manufacturing PMI,JPY,1," ",51.1
+2013.05.31JPYHousehold Spending y y,5/31/13 0:30,FALSE,Household Spending y/y,JPY,2,3.1%,5.2%
+2013.05.31JPYNational Core CPI y y,5/31/13 0:30,FALSE,National Core CPI y/y,JPY,1,-0.4%,-0.5%
+2013.05.31JPYTokyo Core CPI y y,5/31/13 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,-0.2%,-0.3%
+2013.05.31JPYUnemployment Rate,5/31/13 0:30,FALSE,Unemployment Rate,JPY,1,4.1%,4.1%
+2013.05.31JPYPrelim Industrial Production m m,5/31/13 0:50,FALSE,Prelim Industrial Production m/m,JPY,2,0.8%,0.2%
+2013.05.31NZDANZ Business Confidence,5/31/13 2:00,FALSE,ANZ Business Confidence,NZD,3," ",32.3
+2013.05.31AUDPrivate Sector Credit m m,5/31/13 2:30,FALSE,Private Sector Credit m/m,AUD,2,0.3%,0.2%
+2013.05.31JPYHousing Starts y y,5/31/13 6:00,FALSE,Housing Starts y/y,JPY,1,4.3%,7.3%
+2013.05.31EURGerman Retail Sales m m,5/31/13 7:00,FALSE,German Retail Sales m/m,EUR,2,0.3%,-0.5%
+2013.05.31EURFrench Consumer Spending m m,5/31/13 7:45,FALSE,French Consumer Spending m/m,EUR,2,-0.5%,1.3%
+2013.05.31CHFKOF Economic Barometer,5/31/13 8:00,FALSE,KOF Economic Barometer,CHF,2,1.08,1.04
+2013.05.31EURItalian Monthly Unemployment Rate,5/31/13 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,11.6%,11.9%
+2013.05.31EURItalian Quarterly Unemployment Rate,5/31/13 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,2,11.2%,11.4%
+2013.05.31GBPM4 Money Supply m m,5/31/13 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.1%,-0.9%
+2013.05.31GBPMortgage Approvals,5/31/13 9:30,FALSE,Mortgage Approvals,GBP,1,55K,54K
+2013.05.31GBPNet Lending to Individuals m m,5/31/13 9:33,FALSE,Net Lending to Individuals m/m,GBP,2,0.9B,1.1B
+2013.05.31EURCPI Flash Estimate y y,5/31/13 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,1.4%,1.2%
+2013.05.31EURCore CPI Flash Estimate y y,5/31/13 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,1," ",1.0%
+2013.05.31EURItalian Prelim CPI m m,5/31/13 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.1%,0.0%
+2013.05.31EURUnemployment Rate,5/31/13 10:00,FALSE,Unemployment Rate,EUR,2,12.2%,12.1%
+2013.05.31CADGDP m m,5/31/13 13:30,FALSE,GDP m/m,CAD,3,0.1%,0.3%
+2013.05.31USDCore PCE Price Index m m,5/31/13 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.1%
+2013.05.31USDPersonal Income m m,5/31/13 13:30,FALSE,Personal Income m/m,USD,1,0.2%,0.3%
+2013.05.31USDPersonal Spending m m,5/31/13 13:30,FALSE,Personal Spending m/m,USD,2,0.2%,0.1%
+2013.05.31USDChicago PMI,5/31/13 14:45,FALSE,Chicago PMI,USD,2,50.3,49.0
+2013.05.31USDRevised UoM Consumer Sentiment,5/31/13 14:55,FALSE,Revised UoM Consumer Sentiment,USD,2,84.1,83.7
+2013.05.31USDRevised UoM Inflation Expectations,5/31/13 14:55,FALSE,Revised UoM Inflation Expectations,USD,1," ",3.2%
+

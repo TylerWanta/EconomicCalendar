@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.03.04EUREU Economic Summit,3/4/11 0:00,TRUE,EU Economic Summit,EUR,2,,
+2011.03.04CHFForeign Currency Reserves,3/4/11 8:00,FALSE,Foreign Currency Reserves,CHF,3,,208B
+2011.03.04GBPHalifax HPI m m,3/4/11 8:00,FALSE,Halifax HPI m/m,GBP,3,-0.6%,0.8%
+2011.03.04USDAverage Hourly Earnings m m,3/4/11 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.4%
+2011.03.04USDNon-Farm Employment Change,3/4/11 13:30,FALSE,Non-Farm Employment Change,USD,3,191K,63K
+2011.03.04USDUnemployment Rate,3/4/11 13:30,FALSE,Unemployment Rate,USD,3,9.1%,9.0%
+2011.03.04CADIvey PMI,3/4/11 15:00,FALSE,Ivey PMI,CAD,3,50.6,41.4
+2011.03.04USDFOMC Member Yellen Speaks,3/4/11 15:00,FALSE,FOMC Member Yellen Speaks,USD,2,,
+2011.03.04USDFactory Orders m m,3/4/11 15:00,FALSE,Factory Orders m/m,USD,2,2.1%,1.4%
+2011.03.04EURECB President Trichet Speaks,3/4/11 15:25,FALSE,ECB President Trichet Speaks,EUR,2,,
+

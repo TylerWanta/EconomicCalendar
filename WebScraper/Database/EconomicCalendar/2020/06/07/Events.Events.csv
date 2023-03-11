@@ -1,0 +1,5 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.06.07AUDBank Holiday,6/7/20 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2020.06.07CNYTrade Balance,6/7/20 4:06,FALSE,Trade Balance,CNY,3,283B,318B
+2020.06.07CNYUSD-Denominated Trade Balance,6/7/20 4:07,FALSE,USD-Denominated Trade Balance,CNY,2,41.4B,45.3B
+

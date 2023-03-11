@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.05EURECOFIN Meetings,12/5/17 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2017.12.05NZDANZ Commodity Prices m m,12/5/17 0:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-0.3%
+2017.12.05GBPBRC Retail Sales Monitor y y,12/5/17 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",-1.0%
+2017.12.05NZDRBNZ Gov Spencer Speaks,12/5/17 0:15,FALSE,RBNZ Gov Spencer Speaks,NZD,3," "," "
+2017.12.05AUDCurrent Account,12/5/17 0:30,FALSE,Current Account,AUD,3,-8.8B,-9.7B
+2017.12.05AUDRetail Sales m m,12/5/17 0:30,FALSE,Retail Sales m/m,AUD,3,0.3%,0.1%
+2017.12.05CNYCaixin Services PMI,12/5/17 1:45,FALSE,Caixin Services PMI,CNY,2,51.5,51.2
+2017.12.05AUDCash Rate,12/5/17 3:30,FALSE,Cash Rate,AUD,2,1.50%,1.50%
+2017.12.05AUDRBA Rate Statement,12/5/17 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2017.12.05JPY10-y Bond Auction,12/5/17 3:45,FALSE,10-y Bond Auction,JPY,1," ",0.06|4.6
+2017.12.05JPYBOJ Core CPI y y,12/5/17 5:00,FALSE,BOJ Core CPI y/y,JPY,1,0.5%,0.5%
+2017.12.05EURSpanish Services PMI,12/5/17 8:15,FALSE,Spanish Services PMI,EUR,1,55.2,54.6
+2017.12.05EURItalian Services PMI,12/5/17 8:45,FALSE,Italian Services PMI,EUR,1,53.4,52.1
+2017.12.05EURFrench Final Services PMI,12/5/17 8:50,FALSE,French Final Services PMI,EUR,1,60.2,60.2
+2017.12.05EURGerman Final Services PMI,12/5/17 8:55,FALSE,German Final Services PMI,EUR,1,54.9,54.9
+2017.12.05EURFinal Services PMI,12/5/17 9:00,FALSE,Final Services PMI,EUR,1,56.2,56.2
+2017.12.05GBPFPC Meeting Minutes,12/5/17 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2017.12.05GBPFinal Services PMI,12/5/17 9:30,FALSE,Final Services PMI,GBP,3,55.2,55.6
+2017.12.05EURRetail Sales m m,12/5/17 10:00,FALSE,Retail Sales m/m,EUR,1,-0.6%,0.8%
+2017.12.05CADTrade Balance,12/5/17 13:30,FALSE,Trade Balance,CAD,3,-2.3B,-3.4B
+2017.12.05USDTrade Balance,12/5/17 13:30,FALSE,Trade Balance,USD,2,-46.2B,-44.9B
+2017.12.05NZDGDT Price Index,12/5/17 14:40,FALSE,GDT Price Index,NZD,2," ",-3.4%
+2017.12.05USDFinal Services PMI,12/5/17 14:45,FALSE,Final Services PMI,USD,1,55.4,54.7
+2017.12.05USDISM Services PMI,12/5/17 15:00,FALSE,ISM Services PMI,USD,3,59.2,60.1
+

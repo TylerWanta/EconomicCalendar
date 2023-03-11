@@ -1,0 +1,44 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.03.01USDTotal Vehicle Sales,3/1/18 0:00,TRUE,Total Vehicle Sales,USD,1,17.2M,17.2M
+2018.03.01USDWards Total Vehicle Sales,3/1/18 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.2M,17.1M
+2018.03.01AUDPrivate Capital Expenditure q q,3/1/18 0:30,FALSE,Private Capital Expenditure q/q,AUD,3,1.0%,1.9%
+2018.03.01JPYFinal Manufacturing PMI,3/1/18 0:30,FALSE,Final Manufacturing PMI,JPY,1,54.0,54.0
+2018.03.01CNYCaixin Manufacturing PMI,3/1/18 1:45,FALSE,Caixin Manufacturing PMI,CNY,2,51.3,51.5
+2018.03.01JPY10-y Bond Auction,3/1/18 3:45,FALSE,10-y Bond Auction,JPY,1," ",0.09|4.6
+2018.03.01JPYConsumer Confidence,3/1/18 5:00,FALSE,Consumer Confidence,JPY,1,44.9,44.7
+2018.03.01AUDCommodity Prices y y,3/1/18 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-1.1%
+2018.03.01CHFGDP q q,3/1/18 6:45,FALSE,GDP q/q,CHF,1,0.6%,0.7%
+2018.03.01GBPNationwide HPI m m,3/1/18 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.2%,0.8%
+2018.03.01CHFRetail Sales y y,3/1/18 8:15,FALSE,Retail Sales y/y,CHF,1,1.1%,0.7%
+2018.03.01EURSpanish Manufacturing PMI,3/1/18 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,54.8,55.2
+2018.03.01CHFManufacturing PMI,3/1/18 8:30,FALSE,Manufacturing PMI,CHF,1,64.1,65.3
+2018.03.01EURItalian Manufacturing PMI,3/1/18 8:45,FALSE,Italian Manufacturing PMI,EUR,1,57.9,59.0
+2018.03.01EURFrench Final Manufacturing PMI,3/1/18 8:50,FALSE,French Final Manufacturing PMI,EUR,1,56.1,56.1
+2018.03.01EURGerman Final Manufacturing PMI,3/1/18 8:55,FALSE,German Final Manufacturing PMI,EUR,1,60.3,60.3
+2018.03.01EURFinal Manufacturing PMI,3/1/18 9:00,FALSE,Final Manufacturing PMI,EUR,1,58.5,58.5
+2018.03.01EURItalian Monthly Unemployment Rate,3/1/18 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.8%,10.9%
+2018.03.01GBPFinal Manufacturing PMI,3/1/18 9:30,FALSE,Final Manufacturing PMI,GBP,3,55.1,55.3
+2018.03.01GBPM4 Money Supply m m,3/1/18 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,-0.6%
+2018.03.01GBPMortgage Approvals,3/1/18 9:30,FALSE,Mortgage Approvals,GBP,1,62K,62K
+2018.03.01GBPNet Lending to Individuals m m,3/1/18 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,5.4B,5.1B
+2018.03.01EURSpanish 10-y Bond Auction,3/1/18 9:49,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.58|2.5
+2018.03.01EURUnemployment Rate,3/1/18 10:00,FALSE,Unemployment Rate,EUR,1,8.6%,8.6%
+2018.03.01EURFrench 10-y Bond Auction,3/1/18 10:03,FALSE,French 10-y Bond Auction,EUR,1," ",0.98|2.0
+2018.03.01CADCurrent Account,3/1/18 13:30,FALSE,Current Account,CAD,2,-17.8B,-18.6B
+2018.03.01USDCore PCE Price Index m m,3/1/18 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.3%,0.2%
+2018.03.01USDPersonal Income m m,3/1/18 13:30,FALSE,Personal Income m/m,USD,1,0.3%,0.4%
+2018.03.01USDPersonal Spending m m,3/1/18 13:30,FALSE,Personal Spending m/m,USD,2,0.2%,0.4%
+2018.03.01USDUnemployment Claims,3/1/18 13:30,FALSE,Unemployment Claims,USD,2,226K,220K
+2018.03.01CADManufacturing PMI,3/1/18 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.9
+2018.03.01USDFinal Manufacturing PMI,3/1/18 14:45,FALSE,Final Manufacturing PMI,USD,1,55.9,55.9
+2018.03.01USDConstruction Spending m m,3/1/18 15:00,FALSE,Construction Spending m/m,USD,1,0.3%,0.8%
+2018.03.01USDFed Chair Powell Testifies,3/1/18 15:00,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2018.03.01USDISM Manufacturing PMI,3/1/18 15:00,FALSE,ISM Manufacturing PMI,USD,3,58.7,59.1
+2018.03.01USDISM Manufacturing Prices,3/1/18 15:00,FALSE,ISM Manufacturing Prices,USD,1,70.5,72.7
+2018.03.01USDNatural Gas Storage,3/1/18 15:34,FALSE,Natural Gas Storage,USD,1,-71B,-124B
+2018.03.01USDPresident Trump Speaks,3/1/18 16:00,FALSE,President Trump Speaks,USD,3," "," "
+2018.03.01NZDBuilding Consents m m,3/1/18 21:45,FALSE,Building Consents m/m,NZD,1," ",-9.5%
+2018.03.01JPYTokyo Core CPI y y,3/1/18 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.8%,0.7%
+2018.03.01JPYUnemployment Rate,3/1/18 23:30,FALSE,Unemployment Rate,JPY,1,2.8%,2.8%
+2018.03.01JPYMonetary Base y y,3/1/18 23:50,FALSE,Monetary Base y/y,JPY,1,9.2%,9.7%
+

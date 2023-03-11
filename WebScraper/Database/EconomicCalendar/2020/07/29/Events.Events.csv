@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.07.29GBPBRC Shop Price Index y y,7/29/20 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-1.6%
+2020.07.29AUDCPI q q,7/29/20 2:30,FALSE,CPI q/q,AUD,3,-2.0%,0.3%
+2020.07.29AUDTrimmed Mean CPI q q,7/29/20 2:30,FALSE,Trimmed Mean CPI q/q,AUD,3,0.1%,0.5%
+2020.07.29EURGerman Import Prices m m,7/29/20 7:00,FALSE,German Import Prices m/m,EUR,1,0.5%,0.3%
+2020.07.29CHFCredit Suisse Economic Expectations,7/29/20 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",48.7
+2020.07.29GBPM4 Money Supply m m,7/29/20 9:30,FALSE,M4 Money Supply m/m,GBP,1,2.2%,2.1%
+2020.07.29GBPMortgage Approvals,7/29/20 9:30,FALSE,Mortgage Approvals,GBP,1,35K,9K
+2020.07.29GBPNet Lending to Individuals m m,7/29/20 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,-0.4B,-3.3B
+2020.07.29USDGoods Trade Balance,7/29/20 13:30,FALSE,Goods Trade Balance,USD,1,-75.5B,-75.3B
+2020.07.29USDPrelim Wholesale Inventories m m,7/29/20 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,-0.4%,-1.2%
+2020.07.29USDPending Home Sales m m,7/29/20 15:00,FALSE,Pending Home Sales m/m,USD,3,15.6%,44.3%
+2020.07.29USDCrude Oil Inventories,7/29/20 15:30,FALSE,Crude Oil Inventories,USD,2,1.0M,4.9M
+2020.07.29USDFOMC Statement,7/29/20 19:00,FALSE,FOMC Statement,USD,3," "," "
+2020.07.29USDFederal Funds Rate,7/29/20 19:00,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2020.07.29USDFOMC Press Conference,7/29/20 19:30,FALSE,FOMC Press Conference,USD,3," "," "
+2020.07.29NZDBuilding Consents m m,7/29/20 23:45,FALSE,Building Consents m/m,NZD,1," ",41.7%
+

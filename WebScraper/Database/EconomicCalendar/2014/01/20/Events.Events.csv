@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.20USDBank Holiday,1/20/14 0:00,TRUE,Bank Holiday,USD,4," "," "
+2014.01.20CNYFixed Asset Investment ytd y,1/20/14 2:00,FALSE,Fixed Asset Investment ytd/y,CNY,2,19.9%,19.9%
+2014.01.20CNYGDP q y,1/20/14 2:00,FALSE,GDP q/y,CNY,3,7.6%,7.8%
+2014.01.20CNYIndustrial Production y y,1/20/14 2:00,FALSE,Industrial Production y/y,CNY,2,9.8%,10.0%
+2014.01.20CNYNBS Press Conference,1/20/14 2:00,FALSE,NBS Press Conference,CNY,2," "," "
+2014.01.20CNYRetail Sales y y,1/20/14 2:00,FALSE,Retail Sales y/y,CNY,1,13.6%,13.7%
+2014.01.20NZDREINZ HPI m m,1/20/14 3:03,FALSE,REINZ HPI m/m,NZD,1," ",1.2%
+2014.01.20JPYRevised Industrial Production m m,1/20/14 4:30,FALSE,Revised Industrial Production m/m,JPY,1,0.1%,0.1%
+2014.01.20EURGerman PPI m m,1/20/14 7:00,FALSE,German PPI m/m,EUR,2,0.2%,-0.1%
+2014.01.20NZDCPI q q,1/20/14 21:45,FALSE,CPI q/q,NZD,3,0.0%,0.9%
+

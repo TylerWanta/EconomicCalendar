@@ -1,0 +1,5 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.04.30CNYBank Holiday,4/30/17 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2017.04.30CNYManufacturing PMI,4/30/17 2:00,FALSE,Manufacturing PMI,CNY,2,51.7,51.8
+2017.04.30CNYNon-Manufacturing PMI,4/30/17 2:00,FALSE,Non-Manufacturing PMI,CNY,2," ",55.1
+

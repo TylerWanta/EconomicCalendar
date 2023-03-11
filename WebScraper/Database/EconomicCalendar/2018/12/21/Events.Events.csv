@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.12.21GBPGfK Consumer Confidence,12/21/18 0:01,FALSE,GfK Consumer Confidence,GBP,1,-14,-13
+2018.12.21EURGerman GfK Consumer Climate,12/21/18 7:00,FALSE,German GfK Consumer Climate,EUR,1,10.3,10.4
+2018.12.21EURGerman Import Prices m m,12/21/18 7:00,FALSE,German Import Prices m/m,EUR,1,-0.8%,1.0%
+2018.12.21EURFrench Consumer Spending m m,12/21/18 7:45,FALSE,French Consumer Spending m/m,EUR,1,0.0%,0.9%
+2018.12.21GBPCurrent Account,12/21/18 9:30,FALSE,Current Account,GBP,3,-21.7B,-20.0B
+2018.12.21GBPFinal GDP q q,12/21/18 9:30,FALSE,Final GDP q/q,GBP,2,0.6%,0.6%
+2018.12.21GBPPublic Sector Net Borrowing,12/21/18 9:30,FALSE,Public Sector Net Borrowing,GBP,2,7.0B,5.6B
+2018.12.21GBPRevised Business Investment q q,12/21/18 9:30,FALSE,Revised Business Investment q/q,GBP,1,-1.2%,-1.2%
+2018.12.21GBPBOE Quarterly Bulletin,12/21/18 12:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2018.12.21CADCore Retail Sales m m,12/21/18 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.2%,0.1%
+2018.12.21CADGDP m m,12/21/18 13:30,FALSE,GDP m/m,CAD,3,0.2%,-0.1%
+2018.12.21CADRetail Sales m m,12/21/18 13:30,FALSE,Retail Sales m/m,CAD,2,0.4%,0.1%
+2018.12.21USDCore Durable Goods Orders m m,12/21/18 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.3%,0.2%
+2018.12.21USDDurable Goods Orders m m,12/21/18 13:30,FALSE,Durable Goods Orders m/m,USD,2,1.6%,-4.3%
+2018.12.21USDFinal GDP Price Index q q,12/21/18 13:30,FALSE,Final GDP Price Index q/q,USD,1,1.7%,1.7%
+2018.12.21USDFinal GDP q q,12/21/18 13:30,FALSE,Final GDP q/q,USD,3,3.5%,3.5%
+2018.12.21EURConsumer Confidence,12/21/18 14:48,FALSE,Consumer Confidence,EUR,1,-4,-4
+2018.12.21CADBOC Business Outlook Survey,12/21/18 15:00,FALSE,BOC Business Outlook Survey,CAD,3," "," "
+2018.12.21USDCore PCE Price Index m m,12/21/18 15:00,FALSE,Core PCE Price Index m/m,USD,2,0.2%,0.1%
+2018.12.21USDPersonal Income m m,12/21/18 15:00,FALSE,Personal Income m/m,USD,1,0.3%,0.5%
+2018.12.21USDPersonal Spending m m,12/21/18 15:00,FALSE,Personal Spending m/m,USD,2,0.3%,0.8%
+2018.12.21USDRevised UoM Consumer Sentiment,12/21/18 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,97.6,97.5
+2018.12.21USDRevised UoM Inflation Expectations,12/21/18 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.7%
+

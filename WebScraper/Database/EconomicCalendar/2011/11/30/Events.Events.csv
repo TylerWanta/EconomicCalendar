@@ -1,0 +1,35 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.11.30AUDHIA New Home Sales m m,11/30/11 0:00,FALSE,HIA New Home Sales m/m,AUD,2,,-3.5%
+2011.11.30EURECOFIN Meetings,11/30/11 0:00,TRUE,ECOFIN Meetings,EUR,3,,
+2011.11.30GBPGfK Consumer Confidence,11/30/11 0:01,FALSE,GfK Consumer Confidence,GBP,2,-33,-32
+2011.11.30AUDPrivate Capital Expenditure q q,11/30/11 0:30,FALSE,Private Capital Expenditure q/q,AUD,3,8.2%,6.2%
+2011.11.30AUDPrivate Sector Credit m m,11/30/11 0:30,FALSE,Private Sector Credit m/m,AUD,2,0.4%,0.5%
+2011.11.30CADGov Council Member Murray Speaks,11/30/11 0:30,FALSE,Gov Council Member Murray Speaks,CAD,2,,
+2011.11.30USDFOMC Member Kocherlakota Speaks,11/30/11 1:00,FALSE,FOMC Member Kocherlakota Speaks,USD,2,,
+2011.11.30JPYAverage Cash Earnings y y,11/30/11 1:30,FALSE,Average Cash Earnings y/y,JPY,2,0.0%,-0.4%
+2011.11.30JPYHousing Starts y y,11/30/11 5:00,FALSE,Housing Starts y/y,JPY,1,-6.1%,-10.8%
+2011.11.30EURGerman Retail Sales m m,11/30/11 7:00,FALSE,German Retail Sales m/m,EUR,2,0.1%,0.3%
+2011.11.30EURFrench Consumer Spending m m,11/30/11 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.1%,-0.2%
+2011.11.30EURGerman Unemployment Change,11/30/11 8:55,FALSE,German Unemployment Change,EUR,2,-6K,6K
+2011.11.30EURItalian Monthly Unemployment Rate,11/30/11 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.2%,8.3%
+2011.11.30GBPHousing Equity Withdrawal q q,11/30/11 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-5.9B,-8.9B
+2011.11.30EURCPI Flash Estimate y y,11/30/11 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,3.0%,3.0%
+2011.11.30EURItalian Prelim CPI m m,11/30/11 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.3%,0.6%
+2011.11.30EURUnemployment Rate,11/30/11 10:00,FALSE,Unemployment Rate,EUR,2,10.2%,10.2%
+2011.11.30CHFKOF Economic Barometer,11/30/11 10:30,FALSE,KOF Economic Barometer,CHF,3,0.65,0.75
+2011.11.30USDChallenger Job Cuts y y,11/30/11 12:30,FALSE,Challenger Job Cuts y/y,USD,1,,12.6%
+2011.11.30USDFed Announcement,11/30/11 13:00,FALSE,Fed Announcement,USD,3,,
+2011.11.30USDADP Non-Farm Employment Change,11/30/11 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,131K,130K
+2011.11.30CADGDP m m,11/30/11 13:30,FALSE,GDP m/m,CAD,3,0.3%,0.4%
+2011.11.30CADIPPI m m,11/30/11 13:30,FALSE,IPPI m/m,CAD,1,0.3%,0.5%
+2011.11.30CADRMPI m m,11/30/11 13:30,FALSE,RMPI m/m,CAD,2,1.2%,1.4%
+2011.11.30USDRevised Nonfarm Productivity q q,11/30/11 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,2,2.6%,3.1%
+2011.11.30USDRevised Unit Labor Costs q q,11/30/11 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,-2.1%,-2.4%
+2011.11.30USDChicago PMI,11/30/11 14:45,FALSE,Chicago PMI,USD,2,58.5,58.4
+2011.11.30USDPending Home Sales m m,11/30/11 15:00,FALSE,Pending Home Sales m/m,USD,3,1.4%,-4.6%
+2011.11.30USDCrude Oil Inventories,11/30/11 15:30,FALSE,Crude Oil Inventories,USD,2,-0.2M,-6.2M
+2011.11.30GBPMPC Member Miles Speaks,11/30/11 16:00,FALSE,MPC Member Miles Speaks,GBP,2,,
+2011.11.30USDBeige Book,11/30/11 19:00,FALSE,Beige Book,USD,2,,
+2011.11.30NZDOverseas Trade Index q q,11/30/11 21:45,FALSE,Overseas Trade Index q/q,NZD,1,1.5%,2.4%
+2011.11.30AUDAIG Manufacturing Index,11/30/11 22:22,FALSE,AIG Manufacturing Index,AUD,1,,47.4
+

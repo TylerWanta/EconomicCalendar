@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.06.09AUDBank Holiday,6/9/13 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2013.06.09CNYBank Holiday,6/9/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.06.09CNYCPI y y,6/9/13 2:30,FALSE,CPI y/y,CNY,3,2.5%,2.4%
+2013.06.09CNYPPI y y,6/9/13 2:30,FALSE,PPI y/y,CNY,2,-2.5%,-2.6%
+2013.06.09CNYM2 Money Supply y y,6/9/13 3:00,FALSE,M2 Money Supply y/y,CNY,1,16.0%,16.1%
+2013.06.09CNYNew Loans,6/9/13 3:00,FALSE,New Loans,CNY,2,815B,793B
+2013.06.09CNYFixed Asset Investment ytd y,6/9/13 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,20.6%,20.6%
+2013.06.09CNYIndustrial Production y y,6/9/13 6:30,FALSE,Industrial Production y/y,CNY,2,9.4%,9.3%
+2013.06.09CNYRetail Sales y y,6/9/13 6:30,FALSE,Retail Sales y/y,CNY,1,12.9%,12.8%
+2013.06.09NZDManufacturing Sales q q,6/9/13 23:45,FALSE,Manufacturing Sales q/q,NZD,1," ",-0.1%
+

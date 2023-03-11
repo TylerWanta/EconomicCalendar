@@ -1,0 +1,45 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.04.30CNYBank Holiday,4/30/20 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2020.04.30JPYPrelim Industrial Production m m,4/30/20 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-5.0%,-0.3%
+2020.04.30JPYRetail Sales y y,4/30/20 0:50,FALSE,Retail Sales y/y,JPY,1,-4.6%,1.6%
+2020.04.30CNYManufacturing PMI,4/30/20 2:00,FALSE,Manufacturing PMI,CNY,3,51.0,52.0
+2020.04.30CNYNon-Manufacturing PMI,4/30/20 2:00,FALSE,Non-Manufacturing PMI,CNY,2,52.7,52.3
+2020.04.30NZDANZ Business Confidence,4/30/20 2:00,FALSE,ANZ Business Confidence,NZD,2," ",-73.1
+2020.04.30AUDImport Prices q q,4/30/20 2:30,FALSE,Import Prices q/q,AUD,1,1.0%,0.7%
+2020.04.30AUDPrivate Sector Credit m m,4/30/20 2:30,FALSE,Private Sector Credit m/m,AUD,1,0.3%,0.4%
+2020.04.30CNYCaixin Manufacturing PMI,4/30/20 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,49.2,50.1
+2020.04.30JPYConsumer Confidence,4/30/20 6:00,FALSE,Consumer Confidence,JPY,1,27.8,30.9
+2020.04.30JPYHousing Starts y y,4/30/20 6:02,FALSE,Housing Starts y/y,JPY,1,-16.1%,-12.3%
+2020.04.30EURFrench Flash GDP q q,4/30/20 6:30,FALSE,French Flash GDP q/q,EUR,2,-4.0%,-0.1%
+2020.04.30EURGerman Retail Sales m m,4/30/20 7:03,FALSE,German Retail Sales m/m,EUR,1,-8.1%,0.8%
+2020.04.30CHFRetail Sales y y,4/30/20 7:30,FALSE,Retail Sales y/y,CHF,1,-3.6%,0.3%
+2020.04.30EURFrench Consumer Spending m m,4/30/20 7:45,FALSE,French Consumer Spending m/m,EUR,1,-5.7%,-0.5%
+2020.04.30EURFrench Prelim CPI m m,4/30/20 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.2%,0.0%
+2020.04.30CHFKOF Economic Barometer,4/30/20 8:00,FALSE,KOF Economic Barometer,CHF,1,63.5,91.7
+2020.04.30EURSpanish Flash CPI y y,4/30/20 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,-0.5%,0.0%
+2020.04.30EURSpanish Flash GDP q q,4/30/20 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,-4.2%,0.4%
+2020.04.30EURGerman Unemployment Change,4/30/20 8:55,FALSE,German Unemployment Change,EUR,1,75K,1K
+2020.04.30EURItalian Monthly Unemployment Rate,4/30/20 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.5%,9.3%
+2020.04.30EURCPI Flash Estimate y y,4/30/20 10:00,FALSE,CPI Flash Estimate y/y,EUR,1,0.1%,0.7%
+2020.04.30EURCore CPI Flash Estimate y y,4/30/20 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,1,0.7%,1.0%
+2020.04.30EURItalian Prelim CPI m m,4/30/20 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,-0.2%,0.1%
+2020.04.30EURPrelim Flash GDP q q,4/30/20 10:00,FALSE,Prelim Flash GDP q/q,EUR,2,-3.7%,0.1%
+2020.04.30EURUnemployment Rate,4/30/20 10:00,FALSE,Unemployment Rate,EUR,1,7.7%,7.3%
+2020.04.30EURItalian Prelim GDP q q,4/30/20 11:00,FALSE,Italian Prelim GDP q/q,EUR,1,-5.0%,-0.3%
+2020.04.30EURMain Refinancing Rate,4/30/20 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2020.04.30EURMonetary Policy Statement,4/30/20 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2020.04.30CADGDP m m,4/30/20 13:30,FALSE,GDP m/m,CAD,3,0.2%,0.2%
+2020.04.30CADIPPI m m,4/30/20 13:30,FALSE,IPPI m/m,CAD,1,-1.9%,-0.6%
+2020.04.30CADRMPI m m,4/30/20 13:30,FALSE,RMPI m/m,CAD,1,-15.5%,-4.8%
+2020.04.30EURECB Press Conference,4/30/20 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2020.04.30USDCore PCE Price Index m m,4/30/20 13:30,FALSE,Core PCE Price Index m/m,USD,1,-0.1%,0.2%
+2020.04.30USDEmployment Cost Index q q,4/30/20 13:30,FALSE,Employment Cost Index q/q,USD,1,0.7%,0.7%
+2020.04.30USDPersonal Income m m,4/30/20 13:30,FALSE,Personal Income m/m,USD,1,-1.6%,0.6%
+2020.04.30USDPersonal Spending m m,4/30/20 13:30,FALSE,Personal Spending m/m,USD,2,-4.8%,0.2%
+2020.04.30USDUnemployment Claims,4/30/20 13:30,FALSE,Unemployment Claims,USD,3,3500K,4442K
+2020.04.30USDChicago PMI,4/30/20 14:45,FALSE,Chicago PMI,USD,2,38.0,47.8
+2020.04.30USDFed Announcement,4/30/20 15:00,FALSE,Fed Announcement,USD,3," "," "
+2020.04.30USDNatural Gas Storage,4/30/20 15:30,FALSE,Natural Gas Storage,USD,1,70B,43B
+2020.04.30CADBOC Gov Poloz Speaks,4/30/20 21:30,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2020.04.30AUDAIG Manufacturing Index,4/30/20 23:00,FALSE,AIG Manufacturing Index,AUD,1," ",53.7
+
