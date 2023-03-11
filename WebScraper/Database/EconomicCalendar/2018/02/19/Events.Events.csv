@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.02.19CADBank Holiday,2/19/18 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2018.02.19CNYBank Holiday,2/19/18 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2018.02.19EUREurogroup Meetings,2/19/18 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2018.02.19USDBank Holiday,2/19/18 0:00,TRUE,Bank Holiday,USD,4," "," "
+2018.02.19GBPRightmove HPI m m,2/19/18 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.7%
+2018.02.19EURCurrent Account,2/19/18 9:00,FALSE,Current Account,EUR,1,30.5B,35.0B
+2018.02.19EURGerman Buba Monthly Report,2/19/18 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2018.02.19GBPBOE Gov Carney Speaks,2/19/18 19:45,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2018.02.19NZDPPI Input q q,2/19/18 21:45,FALSE,PPI Input q/q,NZD,2,0.3%,1.1%
+2018.02.19NZDPPI Output q q,2/19/18 21:45,FALSE,PPI Output q/q,NZD,1,0.4%,1.0%
+2018.02.19AUDRBA Deputy Gov Bullock Speaks,2/19/18 22:15,FALSE,RBA Deputy Gov Bullock Speaks,AUD,2," "," "
+

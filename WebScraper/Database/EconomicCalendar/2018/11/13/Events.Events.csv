@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.11.13AUDNAB Business Confidence,11/13/18 0:30,FALSE,NAB Business Confidence,AUD,2," ",6
+2018.11.13JPY30-y Bond Auction,11/13/18 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.90|3.9
+2018.11.13EURGerman Final CPI m m,11/13/18 7:00,FALSE,German Final CPI m/m,EUR,1,0.2%,0.2%
+2018.11.13EURFrench Prelim Private Payrolls q q,11/13/18 7:45,FALSE,French Prelim Private Payrolls q/q,EUR,1,0.3%,0.1%
+2018.11.13CHFPPI m m,11/13/18 8:15,FALSE,PPI m/m,CHF,1,0.1%,-0.2%
+2018.11.13CNYM2 Money Supply y y,11/13/18 8:45,FALSE,M2 Money Supply y/y,CNY,1,8.3%,8.3%
+2018.11.13CNYNew Loans,11/13/18 8:45,FALSE,New Loans,CNY,1,915B,1380B
+2018.11.13GBPAverage Earnings Index 3m y,11/13/18 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,3.0%,2.8%
+2018.11.13GBPClaimant Count Change,11/13/18 9:30,FALSE,Claimant Count Change,GBP,1,4.3K,23.2K
+2018.11.13GBPUnemployment Rate,11/13/18 9:30,FALSE,Unemployment Rate,GBP,2,4.0%,4.0%
+2018.11.13EURGerman ZEW Economic Sentiment,11/13/18 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,-24.2,-24.7
+2018.11.13EURZEW Economic Sentiment,11/13/18 10:00,FALSE,ZEW Economic Sentiment,EUR,1,-17.3,-19.4
+2018.11.13USDNFIB Small Business Index,11/13/18 10:14,FALSE,NFIB Small Business Index,USD,1,108.0,107.9
+2018.11.13USDFOMC Member Brainard Speaks,11/13/18 15:00,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+2018.11.13USDFederal Budget Balance,11/13/18 19:00,FALSE,Federal Budget Balance,USD,1,-116.6B,119.1B
+2018.11.13USDLoan Officer Survey,11/13/18 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+2018.11.13AUDWestpac Consumer Sentiment,11/13/18 23:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",1.0%
+2018.11.13JPYPrelim GDP Price Index y y,11/13/18 23:50,FALSE,Prelim GDP Price Index y/y,JPY,1,-0.1%,0.0%
+2018.11.13JPYPrelim GDP q q,11/13/18 23:50,FALSE,Prelim GDP q/q,JPY,2,-0.3%,0.7%
+

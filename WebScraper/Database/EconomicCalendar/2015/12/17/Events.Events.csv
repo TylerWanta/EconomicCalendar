@@ -1,0 +1,14 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.12.17AUDRBA Bulletin,12/17/15 0:30,FALSE,RBA Bulletin,AUD,1," "," "
+2015.12.17CHFSECO Economic Forecasts,12/17/15 6:45,FALSE,SECO Economic Forecasts,CHF,1," "," "
+2015.12.17EURECB Economic Bulletin,12/17/15 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2015.12.17EURGerman ifo Business Climate,12/17/15 9:00,FALSE,German ifo Business Climate,EUR,3,109.2,109.0
+2015.12.17EURItalian Trade Balance,12/17/15 9:04,FALSE,Italian Trade Balance,EUR,1,2.87B,2.19B
+2015.12.17GBPRetail Sales m m,12/17/15 9:30,FALSE,Retail Sales m/m,GBP,3,0.6%,-0.5%
+2015.12.17GBPCBI Industrial Order Expectations,12/17/15 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,-9,-11
+2015.12.17USDCurrent Account,12/17/15 13:30,FALSE,Current Account,USD,2,-123B,-111B
+2015.12.17USDPhilly Fed Manufacturing Index,12/17/15 13:30,FALSE,Philly Fed Manufacturing Index,USD,3,2.1,1.9
+2015.12.17USDUnemployment Claims,12/17/15 13:30,FALSE,Unemployment Claims,USD,3,271K,282K
+2015.12.17USDCB Leading Index m m,12/17/15 15:00,FALSE,CB Leading Index m/m,USD,1,0.2%,0.6%
+2015.12.17USDNatural Gas Storage,12/17/15 15:30,FALSE,Natural Gas Storage,USD,1,-58B,-76B
+

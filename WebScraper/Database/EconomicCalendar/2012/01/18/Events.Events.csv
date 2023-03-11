@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.01.18CNYCB Leading Index m m,1/18/12 0:00,TRUE,CB Leading Index m/m,CNY,1,,0.4%
+2012.01.18AUDNew Motor Vehicle Sales m m,1/18/12 0:30,FALSE,New Motor Vehicle Sales m/m,AUD,2,,-0.6%
+2012.01.18CNYForeign Direct Investment ytd y,1/18/12 1:50,FALSE,Foreign Direct Investment ytd/y,CNY,1,,13.2%
+2012.01.18JPYRevised Industrial Production m m,1/18/12 4:30,FALSE,Revised Industrial Production m/m,JPY,1,-2.4%,-2.6%
+2012.01.18EURItalian Trade Balance,1/18/12 9:00,FALSE,Italian Trade Balance,EUR,1,-0.94B,-1.06B
+2012.01.18GBPAverage Earnings Index 3m y,1/18/12 9:30,FALSE,Average Earnings Index 3m/y,GBP,1,2.0%,2.1%
+2012.01.18GBPClaimant Count Change,1/18/12 9:30,FALSE,Claimant Count Change,GBP,3,9.1K,0.2K
+2012.01.18GBPUnemployment Rate,1/18/12 9:30,FALSE,Unemployment Rate,GBP,2,8.3%,8.3%
+2012.01.18CHFCredit Suisse Economic Expectations,1/18/12 10:00,FALSE,Credit Suisse Economic Expectations,CHF,2,,-72.0
+2012.01.18USDCore PPI m m,1/18/12 13:30,FALSE,Core PPI m/m,USD,2,0.1%,0.1%
+2012.01.18USDPPI m m,1/18/12 13:30,FALSE,PPI m/m,USD,3,0.1%,0.3%
+2012.01.18USDTIC Long-Term Purchases,1/18/12 13:56,FALSE,TIC Long-Term Purchases,USD,3,27.3B,8.3B
+2012.01.18USDCapacity Utilization Rate,1/18/12 14:15,FALSE,Capacity Utilization Rate,USD,2,78.2%,77.8%
+2012.01.18USDIndustrial Production m m,1/18/12 14:15,FALSE,Industrial Production m/m,USD,2,0.5%,-0.3%
+2012.01.18USDFOMC Member Tarullo Speaks,1/18/12 14:30,FALSE,FOMC Member Tarullo Speaks,USD,1,,
+2012.01.18USDNAHB Housing Market Index,1/18/12 15:00,FALSE,NAHB Housing Market Index,USD,1,22,21
+2012.01.18CADBOC Monetary Policy Report,1/18/12 15:30,FALSE,BOC Monetary Policy Report,CAD,3,,
+2012.01.18CADBOC Press Conference,1/18/12 16:15,FALSE,BOC Press Conference,CAD,3,,
+2012.01.18NZDCPI q q,1/18/12 21:45,FALSE,CPI q/q,NZD,3,0.4%,0.4%
+

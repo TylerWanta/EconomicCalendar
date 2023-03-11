@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.11.29AllOPEC Meetings,11/29/17 0:00,TRUE,OPEC Meetings,All,3," "," "
+2017.11.29EURGerman Prelim CPI m m,11/29/17 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.3%,0.0%
+2017.11.29NZDRBNZ Gov Spencer Speaks,11/29/17 0:00,FALSE,RBNZ Gov Spencer Speaks,NZD,3," "," "
+2017.11.29GBPBRC Shop Price Index y y,11/29/17 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-0.1%
+2017.11.29CHFUBS Consumption Indicator,11/29/17 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.51
+2017.11.29EURFrench Consumer Spending m m,11/29/17 7:45,FALSE,French Consumer Spending m/m,EUR,1,0.0%,1.0%
+2017.11.29EURFrench Prelim GDP q q,11/29/17 7:45,FALSE,French Prelim GDP q/q,EUR,1,0.5%,0.5%
+2017.11.29EURSpanish Flash CPI y y,11/29/17 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,1.7%,1.6%
+2017.11.29CHFCredit Suisse Economic Expectations,11/29/17 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",32.0
+2017.11.29GBPM4 Money Supply m m,11/29/17 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.3%,-0.1%
+2017.11.29GBPMortgage Approvals,11/29/17 9:30,FALSE,Mortgage Approvals,GBP,1,65K,66K
+2017.11.29GBPNet Lending to Individuals m m,11/29/17 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,4.3B,5.2B
+2017.11.29EURECB Financial Stability Review,11/29/17 10:00,FALSE,ECB Financial Stability Review,EUR,1," "," "
+2017.11.29EURItalian 10-y Bond Auction,11/29/17 10:12,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.86|1.4
+2017.11.29USDFOMC Member Dudley Speaks,11/29/17 13:30,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2017.11.29USDPrelim GDP Price Index q q,11/29/17 13:30,FALSE,Prelim GDP Price Index q/q,USD,1,2.2%,2.2%
+2017.11.29USDPrelim GDP q q,11/29/17 13:30,FALSE,Prelim GDP q/q,USD,3,3.3%,3.0%
+2017.11.29GBPBOE Gov Carney Speaks,11/29/17 14:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2017.11.29GBPMPC Member Ramsden Speaks,11/29/17 14:45,FALSE,MPC Member Ramsden Speaks,GBP,2," "," "
+2017.11.29USDFed Chair Yellen Testifies,11/29/17 15:00,FALSE,Fed Chair Yellen Testifies,USD,3," "," "
+2017.11.29USDPending Home Sales m m,11/29/17 15:00,FALSE,Pending Home Sales m/m,USD,2,1.1%,-0.4%
+2017.11.29USDCrude Oil Inventories,11/29/17 15:30,FALSE,Crude Oil Inventories,USD,3,-2.5M,-1.9M
+2017.11.29USDBeige Book,11/29/17 19:00,FALSE,Beige Book,USD,1," "," "
+2017.11.29NZDBuilding Consents m m,11/29/17 21:45,FALSE,Building Consents m/m,NZD,1," ",-2.5%
+2017.11.29JPYPrelim Industrial Production m m,11/29/17 23:50,FALSE,Prelim Industrial Production m/m,JPY,1,1.9%,-1.0%
+2017.11.29GBPGfK Consumer Confidence,11/29/17 23:55,FALSE,GfK Consumer Confidence,GBP,1,-9,-10
+

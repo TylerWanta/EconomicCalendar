@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.07.30EURGerman Prelim CPI m m,7/30/13 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.3%,0.1%
+2013.07.30JPYHousehold Spending y y,7/30/13 0:30,FALSE,Household Spending y/y,JPY,2,1.2%,-1.6%
+2013.07.30JPYUnemployment Rate,7/30/13 0:30,FALSE,Unemployment Rate,JPY,1,4.0%,4.1%
+2013.07.30JPYPrelim Industrial Production m m,7/30/13 0:50,FALSE,Prelim Industrial Production m/m,JPY,2,-1.4%,1.9%
+2013.07.30AUDBuilding Approvals m m,7/30/13 2:30,FALSE,Building Approvals m/m,AUD,3,2.2%,-4.3%
+2013.07.30AUDRBA Gov Stevens Speaks,7/30/13 4:05,FALSE,RBA Gov Stevens Speaks,AUD,3," "," "
+2013.07.30EURGerman GfK Consumer Climate,7/30/13 7:00,FALSE,German GfK Consumer Climate,EUR,2,6.9,6.8
+2013.07.30EURSpanish Flash CPI y y,7/30/13 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,1.8%,2.1%
+2013.07.30EURSpanish Flash GDP q q,7/30/13 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,-0.1%,-0.5%
+2013.07.30EURRetail PMI,7/30/13 9:10,FALSE,Retail PMI,EUR,1," ",49.1
+2013.07.30EURItalian 10-y Bond Auction,7/30/13 10:13,FALSE,Italian 10-y Bond Auction,EUR,2," ",4.55|1.5
+2013.07.30CADIPPI m m,7/30/13 13:30,FALSE,IPPI m/m,CAD,1,0.1%,0.0%
+2013.07.30CADRMPI m m,7/30/13 13:30,FALSE,RMPI m/m,CAD,2,0.0%,0.2%
+2013.07.30USDS&P CS Composite-20 HPI y y,7/30/13 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,12.4%,12.1%
+2013.07.30USDCB Consumer Confidence,7/30/13 15:00,FALSE,CB Consumer Confidence,USD,3,81.1,82.1
+2013.07.30GBPGfK Consumer Confidence,7/30/13 17:06,FALSE,GfK Consumer Confidence,GBP,1,-19,-21
+2013.07.30USDPresident Obama Speaks,7/30/13 19:00,FALSE,President Obama Speaks,USD,2," "," "
+

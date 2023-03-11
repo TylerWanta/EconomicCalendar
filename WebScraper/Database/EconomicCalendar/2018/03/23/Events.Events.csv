@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.03.23JPYNational Core CPI y y,3/23/18 0:30,FALSE,National Core CPI y/y,JPY,1,1.0%,0.9%
+2018.03.23GBPBOE Quarterly Bulletin,3/23/18 13:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2018.03.23USDFOMC Member Bostic Speaks,3/23/18 13:10,FALSE,FOMC Member Bostic Speaks,USD,2," "," "
+2018.03.23CADCPI m m,3/23/18 13:30,FALSE,CPI m/m,CAD,3,0.4%,0.7%
+2018.03.23CADCommon CPI y y,3/23/18 13:30,FALSE,Common CPI y/y,CAD,2," ",1.8%
+2018.03.23CADCore CPI m m,3/23/18 13:30,FALSE,Core CPI m/m,CAD,1," ",0.5%
+2018.03.23CADCore Retail Sales m m,3/23/18 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.9%,-1.7%
+2018.03.23CADMedian CPI y y,3/23/18 13:30,FALSE,Median CPI y/y,CAD,2," ",1.9%
+2018.03.23CADRetail Sales m m,3/23/18 13:30,FALSE,Retail Sales m/m,CAD,2,1.1%,-0.7%
+2018.03.23CADTrimmed CPI y y,3/23/18 13:30,FALSE,Trimmed CPI y/y,CAD,2," ",1.8%
+2018.03.23GBPMPC Member Vlieghe Speaks,3/23/18 13:30,FALSE,MPC Member Vlieghe Speaks,GBP,2," "," "
+2018.03.23USDCore Durable Goods Orders m m,3/23/18 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.5%,-0.2%
+2018.03.23USDDurable Goods Orders m m,3/23/18 13:30,FALSE,Durable Goods Orders m/m,USD,2,1.6%,-3.6%
+2018.03.23CNYCB Leading Index m m,3/23/18 14:00,FALSE,CB Leading Index m/m,CNY,1," ",1.9%
+2018.03.23USDNew Home Sales,3/23/18 15:00,FALSE,New Home Sales,USD,1,621K,622K
+

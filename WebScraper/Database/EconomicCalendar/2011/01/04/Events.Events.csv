@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.01.04USDTotal Vehicle Sales,1/4/11 0:00,TRUE,Total Vehicle Sales,USD,1,12.3M,12.3M
+2011.01.04AUDCommodity Prices y y,1/4/11 5:33,FALSE,Commodity Prices y/y,AUD,2,,45.7%
+2011.01.04EURSpanish Unemployment Change,1/4/11 8:00,FALSE,Spanish Unemployment Change,EUR,2,,24.3K
+2011.01.04EURGerman Unemployment Change,1/4/11 8:55,FALSE,German Unemployment Change,EUR,2,-12K,-8K
+2011.01.04GBPFinal Manufacturing PMI,1/4/11 9:30,FALSE,Final Manufacturing PMI,GBP,3,57.3,57.5
+2011.01.04GBPM4 Money Supply m m,1/4/11 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,0.7%
+2011.01.04GBPMortgage Approvals,1/4/11 9:30,FALSE,Mortgage Approvals,GBP,1,47K,47K
+2011.01.04GBPNet Lending to Individuals m m,1/4/11 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,0.9B,1.5B
+2011.01.04EURCPI Flash Estimate y y,1/4/11 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.0%,1.9%
+2011.01.04EURItalian Prelim CPI m m,1/4/11 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.0%
+2011.01.04NZDGDT Price Index,1/4/11 13:30,FALSE,GDT Price Index,NZD,1,,2.3%
+2011.01.04USDFactory Orders m m,1/4/11 15:00,FALSE,Factory Orders m/m,USD,2,-0.1%,-0.7%
+2011.01.04USDFOMC Meeting Minutes,1/4/11 19:00,FALSE,FOMC Meeting Minutes,USD,3,,
+2011.01.04JPYMonetary Base y y,1/4/11 23:50,FALSE,Monetary Base y/y,JPY,1,7.9%,7.6%
+

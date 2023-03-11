@@ -1,0 +1,5 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.12.31EURGerman Bank Holiday,12/31/21 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2021.12.31CNYManufacturing PMI,12/31/21 1:00,FALSE,Manufacturing PMI,CNY,1,50.0,50.1
+2021.12.31CNYNon-Manufacturing PMI,12/31/21 1:00,FALSE,Non-Manufacturing PMI,CNY,1,52.0,52.3
+

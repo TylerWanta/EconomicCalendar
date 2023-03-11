@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.12.31AUDBank Holiday,12/31/20 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2020.12.31CNYBank Holiday,12/31/20 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2020.12.31EURGerman Bank Holiday,12/31/20 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2020.12.31JPYBank Holiday,12/31/20 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2020.12.31NZDBank Holiday,12/31/20 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2020.12.31CNYManufacturing PMI,12/31/20 1:00,FALSE,Manufacturing PMI,CNY,1,52.0,52.1
+2020.12.31CNYNon-Manufacturing PMI,12/31/20 1:00,FALSE,Non-Manufacturing PMI,CNY,1,56.3,56.4
+2020.12.31USDUnemployment Claims,12/31/20 13:30,FALSE,Unemployment Claims,USD,1,832K,806K
+2020.12.31USDNatural Gas Storage,12/31/20 15:30,FALSE,Natural Gas Storage,USD,1,-127B,-152B
+

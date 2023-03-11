@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.11.05AllG20 Meetings,11/5/12 0:00,TRUE,G20 Meetings,All,2," "," "
+2012.11.05AUDANZ Job Advertisements m m,11/5/12 0:30,FALSE,ANZ Job Advertisements m/m,AUD,2," ",-3.9%
+2012.11.05AUDRetail Sales m m,11/5/12 0:30,FALSE,Retail Sales m/m,AUD,3,0.4%,0.3%
+2012.11.05AUDTrade Balance,11/5/12 0:30,FALSE,Trade Balance,AUD,3,-1.60B,-1.88B
+2012.11.05CNYCaixin Services PMI,11/5/12 1:45,FALSE,Caixin Services PMI,CNY,1," ",54.3
+2012.11.05EURSpanish Unemployment Change,11/5/12 8:00,FALSE,Spanish Unemployment Change,EUR,3,90.3K,79.6K
+2012.11.05EURSentix Investor Confidence,11/5/12 9:30,FALSE,Sentix Investor Confidence,EUR,2,-20.7,-22.2
+2012.11.05GBPFinal Services PMI,11/5/12 9:30,FALSE,Final Services PMI,GBP,3,52.0,52.2
+2012.11.05CADBuilding Permits m m,11/5/12 13:30,FALSE,Building Permits m/m,CAD,3,-2.6%,9.5%
+2012.11.05USDISM Services PMI,11/5/12 15:00,FALSE,ISM Services PMI,USD,3,54.6,55.1
+2012.11.05NZDLabor Cost Index q q,11/5/12 21:45,FALSE,Labor Cost Index q/q,NZD,2,0.5%,0.5%
+

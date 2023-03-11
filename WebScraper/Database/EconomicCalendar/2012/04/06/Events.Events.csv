@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.06CADBank Holiday,4/6/12 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2012.04.06CHFBank Holiday,4/6/12 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2012.04.06EURGerman Bank Holiday,4/6/12 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2012.04.06GBPBank Holiday,4/6/12 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2012.04.06JPYLeading Indicators,4/6/12 6:00,FALSE,Leading Indicators,JPY,1,95.6%,94.5%
+2012.04.06EURFrench Gov Budget Balance,4/6/12 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-12.5B
+2012.04.06EURFrench Trade Balance,4/6/12 7:45,FALSE,French Trade Balance,EUR,1,-5.1B,-5.6B
+2012.04.06USDAverage Hourly Earnings m m,4/6/12 13:30,FALSE,Average Hourly Earnings m/m,USD,2,0.2%,0.3%
+2012.04.06USDNon-Farm Employment Change,4/6/12 13:30,FALSE,Non-Farm Employment Change,USD,3,207K,240K
+2012.04.06USDUnemployment Rate,4/6/12 13:30,FALSE,Unemployment Rate,USD,3,8.3%,8.3%
+2012.04.06USDConsumer Credit m m,4/6/12 20:00,FALSE,Consumer Credit m/m,USD,1,12.5B,18.6B
+

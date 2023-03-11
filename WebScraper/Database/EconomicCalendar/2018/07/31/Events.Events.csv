@@ -1,0 +1,41 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.07.31GBPGfK Consumer Confidence,7/31/18 0:01,FALSE,GfK Consumer Confidence,GBP,1,-9,-9
+2018.07.31JPYUnemployment Rate,7/31/18 0:30,FALSE,Unemployment Rate,JPY,1,2.3%,2.2%
+2018.07.31JPYPrelim Industrial Production m m,7/31/18 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,-0.3%,-0.2%
+2018.07.31CNYNon-Manufacturing PMI,7/31/18 1:20,FALSE,Non-Manufacturing PMI,CNY,2,55.0,55.0
+2018.07.31CNYManufacturing PMI,7/31/18 1:59,FALSE,Manufacturing PMI,CNY,2,51.4,51.5
+2018.07.31NZDANZ Business Confidence,7/31/18 2:00,FALSE,ANZ Business Confidence,NZD,3," ",-39.0
+2018.07.31AUDBuilding Approvals m m,7/31/18 2:30,FALSE,Building Approvals m/m,AUD,2,1.1%,-2.5%
+2018.07.31AUDPrivate Sector Credit m m,7/31/18 2:30,FALSE,Private Sector Credit m/m,AUD,1,0.3%,0.2%
+2018.07.31JPYBOJ Outlook Report,7/31/18 5:03,FALSE,BOJ Outlook Report,JPY,3," "," "
+2018.07.31JPYBOJ Policy Rate,7/31/18 5:03,FALSE,BOJ Policy Rate,JPY,2,-0.10%,-0.10%
+2018.07.31JPYMonetary Policy Statement,7/31/18 5:03,FALSE,Monetary Policy Statement,JPY,3," "," "
+2018.07.31JPYHousing Starts y y,7/31/18 6:00,FALSE,Housing Starts y/y,JPY,1,-2.5%,1.3%
+2018.07.31JPYConsumer Confidence,7/31/18 6:04,FALSE,Consumer Confidence,JPY,1,43.9,43.7
+2018.07.31EURGerman Retail Sales m m,7/31/18 7:00,FALSE,German Retail Sales m/m,EUR,2,1.1%,-2.1%
+2018.07.31JPYBOJ Press Conference,7/31/18 7:29,FALSE,BOJ Press Conference,JPY,3," "," "
+2018.07.31EURFrench Prelim CPI m m,7/31/18 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.3%,0.0%
+2018.07.31EURSpanish Flash GDP q q,7/31/18 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,0.7%,0.7%
+2018.07.31EURGerman Unemployment Change,7/31/18 8:55,FALSE,German Unemployment Change,EUR,1,-10K,-14K
+2018.07.31EURItalian Monthly Unemployment Rate,7/31/18 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.8%,10.7%
+2018.07.31EURCPI Flash Estimate y y,7/31/18 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.0%,2.0%
+2018.07.31EURCore CPI Flash Estimate y y,7/31/18 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,1.0%,0.9%
+2018.07.31EURItalian Prelim CPI m m,7/31/18 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.2%
+2018.07.31EURPrelim Flash GDP q q,7/31/18 10:00,FALSE,Prelim Flash GDP q/q,EUR,2,0.4%,0.4%
+2018.07.31EURUnemployment Rate,7/31/18 10:00,FALSE,Unemployment Rate,EUR,1,8.3%,8.3%
+2018.07.31EURItalian Prelim GDP q q,7/31/18 11:00,FALSE,Italian Prelim GDP q/q,EUR,1,0.2%,0.3%
+2018.07.31CADGDP m m,7/31/18 13:30,FALSE,GDP m/m,CAD,3,0.3%,0.1%
+2018.07.31CADIPPI m m,7/31/18 13:30,FALSE,IPPI m/m,CAD,1,0.3%,1.2%
+2018.07.31CADRMPI m m,7/31/18 13:30,FALSE,RMPI m/m,CAD,2,2.7%,3.8%
+2018.07.31USDCore PCE Price Index m m,7/31/18 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.2%
+2018.07.31USDEmployment Cost Index q q,7/31/18 13:30,FALSE,Employment Cost Index q/q,USD,2,0.7%,0.8%
+2018.07.31USDPersonal Income m m,7/31/18 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.4%
+2018.07.31USDPersonal Spending m m,7/31/18 13:30,FALSE,Personal Spending m/m,USD,2,0.4%,0.5%
+2018.07.31USDS&P CS Composite-20 HPI y y,7/31/18 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,1,6.4%,6.7%
+2018.07.31USDChicago PMI,7/31/18 14:45,FALSE,Chicago PMI,USD,2,61.9,64.1
+2018.07.31USDCB Consumer Confidence,7/31/18 15:00,FALSE,CB Consumer Confidence,USD,3,126.5,127.1
+2018.07.31AUDAIG Manufacturing Index,7/31/18 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",57.4
+2018.07.31NZDEmployment Change q q,7/31/18 23:45,FALSE,Employment Change q/q,NZD,3,0.4%,0.6%
+2018.07.31NZDLabor Cost Index q q,7/31/18 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.6%,0.3%
+2018.07.31NZDUnemployment Rate,7/31/18 23:45,FALSE,Unemployment Rate,NZD,3,4.4%,4.4%
+

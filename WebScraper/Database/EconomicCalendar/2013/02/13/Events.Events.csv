@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.02.13CNYBank Holiday,2/13/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.02.13USDPresident Obama Speaks,2/13/13 2:00,FALSE,President Obama Speaks,USD,1," "," "
+2013.02.13EURGerman WPI m m,2/13/13 7:00,FALSE,German WPI m/m,EUR,1,0.4%,0.0%
+2013.02.13CHFPPI m m,2/13/13 8:15,FALSE,PPI m/m,CHF,2,0.2%,0.1%
+2013.02.13EURIndustrial Production m m,2/13/13 10:00,FALSE,Industrial Production m/m,EUR,2,0.3%,-0.7%
+2013.02.13GBPBOE Gov King Speaks,2/13/13 10:30,FALSE,BOE Gov King Speaks,GBP,3," "," "
+2013.02.13GBPBOE Monetary Policy Report,2/13/13 10:30,FALSE,BOE Monetary Policy Report,GBP,3," "," "
+2013.02.13USDCore Retail Sales m m,2/13/13 13:30,FALSE,Core Retail Sales m/m,USD,3,0.1%,0.3%
+2013.02.13USDImport Prices m m,2/13/13 13:30,FALSE,Import Prices m/m,USD,2,0.8%,-0.5%
+2013.02.13USDRetail Sales m m,2/13/13 13:30,FALSE,Retail Sales m/m,USD,3,0.1%,0.5%
+2013.02.13USDBusiness Inventories m m,2/13/13 15:00,FALSE,Business Inventories m/m,USD,2,0.3%,0.2%
+2013.02.13USDTreasury Sec Lew Speaks,2/13/13 15:00,FALSE,Treasury Sec Lew Speaks,USD,3," "," "
+2013.02.13USDCrude Oil Inventories,2/13/13 15:30,FALSE,Crude Oil Inventories,USD,2,2.4M,2.6M
+2013.02.13USDFOMC Member Bullard Speaks,2/13/13 16:10,FALSE,FOMC Member Bullard Speaks,USD,2," "," "
+2013.02.13USD10-y Bond Auction,2/13/13 18:00,FALSE,10-y Bond Auction,USD,2," ",1.86|2.8
+2013.02.13NZDBusinessNZ Manufacturing Index,2/13/13 21:24,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",50.4
+2013.02.13NZDFPI m m,2/13/13 21:45,FALSE,FPI m/m,NZD,1," ",-0.2%
+2013.02.13JPYPrelim GDP Price Index y y,2/13/13 23:50,FALSE,Prelim GDP Price Index y/y,JPY,1,-0.5%,-0.8%
+2013.02.13JPYPrelim GDP q q,2/13/13 23:50,FALSE,Prelim GDP q/q,JPY,2,0.1%,-0.9%
+

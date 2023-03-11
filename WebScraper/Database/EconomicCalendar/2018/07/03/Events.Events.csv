@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.07.03USDTotal Vehicle Sales,7/3/18 0:00,TRUE,Total Vehicle Sales,USD,1,17.0M,16.9M
+2018.07.03USDWards Total Vehicle Sales,7/3/18 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.0M,16.8M
+2018.07.03JPYMonetary Base y y,7/3/18 0:50,FALSE,Monetary Base y/y,JPY,1,8.3%,8.1%
+2018.07.03AUDBuilding Approvals m m,7/3/18 2:30,FALSE,Building Approvals m/m,AUD,2,0.1%,-5.6%
+2018.07.03JPY10-y Bond Auction,7/3/18 4:35,FALSE,10-y Bond Auction,JPY,1," ",0.05|4.4
+2018.07.03AUDCash Rate,7/3/18 5:30,FALSE,Cash Rate,AUD,2,1.50%,1.50%
+2018.07.03AUDRBA Rate Statement,7/3/18 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2018.07.03EURFrench Gov Budget Balance,7/3/18 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-54.3B
+2018.07.03EURSpanish Unemployment Change,7/3/18 8:00,FALSE,Spanish Unemployment Change,EUR,1,-101.0K,-83.7K
+2018.07.03GBPConstruction PMI,7/3/18 9:30,FALSE,Construction PMI,GBP,3,52.6,52.5
+2018.07.03GBPFPC Meeting Minutes,7/3/18 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2018.07.03EURPPI m m,7/3/18 10:00,FALSE,PPI m/m,EUR,1,0.4%,0.0%
+2018.07.03EURRetail Sales m m,7/3/18 10:00,FALSE,Retail Sales m/m,EUR,1,0.1%,-0.1%
+2018.07.03GBP10-y Bond Auction,7/3/18 10:36,FALSE,10-y Bond Auction,GBP,1," ",1.61|2.2
+2018.07.03CADManufacturing PMI,7/3/18 14:30,FALSE,Manufacturing PMI,CAD,1," ",56.2
+2018.07.03USDIBD TIPP Economic Optimism,7/3/18 14:59,FALSE,IBD/TIPP Economic Optimism,USD,1,54.2,53.9
+2018.07.03USDFactory Orders m m,7/3/18 15:00,FALSE,Factory Orders m/m,USD,1,0.1%,-0.4%
+2018.07.03NZDGDT Price Index,7/3/18 15:13,FALSE,GDT Price Index,NZD,2," ",-1.2%
+2018.07.03AUDAIG Services Index,7/3/18 23:30,FALSE,AIG Services Index,AUD,1," ",59.0
+

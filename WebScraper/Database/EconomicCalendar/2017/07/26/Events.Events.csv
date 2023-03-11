@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.07.26JPYSPPI y y,7/26/17 0:50,FALSE,SPPI y/y,JPY,1,0.8%,0.8%
+2017.07.26AUDCPI q q,7/26/17 2:30,FALSE,CPI q/q,AUD,3,0.4%,0.5%
+2017.07.26AUDTrimmed Mean CPI q q,7/26/17 2:30,FALSE,Trimmed Mean CPI q/q,AUD,3,0.5%,0.5%
+2017.07.26AUDRBA Gov Lowe Speaks,7/26/17 4:05,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2017.07.26CHFUBS Consumption Indicator,7/26/17 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.32
+2017.07.26CHFCredit Suisse Economic Expectations,7/26/17 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",20.7
+2017.07.26GBPHigh Street Lending,7/26/17 9:30,FALSE,High Street Lending,GBP,1,39.9K,40.3K
+2017.07.26GBPIndex of Services 3m 3m,7/26/17 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.4%,0.2%
+2017.07.26GBPPrelim GDP q q,7/26/17 9:30,FALSE,Prelim GDP q/q,GBP,3,0.3%,0.2%
+2017.07.26USDNew Home Sales,7/26/17 15:00,FALSE,New Home Sales,USD,2,615K,605K
+2017.07.26USDCrude Oil Inventories,7/26/17 15:30,FALSE,Crude Oil Inventories,USD,3,-3.3M,-4.7M
+2017.07.26USDFOMC Statement,7/26/17 19:00,FALSE,FOMC Statement,USD,3," "," "
+2017.07.26USDFederal Funds Rate,7/26/17 19:00,FALSE,Federal Funds Rate,USD,2,1.25%,1.25%
+

@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.04.07EURECOFIN Meetings,4/7/11 0:00,TRUE,ECOFIN Meetings,EUR,2,,
+2011.04.07AUDAIG Construction Index,4/7/11 0:29,FALSE,AIG Construction Index,AUD,1,,44.6
+2011.04.07AUDEmployment Change,4/7/11 2:30,FALSE,Employment Change,AUD,3,22.7K,-8.6K
+2011.04.07AUDUnemployment Rate,4/7/11 2:30,FALSE,Unemployment Rate,AUD,3,5.0%,5.0%
+2011.04.07JPYMonetary Policy Statement,4/7/11 5:10,FALSE,Monetary Policy Statement,JPY,3,,
+2011.04.07JPYOvernight Call Rate,4/7/11 5:10,FALSE,Overnight Call Rate,JPY,3,<0.10%,<0.10%
+2011.04.07EURFrench Trade Balance,4/7/11 7:45,FALSE,French Trade Balance,EUR,1,-5.6B,-6.1B
+2011.04.07JPYBOJ Press Conference,4/7/11 8:32,FALSE,BOJ Press Conference,JPY,3,,
+2011.04.07EURGerman Industrial Production m m,4/7/11 11:00,FALSE,German Industrial Production m/m,EUR,2,0.6%,2.0%
+2011.04.07EURFrench 10-y Bond Auction,4/7/11 11:04,FALSE,French 10-y Bond Auction,EUR,2,,3.61|2.3
+2011.04.07GBPAsset Purchase Facility,4/7/11 12:00,FALSE,Asset Purchase Facility,GBP,3,200B,200B
+2011.04.07GBPOfficial Bank Rate,4/7/11 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2011.04.07EURMain Refinancing Rate,4/7/11 12:45,FALSE,Main Refinancing Rate,EUR,3,1.25%,1.00%
+2011.04.07CADBuilding Permits m m,4/7/11 13:30,FALSE,Building Permits m/m,CAD,3,1.6%,-6.6%
+2011.04.07EURECB Press Conference,4/7/11 13:30,FALSE,ECB Press Conference,EUR,3,,
+2011.04.07USDUnemployment Claims,4/7/11 13:30,FALSE,Unemployment Claims,USD,3,385K,392K
+2011.04.07USDNatural Gas Storage,4/7/11 15:30,FALSE,Natural Gas Storage,USD,1,-51B,12B
+2011.04.07USDConsumer Credit m m,4/7/11 20:00,FALSE,Consumer Credit m/m,USD,1,4.8B,4.4B
+

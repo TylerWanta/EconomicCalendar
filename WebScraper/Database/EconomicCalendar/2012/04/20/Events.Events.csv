@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.20AllG20 Meetings,4/20/12 0:00,TRUE,G20 Meetings,All,2," "," "
+2012.04.20AllIMF Meetings,4/20/12 0:00,TRUE,IMF Meetings,All,2," "," "
+2012.04.20JPYTertiary Industry Activity m m,4/20/12 0:50,FALSE,Tertiary Industry Activity m/m,JPY,2,0.8%,-0.6%
+2012.04.20AUDImport Prices q q,4/20/12 2:30,FALSE,Import Prices q/q,AUD,2,-0.5%,2.4%
+2012.04.20EURGerman PPI m m,4/20/12 7:00,FALSE,German PPI m/m,EUR,2,0.5%,0.4%
+2012.04.20EURGerman ifo Business Climate,4/20/12 9:00,FALSE,German ifo Business Climate,EUR,3,109.6,109.8
+2012.04.20GBPRetail Sales m m,4/20/12 9:30,FALSE,Retail Sales m/m,GBP,3,0.4%,-0.8%
+2012.04.20CADCPI m m,4/20/12 13:30,FALSE,CPI m/m,CAD,2,0.5%,0.4%
+2012.04.20CADCore CPI m m,4/20/12 13:30,FALSE,Core CPI m/m,CAD,3,0.3%,0.4%
+2012.04.20CADLeading Index m m,4/20/12 13:30,FALSE,Leading Index m/m,CAD,1,0.4%,0.7%
+

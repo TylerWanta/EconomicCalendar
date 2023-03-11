@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.05AUDBank Holiday,4/5/12 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2012.04.05NZDBank Holiday,4/5/12 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2012.04.05CNYCaixin Services PMI,4/5/12 3:30,FALSE,Caixin Services PMI,CNY,1," ",53.9
+2012.04.05CHFForeign Currency Reserves,4/5/12 8:00,FALSE,Foreign Currency Reserves,CHF,3," ",227B
+2012.04.05CHFCPI m m,4/5/12 8:15,FALSE,CPI m/m,CHF,3,0.4%,0.3%
+2012.04.05GBPIndustrial Production m m,4/5/12 9:30,FALSE,Industrial Production m/m,GBP,1,0.4%,-0.6%
+2012.04.05GBPManufacturing Production m m,4/5/12 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.1%,-0.3%
+2012.04.05EURFrench 10-y Bond Auction,4/5/12 10:02,FALSE,French 10-y Bond Auction,EUR,2," ",2.91|2.2
+2012.04.05EURGerman Industrial Production m m,4/5/12 11:00,FALSE,German Industrial Production m/m,EUR,2,-0.3%,1.2%
+2012.04.05GBPAsset Purchase Facility,4/5/12 12:00,FALSE,Asset Purchase Facility,GBP,3,325B,325B
+2012.04.05GBPOfficial Bank Rate,4/5/12 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2012.04.05USDChallenger Job Cuts y y,4/5/12 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",2.0%
+2012.04.05CADBuilding Permits m m,4/5/12 13:30,FALSE,Building Permits m/m,CAD,3,2.6%,-11.4%
+2012.04.05CADEmployment Change,4/5/12 13:30,FALSE,Employment Change,CAD,3,11.3K,-2.8K
+2012.04.05CADUnemployment Rate,4/5/12 13:30,FALSE,Unemployment Rate,CAD,3,7.5%,7.4%
+2012.04.05USDUnemployment Claims,4/5/12 13:30,FALSE,Unemployment Claims,USD,3,355K,363K
+2012.04.05CADIvey PMI,4/5/12 15:00,FALSE,Ivey PMI,CAD,3,65.2,66.5
+2012.04.05GBPNIESR GDP Estimate,4/5/12 15:00,FALSE,NIESR GDP Estimate,GBP,2," ",0.0%
+2012.04.05USDNatural Gas Storage,4/5/12 15:30,FALSE,Natural Gas Storage,USD,1,35B,57B
+

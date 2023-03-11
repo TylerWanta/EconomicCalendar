@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.03.06GBPBRC Retail Sales Monitor y y,3/6/18 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",0.6%
+2018.03.06AUDCurrent Account,3/6/18 0:30,FALSE,Current Account,AUD,3,-12.3B,-11.0B
+2018.03.06AUDRetail Sales m m,3/6/18 0:30,FALSE,Retail Sales m/m,AUD,3,0.4%,-0.5%
+2018.03.06AUDCash Rate,3/6/18 3:30,FALSE,Cash Rate,AUD,3,1.50%,1.50%
+2018.03.06AUDRBA Rate Statement,3/6/18 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2018.03.06JPY30-y Bond Auction,3/6/18 3:45,FALSE,30-y Bond Auction,JPY,1," ",0.82|4.3
+2018.03.06CHFCPI m m,3/6/18 8:15,FALSE,CPI m/m,CHF,1,0.3%,-0.1%
+2018.03.06EURRetail PMI,3/6/18 9:10,FALSE,Retail PMI,EUR,1," ",50.8
+2018.03.06GBP30-y Bond Auction,3/6/18 10:34,FALSE,30-y Bond Auction,GBP,1," ",1.81|1.7
+2018.03.06USDFOMC Member Dudley Speaks,3/6/18 12:30,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2018.03.06CADIvey PMI,3/6/18 15:00,FALSE,Ivey PMI,CAD,2,56.3,55.2
+2018.03.06USDFactory Orders m m,3/6/18 15:00,FALSE,Factory Orders m/m,USD,1,-0.4%,1.8%
+2018.03.06USDIBD TIPP Economic Optimism,3/6/18 15:01,FALSE,IBD/TIPP Economic Optimism,USD,1,58.2,56.7
+2018.03.06NZDGDT Price Index,3/6/18 15:51,FALSE,GDT Price Index,NZD,2," ",-0.5%
+2018.03.06GBPMPC Member Haldane Speaks,3/6/18 18:15,FALSE,MPC Member Haldane Speaks,GBP,2," "," "
+2018.03.06AUDAIG Construction Index,3/6/18 21:30,FALSE,AIG Construction Index,AUD,1," ",54.3
+2018.03.06AUDRBA Gov Lowe Speaks,3/6/18 21:35,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2018.03.06USDFOMC Member Brainard Speaks,3/6/18 22:30,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+

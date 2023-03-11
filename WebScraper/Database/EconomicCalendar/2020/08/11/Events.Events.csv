@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.08.11GBPBRC Retail Sales Monitor y y,8/11/20 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,2.5%,10.9%
+2020.08.11JPYBank Lending y y,8/11/20 0:50,FALSE,Bank Lending y/y,JPY,1,6.2%,6.2%
+2020.08.11JPYCurrent Account,8/11/20 0:50,FALSE,Current Account,JPY,1,1.00T,0.82T
+2020.08.11AUDNAB Business Confidence,8/11/20 2:30,FALSE,NAB Business Confidence,AUD,2," ",1
+2020.08.11JPYEconomy Watchers Sentiment,8/11/20 6:05,FALSE,Economy Watchers Sentiment,JPY,1,40.0,38.8
+2020.08.11GBPClaimant Count Change,8/11/20 7:00,FALSE,Claimant Count Change,GBP,2,9.7K,-68.5K
+2020.08.11GBPUnemployment Rate,8/11/20 7:00,FALSE,Unemployment Rate,GBP,1,4.2%,3.9%
+2020.08.11GBPAverage Earnings Index 3m y,8/11/20 7:02,FALSE,Average Earnings Index 3m/y,GBP,1,-1.2%,-0.3%
+2020.08.11CNYM2 Money Supply y y,8/11/20 9:32,FALSE,M2 Money Supply y/y,CNY,1,11.1%,11.1%
+2020.08.11CNYNew Loans,8/11/20 9:32,FALSE,New Loans,CNY,1,1200B,1810B
+2020.08.11EURGerman ZEW Economic Sentiment,8/11/20 10:00,FALSE,German ZEW Economic Sentiment,EUR,1,57.0,59.3
+2020.08.11EURZEW Economic Sentiment,8/11/20 10:00,FALSE,ZEW Economic Sentiment,EUR,1,55.3,59.6
+2020.08.11USDNFIB Small Business Index,8/11/20 11:00,FALSE,NFIB Small Business Index,USD,1,100.7,100.6
+2020.08.11CADHousing Starts,8/11/20 13:15,FALSE,Housing Starts,CAD,1,208K,212K
+2020.08.11USDCore PPI m m,8/11/20 13:30,FALSE,Core PPI m/m,USD,1,0.1%,-0.3%
+2020.08.11USDPPI m m,8/11/20 13:30,FALSE,PPI m/m,USD,1,0.3%,-0.2%
+2020.08.11GBPCB Leading Index m m,8/11/20 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-3.8%
+2020.08.11NZDVisitor Arrivals m m,8/11/20 23:45,FALSE,Visitor Arrivals m/m,NZD,1," ",82.8%
+

@@ -1,0 +1,31 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.11.30AUDMI Inflation Gauge m m,11/30/20 0:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",-0.1%
+2020.11.30AllOPEC Meetings,11/30/20 0:00,TRUE,OPEC Meetings,All,3," "," "
+2020.11.30EUREurogroup Meetings,11/30/20 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2020.11.30EURGerman Prelim CPI m m,11/30/20 0:00,TRUE,German Prelim CPI m/m,EUR,1,-0.7%,0.1%
+2020.11.30NZDANZ Business Confidence,11/30/20 0:00,FALSE,ANZ Business Confidence,NZD,1," ",-15.6
+2020.11.30AUDCompany Operating Profits q q,11/30/20 0:30,FALSE,Company Operating Profits q/q,AUD,1,4.0%,15.8%
+2020.11.30AUDPrivate Sector Credit m m,11/30/20 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.1%,0.0%
+2020.11.30CNYManufacturing PMI,11/30/20 1:00,FALSE,Manufacturing PMI,CNY,2,51.6,51.4
+2020.11.30CNYNon-Manufacturing PMI,11/30/20 1:00,FALSE,Non-Manufacturing PMI,CNY,1,56.0,56.2
+2020.11.30JPYHousing Starts y y,11/30/20 5:00,FALSE,Housing Starts y/y,JPY,1,-9.0%,-9.9%
+2020.11.30CHFRetail Sales y y,11/30/20 7:30,FALSE,Retail Sales y/y,CHF,1,0.6%,0.4%
+2020.11.30CHFKOF Economic Barometer,11/30/20 8:00,FALSE,KOF Economic Barometer,CHF,1,101.0,106.3
+2020.11.30EURSpanish Flash CPI y y,11/30/20 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,-0.9%,-0.8%
+2020.11.30GBPM4 Money Supply m m,11/30/20 9:30,FALSE,M4 Money Supply m/m,GBP,1,1.0%,0.8%
+2020.11.30GBPNet Lending to Individuals m m,11/30/20 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,4.7B,4.2B
+2020.11.30GBPMortgage Approvals,11/30/20 9:32,FALSE,Mortgage Approvals,GBP,1,85K,92K
+2020.11.30EURECB President Lagarde Speaks,11/30/20 10:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2020.11.30EURItalian Prelim CPI m m,11/30/20 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,-0.2%,0.2%
+2020.11.30CADBuilding Permits m m,11/30/20 13:30,FALSE,Building Permits m/m,CAD,1,-3.8%,18.6%
+2020.11.30CADCurrent Account,11/30/20 13:30,FALSE,Current Account,CAD,1,-8.9B,-7.0B
+2020.11.30CADIPPI m m,11/30/20 13:30,FALSE,IPPI m/m,CAD,1,0.0%,0.6%
+2020.11.30CADRMPI m m,11/30/20 13:30,FALSE,RMPI m/m,CAD,1,-2.0%,-1.8%
+2020.11.30GBPMPC Member Tenreyro Speaks,11/30/20 14:30,FALSE,MPC Member Tenreyro Speaks,GBP,1," "," "
+2020.11.30USDChicago PMI,11/30/20 14:45,FALSE,Chicago PMI,USD,2,59.4,61.1
+2020.11.30USDPending Home Sales m m,11/30/20 15:00,FALSE,Pending Home Sales m/m,USD,2,1.1%,-2.0%
+2020.11.30CADAnnual Budget Release,11/30/20 20:00,FALSE,Annual Budget Release,CAD,1," "," "
+2020.11.30AUDAIG Manufacturing Index,11/30/20 21:30,FALSE,AIG Manufacturing Index,AUD,1," ",56.3
+2020.11.30JPYUnemployment Rate,11/30/20 23:30,FALSE,Unemployment Rate,JPY,1,3.1%,3.0%
+2020.11.30JPYCapital Spending q y,11/30/20 23:50,FALSE,Capital Spending q/y,JPY,1,-12.0%,-11.3%
+

@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.06EURGerman Prelim CPI m m,1/6/14 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.4%,0.2%
+2014.01.06EURItalian Bank Holiday,1/6/14 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2014.01.06CNYCaixin Services PMI,1/6/14 1:45,FALSE,Caixin Services PMI,CNY,2," ",52.5
+2014.01.06EURSpanish Services PMI,1/6/14 8:15,FALSE,Spanish Services PMI,EUR,2,51.1,51.5
+2014.01.06EURItalian Services PMI,1/6/14 8:45,FALSE,Italian Services PMI,EUR,2,48.9,47.2
+2014.01.06EURFrench Final Services PMI,1/6/14 8:50,FALSE,French Final Services PMI,EUR,1,47.4,47.4
+2014.01.06EURGerman Final Services PMI,1/6/14 8:55,FALSE,German Final Services PMI,EUR,1,54.0,54.0
+2014.01.06EURFinal Services PMI,1/6/14 9:00,FALSE,Final Services PMI,EUR,1,51.2,51.0
+2014.01.06EURSentix Investor Confidence,1/6/14 9:30,FALSE,Sentix Investor Confidence,EUR,1,9.7,8.0
+2014.01.06GBPFinal Services PMI,1/6/14 9:30,FALSE,Final Services PMI,GBP,3,60.4,60.0
+2014.01.06CADIPPI m m,1/6/14 13:30,FALSE,IPPI m/m,CAD,1,0.0%,-0.5%
+2014.01.06CADRMPI m m,1/6/14 13:30,FALSE,RMPI m/m,CAD,2,-1.1%,-3.3%
+2014.01.06USDFinal Services PMI,1/6/14 14:00,FALSE,Final Services PMI,USD,1,56.0,56.0
+2014.01.06USDFactory Orders m m,1/6/14 15:00,FALSE,Factory Orders m/m,USD,2,1.8%,-0.5%
+2014.01.06USDISM Services PMI,1/6/14 15:00,FALSE,ISM Services PMI,USD,3,54.6,53.9
+2014.01.06USDFed Chairman Nomination Vote,1/6/14 23:00,FALSE,Fed Chairman Nomination Vote,USD,3,Pass," "
+2014.01.06JPYMonetary Base y y,1/6/14 23:50,FALSE,Monetary Base y/y,JPY,1,55.2%,52.5%
+

@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.09.21JPYBank Holiday,9/21/16 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2016.09.21JPYTrade Balance,9/21/16 0:52,FALSE,Trade Balance,JPY,1,0.50T,0.34T
+2016.09.21AUDMI Leading Index m m,9/21/16 1:30,FALSE,MI Leading Index m/m,AUD,1," ",0.1%
+2016.09.21NZDCredit Card Spending y y,9/21/16 4:00,FALSE,Credit Card Spending y/y,NZD,1," ",5.6%
+2016.09.21JPYBOJ Policy Rate,9/21/16 5:18,FALSE,BOJ Policy Rate,JPY,3,-0.20%,-0.10%
+2016.09.21JPYMonetary Policy Statement,9/21/16 5:18,FALSE,Monetary Policy Statement,JPY,3," "," "
+2016.09.21JPYBOJ Press Conference,9/21/16 7:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2016.09.21GBPPublic Sector Net Borrowing,9/21/16 9:30,FALSE,Public Sector Net Borrowing,GBP,2,10.5B,-2.4B
+2016.09.21GBPBOE Quarterly Bulletin,9/21/16 12:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2016.09.21CADWholesale Sales m m,9/21/16 13:30,FALSE,Wholesale Sales m/m,CAD,2,0.3%,0.7%
+2016.09.21CHFSNB Quarterly Bulletin,9/21/16 14:00,FALSE,SNB Quarterly Bulletin,CHF,1," "," "
+2016.09.21CNYCB Leading Index m m,9/21/16 14:00,FALSE,CB Leading Index m/m,CNY,1," ",0.6%
+2016.09.21USDCrude Oil Inventories,9/21/16 15:30,FALSE,Crude Oil Inventories,USD,3,3.2M,-0.6M
+2016.09.21USDFOMC Economic Projections,9/21/16 19:00,FALSE,FOMC Economic Projections,USD,3," "," "
+2016.09.21USDFOMC Statement,9/21/16 19:00,FALSE,FOMC Statement,USD,3," "," "
+2016.09.21USDFederal Funds Rate,9/21/16 19:00,FALSE,Federal Funds Rate,USD,3,0.50%,0.50%
+2016.09.21USDFOMC Press Conference,9/21/16 19:30,FALSE,FOMC Press Conference,USD,3," "," "
+2016.09.21NZDOfficial Cash Rate,9/21/16 22:00,FALSE,Official Cash Rate,NZD,3,2.00%,2.00%
+2016.09.21NZDRBNZ Rate Statement,9/21/16 22:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+

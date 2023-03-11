@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.06.17EUREurogroup Meetings,6/17/21 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2021.06.17AUDRBA Gov Lowe Speaks,6/17/21 1:10,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2021.06.17AUDEmployment Change,6/17/21 2:30,FALSE,Employment Change,AUD,3,30.5K,-30.7K
+2021.06.17AUDRBA Bulletin,6/17/21 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2021.06.17AUDUnemployment Rate,6/17/21 2:30,FALSE,Unemployment Rate,AUD,3,5.5%,5.5%
+2021.06.17CHFSNB Financial Stability Report,6/17/21 5:30,FALSE,SNB Financial Stability Report,CHF,1," "," "
+2021.06.17CHFTrade Balance,6/17/21 7:02,FALSE,Trade Balance,CHF,1,4.23B,3.77B
+2021.06.17CHFSNB Monetary Policy Assessment,6/17/21 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2021.06.17CHFSNB Policy Rate,6/17/21 8:30,FALSE,SNB Policy Rate,CHF,2,-0.75%,-0.75%
+2021.06.17CHFSNB Press Conference,6/17/21 9:00,FALSE,SNB Press Conference,CHF,3," "," "
+2021.06.17EURItalian Trade Balance,6/17/21 9:00,FALSE,Italian Trade Balance,EUR,1,6.23B,5.19B
+2021.06.17EURFinal CPI y y,6/17/21 10:00,FALSE,Final CPI y/y,EUR,1,2.0%,2.0%
+2021.06.17EURFinal Core CPI y y,6/17/21 10:00,FALSE,Final Core CPI y/y,EUR,1,0.9%,0.9%
+2021.06.17CADForeign Securities Purchases,6/17/21 13:30,FALSE,Foreign Securities Purchases,CAD,1,4.35B,4.12B
+2021.06.17USDPhilly Fed Manufacturing Index,6/17/21 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,30.3,31.5
+2021.06.17USDUnemployment Claims,6/17/21 13:30,FALSE,Unemployment Claims,USD,2,360K,375k
+2021.06.17CADADP Non-Farm Employment Change,6/17/21 13:32,FALSE,ADP Non-Farm Employment Change,CAD,1," ",101.3K
+2021.06.17USDCB Leading Index m m,6/17/21 15:00,FALSE,CB Leading Index m/m,USD,1,1.3%,1.3%
+2021.06.17USDNatural Gas Storage,6/17/21 15:30,FALSE,Natural Gas Storage,USD,1,71B,98B
+

@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.06.22AllOPEC Meetings,6/22/18 0:00,TRUE,OPEC Meetings,All,3," "," "
+2018.06.22EURECOFIN Meetings,6/22/18 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2018.06.22JPYNational Core CPI y y,6/22/18 0:30,FALSE,National Core CPI y/y,JPY,1,0.7%,0.7%
+2018.06.22JPYFlash Manufacturing PMI,6/22/18 1:30,FALSE,Flash Manufacturing PMI,JPY,1,52.6,52.8
+2018.06.22NZDCredit Card Spending y y,6/22/18 4:00,FALSE,Credit Card Spending y/y,NZD,1," ",6.9%
+2018.06.22JPYAll Industries Activity m m,6/22/18 5:30,FALSE,All Industries Activity m/m,JPY,1,0.9%,0.0%
+2018.06.22EURFrench Flash Manufacturing PMI,6/22/18 8:00,FALSE,French Flash Manufacturing PMI,EUR,2,54.0,54.4
+2018.06.22EURFrench Flash Services PMI,6/22/18 8:00,FALSE,French Flash Services PMI,EUR,2,54.3,54.3
+2018.06.22EURGerman Flash Manufacturing PMI,6/22/18 8:30,FALSE,German Flash Manufacturing PMI,EUR,2,56.3,56.9
+2018.06.22EURGerman Flash Services PMI,6/22/18 8:30,FALSE,German Flash Services PMI,EUR,2,52.2,52.1
+2018.06.22EURFlash Manufacturing PMI,6/22/18 9:00,FALSE,Flash Manufacturing PMI,EUR,2,55.0,55.5
+2018.06.22EURFlash Services PMI,6/22/18 9:00,FALSE,Flash Services PMI,EUR,2,53.7,53.8
+2018.06.22GBPBOE Quarterly Bulletin,6/22/18 12:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2018.06.22CADCPI m m,6/22/18 13:30,FALSE,CPI m/m,CAD,3,0.4%,0.3%
+2018.06.22CADCommon CPI y y,6/22/18 13:30,FALSE,Common CPI y/y,CAD,2," ",1.9%
+2018.06.22CADCore Retail Sales m m,6/22/18 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.5%,-0.2%
+2018.06.22CADMedian CPI y y,6/22/18 13:30,FALSE,Median CPI y/y,CAD,2," ",1.9%
+2018.06.22CADRetail Sales m m,6/22/18 13:30,FALSE,Retail Sales m/m,CAD,2,0.0%,0.8
+2018.06.22CADTrimmed CPI y y,6/22/18 13:30,FALSE,Trimmed CPI y/y,CAD,2," ",2.1%
+2018.06.22CADCore CPI m m,6/22/18 13:43,FALSE,Core CPI m/m,CAD,1," ",0.1%
+2018.06.22EURBelgian NBB Business Climate,6/22/18 13:59,FALSE,Belgian NBB Business Climate,EUR,1,0.0,0.2
+2018.06.22USDFlash Manufacturing PMI,6/22/18 14:45,FALSE,Flash Manufacturing PMI,USD,1,56.3,56.4
+2018.06.22USDFlash Services PMI,6/22/18 14:45,FALSE,Flash Services PMI,USD,1,56.4,56.8
+

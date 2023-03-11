@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.10.04CNYBank Holiday,10/4/16 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2016.10.04JPYMonetary Base y y,10/4/16 0:50,FALSE,Monetary Base y/y,JPY,1,23.4%,24.2%
+2016.10.04AUDANZ Job Advertisements m m,10/4/16 1:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",1.7%
+2016.10.04AUDBuilding Approvals m m,10/4/16 1:30,FALSE,Building Approvals m/m,AUD,3,-5.8%,12.0%
+2016.10.04NZDRBNZ Gov Wheeler Speaks,10/4/16 2:30,FALSE,RBNZ Gov Wheeler Speaks,NZD,3," "," "
+2016.10.04AUDCash Rate,10/4/16 4:30,FALSE,Cash Rate,AUD,3,1.50%,1.50%
+2016.10.04AUDRBA Rate Statement,10/4/16 4:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2016.10.04JPY10-y Bond Auction,10/4/16 4:45,FALSE,10-y Bond Auction,JPY,1," ",-0.05|3.7
+2016.10.04JPYConsumer Confidence,10/4/16 6:00,FALSE,Consumer Confidence,JPY,1,41.8,42.0
+2016.10.04AUDCommodity Prices y y,10/4/16 6:30,FALSE,Commodity Prices y/y,AUD,1," ",0.3%
+2016.10.04EURSpanish Unemployment Change,10/4/16 8:00,FALSE,Spanish Unemployment Change,EUR,2,23.5K,14.4K
+2016.10.04GBPConstruction PMI,10/4/16 9:30,FALSE,Construction PMI,GBP,3,49.1,49.2
+2016.10.04EURPPI m m,10/4/16 10:00,FALSE,PPI m/m,EUR,1,0.0%,0.3%
+2016.10.04NZDGDT Price Index,10/4/16 15:06,FALSE,GDT Price Index,NZD,3," ",1.7%
+2016.10.04AUDAIG Services Index,10/4/16 23:30,FALSE,AIG Services Index,AUD,1," ",45.0
+

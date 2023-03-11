@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.06.11GBPRICS House Price Balance,6/11/15 0:01,FALSE,RICS House Price Balance,GBP,1,35%,32%
+2015.06.11JPYBSI Manufacturing Index,6/11/15 0:50,FALSE,BSI Manufacturing Index,JPY,2,3.2,2.4
+2015.06.11AUDMI Inflation Expectations,6/11/15 2:00,FALSE,MI Inflation Expectations,AUD,2," ",3.6%
+2015.06.11AUDEmployment Change,6/11/15 2:30,FALSE,Employment Change,AUD,3,12.1K,-13.7K
+2015.06.11AUDUnemployment Rate,6/11/15 2:30,FALSE,Unemployment Rate,AUD,3,6.2%,6.1%
+2015.06.11CNYFixed Asset Investment ytd y,6/11/15 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,11.7%,12.0%
+2015.06.11CNYIndustrial Production y y,6/11/15 6:30,FALSE,Industrial Production y/y,CNY,3,6.0%,5.9%
+2015.06.11CNYRetail Sales y y,6/11/15 6:30,FALSE,Retail Sales y/y,CNY,1,10.1%,10.0%
+2015.06.11EURFrench Final Private Payrolls q q,6/11/15 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,-0.1%,-0.1%
+2015.06.11EURFrench Final CPI m m,6/11/15 7:45,FALSE,French Final CPI m/m,EUR,1,0.3%,0.1%
+2015.06.11CNYM2 Money Supply y y,6/11/15 8:04,FALSE,M2 Money Supply y/y,CNY,1,10.6%,10.1%
+2015.06.11CNYNew Loans,6/11/15 8:04,FALSE,New Loans,CNY,2,860B,708B
+2015.06.11GBP30-y Bond Auction,6/11/15 10:35,FALSE,30-y Bond Auction,GBP,1," ",2.34|1.4
+2015.06.11CADCapacity Utilization Rate,6/11/15 13:30,FALSE,Capacity Utilization Rate,CAD,1,83.1%,83.5%
+2015.06.11CADNHPI m m,6/11/15 13:30,FALSE,NHPI m/m,CAD,2,0.2%,0.0%
+2015.06.11USDCore Retail Sales m m,6/11/15 13:30,FALSE,Core Retail Sales m/m,USD,3,0.7%,0.1%
+2015.06.11USDImport Prices m m,6/11/15 13:30,FALSE,Import Prices m/m,USD,2,0.9%,-0.2%
+2015.06.11USDRetail Sales m m,6/11/15 13:30,FALSE,Retail Sales m/m,USD,3,1.1%,0.2%
+2015.06.11USDUnemployment Claims,6/11/15 13:30,FALSE,Unemployment Claims,USD,3,277K,277K
+2015.06.11USDBusiness Inventories m m,6/11/15 15:00,FALSE,Business Inventories m/m,USD,2,0.2%,0.1%
+2015.06.11CADBOC Financial System Review,6/11/15 15:30,FALSE,BOC Financial System Review,CAD,1," "," "
+2015.06.11USDNatural Gas Storage,6/11/15 15:30,FALSE,Natural Gas Storage,USD,1,114B,132B
+2015.06.11CADBOC Gov Poloz Speaks,6/11/15 16:15,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2015.06.11USD30-y Bond Auction,6/11/15 18:01,FALSE,30-y Bond Auction,USD,1," ",3.04|2.2
+2015.06.11NZDBusinessNZ Manufacturing Index,6/11/15 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,2," ",51.7
+2015.06.11NZDFPI m m,6/11/15 23:45,FALSE,FPI m/m,NZD,1," ",-0.3%
+

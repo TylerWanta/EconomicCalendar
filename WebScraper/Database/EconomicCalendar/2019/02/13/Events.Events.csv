@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.02.13USDFOMC Member George Speaks,2/13/19 0:30,FALSE,FOMC Member George Speaks,USD,2," "," "
+2019.02.13NZDOfficial Cash Rate,2/13/19 1:00,FALSE,Official Cash Rate,NZD,3,1.75%,1.75%
+2019.02.13NZDRBNZ Monetary Policy Statement,2/13/19 1:00,FALSE,RBNZ Monetary Policy Statement,NZD,3," "," "
+2019.02.13NZDRBNZ Rate Statement,2/13/19 1:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2019.02.13NZDRBNZ Press Conference,2/13/19 2:00,FALSE,RBNZ Press Conference,NZD,3," "," "
+2019.02.13GBPCPI y y,2/13/19 9:30,FALSE,CPI y/y,GBP,3,1.9%,2.1%
+2019.02.13GBPCore CPI y y,2/13/19 9:30,FALSE,Core CPI y/y,GBP,1,1.9%,1.9%
+2019.02.13GBPHPI y y,2/13/19 9:30,FALSE,HPI y/y,GBP,1,2.6%,2.7%
+2019.02.13GBPPPI Input m m,2/13/19 9:30,FALSE,PPI Input m/m,GBP,2,0.2%,-1.6%
+2019.02.13GBPPPI Output m m,2/13/19 9:30,FALSE,PPI Output m/m,GBP,1,0.0%,-0.3%
+2019.02.13GBPRPI y y,2/13/19 9:30,FALSE,RPI y/y,GBP,2,2.6%,2.7%
+2019.02.13EURIndustrial Production m m,2/13/19 10:00,FALSE,Industrial Production m/m,EUR,1,-0.4%,-1.7%
+2019.02.13EURGerman 30-y Bond Auction,2/13/19 10:32,FALSE,German 30-y Bond Auction,EUR,1," ",0.85|1.1
+2019.02.13USDCPI m m,2/13/19 13:30,FALSE,CPI m/m,USD,3,0.1%,-0.1%
+2019.02.13USDCPI y y,2/13/19 13:30,FALSE,CPI y/y,USD,3,1.5%,1.9%
+2019.02.13USDCore CPI m m,2/13/19 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.2%
+2019.02.13GBPCB Leading Index m m,2/13/19 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.5%
+2019.02.13USDCrude Oil Inventories,2/13/19 15:30,FALSE,Crude Oil Inventories,USD,1,2.1M,1.3M
+2019.02.13USDFederal Budget Balance,2/13/19 19:00,FALSE,Federal Budget Balance,USD,1,-10.5B,-204.9B
+2019.02.13NZDRBNZ Gov Orr Speaks,2/13/19 19:10,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2019.02.13NZDFPI m m,2/13/19 21:45,FALSE,FPI m/m,NZD,1," ",-0.2%
+2019.02.13JPYPrelim GDP q q,2/13/19 23:50,FALSE,Prelim GDP q/q,JPY,2,0.4%,-0.6%
+2019.02.13JPYPrelim GDP Price Index y y,2/13/19 23:53,FALSE,Prelim GDP Price Index y/y,JPY,1,-0.4%,-0.3%
+

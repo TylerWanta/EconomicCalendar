@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.05.25AllG7 Meetings,5/25/16 0:00,TRUE,G7 Meetings,All,3," "," "
+2016.05.25EURECOFIN Meetings,5/25/16 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2016.05.25AUDConstruction Work Done q q,5/25/16 2:30,FALSE,Construction Work Done q/q,AUD,2,-1.4%,-2.9%
+2016.05.25CHFUBS Consumption Indicator,5/25/16 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.40
+2016.05.25EURGerman GfK Consumer Climate,5/25/16 7:00,FALSE,German GfK Consumer Climate,EUR,1,9.7,9.7
+2016.05.25EURGerman ifo Business Climate,5/25/16 9:00,FALSE,German ifo Business Climate,EUR,3,106.9,106.7
+2016.05.25CHFCredit Suisse Economic Expectations,5/25/16 10:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",11.5
+2016.05.25EURGerman 30-y Bond Auction,5/25/16 10:31,FALSE,German 30-y Bond Auction,EUR,1," ",1.03|1.6
+2016.05.25USDGoods Trade Balance,5/25/16 13:30,FALSE,Goods Trade Balance,USD,1,-60.1B,-57.1B
+2016.05.25EURBelgian NBB Business Climate,5/25/16 14:00,FALSE,Belgian NBB Business Climate,EUR,1,-1.8,-2.4
+2016.05.25USDHPI m m,5/25/16 14:00,FALSE,HPI m/m,USD,1,0.4%,0.5%
+2016.05.25USDFlash Services PMI,5/25/16 14:45,FALSE,Flash Services PMI,USD,1,53.1,52.8
+2016.05.25CADBOC Rate Statement,5/25/16 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2016.05.25CADOvernight Rate,5/25/16 15:00,FALSE,Overnight Rate,CAD,3,0.50%,0.50%
+2016.05.25USDCrude Oil Inventories,5/25/16 15:30,FALSE,Crude Oil Inventories,USD,3,-1.7M,1.3M
+

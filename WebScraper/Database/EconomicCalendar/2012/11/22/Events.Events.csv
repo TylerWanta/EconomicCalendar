@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.11.22EUREU Economic Summit,11/22/12 0:00,TRUE,EU Economic Summit,EUR,3," "," "
+2012.11.22JPYBank Holiday,11/22/12 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2012.11.22USDBank Holiday,11/22/12 0:00,TRUE,Bank Holiday,USD,4," "," "
+2012.11.22CNYCaixin Flash Manufacturing PMI,11/22/12 1:45,FALSE,Caixin Flash Manufacturing PMI,CNY,3," ",49.5
+2012.11.22EURFrench Flash Manufacturing PMI,11/22/12 8:00,FALSE,French Flash Manufacturing PMI,EUR,3,44.1,43.7
+2012.11.22EURFrench Flash Services PMI,11/22/12 8:00,FALSE,French Flash Services PMI,EUR,2,45.3,44.6
+2012.11.22EURGerman Flash Manufacturing PMI,11/22/12 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,45.9,46.0
+2012.11.22EURGerman Flash Services PMI,11/22/12 8:30,FALSE,German Flash Services PMI,EUR,2,48.5,48.4
+2012.11.22EURFlash Manufacturing PMI,11/22/12 9:00,FALSE,Flash Manufacturing PMI,EUR,2,45.6,45.4
+2012.11.22EURFlash Services PMI,11/22/12 9:00,FALSE,Flash Services PMI,EUR,2,46.1,46.0
+2012.11.22EURSpanish 10-y Bond Auction,11/22/12 9:46,FALSE,Spanish 10-y Bond Auction,EUR,2," ",5.46|1.9
+2012.11.22GBPCBI Industrial Order Expectations,11/22/12 11:00,FALSE,CBI Industrial Order Expectations,GBP,2,-19,-23
+2012.11.22CADCore Retail Sales m m,11/22/12 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.5%,0.5%
+2012.11.22CADRetail Sales m m,11/22/12 13:30,FALSE,Retail Sales m/m,CAD,2,0.5%,0.3%
+2012.11.22EURConsumer Confidence,11/22/12 15:00,FALSE,Consumer Confidence,EUR,1,-26,-26
+

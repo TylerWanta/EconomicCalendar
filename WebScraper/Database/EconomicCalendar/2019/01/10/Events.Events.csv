@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.01.10GBPMonetary Policy Report Hearings,1/10/19 0:00,TRUE,Monetary Policy Report Hearings,GBP,3," "," "
+2019.01.10GBPBRC Retail Sales Monitor y y,1/10/19 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,-0.3%,-0.5%
+2019.01.10CNYCPI y y,1/10/19 1:30,FALSE,CPI y/y,CNY,1,2.1%,2.2%
+2019.01.10CNYPPI y y,1/10/19 1:30,FALSE,PPI y/y,CNY,1,1.6%,2.7%
+2019.01.10JPY30-y Bond Auction,1/10/19 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.79|3.8
+2019.01.10JPYLeading Indicators,1/10/19 5:00,FALSE,Leading Indicators,JPY,1,99.5%,99.6%
+2019.01.10EURFrench Industrial Production m m,1/10/19 7:45,FALSE,French Industrial Production m/m,EUR,1,0.0%,1.3%
+2019.01.10EURItalian Retail Sales m m,1/10/19 9:05,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,0.2%
+2019.01.10EURFrench 10-y Bond Auction,1/10/19 10:01,FALSE,French 10-y Bond Auction,EUR,1," ",0.82|1.8
+2019.01.10EURECB Monetary Policy Meeting Accounts,1/10/19 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,2," "," "
+2019.01.10CADBuilding Permits m m,1/10/19 13:30,FALSE,Building Permits m/m,CAD,1,-0.5%,-0.4%
+2019.01.10CADNHPI m m,1/10/19 13:30,FALSE,NHPI m/m,CAD,1,0.0%,0.0%
+2019.01.10USDUnemployment Claims,1/10/19 13:30,FALSE,Unemployment Claims,USD,1,226K,233K
+2019.01.10USDNatural Gas Storage,1/10/19 15:30,FALSE,Natural Gas Storage,USD,1,-62B,-20B
+2019.01.10USDFOMC Member Bullard Speaks,1/10/19 17:40,FALSE,FOMC Member Bullard Speaks,USD,2," "," "
+2019.01.10USDFed Chair Powell Speaks,1/10/19 17:45,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2019.01.10USDFOMC Member Evans Speaks,1/10/19 18:00,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2019.01.10USD30-y Bond Auction,1/10/19 18:01,FALSE,30-y Bond Auction,USD,1," ",3.17|2.3
+2019.01.10AUDAIG Construction Index,1/10/19 21:30,FALSE,AIG Construction Index,AUD,1," ",44.5
+2019.01.10NZDBuilding Consents m m,1/10/19 21:45,FALSE,Building Consents m/m,NZD,1," ",1.4%
+2019.01.10JPYHousehold Spending y y,1/10/19 23:30,FALSE,Household Spending y/y,JPY,1,0.0%,-0.3%
+2019.01.10JPYBank Lending y y,1/10/19 23:50,FALSE,Bank Lending y/y,JPY,1,2.1%,2.1%
+2019.01.10JPYCurrent Account,1/10/19 23:50,FALSE,Current Account,JPY,1,1.10T,1.21T
+

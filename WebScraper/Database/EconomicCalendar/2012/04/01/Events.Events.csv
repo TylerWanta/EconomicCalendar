@@ -1,0 +1,5 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.01CNYBank Holiday,4/1/12 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2012.04.01CNYManufacturing PMI,4/1/12 2:00,FALSE,Manufacturing PMI,CNY,3,50.9,51.0
+2012.04.01CNYCaixin Manufacturing PMI,4/1/12 3:30,FALSE,Caixin Manufacturing PMI,CNY,2," ",48.1
+

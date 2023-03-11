@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.04.01EURECOFIN Meetings,4/1/14 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2014.04.01USDTotal Vehicle Sales,4/1/14 0:00,TRUE,Total Vehicle Sales,USD,1,15.8M,15.3M
+2014.04.01JPYTankan Manufacturing Index,4/1/14 0:50,FALSE,Tankan Manufacturing Index,JPY,2,19,16
+2014.04.01JPYTankan Non-Manufacturing Index,4/1/14 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,2,24,20
+2014.04.01CNYManufacturing PMI,4/1/14 2:00,FALSE,Manufacturing PMI,CNY,3,50.1,50.2
+2014.04.01JPYAverage Cash Earnings y y,4/1/14 2:30,FALSE,Average Cash Earnings y/y,JPY,2,-0.1%,-0.2%
+2014.04.01CNYCaixin Manufacturing PMI,4/1/14 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,48.5,48.0
+2014.04.01AUDCash Rate,4/1/14 4:30,FALSE,Cash Rate,AUD,3,2.50%,2.50%
+2014.04.01AUDRBA Rate Statement,4/1/14 4:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2014.04.01JPY10-y Bond Auction,4/1/14 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.60|3.5
+2014.04.01AUDCommodity Prices y y,4/1/14 6:30,FALSE,Commodity Prices y/y,AUD,1," ",-11.4%
+2014.04.01EURSpanish Manufacturing PMI,4/1/14 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,52.9,52.5
+2014.04.01CHFManufacturing PMI,4/1/14 8:30,FALSE,Manufacturing PMI,CHF,2,56.9,57.6
+2014.04.01EURItalian Manufacturing PMI,4/1/14 8:45,FALSE,Italian Manufacturing PMI,EUR,2,52.2,52.3
+2014.04.01EURFrench Final Manufacturing PMI,4/1/14 8:50,FALSE,French Final Manufacturing PMI,EUR,1,51.9,51.9
+2014.04.01EURGerman Final Manufacturing PMI,4/1/14 8:55,FALSE,German Final Manufacturing PMI,EUR,1,53.8,53.8
+2014.04.01EURGerman Unemployment Change,4/1/14 8:55,FALSE,German Unemployment Change,EUR,2,-9K,-15K
+2014.04.01EURFinal Manufacturing PMI,4/1/14 9:00,FALSE,Final Manufacturing PMI,EUR,1,53.0,53.0
+2014.04.01EURItalian Monthly Unemployment Rate,4/1/14 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,12.9%,12.9%
+2014.04.01GBPFPC Meeting Minutes,4/1/14 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2014.04.01GBPFinal Manufacturing PMI,4/1/14 9:30,FALSE,Final Manufacturing PMI,GBP,3,56.7,56.2
+2014.04.01EURUnemployment Rate,4/1/14 10:00,FALSE,Unemployment Rate,EUR,2,12.0%,11.9%
+2014.04.01CADIPPI m m,4/1/14 13:30,FALSE,IPPI m/m,CAD,1,0.7%,1.5%
+2014.04.01CADRMPI m m,4/1/14 13:30,FALSE,RMPI m/m,CAD,2,2.3%,2.8%
+2014.04.01CADManufacturing PMI,4/1/14 14:30,FALSE,Manufacturing PMI,CAD,1," ",52.9
+2014.04.01NZDGDT Price Index,4/1/14 14:30,FALSE,GDT Price Index,NZD,1," ",-5.2%
+2014.04.01USDFinal Manufacturing PMI,4/1/14 14:45,FALSE,Final Manufacturing PMI,USD,1,55.9,55.5
+2014.04.01USDConstruction Spending m m,4/1/14 15:00,FALSE,Construction Spending m/m,USD,1,0.2%,-0.2%
+2014.04.01USDIBD TIPP Economic Optimism,4/1/14 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,46.3,45.1
+2014.04.01USDISM Manufacturing PMI,4/1/14 15:00,FALSE,ISM Manufacturing PMI,USD,3,54.2,53.2
+2014.04.01USDISM Manufacturing Prices,4/1/14 15:00,FALSE,ISM Manufacturing Prices,USD,1,59.2,60.0
+

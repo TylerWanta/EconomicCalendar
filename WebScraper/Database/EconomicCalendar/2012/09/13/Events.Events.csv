@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.09.13GBPBOE Quarterly Bulletin,9/13/12 0:01,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2012.09.13AUDMI Inflation Expectations,9/13/12 1:59,FALSE,MI Inflation Expectations,AUD,2," ",2.4%
+2012.09.13AUDRBA Bulletin,9/13/12 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2012.09.13CHFPPI m m,9/13/12 8:15,FALSE,PPI m/m,CHF,2,-0.2%,-0.3%
+2012.09.13CHFLibor Rate,9/13/12 8:30,FALSE,Libor Rate,CHF,3,<0.25%,<0.25%
+2012.09.13CHFSNB Monetary Policy Assessment,9/13/12 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2012.09.13EURECB Monthly Bulletin,9/13/12 9:00,FALSE,ECB Monthly Bulletin,EUR,2," "," "
+2012.09.13GBP10-y Bond Auction,9/13/12 10:40,FALSE,10-y Bond Auction,GBP,2," ",1.72|2.2
+2012.09.13CADCapacity Utilization Rate,9/13/12 13:30,FALSE,Capacity Utilization Rate,CAD,1,81.1%,80.5%
+2012.09.13CADNHPI m m,9/13/12 13:30,FALSE,NHPI m/m,CAD,2,0.2%,0.2%
+2012.09.13USDCore PPI m m,9/13/12 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.4%
+2012.09.13USDPPI m m,9/13/12 13:30,FALSE,PPI m/m,USD,3,1.1%,0.3%
+2012.09.13USDUnemployment Claims,9/13/12 13:30,FALSE,Unemployment Claims,USD,3,370K,367K
+2012.09.13USDNatural Gas Storage,9/13/12 15:30,FALSE,Natural Gas Storage,USD,1,26B,28B
+2012.09.13USD30-y Bond Auction,9/13/12 16:30,FALSE,30-y Bond Auction,USD,1," ",2.83|2.4
+2012.09.13USDFOMC Statement,9/13/12 17:30,FALSE,FOMC Statement,USD,3," "," "
+2012.09.13USDFederal Funds Rate,9/13/12 17:30,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2012.09.13USDFederal Budget Balance,9/13/12 18:54,FALSE,Federal Budget Balance,USD,2,-156.1B,-69.6B
+2012.09.13USDFOMC Economic Projections,9/13/12 19:00,FALSE,FOMC Economic Projections,USD,3," "," "
+2012.09.13USDFOMC Press Conference,9/13/12 19:15,FALSE,FOMC Press Conference,USD,3," "," "
+2012.09.13NZDFPI m m,9/13/12 23:45,FALSE,FPI m/m,NZD,1," ",0.2%
+

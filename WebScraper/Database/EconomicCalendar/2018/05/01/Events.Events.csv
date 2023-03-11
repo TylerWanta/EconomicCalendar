@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.05.01CHFBank Holiday,5/1/18 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2018.05.01EURFrench Bank Holiday,5/1/18 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2018.05.01EURGerman Bank Holiday,5/1/18 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2018.05.01EURItalian Bank Holiday,5/1/18 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2018.05.01USDTotal Vehicle Sales,5/1/18 0:00,TRUE,Total Vehicle Sales,USD,1,17.1M,17.5M
+2018.05.01USDWards Total Vehicle Sales,5/1/18 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.0M,17.4M
+2018.05.01JPYFinal Manufacturing PMI,5/1/18 1:30,FALSE,Final Manufacturing PMI,JPY,1,53.3,53.3
+2018.05.01AUDCash Rate,5/1/18 5:30,FALSE,Cash Rate,AUD,2,1.50%,1.50%
+2018.05.01AUDRBA Rate Statement,5/1/18 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2018.05.01AUDCommodity Prices y y,5/1/18 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-2.8%
+2018.05.01GBPFinal Manufacturing PMI,5/1/18 9:30,FALSE,Final Manufacturing PMI,GBP,3,54.8,54.9
+2018.05.01GBPM4 Money Supply m m,5/1/18 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.2%,-0.4%
+2018.05.01GBPMortgage Approvals,5/1/18 9:30,FALSE,Mortgage Approvals,GBP,1,63K,64K
+2018.05.01GBPNet Lending to Individuals m m,5/1/18 9:30,FALSE,Net Lending to Individuals m/m,GBP,2,4.9B,5.5B
+2018.05.01AUDRBA Gov Lowe Speaks,5/1/18 11:20,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2018.05.01CADGDP m m,5/1/18 13:30,FALSE,GDP m/m,CAD,3,0.3%,-0.1%
+2018.05.01CADManufacturing PMI,5/1/18 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.7
+2018.05.01USDFinal Manufacturing PMI,5/1/18 14:45,FALSE,Final Manufacturing PMI,USD,1,56.5,56.5
+2018.05.01USDConstruction Spending m m,5/1/18 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,1.0%
+2018.05.01USDISM Manufacturing PMI,5/1/18 15:00,FALSE,ISM Manufacturing PMI,USD,3,58.4,59.3
+2018.05.01USDISM Manufacturing Prices,5/1/18 15:00,FALSE,ISM Manufacturing Prices,USD,1,78.3,78.1
+2018.05.01NZDGDT Price Index,5/1/18 15:24,FALSE,GDT Price Index,NZD,2," ",2.7%
+2018.05.01CADBOC Gov Poloz Speaks,5/1/18 19:30,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2018.05.01NZDEmployment Change q q,5/1/18 23:45,FALSE,Employment Change q/q,NZD,3,0.5%,0.4%
+2018.05.01NZDLabor Cost Index q q,5/1/18 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.4%
+2018.05.01NZDUnemployment Rate,5/1/18 23:45,FALSE,Unemployment Rate,NZD,3,4.4%,4.5%
+

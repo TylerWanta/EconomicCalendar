@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.09.11EURECOFIN Meetings,9/11/15 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2015.09.11JPYBSI Manufacturing Index,9/11/15 0:50,FALSE,BSI Manufacturing Index,JPY,2,-1.9,-6.0
+2015.09.11EURGerman Final CPI m m,9/11/15 7:00,FALSE,German Final CPI m/m,EUR,1,0.0%,0.0%
+2015.09.11EURGerman WPI m m,9/11/15 7:00,FALSE,German WPI m/m,EUR,1,0.2%,0.1%
+2015.09.11CNYM2 Money Supply y y,9/11/15 9:00,FALSE,M2 Money Supply y/y,CNY,1,13.3%,13.3%
+2015.09.11CNYNew Loans,9/11/15 9:00,FALSE,New Loans,CNY,1,850B,1480B
+2015.09.11EURItalian Industrial Production m m,9/11/15 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.9%,-1.0%
+2015.09.11GBPConstruction Output m m,9/11/15 9:30,FALSE,Construction Output m/m,GBP,1,0.5%,0.9%
+2015.09.11GBPConsumer Inflation Expectations,9/11/15 9:30,FALSE,Consumer Inflation Expectations,GBP,1," ",2.2%
+2015.09.11GBPMPC Member Forbes Speaks,9/11/15 12:30,FALSE,MPC Member Forbes Speaks,GBP,2," "," "
+2015.09.11USDCore PPI m m,9/11/15 13:30,FALSE,Core PPI m/m,USD,2,0.1%,0.3%
+2015.09.11USDPPI m m,9/11/15 13:30,FALSE,PPI m/m,USD,3,-0.1%,0.2%
+2015.09.11USDPrelim UoM Consumer Sentiment,9/11/15 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,91.4,91.9
+2015.09.11USDPrelim UoM Inflation Expectations,9/11/15 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.8%
+2015.09.11USDFederal Budget Balance,9/11/15 18:55,FALSE,Federal Budget Balance,USD,1,-82.3B,-149.2B
+

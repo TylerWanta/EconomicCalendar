@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.09.05AUDTrade Balance,9/5/19 2:30,FALSE,Trade Balance,AUD,2,7.20B,7.98B
+2019.09.05JPY30-y Bond Auction,9/5/19 4:35,FALSE,30-y Bond Auction,JPY,1," ",0.29|3.5
+2019.09.05CHFGDP q q,9/5/19 6:45,FALSE,GDP q/q,CHF,1,0.2%,0.4%
+2019.09.05EURGerman Factory Orders m m,9/5/19 7:00,FALSE,German Factory Orders m/m,EUR,1,-1.5%,2.7%
+2019.09.05EURSpanish 10-y Bond Auction,9/5/19 9:48,FALSE,Spanish 10-y Bond Auction,EUR,1," ",0.30|1.4
+2019.09.05EURFrench 10-y Bond Auction,9/5/19 10:08,FALSE,French 10-y Bond Auction,EUR,1," ",-0.10|2.5
+2019.09.05GBP10-y Bond Auction,9/5/19 11:00,FALSE,10-y Bond Auction,GBP,1," ",0.79|2.2
+2019.09.05USDChallenger Job Cuts y y,9/5/19 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",43.2%
+2019.09.05USDADP Non-Farm Employment Change,9/5/19 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,148K,142K
+2019.09.05USDRevised Nonfarm Productivity q q,9/5/19 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,1,2.2%,2.3%
+2019.09.05USDRevised Unit Labor Costs q q,9/5/19 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,2.5%,2.4%
+2019.09.05USDUnemployment Claims,9/5/19 13:30,FALSE,Unemployment Claims,USD,1,215K,216K
+2019.09.05USDFinal Services PMI,9/5/19 14:45,FALSE,Final Services PMI,USD,1,51.0,50.9
+2019.09.05USDFactory Orders m m,9/5/19 15:00,FALSE,Factory Orders m/m,USD,1,1.0%,0.5%
+2019.09.05USDISM Services PMI,9/5/19 15:00,FALSE,ISM Services PMI,USD,2,54.0,53.7
+2019.09.05GBPMPC Member Tenreyro Speaks,9/5/19 15:30,FALSE,MPC Member Tenreyro Speaks,GBP,2," "," "
+2019.09.05USDNatural Gas Storage,9/5/19 15:30,FALSE,Natural Gas Storage,USD,1,77B,60B
+2019.09.05USDCrude Oil Inventories,9/5/19 16:00,FALSE,Crude Oil Inventories,USD,3,-2.4M,-10.0M
+2019.09.05CADGov Council Member Schembri Speaks,9/5/19 16:45,FALSE,Gov Council Member Schembri Speaks,CAD,2," "," "
+2019.09.05CHFSNB Chairman Jordan Speaks,9/5/19 17:00,FALSE,SNB Chairman Jordan Speaks,CHF,3," "," "
+2019.09.05AUDAIG Construction Index,9/5/19 23:30,FALSE,AIG Construction Index,AUD,1," ",39.1
+

@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.11.24USDBank Holiday,11/24/11 0:00,TRUE,Bank Holiday,USD,4,,
+2011.11.24EURGerman Final GDP q q,11/24/11 7:00,FALSE,German Final GDP q/q,EUR,1,0.5%,0.5%
+2011.11.24EURGerman ifo Business Climate,11/24/11 9:00,FALSE,German ifo Business Climate,EUR,3,105.3,106.4
+2011.11.24AUDRBA Gov Stevens Speaks,11/24/11 9:25,FALSE,RBA Gov Stevens Speaks,AUD,3,,
+2011.11.24GBPIndex of Services 3m 3m,11/24/11 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.3%,0.6%
+2011.11.24GBPPrelim Business Investment q q,11/24/11 9:30,FALSE,Prelim Business Investment q/q,GBP,2,-0.5%,11.6%
+2011.11.24GBPSecond Estimate GDP q q,11/24/11 9:30,FALSE,Second Estimate GDP q/q,GBP,3,0.5%,0.5%
+2011.11.24GBPCBI Industrial Order Expectations,11/24/11 12:00,FALSE,CBI Industrial Order Expectations,GBP,2,-19,-18
+2011.11.24CADCorporate Profits q q,11/24/11 13:30,FALSE,Corporate Profits q/q,CAD,1,,-4.9%
+2011.11.24EURBelgian NBB Business Climate,11/24/11 14:00,FALSE,Belgian NBB Business Climate,EUR,2,-11.3,-10.4
+2011.11.24JPYNational Core CPI y y,11/24/11 23:30,FALSE,National Core CPI y/y,JPY,1,-0.1%,0.2%
+2011.11.24JPYTokyo Core CPI y y,11/24/11 23:30,FALSE,Tokyo Core CPI y/y,JPY,2,-0.3%,-0.4%
+2011.11.24JPYSPPI y y,11/24/11 23:50,FALSE,SPPI y/y,JPY,1,0.0%,0.0%
+

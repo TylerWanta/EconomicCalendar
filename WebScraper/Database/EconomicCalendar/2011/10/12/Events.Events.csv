@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.10.12AUDWestpac Consumer Sentiment,10/12/11 0:30,FALSE,Westpac Consumer Sentiment,AUD,2,,8.1%
+2011.10.12JPYCore Machinery Orders m m,10/12/11 0:50,FALSE,Core Machinery Orders m/m,JPY,2,4.7%,-8.2%
+2011.10.12AUDHome Loans m m,10/12/11 1:30,FALSE,Home Loans m/m,AUD,3,1.1%,1.9%
+2011.10.12AUDRBA Deputy Gov Debelle Speaks,10/12/11 5:00,FALSE,RBA Deputy Gov Debelle Speaks,AUD,2,,
+2011.10.12EURFrench Final CPI m m,10/12/11 6:30,FALSE,French Final CPI m/m,EUR,1,0.3%,0.5%
+2011.10.12EURGerman WPI m m,10/12/11 7:00,FALSE,German WPI m/m,EUR,1,-0.1%,0.1%
+2011.10.12JPYPrelim Machine Tool Orders y y,10/12/11 7:00,FALSE,Prelim Machine Tool Orders y/y,JPY,1,,15.3%
+2011.10.12GBPAverage Earnings Index 3m y,10/12/11 9:30,FALSE,Average Earnings Index 3m/y,GBP,2,2.7%,2.9%
+2011.10.12GBPClaimant Count Change,10/12/11 9:30,FALSE,Claimant Count Change,GBP,3,24.7K,19.1K
+2011.10.12GBPUnemployment Rate,10/12/11 9:30,FALSE,Unemployment Rate,GBP,1,7.9%,7.9%
+2011.10.12EURIndustrial Production m m,10/12/11 10:00,FALSE,Industrial Production m/m,EUR,2,-0.8%,1.1%
+2011.10.12GBPCB Leading Index m m,10/12/11 10:00,FALSE,CB Leading Index m/m,GBP,1,,0.3%
+2011.10.12EURGerman 30-y Bond Auction,10/12/11 10:08,FALSE,German 30-y Bond Auction,EUR,1,,3.43|1.3
+2011.10.12CADNHPI m m,10/12/11 13:30,FALSE,NHPI m/m,CAD,2,0.1%,0.1%
+2011.10.12USDJOLTS Job Openings,10/12/11 15:00,FALSE,JOLTS Job Openings,USD,1,,3.21M
+2011.10.12USD10-y Bond Auction,10/12/11 18:00,FALSE,10-y Bond Auction,USD,2,,2.00|3.0
+2011.10.12USDFOMC Member Fisher Speaks,10/12/11 18:20,FALSE,FOMC Member Fisher Speaks,USD,2,,
+2011.10.12USDFOMC Member Plosser Speaks,10/12/11 18:30,FALSE,FOMC Member Plosser Speaks,USD,2,,
+2011.10.12USDFOMC Meeting Minutes,10/12/11 19:00,FALSE,FOMC Meeting Minutes,USD,3,,
+2011.10.12EURECB President Trichet Speaks,10/12/11 19:30,FALSE,ECB President Trichet Speaks,EUR,2,,
+2011.10.12NZDBusinessNZ Manufacturing Index,10/12/11 22:23,FALSE,BusinessNZ Manufacturing Index,NZD,1,,52.7
+2011.10.12NZDFPI m m,10/12/11 22:45,FALSE,FPI m/m,NZD,1,,-1.3%
+

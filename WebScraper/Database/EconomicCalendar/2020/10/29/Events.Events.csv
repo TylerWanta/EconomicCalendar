@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.10.29EUREU Economic Summit,10/29/20 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2020.10.29EURGerman Prelim CPI m m,10/29/20 0:00,TRUE,German Prelim CPI m/m,EUR,1,0.0%,-0.2%
+2020.10.29JPYRetail Sales y y,10/29/20 0:50,FALSE,Retail Sales y/y,JPY,1,-7.5%,-1.9%
+2020.10.29NZDANZ Business Confidence,10/29/20 1:00,FALSE,ANZ Business Confidence,NZD,1," ",-14.5
+2020.10.29AUDImport Prices q q,10/29/20 1:30,FALSE,Import Prices q/q,AUD,1,-2.1%,-1.9%
+2020.10.29AUDNAB Quarterly Business Confidence,10/29/20 1:30,FALSE,NAB Quarterly Business Confidence,AUD,1," ",-15
+2020.10.29JPYBOJ Outlook Report,10/29/20 4:12,FALSE,BOJ Outlook Report,JPY,3," "," "
+2020.10.29JPYBOJ Policy Rate,10/29/20 4:12,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2020.10.29JPYMonetary Policy Statement,10/29/20 4:12,FALSE,Monetary Policy Statement,JPY,3," "," "
+2020.10.29JPYConsumer Confidence,10/29/20 6:00,FALSE,Consumer Confidence,JPY,1,35.2,32.7
+2020.10.29JPYBOJ Press Conference,10/29/20 7:30,FALSE,BOJ Press Conference,JPY,2," "," "
+2020.10.29EURSpanish Flash CPI y y,10/29/20 9:00,FALSE,Spanish Flash CPI y/y,EUR,1,-0.4%,-0.4%
+2020.10.29EURGerman Unemployment Change,10/29/20 9:55,FALSE,German Unemployment Change,EUR,1,-5K,-10K
+2020.10.29GBPM4 Money Supply m m,10/29/20 10:30,FALSE,M4 Money Supply m/m,GBP,1,0.3%,-0.5%
+2020.10.29GBPMortgage Approvals,10/29/20 10:32,FALSE,Mortgage Approvals,GBP,1,76K,86K
+2020.10.29GBPNet Lending to Individuals m m,10/29/20 10:32,FALSE,Net Lending to Individuals m/m,GBP,1,4.2B,3.3B
+2020.10.29EURItalian 10-y Bond Auction,10/29/20 11:16,FALSE,Italian 10-y Bond Auction,EUR,1," ",0.89|1.3
+2020.10.29CADBuilding Permits m m,10/29/20 13:30,FALSE,Building Permits m/m,CAD,1,18.0%,1.4%
+2020.10.29USDAdvance GDP q q,10/29/20 13:30,FALSE,Advance GDP q/q,USD,3,32.0%,-31.4%
+2020.10.29USDUnemployment Claims,10/29/20 13:30,FALSE,Unemployment Claims,USD,2,773K,791K
+2020.10.29USDAdvance GDP Price Index q q,10/29/20 13:32,FALSE,Advance GDP Price Index q/q,USD,2,2.9%,-1.8%
+2020.10.29EURMain Refinancing Rate,10/29/20 13:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2020.10.29EURMonetary Policy Statement,10/29/20 13:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2020.10.29EURECB Press Conference,10/29/20 14:30,FALSE,ECB Press Conference,EUR,3," "," "
+2020.10.29USDPending Home Sales m m,10/29/20 15:00,FALSE,Pending Home Sales m/m,USD,2,3.1%,8.8%
+2020.10.29USDNatural Gas Storage,10/29/20 15:30,FALSE,Natural Gas Storage,USD,1,35B,49B
+

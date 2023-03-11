@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.07.21EUREU Economic Summit,7/21/11 0:00,TRUE,EU Economic Summit,EUR,3,,
+2011.07.21GBPNationwide Consumer Confidence,7/21/11 0:01,FALSE,Nationwide Consumer Confidence,GBP,2,51,55
+2011.07.21JPYTrade Balance,7/21/11 0:50,FALSE,Trade Balance,JPY,2,-0.25T,-0.45T
+2011.07.21AUDNAB Quarterly Business Confidence,7/21/11 2:30,FALSE,NAB Quarterly Business Confidence,AUD,2,,11
+2011.07.21CNYCaixin Flash Manufacturing PMI,7/21/11 3:30,FALSE,Caixin Flash Manufacturing PMI,CNY,2,,50.1
+2011.07.21NZDCredit Card Spending y y,7/21/11 4:00,FALSE,Credit Card Spending y/y,NZD,1,,5.5%
+2011.07.21JPYAll Industries Activity m m,7/21/11 5:30,FALSE,All Industries Activity m/m,JPY,1,1.9%,1.4%
+2011.07.21CHFTrade Balance,7/21/11 7:00,FALSE,Trade Balance,CHF,2,2.87B,3.25B
+2011.07.21EURFrench Flash Manufacturing PMI,7/21/11 8:00,FALSE,French Flash Manufacturing PMI,EUR,2,52.3,52.5
+2011.07.21EURFrench Flash Services PMI,7/21/11 8:00,FALSE,French Flash Services PMI,EUR,2,55.8,56.1
+2011.07.21EURGerman Flash Manufacturing PMI,7/21/11 8:30,FALSE,German Flash Manufacturing PMI,EUR,2,54.1,54.6
+2011.07.21EURGerman Flash Services PMI,7/21/11 8:30,FALSE,German Flash Services PMI,EUR,2,56.1,56.7
+2011.07.21EURCurrent Account,7/21/11 9:00,FALSE,Current Account,EUR,2,-4.8B,-5.4B
+2011.07.21EURFlash Manufacturing PMI,7/21/11 9:00,FALSE,Flash Manufacturing PMI,EUR,2,51.6,52.0
+2011.07.21EURFlash Services PMI,7/21/11 9:00,FALSE,Flash Services PMI,EUR,2,53.2,53.7
+2011.07.21GBPPublic Sector Net Borrowing,7/21/11 9:30,FALSE,Public Sector Net Borrowing,GBP,3,11.8B,14.6B
+2011.07.21GBPRetail Sales m m,7/21/11 9:30,FALSE,Retail Sales m/m,GBP,3,0.5%,-1.3%
+2011.07.21EURSpanish 10-y Bond Auction,7/21/11 9:48,FALSE,Spanish 10-y Bond Auction,EUR,2,,5.40|1.8
+2011.07.21CHFCredit Suisse Economic Expectations,7/21/11 10:00,FALSE,Credit Suisse Economic Expectations,CHF,2,,-24.3
+2011.07.21USDFOMC Member Evans Speaks,7/21/11 13:30,FALSE,FOMC Member Evans Speaks,USD,2,,
+2011.07.21USDUnemployment Claims,7/21/11 13:30,FALSE,Unemployment Claims,USD,3,409K,408K
+2011.07.21USDCB Leading Index m m,7/21/11 15:00,FALSE,CB Leading Index m/m,USD,1,0.2%,0.8%
+2011.07.21USDFed Chairman Bernanke Testifies,7/21/11 15:00,FALSE,Fed Chairman Bernanke Testifies,USD,3,,
+2011.07.21USDHPI m m,7/21/11 15:00,FALSE,HPI m/m,USD,1,0.4%,0.2%
+2011.07.21USDPhilly Fed Manufacturing Index,7/21/11 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,2.7,-7.7
+2011.07.21USDNatural Gas Storage,7/21/11 15:30,FALSE,Natural Gas Storage,USD,1,67B,84B
+

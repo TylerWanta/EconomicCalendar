@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.11.22JPYBank Holiday,11/22/21 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2021.11.22EURGerman Buba Monthly Report,11/22/21 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2021.11.22EURConsumer Confidence,11/22/21 14:59,FALSE,Consumer Confidence,EUR,1,-5,-5
+2021.11.22USDExisting Home Sales,11/22/21 15:00,FALSE,Existing Home Sales,USD,1,6.20M,6.29M
+2021.11.22USDPresident Biden Speaks,11/22/21 18:20,FALSE,President Biden Speaks,USD,1," "," "
+2021.11.22NZDRetail Sales q q,11/22/21 21:45,FALSE,Retail Sales q/q,NZD,1,-10.2%,3.3%
+2021.11.22NZDCore Retail Sales q q,11/22/21 21:48,FALSE,Core Retail Sales q/q,NZD,1,-7.6%,3.4%
+2021.11.22AUDFlash Manufacturing PMI,11/22/21 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",58.2
+2021.11.22AUDFlash Services PMI,11/22/21 22:00,FALSE,Flash Services PMI,AUD,1," ",51.8
+

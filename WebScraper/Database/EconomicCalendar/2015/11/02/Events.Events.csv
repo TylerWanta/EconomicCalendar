@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.11.02JPYBank Holiday,11/2/15 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2015.11.02AUDBuilding Approvals m m,11/2/15 0:30,FALSE,Building Approvals m/m,AUD,3,1.8%,-9.5%
+2015.11.02JPYFinal Manufacturing PMI,11/2/15 1:35,FALSE,Final Manufacturing PMI,JPY,1,52.1,52.5
+2015.11.02CNYCaixin Manufacturing PMI,11/2/15 1:45,FALSE,Caixin Manufacturing PMI,CNY,3,47.7,47.2
+2015.11.02AUDCommodity Prices y y,11/2/15 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-21.0%
+2015.11.02CHFRetail Sales y y,11/2/15 8:15,FALSE,Retail Sales y/y,CHF,2,0.2%,-0.6%
+2015.11.02EURSpanish Manufacturing PMI,11/2/15 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,51.9,51.7
+2015.11.02CHFManufacturing PMI,11/2/15 8:30,FALSE,Manufacturing PMI,CHF,1,50.2,49.5
+2015.11.02EURItalian Manufacturing PMI,11/2/15 8:45,FALSE,Italian Manufacturing PMI,EUR,1,52.9,52.7
+2015.11.02EURFrench Final Manufacturing PMI,11/2/15 8:50,FALSE,French Final Manufacturing PMI,EUR,1,50.7,50.7
+2015.11.02EURGerman Final Manufacturing PMI,11/2/15 8:55,FALSE,German Final Manufacturing PMI,EUR,1,51.6,51.6
+2015.11.02EURFinal Manufacturing PMI,11/2/15 9:00,FALSE,Final Manufacturing PMI,EUR,1,52.0,52.0
+2015.11.02GBPFinal Manufacturing PMI,11/2/15 9:30,FALSE,Final Manufacturing PMI,GBP,3,51.3,51.8
+2015.11.02CADManufacturing PMI,11/2/15 14:30,FALSE,Manufacturing PMI,CAD,1," ",48.6
+2015.11.02USDFinal Manufacturing PMI,11/2/15 14:45,FALSE,Final Manufacturing PMI,USD,1,54.0,54.0
+2015.11.02USDConstruction Spending m m,11/2/15 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,0.7%
+2015.11.02USDISM Manufacturing PMI,11/2/15 15:00,FALSE,ISM Manufacturing PMI,USD,3,50.0,50.2
+2015.11.02USDISM Manufacturing Prices,11/2/15 15:00,FALSE,ISM Manufacturing Prices,USD,1,39.5,38.0
+2015.11.02USDFOMC Member Williams Speaks,11/2/15 17:00,FALSE,FOMC Member Williams Speaks,USD,2," "," "
+2015.11.02USDLoan Officer Survey,11/2/15 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+

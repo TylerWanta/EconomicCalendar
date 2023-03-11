@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.06.12GBPRICS House Price Balance,6/12/14 0:01,FALSE,RICS House Price Balance,GBP,1,52%,55%
+2014.06.12JPYCore Machinery Orders m m,6/12/14 0:50,FALSE,Core Machinery Orders m/m,JPY,2,-11.5%,19.1%
+2014.06.12AUDMI Inflation Expectations,6/12/14 1:59,FALSE,MI Inflation Expectations,AUD,2," ",4.4%
+2014.06.12AUDEmployment Change,6/12/14 2:30,FALSE,Employment Change,AUD,3,10.3K,10.3K
+2014.06.12AUDUnemployment Rate,6/12/14 2:30,FALSE,Unemployment Rate,AUD,3,5.9%,5.8%
+2014.06.12EURGerman WPI m m,6/12/14 7:00,FALSE,German WPI m/m,EUR,1,0.3%,0.2%
+2014.06.12EURFrench Final CPI m m,6/12/14 7:45,FALSE,French Final CPI m/m,EUR,1,0.1%,0.0%
+2014.06.12EURECB Monthly Bulletin,6/12/14 9:00,FALSE,ECB Monthly Bulletin,EUR,2," "," "
+2014.06.12CNYM2 Money Supply y y,6/12/14 9:01,FALSE,M2 Money Supply y/y,CNY,1,13.1%,13.2%
+2014.06.12CNYNew Loans,6/12/14 9:01,FALSE,New Loans,CNY,2,750B,775B
+2014.06.12EURIndustrial Production m m,6/12/14 10:00,FALSE,Industrial Production m/m,EUR,2,0.5%,-0.4%
+2014.06.12CADCapacity Utilization Rate,6/12/14 13:30,FALSE,Capacity Utilization Rate,CAD,1,82.6%,82.2%
+2014.06.12CADNHPI m m,6/12/14 13:30,FALSE,NHPI m/m,CAD,2,0.3%,0.2%
+2014.06.12USDCore Retail Sales m m,6/12/14 13:30,FALSE,Core Retail Sales m/m,USD,3,0.4%,0.4%
+2014.06.12USDImport Prices m m,6/12/14 13:30,FALSE,Import Prices m/m,USD,2,0.2%,-0.5%
+2014.06.12USDRetail Sales m m,6/12/14 13:30,FALSE,Retail Sales m/m,USD,3,0.5%,0.5%
+2014.06.12USDUnemployment Claims,6/12/14 13:30,FALSE,Unemployment Claims,USD,3,306K,313K
+2014.06.12USDBusiness Inventories m m,6/12/14 15:00,FALSE,Business Inventories m/m,USD,2,0.4%,0.4%
+2014.06.12CADBOC Financial System Review,6/12/14 15:30,FALSE,BOC Financial System Review,CAD,1," "," "
+2014.06.12USDNatural Gas Storage,6/12/14 15:30,FALSE,Natural Gas Storage,USD,1,111B,119B
+2014.06.12CADBOC Gov Poloz Speaks,6/12/14 16:15,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2014.06.12USD30-y Bond Auction,6/12/14 18:01,FALSE,30-y Bond Auction,USD,1," ",3.44|2.1
+2014.06.12EURGerman Buba President Weidmann Speaks,6/12/14 19:00,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2014.06.12GBPChancellor Osborne Speaks,6/12/14 19:00,FALSE,Chancellor Osborne Speaks,GBP,1," "," "
+2014.06.12GBPBOE Gov Carney Speaks,6/12/14 21:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2014.06.12NZDBusinessNZ Manufacturing Index,6/12/14 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,2," ",54.4
+2014.06.12NZDFPI m m,6/12/14 23:45,FALSE,FPI m/m,NZD,1," ",0.6%
+

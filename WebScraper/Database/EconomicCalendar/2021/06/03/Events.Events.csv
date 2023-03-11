@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.06.03NZDANZ Commodity Prices m m,6/3/21 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",2.3%
+2021.06.03AUDRetail Sales m m,6/3/21 2:30,FALSE,Retail Sales m/m,AUD,2,1.1%,1.1%
+2021.06.03AUDTrade Balance,6/3/21 2:30,FALSE,Trade Balance,AUD,1,8.35B,5.57B
+2021.06.03CNYCaixin Services PMI,6/3/21 2:45,FALSE,Caixin Services PMI,CNY,1,56.3,56.3
+2021.06.03JPY10-y Bond Auction,6/3/21 4:35,FALSE,10-y Bond Auction,JPY,1," ",0.07|3.0
+2021.06.03EURSpanish Services PMI,6/3/21 8:15,FALSE,Spanish Services PMI,EUR,1,57.8,54.6
+2021.06.03EURItalian Services PMI,6/3/21 8:45,FALSE,Italian Services PMI,EUR,1,52.4,47.3
+2021.06.03EURFrench Final Services PMI,6/3/21 8:50,FALSE,French Final Services PMI,EUR,1,56.6,56.6
+2021.06.03EURGerman Final Services PMI,6/3/21 8:55,FALSE,German Final Services PMI,EUR,1,52.8,52.8
+2021.06.03EURFinal Services PMI,6/3/21 9:00,FALSE,Final Services PMI,EUR,1,55.2,55.1
+2021.06.03GBPFinal Services PMI,6/3/21 9:30,FALSE,Final Services PMI,GBP,1,61.8,61.8
+2021.06.03EURFrench 10-y Bond Auction,6/3/21 10:00,FALSE,French 10-y Bond Auction,EUR,1," ",0.13|1.7
+2021.06.03USDChallenger Job Cuts y y,6/3/21 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",-96.6%
+2021.06.03USDADP Non-Farm Employment Change,6/3/21 13:15,FALSE,ADP Non-Farm Employment Change,USD,2,645K,654K
+2021.06.03USDRevised Nonfarm Productivity q q,6/3/21 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,1,5.5%,5.4%
+2021.06.03USDRevised Unit Labor Costs q q,6/3/21 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,-0.4%,-0.3%
+2021.06.03USDUnemployment Claims,6/3/21 13:30,FALSE,Unemployment Claims,USD,2,400K,405K
+2021.06.03USDFinal Services PMI,6/3/21 14:45,FALSE,Final Services PMI,USD,1,70.1,70.1
+2021.06.03USDISM Services PMI,6/3/21 15:00,FALSE,ISM Services PMI,USD,3,63.0,62.7
+2021.06.03USDNatural Gas Storage,6/3/21 15:30,FALSE,Natural Gas Storage,USD,1,95B,115B
+2021.06.03USDCrude Oil Inventories,6/3/21 16:00,FALSE,Crude Oil Inventories,USD,2,-1.0M,-1.7M
+2021.06.03GBPBOE Gov Bailey Speaks,6/3/21 17:00,FALSE,BOE Gov Bailey Speaks,GBP,2," "," "
+2021.06.03USDFOMC Member Bostic Speaks,6/3/21 17:30,FALSE,FOMC Member Bostic Speaks,USD,1," "," "
+2021.06.03USDFOMC Member Quarles Speaks,6/3/21 20:05,FALSE,FOMC Member Quarles Speaks,USD,1," "," "
+

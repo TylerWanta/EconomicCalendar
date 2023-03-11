@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.07.03USDBank Holiday,7/3/20 0:00,TRUE,Bank Holiday,USD,4," "," "
+2020.07.03GBPGfK Consumer Confidence,7/3/20 0:01,FALSE,GfK Consumer Confidence,GBP,1,-29,-30
+2020.07.03AUDRetail Sales m m,7/3/20 2:30,FALSE,Retail Sales m/m,AUD,1,16.3%,16.3%
+2020.07.03CNYCaixin Services PMI,7/3/20 2:45,FALSE,Caixin Services PMI,CNY,1,53.8,55.0
+2020.07.03EURFrench Gov Budget Balance,7/3/20 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-92.1B
+2020.07.03EURSpanish Services PMI,7/3/20 8:15,FALSE,Spanish Services PMI,EUR,1,46.0,27.9
+2020.07.03EURItalian Services PMI,7/3/20 8:45,FALSE,Italian Services PMI,EUR,1,46.9,28.9
+2020.07.03EURFrench Final Services PMI,7/3/20 8:50,FALSE,French Final Services PMI,EUR,1,50.3,50.3
+2020.07.03EURGerman Final Services PMI,7/3/20 8:55,FALSE,German Final Services PMI,EUR,1,45.8,45.8
+2020.07.03EURFinal Services PMI,7/3/20 9:00,FALSE,Final Services PMI,EUR,1,47.3,47.3
+2020.07.03GBPFinal Services PMI,7/3/20 9:30,FALSE,Final Services PMI,GBP,2,47.0,47.0
+

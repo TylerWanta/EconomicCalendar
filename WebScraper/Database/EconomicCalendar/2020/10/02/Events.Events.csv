@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.10.02JPYUnemployment Rate,10/2/20 0:30,FALSE,Unemployment Rate,JPY,1,3.0%,2.9%
+2020.10.02JPYMonetary Base y y,10/2/20 0:50,FALSE,Monetary Base y/y,JPY,1,11.9%,11.5%
+2020.10.02AUDRetail Sales m m,10/2/20 2:30,FALSE,Retail Sales m/m,AUD,1,3.2%,-4.2%
+2020.10.02JPYConsumer Confidence,10/2/20 6:00,FALSE,Consumer Confidence,JPY,1,31.6,29.3
+2020.10.02EURFrench Gov Budget Balance,10/2/20 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-151.0B
+2020.10.02EURSpanish Unemployment Change,10/2/20 8:00,FALSE,Spanish Unemployment Change,EUR,2,59.5K,29.8K
+2020.10.02EURCPI Flash Estimate y y,10/2/20 10:00,FALSE,CPI Flash Estimate y/y,EUR,1,-0.1%,-0.2%
+2020.10.02EURCore CPI Flash Estimate y y,10/2/20 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,1,0.5%,0.4%
+2020.10.02USDAverage Hourly Earnings m m,10/2/20 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.5%,0.3%
+2020.10.02USDNon-Farm Employment Change,10/2/20 13:30,FALSE,Non-Farm Employment Change,USD,3,900K,1489K
+2020.10.02USDUnemployment Rate,10/2/20 13:30,FALSE,Unemployment Rate,USD,3,8.2%,8.4%
+2020.10.02USDFOMC Member Harker Speaks,10/2/20 14:00,FALSE,FOMC Member Harker Speaks,USD,1," "," "
+2020.10.02USDFactory Orders m m,10/2/20 15:00,FALSE,Factory Orders m/m,USD,1,1.5%,6.5%
+2020.10.02USDRevised UoM Consumer Sentiment,10/2/20 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,78.9,78.9
+2020.10.02USDRevised UoM Inflation Expectations,10/2/20 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.7%
+

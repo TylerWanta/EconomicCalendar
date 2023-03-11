@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.02.14GBPRICS House Price Balance,2/14/19 0:01,FALSE,RICS House Price Balance,GBP,1,-20%,-19%
+2019.02.14AUDMI Inflation Expectations,2/14/19 0:03,FALSE,MI Inflation Expectations,AUD,1," ",3.5%
+2019.02.14CNYTrade Balance,2/14/19 3:00,FALSE,Trade Balance,CNY,2,241B,395B
+2019.02.14CNYUSD-Denominated Trade Balance,2/14/19 3:02,FALSE,USD-Denominated Trade Balance,CNY,1,33.9B,57.1B
+2019.02.14CNYForeign Direct Investment ytd y,2/14/19 6:59,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",0.9%
+2019.02.14EURGerman Prelim GDP q q,2/14/19 7:00,FALSE,German Prelim GDP q/q,EUR,2,0.1%,-0.2%
+2019.02.14EURGerman WPI m m,2/14/19 7:00,FALSE,German WPI m/m,EUR,1,0.3%,-1.2%
+2019.02.14CHFPPI m m,2/14/19 7:30,FALSE,PPI m/m,CHF,1,-0.4%,-0.6%
+2019.02.14GBPMPC Member Vlieghe Speaks,2/14/19 9:30,FALSE,MPC Member Vlieghe Speaks,GBP,2," "," "
+2019.02.14EURFlash Employment Change q q,2/14/19 10:00,FALSE,Flash Employment Change q/q,EUR,1,0.2%,0.2%
+2019.02.14EURFlash GDP q q,2/14/19 10:00,FALSE,Flash GDP q/q,EUR,2,0.2%,0.2%
+2019.02.14GBP10-y Bond Auction,2/14/19 10:41,FALSE,10-y Bond Auction,GBP,1," ",1.27|2.2
+2019.02.14CADManufacturing Sales m m,2/14/19 13:30,FALSE,Manufacturing Sales m/m,CAD,2,0.3%,-1.7%
+2019.02.14CADNHPI m m,2/14/19 13:30,FALSE,NHPI m/m,CAD,1,0.0%,0.0%
+2019.02.14USDCore PPI m m,2/14/19 13:30,FALSE,Core PPI m/m,USD,2,0.2%,-0.1%
+2019.02.14USDCore Retail Sales m m,2/14/19 13:30,FALSE,Core Retail Sales m/m,USD,3,0.0%,0.0%
+2019.02.14USDPPI m m,2/14/19 13:30,FALSE,PPI m/m,USD,3,0.1%,-0.2%
+2019.02.14USDRetail Sales m m,2/14/19 13:30,FALSE,Retail Sales m/m,USD,3,0.1%,0.1%
+2019.02.14USDUnemployment Claims,2/14/19 13:30,FALSE,Unemployment Claims,USD,1,225K,235K
+2019.02.14USDBusiness Inventories m m,2/14/19 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.6%
+2019.02.14USDNatural Gas Storage,2/14/19 15:30,FALSE,Natural Gas Storage,USD,1,-79B,-237B
+2019.02.14AUDRBA Assist Gov Kent Speaks,2/14/19 20:30,FALSE,RBA Assist Gov Kent Speaks,AUD,2," "," "
+2019.02.14NZDBusinessNZ Manufacturing Index,2/14/19 21:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",54.8
+2019.02.14NZDVisitor Arrivals m m,2/14/19 21:48,FALSE,Visitor Arrivals m/m,NZD,1," ",2.0%
+

@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.09.28EURGerman Prelim CPI m m,9/28/17 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.1%,0.1%
+2017.09.28EURGerman GfK Consumer Climate,9/28/17 7:00,FALSE,German GfK Consumer Climate,EUR,1,11.0,10.9
+2017.09.28JPYBOJ Gov Kuroda Speaks,9/28/17 7:35,FALSE,BOJ Gov Kuroda Speaks,JPY,3," "," "
+2017.09.28EURSpanish Flash CPI y y,9/28/17 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,1.8%,1.6%
+2017.09.28GBPBOE Gov Carney Speaks,9/28/17 9:15,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2017.09.28GBPPrime Minister May Speaks,9/28/17 9:49,FALSE,Prime Minister May Speaks,GBP,3," "," "
+2017.09.28AUDRBA Deputy Gov Debelle Speaks,9/28/17 10:00,FALSE,RBA Deputy Gov Debelle Speaks,AUD,2," "," "
+2017.09.28EURItalian 10-y Bond Auction,9/28/17 10:27,FALSE,Italian 10-y Bond Auction,EUR,1," ",2.09|1.6
+2017.09.28USDFinal GDP Price Index q q,9/28/17 13:30,FALSE,Final GDP Price Index q/q,USD,1,1.0%,1.0%
+2017.09.28USDFinal GDP q q,9/28/17 13:30,FALSE,Final GDP q/q,USD,3,3.0%,3.0%
+2017.09.28USDGoods Trade Balance,9/28/17 13:30,FALSE,Goods Trade Balance,USD,1,-65.0B,-63.9B
+2017.09.28USDPrelim Wholesale Inventories m m,9/28/17 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.4%,0.6%
+2017.09.28USDUnemployment Claims,9/28/17 13:30,FALSE,Unemployment Claims,USD,3,269K,260K
+2017.09.28USDFOMC Member Fischer Speaks,9/28/17 15:00,FALSE,FOMC Member Fischer Speaks,USD,2," "," "
+2017.09.28USDNatural Gas Storage,9/28/17 15:30,FALSE,Natural Gas Storage,USD,1,77B,97B
+2017.09.28NZDBuilding Consents m m,9/28/17 22:45,FALSE,Building Consents m/m,NZD,1," ",1.7%
+2017.09.28GBPGfK Consumer Confidence,9/28/17 23:05,FALSE,GfK Consumer Confidence,GBP,1,-11,-10
+

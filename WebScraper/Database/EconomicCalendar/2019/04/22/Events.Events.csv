@@ -1,0 +1,8 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.22CHFBank Holiday,4/22/19 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2019.04.22EURFrench Bank Holiday,4/22/19 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2019.04.22EURGerman Bank Holiday,4/22/19 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2019.04.22EURItalian Bank Holiday,4/22/19 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2019.04.22GBPBank Holiday,4/22/19 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2019.04.22USDExisting Home Sales,4/22/19 15:00,FALSE,Existing Home Sales,USD,1,5.31M,5.48M
+

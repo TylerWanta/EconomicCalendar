@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.10.19AllOPEC-JMMC Meetings,10/19/20 0:00,TRUE,OPEC-JMMC Meetings,All,3," "," "
+2020.10.19GBPRightmove HPI m m,10/19/20 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.2%
+2020.10.19JPYTrade Balance,10/19/20 0:50,FALSE,Trade Balance,JPY,1,0.85T,0.36T
+2020.10.19CNYGDP q y,10/19/20 2:59,FALSE,GDP q/y,CNY,3,5.5%,3.2%
+2020.10.19CNYFixed Asset Investment ytd y,10/19/20 3:00,FALSE,Fixed Asset Investment ytd/y,CNY,1,0.9%,-0.3%
+2020.10.19CNYIndustrial Production y y,10/19/20 3:00,FALSE,Industrial Production y/y,CNY,1,5.8%,5.6%
+2020.10.19CNYNBS Press Conference,10/19/20 3:00,FALSE,NBS Press Conference,CNY,1," "," "
+2020.10.19CNYRetail Sales y y,10/19/20 3:00,FALSE,Retail Sales y/y,CNY,1,1.7%,0.5%
+2020.10.19CNYUnemployment Rate,10/19/20 3:00,FALSE,Unemployment Rate,CNY,1,5.5%,5.6%
+2020.10.19USDFed Chair Powell Speaks,10/19/20 13:00,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2020.10.19CADWholesale Sales m m,10/19/20 13:30,FALSE,Wholesale Sales m/m,CAD,1,0.1%,5.2%
+2020.10.19EURECB President Lagarde Speaks,10/19/20 13:45,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2020.10.19USDNAHB Housing Market Index,10/19/20 15:00,FALSE,NAHB Housing Market Index,USD,1,83,83
+2020.10.19CADBOC Business Outlook Survey,10/19/20 15:30,FALSE,BOC Business Outlook Survey,CAD,2," "," "
+2020.10.19GBPMPC Member Cunliffe Speaks,10/19/20 16:00,FALSE,MPC Member Cunliffe Speaks,GBP,1," "," "
+2020.10.19USDFOMC Member Clarida Speaks,10/19/20 16:45,FALSE,FOMC Member Clarida Speaks,USD,1," "," "
+2020.10.19USDFOMC Member Harker Speaks,10/19/20 20:00,FALSE,FOMC Member Harker Speaks,USD,1," "," "
+2020.10.19NZDNZIER Business Confidence,10/19/20 22:00,FALSE,NZIER Business Confidence,NZD,1," ",-63
+

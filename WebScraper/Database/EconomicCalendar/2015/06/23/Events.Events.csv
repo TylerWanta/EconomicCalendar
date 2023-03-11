@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.06.23AUDCB Leading Index m m,6/23/15 1:00,FALSE,CB Leading Index m/m,AUD,1," ",0.0%
+2015.06.23AUDHPI q q,6/23/15 2:30,FALSE,HPI q/q,AUD,2,2.2%,2.0%
+2015.06.23JPYFlash Manufacturing PMI,6/23/15 2:35,FALSE,Flash Manufacturing PMI,JPY,1,50.6,50.9
+2015.06.23CNYCaixin Flash Manufacturing PMI,6/23/15 2:45,FALSE,Caixin Flash Manufacturing PMI,CNY,3,49.4,49.2
+2015.06.23EURFrench Flash Manufacturing PMI,6/23/15 8:00,FALSE,French Flash Manufacturing PMI,EUR,3,50.1,49.4
+2015.06.23EURFrench Flash Services PMI,6/23/15 8:00,FALSE,French Flash Services PMI,EUR,2,52.5,52.8
+2015.06.23EURGerman Flash Manufacturing PMI,6/23/15 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,51.5,51.1
+2015.06.23EURGerman Flash Services PMI,6/23/15 8:30,FALSE,German Flash Services PMI,EUR,2,52.9,53.0
+2015.06.23EURFlash Manufacturing PMI,6/23/15 9:00,FALSE,Flash Manufacturing PMI,EUR,2,52.0,52.2
+2015.06.23EURFlash Services PMI,6/23/15 9:00,FALSE,Flash Services PMI,EUR,2,53.7,53.8
+2015.06.23EURItalian Retail Sales m m,6/23/15 10:00,FALSE,Italian Retail Sales m/m,EUR,1,0.1%,-0.1%
+2015.06.23GBPCBI Industrial Order Expectations,6/23/15 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,1,-5
+2015.06.23USDFOMC Member Powell Speaks,6/23/15 13:00,FALSE,FOMC Member Powell Speaks,USD,3," "," "
+2015.06.23USDCore Durable Goods Orders m m,6/23/15 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.6%,-0.2%
+2015.06.23USDDurable Goods Orders m m,6/23/15 13:30,FALSE,Durable Goods Orders m/m,USD,2,-0.6%,-1.0%
+2015.06.23USDHPI m m,6/23/15 14:00,FALSE,HPI m/m,USD,1,0.6%,0.3%
+2015.06.23USDFlash Manufacturing PMI,6/23/15 14:45,FALSE,Flash Manufacturing PMI,USD,2,54.2,54.0
+2015.06.23USDRichmond Manufacturing Index,6/23/15 14:59,FALSE,Richmond Manufacturing Index,USD,1,3,1
+2015.06.23USDNew Home Sales,6/23/15 15:00,FALSE,New Home Sales,USD,2,524K,534K
+

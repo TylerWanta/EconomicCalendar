@@ -1,0 +1,34 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.12.01AllOPEC Meetings,12/1/21 0:00,TRUE,OPEC Meetings,All,3," "," "
+2021.12.01USDWards Total Vehicle Sales,12/1/21 0:00,TRUE,Wards Total Vehicle Sales,USD,1,13.5M,13.0M
+2021.12.01GBPBRC Shop Price Index y y,12/1/21 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",-0.4%
+2021.12.01AUDGDP q q,12/1/21 0:30,FALSE,GDP q/q,AUD,3,-2.7%,0.7%
+2021.12.01JPYFinal Manufacturing PMI,12/1/21 0:30,FALSE,Final Manufacturing PMI,JPY,1,54.2,54.2
+2021.12.01CNYCaixin Manufacturing PMI,12/1/21 1:45,FALSE,Caixin Manufacturing PMI,CNY,1,50.5,50.6
+2021.12.01AUDCommodity Prices y y,12/1/21 5:30,FALSE,Commodity Prices y/y,AUD,1," ",42.8%
+2021.12.01EURGerman Retail Sales m m,12/1/21 7:00,FALSE,German Retail Sales m/m,EUR,1,1.0%,-1.9%
+2021.12.01GBPNationwide HPI m m,12/1/21 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.4%,0.7%
+2021.12.01CHFCPI m m,12/1/21 7:30,FALSE,CPI m/m,CHF,1,-0.1%,0.3%
+2021.12.01EURSpanish Manufacturing PMI,12/1/21 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,57.9,57.4
+2021.12.01CHFManufacturing PMI,12/1/21 8:30,FALSE,Manufacturing PMI,CHF,1,64.3,65.4
+2021.12.01EURItalian Manufacturing PMI,12/1/21 8:45,FALSE,Italian Manufacturing PMI,EUR,1,61.1,61.1
+2021.12.01EURFrench Final Manufacturing PMI,12/1/21 8:50,FALSE,French Final Manufacturing PMI,EUR,1,54.6,54.6
+2021.12.01EURGerman Final Manufacturing PMI,12/1/21 8:55,FALSE,German Final Manufacturing PMI,EUR,1,57.6,57.6
+2021.12.01EURFinal Manufacturing PMI,12/1/21 9:00,FALSE,Final Manufacturing PMI,EUR,1,58.6,58.6
+2021.12.01GBPFinal Manufacturing PMI,12/1/21 9:30,FALSE,Final Manufacturing PMI,GBP,1,58.2,58.2
+2021.12.01GBP10-y Bond Auction,12/1/21 10:06,FALSE,10-y Bond Auction,GBP,1," ",1.14|2.7
+2021.12.01USDADP Non-Farm Employment Change,12/1/21 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,525K,570K
+2021.12.01CADBuilding Permits m m,12/1/21 13:30,FALSE,Building Permits m/m,CAD,2,-1.1%,4.3%
+2021.12.01GBPBOE Gov Bailey Speaks,12/1/21 14:00,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2021.12.01CADManufacturing PMI,12/1/21 14:30,FALSE,Manufacturing PMI,CAD,1," ",57.7
+2021.12.01USDFinal Manufacturing PMI,12/1/21 14:45,FALSE,Final Manufacturing PMI,USD,1,59.1,59.1
+2021.12.01USDConstruction Spending m m,12/1/21 15:00,FALSE,Construction Spending m/m,USD,1,0.4%,-0.1%
+2021.12.01USDFed Chair Powell Testifies,12/1/21 15:00,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2021.12.01USDISM Manufacturing PMI,12/1/21 15:00,FALSE,ISM Manufacturing PMI,USD,3,61.3,60.8
+2021.12.01USDISM Manufacturing Prices,12/1/21 15:00,FALSE,ISM Manufacturing Prices,USD,1,85.5,85.7
+2021.12.01USDTreasury Sec Yellen Speaks,12/1/21 15:00,FALSE,Treasury Sec Yellen Speaks,USD,2," "," "
+2021.12.01USDCrude Oil Inventories,12/1/21 15:30,FALSE,Crude Oil Inventories,USD,2,-1.5M,1.0M
+2021.12.01USDBeige Book,12/1/21 19:00,FALSE,Beige Book,USD,1," "," "
+2021.12.01NZDOverseas Trade Index q q,12/1/21 21:45,FALSE,Overseas Trade Index q/q,NZD,1,2.1%,3.2%
+2021.12.01JPYMonetary Base y y,12/1/21 23:50,FALSE,Monetary Base y/y,JPY,1,10.3%,9.9%
+

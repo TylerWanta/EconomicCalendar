@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.09CHFBank Holiday,4/9/12 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2012.04.09EURFrench Bank Holiday,4/9/12 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2012.04.09EURGerman Bank Holiday,4/9/12 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2012.04.09EURItalian Bank Holiday,4/9/12 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2012.04.09GBPBank Holiday,4/9/12 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2012.04.09JPYCurrent Account,4/9/12 0:50,FALSE,Current Account,JPY,3,0.66T,0.14T
+2012.04.09CNYCPI y y,4/9/12 2:30,FALSE,CPI y/y,CNY,3,3.3%,3.2%
+2012.04.09CNYPPI y y,4/9/12 2:30,FALSE,PPI y/y,CNY,2,-0.2%,0.0%
+2012.04.09JPYEconomy Watchers Sentiment,4/9/12 6:00,FALSE,Economy Watchers Sentiment,JPY,1,46.6,45.9
+2012.04.09CADBOC Business Outlook Survey,4/9/12 15:30,FALSE,BOC Business Outlook Survey,CAD,3," "," "
+

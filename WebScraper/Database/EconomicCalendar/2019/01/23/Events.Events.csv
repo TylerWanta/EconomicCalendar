@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.01.23AllWEF Annual Meetings,1/23/19 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2019.01.23JPYBOJ Outlook Report,1/23/19 2:59,FALSE,BOJ Outlook Report,JPY,3," "," "
+2019.01.23JPYBOJ Policy Rate,1/23/19 2:59,FALSE,BOJ Policy Rate,JPY,2,-0.10%,-0.10%
+2019.01.23JPYMonetary Policy Statement,1/23/19 2:59,FALSE,Monetary Policy Statement,JPY,3," "," "
+2019.01.23JPYAll Industries Activity m m,1/23/19 4:30,FALSE,All Industries Activity m/m,JPY,1,-0.4%,2.1%
+2019.01.23JPYBOJ Press Conference,1/23/19 6:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2019.01.23GBPMPC Member Broadbent Speaks,1/23/19 9:30,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2019.01.23GBPCBI Industrial Order Expectations,1/23/19 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,5,8
+2019.01.23CADCore Retail Sales m m,1/23/19 13:30,FALSE,Core Retail Sales m/m,CAD,3,-0.4%,-0.2%
+2019.01.23CADRetail Sales m m,1/23/19 13:30,FALSE,Retail Sales m/m,CAD,2,-0.6%,0.2%
+2019.01.23USDHPI m m,1/23/19 14:00,FALSE,HPI m/m,USD,1,0.3%,0.4%
+2019.01.23EURConsumer Confidence,1/23/19 15:00,FALSE,Consumer Confidence,EUR,1,-6,-6
+2019.01.23USDRichmond Manufacturing Index,1/23/19 15:03,FALSE,Richmond Manufacturing Index,USD,1,-2,-8
+2019.01.23AUDFlash Manufacturing PMI,1/23/19 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",54.0
+2019.01.23AUDFlash Services PMI,1/23/19 22:00,FALSE,Flash Services PMI,AUD,1," ",52.7
+

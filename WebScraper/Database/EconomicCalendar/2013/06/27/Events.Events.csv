@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.06.27EUREU Economic Summit,6/27/13 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2013.06.27NZDANZ Business Confidence,6/27/13 2:00,FALSE,ANZ Business Confidence,NZD,3," ",41.8
+2013.06.27JPYAll Industries Activity m m,6/27/13 5:30,FALSE,All Industries Activity m/m,JPY,1,0.5%,0.2%
+2013.06.27EURGerman Import Prices m m,6/27/13 7:00,FALSE,German Import Prices m/m,EUR,1,-0.1%,-1.4%
+2013.06.27EURSpanish Flash CPI y y,6/27/13 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,1.9%,1.7%
+2013.06.27EURGerman Unemployment Change,6/27/13 8:55,FALSE,German Unemployment Change,EUR,2,7K,17K
+2013.06.27EURM3 Money Supply y y,6/27/13 9:00,FALSE,M3 Money Supply y/y,EUR,2,2.9%,3.2%
+2013.06.27EURPrivate Loans y y,6/27/13 9:00,FALSE,Private Loans y/y,EUR,1,-0.8%,-0.9%
+2013.06.27EURRetail PMI,6/27/13 9:10,FALSE,Retail PMI,EUR,1," ",46.8
+2013.06.27GBPCurrent Account,6/27/13 9:30,FALSE,Current Account,GBP,3,-11.9B,-13.6B
+2013.06.27GBPFinal GDP q q,6/27/13 9:30,FALSE,Final GDP q/q,GBP,2,0.3%,0.3%
+2013.06.27GBPRevised Business Investment q q,6/27/13 9:30,FALSE,Revised Business Investment q/q,GBP,1,-0.4%,-0.4%
+2013.06.27EURItalian 10-y Bond Auction,6/27/13 10:14,FALSE,Italian 10-y Bond Auction,EUR,3," ",4.14|1.4
+2013.06.27USDCore PCE Price Index m m,6/27/13 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.0%
+2013.06.27USDPersonal Income m m,6/27/13 13:30,FALSE,Personal Income m/m,USD,1,0.2%,0.1%
+2013.06.27USDPersonal Spending m m,6/27/13 13:30,FALSE,Personal Spending m/m,USD,2,0.3%,-0.3%
+2013.06.27USDUnemployment Claims,6/27/13 13:30,FALSE,Unemployment Claims,USD,3,347K,355K
+2013.06.27CHFSNB Quarterly Bulletin,6/27/13 14:00,FALSE,SNB Quarterly Bulletin,CHF,1," "," "
+2013.06.27USDFOMC Member Dudley Speaks,6/27/13 15:00,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2013.06.27USDPending Home Sales m m,6/27/13 15:00,FALSE,Pending Home Sales m/m,USD,3,1.1%,-0.5%
+2013.06.27USDFOMC Member Powell Speaks,6/27/13 15:30,FALSE,FOMC Member Powell Speaks,USD,2," "," "
+2013.06.27USDNatural Gas Storage,6/27/13 15:30,FALSE,Natural Gas Storage,USD,1,89B,91B
+2013.06.27NZDBuilding Consents m m,6/27/13 23:45,FALSE,Building Consents m/m,NZD,2," ",21.0%
+

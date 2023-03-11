@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.06.16JPYCore Machinery Orders m m,6/16/21 0:50,FALSE,Core Machinery Orders m/m,JPY,1,2.6%,3.7%
+2021.06.16JPYTrade Balance,6/16/21 0:50,FALSE,Trade Balance,JPY,1,0.24T,0.08T
+2021.06.16AUDMI Leading Index m m,6/16/21 1:30,FALSE,MI Leading Index m/m,AUD,1," ",0.2%
+2021.06.16GBPCPI y y,6/16/21 7:00,FALSE,CPI y/y,GBP,2,1.8%,1.5%
+2021.06.16GBPCore CPI y y,6/16/21 7:00,FALSE,Core CPI y/y,GBP,1,1.5%,1.3%
+2021.06.16GBPPPI Input m m,6/16/21 7:00,FALSE,PPI Input m/m,GBP,1,1.0%,1.2%
+2021.06.16GBPPPI Output m m,6/16/21 7:00,FALSE,PPI Output m/m,GBP,1,0.4%,0.4%
+2021.06.16GBPRPI y y,6/16/21 7:00,FALSE,RPI y/y,GBP,1,3.3%,2.9%
+2021.06.16CNYFixed Asset Investment ytd y,6/16/21 8:00,FALSE,Fixed Asset Investment ytd/y,CNY,1,17.0%,19.9%
+2021.06.16CNYIndustrial Production y y,6/16/21 8:00,FALSE,Industrial Production y/y,CNY,2,9.2%,9.8%
+2021.06.16CNYRetail Sales y y,6/16/21 8:00,FALSE,Retail Sales y/y,CNY,1,14.0%,17.7%
+2021.06.16CNYUnemployment Rate,6/16/21 8:00,FALSE,Unemployment Rate,CNY,1,5.1%,5.1%
+2021.06.16GBPHPI y y,6/16/21 9:30,FALSE,HPI y/y,GBP,1,12.1%,9.9%
+2021.06.16EURGerman 10-y Bond Auction,6/16/21 10:33,FALSE,German 10-y Bond Auction,EUR,1," ",-0.09|1.3
+2021.06.16CADCPI m m,6/16/21 13:30,FALSE,CPI m/m,CAD,3,0.4%,0.5%
+2021.06.16CADCommon CPI y y,6/16/21 13:30,FALSE,Common CPI y/y,CAD,2,1.8%,1.7%
+2021.06.16CADMedian CPI y y,6/16/21 13:30,FALSE,Median CPI y/y,CAD,2,2.4%,2.3%
+2021.06.16CADTrimmed CPI y y,6/16/21 13:30,FALSE,Trimmed CPI y/y,CAD,2,2.4%,2.3%
+2021.06.16CADWholesale Sales m m,6/16/21 13:30,FALSE,Wholesale Sales m/m,CAD,1,-1.0%,3.2%
+2021.06.16USDBuilding Permits,6/16/21 13:30,FALSE,Building Permits,USD,1,1.73M,1.73M
+2021.06.16USDHousing Starts,6/16/21 13:30,FALSE,Housing Starts,USD,1,1.64M,1.52M
+2021.06.16USDImport Prices m m,6/16/21 13:30,FALSE,Import Prices m/m,USD,1,0.8%,0.8%
+2021.06.16CADCore CPI m m,6/16/21 13:32,FALSE,Core CPI m/m,CAD,1," ",0.5%
+2021.06.16USDTreasury Sec Yellen Speaks,6/16/21 15:00,FALSE,Treasury Sec Yellen Speaks,USD,3," "," "
+2021.06.16USDCrude Oil Inventories,6/16/21 15:30,FALSE,Crude Oil Inventories,USD,2,-2.1M,-5.2M
+2021.06.16USDFOMC Economic Projections,6/16/21 19:00,FALSE,FOMC Economic Projections,USD,3," "," "
+2021.06.16USDFOMC Statement,6/16/21 19:00,FALSE,FOMC Statement,USD,3," "," "
+2021.06.16USDFederal Funds Rate,6/16/21 19:00,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2021.06.16USDFOMC Press Conference,6/16/21 19:30,FALSE,FOMC Press Conference,USD,3," "," "
+2021.06.16CADBOC Gov Macklem Speaks,6/16/21 23:30,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2021.06.16NZDGDP q q,6/16/21 23:45,FALSE,GDP q/q,NZD,3,0.5%,-1.0%
+

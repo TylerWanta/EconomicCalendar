@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.04.08EUREurogroup Meetings,4/8/20 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2020.04.08JPYCore Machinery Orders m m,4/8/20 0:50,FALSE,Core Machinery Orders m/m,JPY,1,-2.9%,2.9%
+2020.04.08JPYCurrent Account,4/8/20 0:50,FALSE,Current Account,JPY,1,2.02T,1.63T
+2020.04.08NZDPrelim ANZ Business Confidence,4/8/20 2:00,FALSE,Prelim ANZ Business Confidence,NZD,3," ",-63.5
+2020.04.08JPYEconomy Watchers Sentiment,4/8/20 6:00,FALSE,Economy Watchers Sentiment,JPY,1,22.2,27.4
+2020.04.08GBP10-y Bond Auction,4/8/20 10:05,FALSE,10-y Bond Auction,GBP,1," ",0.31|2.2
+2020.04.08EURGerman 10-y Bond Auction,4/8/20 10:34,FALSE,German 10-y Bond Auction,EUR,1," ",-0.77|1.0
+2020.04.08CADHousing Starts,4/8/20 13:13,FALSE,Housing Starts,CAD,1,173K,211K
+2020.04.08CADBuilding Permits m m,4/8/20 13:30,FALSE,Building Permits m/m,CAD,1,-4.0%,3.3%
+2020.04.08USDCrude Oil Inventories,4/8/20 15:30,FALSE,Crude Oil Inventories,USD,1,9.8M,13.8M
+2020.04.08USD30-y Bond Auction,4/8/20 18:01,FALSE,30-y Bond Auction,USD,1," ",1.32|2.4
+2020.04.08USDFOMC Meeting Minutes,4/8/20 19:00,FALSE,FOMC Meeting Minutes,USD,2," "," "
+2020.04.08USDPresident Trump Speaks,4/8/20 22:46,FALSE,President Trump Speaks,USD,3," "," "
+

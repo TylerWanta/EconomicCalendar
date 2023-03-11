@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.01.25AUDBank Holiday,1/25/17 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2017.01.25AUDCPI q q,1/25/17 0:30,FALSE,CPI q/q,AUD,3,0.7%,0.7%
+2017.01.25AUDTrimmed Mean CPI q q,1/25/17 0:30,FALSE,Trimmed Mean CPI q/q,AUD,3,0.5%,0.4%
+2017.01.25NZDCredit Card Spending y y,1/25/17 2:00,FALSE,Credit Card Spending y/y,NZD,1," ",4.1%
+2017.01.25CHFUBS Consumption Indicator,1/25/17 7:00,FALSE,UBS Consumption Indicator,CHF,1," ",1.45
+2017.01.25CHFCredit Suisse Economic Expectations,1/25/17 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",12.9
+2017.01.25EURGerman ifo Business Climate,1/25/17 9:00,FALSE,German ifo Business Climate,EUR,3,111.3,111.0
+2017.01.25EURGerman 30-y Bond Auction,1/25/17 10:33,FALSE,German 30-y Bond Auction,EUR,1," ",0.64|1.7
+2017.01.25GBPCBI Industrial Order Expectations,1/25/17 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,2,0
+2017.01.25EURBelgian NBB Business Climate,1/25/17 13:59,FALSE,Belgian NBB Business Climate,EUR,1,0.4,-0.2
+2017.01.25USDHPI m m,1/25/17 14:00,FALSE,HPI m/m,USD,1,0.4%,0.3%
+2017.01.25USDCrude Oil Inventories,1/25/17 15:30,FALSE,Crude Oil Inventories,USD,3,1.5M,2.3M
+2017.01.25GBPBOE Gov Carney Speaks,1/25/17 16:50,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2017.01.25NZDCPI q q,1/25/17 21:45,FALSE,CPI q/q,NZD,3,0.3%,0.3%
+2017.01.25JPYSPPI y y,1/25/17 23:50,FALSE,SPPI y/y,JPY,1,0.4%,0.3%
+

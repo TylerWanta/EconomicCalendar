@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.11.11CADBank Holiday,11/11/16 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2016.11.11EURFrench Bank Holiday,11/11/16 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2016.11.11USDBank Holiday,11/11/16 0:00,TRUE,Bank Holiday,USD,4," "," "
+2016.11.11AUDRBA Deputy Gov Debelle Speaks,11/11/16 2:15,FALSE,RBA Deputy Gov Debelle Speaks,AUD,2," "," "
+2016.11.11JPYTertiary Industry Activity m m,11/11/16 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,-0.2%,0.0%
+2016.11.11EURGerman Final CPI m m,11/11/16 7:00,FALSE,German Final CPI m/m,EUR,1,0.2%,0.2%
+2016.11.11EURGerman WPI m m,11/11/16 7:00,FALSE,German WPI m/m,EUR,1,0.2%,0.4%
+2016.11.11CNYM2 Money Supply y y,11/11/16 8:31,FALSE,M2 Money Supply y/y,CNY,1,11.4%,11.5%
+2016.11.11CNYNew Loans,11/11/16 8:31,FALSE,New Loans,CNY,1,675B,1220B
+2016.11.11GBPConstruction Output m m,11/11/16 9:30,FALSE,Construction Output m/m,GBP,1,0.2%,-1.1%
+2016.11.11USDFOMC Member Fischer Speaks,11/11/16 13:30,FALSE,FOMC Member Fischer Speaks,USD,2," "," "
+2016.11.11USDPrelim UoM Consumer Sentiment,11/11/16 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,87.4,87.2
+2016.11.11USDPrelim UoM Inflation Expectations,11/11/16 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.4%
+2016.11.11CADBOC Gov Poloz Speaks,11/11/16 15:50,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+

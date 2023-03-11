@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.10.31JPYPrelim Industrial Production m m,10/31/16 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,0.9%,1.3%
+2016.10.31JPYRetail Sales y y,10/31/16 0:50,FALSE,Retail Sales y/y,JPY,1,-1.7%,-2.2%
+2016.10.31NZDANZ Business Confidence,10/31/16 1:00,FALSE,ANZ Business Confidence,NZD,2," ",27.9
+2016.10.31AUDMI Inflation Gauge m m,10/31/16 1:05,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.4%
+2016.10.31AUDPrivate Sector Credit m m,10/31/16 1:30,FALSE,Private Sector Credit m/m,AUD,1,0.4%,0.4%
+2016.10.31JPYHousing Starts y y,10/31/16 6:00,FALSE,Housing Starts y/y,JPY,1,5.3%,2.5%
+2016.10.31EURGerman Retail Sales m m,10/31/16 8:00,FALSE,German Retail Sales m/m,EUR,2,0.2%,-0.3%
+2016.10.31GBPM4 Money Supply m m,10/31/16 10:30,FALSE,M4 Money Supply m/m,GBP,1,0.6%,1.0%
+2016.10.31GBPMortgage Approvals,10/31/16 10:30,FALSE,Mortgage Approvals,GBP,1,62K,61K
+2016.10.31GBPNet Lending to Individuals m m,10/31/16 10:30,FALSE,Net Lending to Individuals m/m,GBP,2,4.6B,4.7B
+2016.10.31EURCPI Flash Estimate y y,10/31/16 11:00,FALSE,CPI Flash Estimate y/y,EUR,2,0.5%,0.4%
+2016.10.31EURCore CPI Flash Estimate y y,10/31/16 11:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,0.8%,0.8%
+2016.10.31EURItalian Prelim CPI m m,10/31/16 11:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,-0.2%
+2016.10.31EURPrelim Flash GDP q q,10/31/16 11:00,FALSE,Prelim Flash GDP q/q,EUR,2,0.3%,0.3%
+2016.10.31CADIPPI m m,10/31/16 13:30,FALSE,IPPI m/m,CAD,1,0.4%,-0.4%
+2016.10.31CADRMPI m m,10/31/16 13:30,FALSE,RMPI m/m,CAD,2,0.5%,-0.7%
+2016.10.31USDCore PCE Price Index m m,10/31/16 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.1%,0.2%
+2016.10.31USDPersonal Income m m,10/31/16 13:30,FALSE,Personal Income m/m,USD,1,0.3%,0.2%
+2016.10.31USDPersonal Spending m m,10/31/16 13:30,FALSE,Personal Spending m/m,USD,2,0.5%,-0.1%
+2016.10.31USDChicago PMI,10/31/16 14:45,FALSE,Chicago PMI,USD,2,54.1,54.2
+2016.10.31AUDAIG Manufacturing Index,10/31/16 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",49.8
+

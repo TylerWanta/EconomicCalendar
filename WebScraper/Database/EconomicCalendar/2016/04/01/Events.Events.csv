@@ -1,0 +1,33 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.04.01USDTotal Vehicle Sales,4/1/16 0:00,TRUE,Total Vehicle Sales,USD,1,17.6M,17.5M
+2016.04.01USDWards Total Vehicle Sales,4/1/16 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.5M,17.5M
+2016.04.01JPYTankan Manufacturing Index,4/1/16 0:50,FALSE,Tankan Manufacturing Index,JPY,2,8,12
+2016.04.01JPYTankan Non-Manufacturing Index,4/1/16 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,2,24,25
+2016.04.01CNYNon-Manufacturing PMI,4/1/16 1:52,FALSE,Non-Manufacturing PMI,CNY,2," ",52.7
+2016.04.01CNYManufacturing PMI,4/1/16 2:00,FALSE,Manufacturing PMI,CNY,3,49.3,49.0
+2016.04.01CNYCaixin Manufacturing PMI,4/1/16 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,48.3,48.0
+2016.04.01JPYFinal Manufacturing PMI,4/1/16 3:00,FALSE,Final Manufacturing PMI,JPY,1,49.1,49.1
+2016.04.01AUDCommodity Prices y y,4/1/16 6:30,FALSE,Commodity Prices y/y,AUD,1," ",-22.2%
+2016.04.01GBPNationwide HPI m m,4/1/16 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.5%,0.4%
+2016.04.01CHFRetail Sales y y,4/1/16 8:15,FALSE,Retail Sales y/y,CHF,1,0.5%,-0.1%
+2016.04.01EURSpanish Manufacturing PMI,4/1/16 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,53.8,54.1
+2016.04.01CHFManufacturing PMI,4/1/16 8:30,FALSE,Manufacturing PMI,CHF,1,51.3,51.6
+2016.04.01EURItalian Manufacturing PMI,4/1/16 8:45,FALSE,Italian Manufacturing PMI,EUR,1,52.6,52.2
+2016.04.01EURFrench Final Manufacturing PMI,4/1/16 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.6,49.6
+2016.04.01EURGerman Final Manufacturing PMI,4/1/16 8:55,FALSE,German Final Manufacturing PMI,EUR,1,50.4,50.4
+2016.04.01EURFinal Manufacturing PMI,4/1/16 9:00,FALSE,Final Manufacturing PMI,EUR,1,51.4,51.4
+2016.04.01EURItalian Monthly Unemployment Rate,4/1/16 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,11.5%,11.6%
+2016.04.01GBPFinal Manufacturing PMI,4/1/16 9:30,FALSE,Final Manufacturing PMI,GBP,3,51.4,50.8
+2016.04.01USDAverage Hourly Earnings m m,4/1/16 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.2%,-0.1%
+2016.04.01USDNon-Farm Employment Change,4/1/16 13:30,FALSE,Non-Farm Employment Change,USD,3,206K,245K
+2016.04.01USDUnemployment Rate,4/1/16 13:30,FALSE,Unemployment Rate,USD,3,4.9%,4.9%
+2016.04.01CADManufacturing PMI,4/1/16 14:30,FALSE,Manufacturing PMI,CAD,1," ",49.4
+2016.04.01USDFinal Manufacturing PMI,4/1/16 14:45,FALSE,Final Manufacturing PMI,USD,1,51.5,51.4
+2016.04.01USDConstruction Spending m m,4/1/16 15:00,FALSE,Construction Spending m/m,USD,1,0.2%,2.1%
+2016.04.01USDISM Manufacturing PMI,4/1/16 15:00,FALSE,ISM Manufacturing PMI,USD,3,50.8,49.5
+2016.04.01USDISM Manufacturing Prices,4/1/16 15:00,FALSE,ISM Manufacturing Prices,USD,1,44.5,38.5
+2016.04.01USDRevised UoM Consumer Sentiment,4/1/16 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,90.6,90.0
+2016.04.01USDRevised UoM Inflation Expectations,4/1/16 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.7%
+2016.04.01CADBOC Business Outlook Survey,4/1/16 15:30,FALSE,BOC Business Outlook Survey,CAD,2," "," "
+2016.04.01USDFOMC Member Mester Speaks,4/1/16 17:00,FALSE,FOMC Member Mester Speaks,USD,2," "," "
+

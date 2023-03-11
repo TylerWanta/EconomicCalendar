@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.02.07USDFOMC Member Quarles Speaks,2/7/20 0:15,FALSE,FOMC Member Quarles Speaks,USD,1," "," "
+2020.02.07AUDRBA Monetary Policy Statement,2/7/20 0:30,FALSE,RBA Monetary Policy Statement,AUD,3," "," "
+2020.02.07NZDInflation Expectations q q,2/7/20 2:00,FALSE,Inflation Expectations q/q,NZD,3," ",1.80%
+2020.02.07JPYLeading Indicators,2/7/20 5:00,FALSE,Leading Indicators,JPY,1,91.4%,90.8%
+2020.02.07EURGerman Industrial Production m m,2/7/20 7:00,FALSE,German Industrial Production m/m,EUR,1,-0.2%,1.2%
+2020.02.07EURGerman Trade Balance,2/7/20 7:00,FALSE,German Trade Balance,EUR,1,16.4B,18.5B
+2020.02.07EURFrench Industrial Production m m,2/7/20 7:45,FALSE,French Industrial Production m/m,EUR,1,-0.3%,0.0%
+2020.02.07EURFrench Prelim Private Payrolls q q,2/7/20 7:45,FALSE,French Prelim Private Payrolls q/q,EUR,1,0.2%,0.2%
+2020.02.07EURFrench Trade Balance,2/7/20 7:45,FALSE,French Trade Balance,EUR,1,-5.1B,-5.4B
+2020.02.07CHFForeign Currency Reserves,2/7/20 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",772B
+2020.02.07GBPHalifax HPI m m,2/7/20 8:30,FALSE,Halifax HPI m/m,GBP,1,0.6%,1.8%
+2020.02.07EURItalian Retail Sales m m,2/7/20 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.2%
+2020.02.07CADEmployment Change,2/7/20 13:30,FALSE,Employment Change,CAD,3,16.3K,35.2K
+2020.02.07CADUnemployment Rate,2/7/20 13:30,FALSE,Unemployment Rate,CAD,3,5.7%,5.6%
+2020.02.07USDAverage Hourly Earnings m m,2/7/20 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.3%,0.1%
+2020.02.07USDNon-Farm Employment Change,2/7/20 13:30,FALSE,Non-Farm Employment Change,USD,3,163K,147K
+2020.02.07USDUnemployment Rate,2/7/20 13:30,FALSE,Unemployment Rate,USD,3,3.5%,3.5%
+2020.02.07CADIvey PMI,2/7/20 15:00,FALSE,Ivey PMI,CAD,1,52.3,51.9
+2020.02.07USDFinal Wholesale Inventories m m,2/7/20 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,-0.1%,-0.1%
+2020.02.07USDFed Monetary Policy Report,2/7/20 16:00,FALSE,Fed Monetary Policy Report,USD,1," "," "
+2020.02.07USDConsumer Credit m m,2/7/20 20:00,FALSE,Consumer Credit m/m,USD,1,15.2B,11.8B
+

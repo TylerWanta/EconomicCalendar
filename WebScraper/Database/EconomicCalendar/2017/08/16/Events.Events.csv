@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.08.16AUDMI Leading Index m m,8/16/17 1:30,FALSE,MI Leading Index m/m,AUD,1," ",-0.2%
+2017.08.16AUDWage Price Index q q,8/16/17 2:30,FALSE,Wage Price Index q/q,AUD,2,0.5%,0.6%
+2017.08.16EURItalian Prelim GDP q q,8/16/17 9:00,FALSE,Italian Prelim GDP q/q,EUR,1,0.4%,0.2%
+2017.08.16GBPAverage Earnings Index 3m y,8/16/17 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,1.8%,1.9%
+2017.08.16GBPClaimant Count Change,8/16/17 9:30,FALSE,Claimant Count Change,GBP,2,3.2K,3.5K
+2017.08.16GBPUnemployment Rate,8/16/17 9:30,FALSE,Unemployment Rate,GBP,2,4.5%,4.5%
+2017.08.16EURFlash GDP q q,8/16/17 10:00,FALSE,Flash GDP q/q,EUR,2,0.6%,0.6%
+2017.08.16CADForeign Securities Purchases,8/16/17 13:30,FALSE,Foreign Securities Purchases,CAD,2,23.45B,29.44B
+2017.08.16USDBuilding Permits,8/16/17 13:30,FALSE,Building Permits,USD,3,1.25M,1.28M
+2017.08.16USDHousing Starts,8/16/17 13:30,FALSE,Housing Starts,USD,2,1.22M,1.21M
+2017.08.16USDCrude Oil Inventories,8/16/17 15:30,FALSE,Crude Oil Inventories,USD,3,-3.0M,-6.5M
+2017.08.16USDFOMC Meeting Minutes,8/16/17 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+2017.08.16NZDPPI Input q q,8/16/17 23:45,FALSE,PPI Input q/q,NZD,3,0.9%,0.8%
+2017.08.16NZDPPI Output q q,8/16/17 23:45,FALSE,PPI Output q/q,NZD,1,0.7%,1.4%
+

@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.05.19AllG7 Meetings,5/19/20 0:00,TRUE,G7 Meetings,All,3," "," "
+2020.05.19EURECOFIN Meetings,5/19/20 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2020.05.19AUDMonetary Policy Meeting Minutes,5/19/20 2:30,FALSE,Monetary Policy Meeting Minutes,AUD,2," "," "
+2020.05.19JPYRevised Industrial Production m m,5/19/20 5:30,FALSE,Revised Industrial Production m/m,JPY,1,-3.7%,-3.7%
+2020.05.19GBPClaimant Count Change,5/19/20 7:00,FALSE,Claimant Count Change,GBP,3,675.0K,5.4K
+2020.05.19GBPAverage Earnings Index 3m y,5/19/20 7:02,FALSE,Average Earnings Index 3m/y,GBP,1,2.7%,2.8%
+2020.05.19GBPUnemployment Rate,5/19/20 7:02,FALSE,Unemployment Rate,GBP,1,4.4%,4.0%
+2020.05.19EURGerman ZEW Economic Sentiment,5/19/20 10:00,FALSE,German ZEW Economic Sentiment,EUR,1,30.0,28.2
+2020.05.19EURZEW Economic Sentiment,5/19/20 10:00,FALSE,ZEW Economic Sentiment,EUR,1,27.4,25.2
+2020.05.19USDBuilding Permits,5/19/20 13:30,FALSE,Building Permits,USD,2,1.00M,1.36M
+2020.05.19USDHousing Starts,5/19/20 13:30,FALSE,Housing Starts,USD,1,0.95M,1.28M
+2020.05.19CNYCB Leading Index m m,5/19/20 14:00,FALSE,CB Leading Index m/m,CNY,1," ",0.4%
+2020.05.19USDFOMC Member Kashkari Speaks,5/19/20 15:00,FALSE,FOMC Member Kashkari Speaks,USD,1," "," "
+2020.05.19USDFed Chair Powell Testifies,5/19/20 15:00,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2020.05.19AUDCB Leading Index m m,5/19/20 15:30,FALSE,CB Leading Index m/m,AUD,1," ",-0.5%
+2020.05.19NZDGDT Price Index,5/19/20 15:43,FALSE,GDT Price Index,NZD,1," ",-0.8%
+2020.05.19NZDFPI m m,5/19/20 23:45,FALSE,FPI m/m,NZD,1," ",0.7%
+

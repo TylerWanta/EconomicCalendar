@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.07.24JPYTrade Balance,7/24/13 0:50,FALSE,Trade Balance,JPY,2,-0.58T,-0.78T
+2013.07.24AUDCPI q q,7/24/13 2:30,FALSE,CPI q/q,AUD,3,0.5%,0.4%
+2013.07.24AUDTrimmed Mean CPI q q,7/24/13 2:30,FALSE,Trimmed Mean CPI q/q,AUD,2,0.5%,0.4%
+2013.07.24CNYCaixin Flash Manufacturing PMI,7/24/13 2:45,FALSE,Caixin Flash Manufacturing PMI,CNY,3,48.6,48.2
+2013.07.24EURFrench Flash Manufacturing PMI,7/24/13 8:00,FALSE,French Flash Manufacturing PMI,EUR,3,48.9,48.4
+2013.07.24EURFrench Flash Services PMI,7/24/13 8:00,FALSE,French Flash Services PMI,EUR,2,47.7,47.2
+2013.07.24EURGerman Flash Manufacturing PMI,7/24/13 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,49.3,48.6
+2013.07.24EURGerman Flash Services PMI,7/24/13 8:30,FALSE,German Flash Services PMI,EUR,2,50.9,50.4
+2013.07.24EURFlash Manufacturing PMI,7/24/13 9:00,FALSE,Flash Manufacturing PMI,EUR,2,49.1,48.8
+2013.07.24EURFlash Services PMI,7/24/13 9:00,FALSE,Flash Services PMI,EUR,2,48.9,48.3
+2013.07.24EURItalian Retail Sales m m,7/24/13 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.4%,-0.1%
+2013.07.24GBPCBI Industrial Order Expectations,7/24/13 11:00,FALSE,CBI Industrial Order Expectations,GBP,2,-12,-18
+2013.07.24USDFlash Manufacturing PMI,7/24/13 14:00,FALSE,Flash Manufacturing PMI,USD,2,52.5,51.9
+2013.07.24USDNew Home Sales,7/24/13 15:00,FALSE,New Home Sales,USD,3,482K,459K
+2013.07.24USDCrude Oil Inventories,7/24/13 15:30,FALSE,Crude Oil Inventories,USD,2,-2.5M,-6.9M
+2013.07.24NZDOfficial Cash Rate,7/24/13 22:00,FALSE,Official Cash Rate,NZD,3,2.50%,2.50%
+2013.07.24NZDRBNZ Rate Statement,7/24/13 22:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+

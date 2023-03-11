@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.01.15GBPRICS House Price Balance,1/15/13 0:01,FALSE,RICS House Price Balance,GBP,2,-8%,-9%
+2013.01.15JPYPrelim Machine Tool Orders y y,1/15/13 6:00,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-21.3%
+2013.01.15EURGerman Final CPI m m,1/15/13 7:00,FALSE,German Final CPI m/m,EUR,1,0.9%,0.9%
+2013.01.15EURFrench Gov Budget Balance,1/15/13 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-94.6B
+2013.01.15GBPCPI y y,1/15/13 9:30,FALSE,CPI y/y,GBP,3,2.7%,2.7%
+2013.01.15GBPCore CPI y y,1/15/13 9:30,FALSE,Core CPI y/y,GBP,1,2.6%,2.6%
+2013.01.15GBPONS HPI y y,1/15/13 9:30,FALSE,ONS HPI y/y,GBP,1,1.7%,1.5%
+2013.01.15GBPPPI Input m m,1/15/13 9:30,FALSE,PPI Input m/m,GBP,2,0.0%,0.1%
+2013.01.15GBPPPI Output m m,1/15/13 9:30,FALSE,PPI Output m/m,GBP,1,0.0%,-0.3%
+2013.01.15GBPRPI y y,1/15/13 9:30,FALSE,RPI y/y,GBP,2,3.0%,3.0%
+2013.01.15EURTrade Balance,1/15/13 10:00,FALSE,Trade Balance,EUR,1,8.2B,7.4B
+2013.01.15GBPBOE Gov King Speaks,1/15/13 10:00,FALSE,BOE Gov King Speaks,GBP,3," "," "
+2013.01.15GBPCB Leading Index m m,1/15/13 10:00,FALSE,CB Leading Index m/m,GBP,1," ",-0.3%
+2013.01.15USDFOMC Member Rosengren Speaks,1/15/13 13:00,FALSE,FOMC Member Rosengren Speaks,USD,2," "," "
+2013.01.15USDCore PPI m m,1/15/13 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.1%
+2013.01.15USDCore Retail Sales m m,1/15/13 13:30,FALSE,Core Retail Sales m/m,USD,3,0.2%,-0.1%
+2013.01.15USDEmpire State Manufacturing Index,1/15/13 13:30,FALSE,Empire State Manufacturing Index,USD,2,1.9,-8.1
+2013.01.15USDPPI m m,1/15/13 13:30,FALSE,PPI m/m,USD,3,-0.1%,-0.8%
+2013.01.15USDRetail Sales m m,1/15/13 13:30,FALSE,Retail Sales m/m,USD,3,0.2%,0.4%
+2013.01.15USDBusiness Inventories m m,1/15/13 15:00,FALSE,Business Inventories m/m,USD,2,0.3%,0.3%
+2013.01.15AUDWestpac Consumer Sentiment,1/15/13 23:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",-4.1%
+2013.01.15JPYCore Machinery Orders m m,1/15/13 23:50,FALSE,Core Machinery Orders m/m,JPY,2,0.4%,2.6%
+2013.01.15JPYPPI y y,1/15/13 23:50,FALSE,PPI y/y,JPY,1,-0.7%,-0.9%
+

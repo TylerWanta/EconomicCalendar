@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.02.10AUDHIA New Home Sales m m,2/10/16 0:00,FALSE,HIA New Home Sales m/m,AUD,1," ",-2.7%
+2016.02.10CNYBank Holiday,2/10/16 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2016.02.10JPYBank Holiday,2/10/16 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2016.02.10EURFrench Industrial Production m m,2/10/16 7:45,FALSE,French Industrial Production m/m,EUR,1,0.2%,-0.9%
+2016.02.10EURItalian Industrial Production m m,2/10/16 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.3%,-0.5%
+2016.02.10GBPIndustrial Production m m,2/10/16 9:30,FALSE,Industrial Production m/m,GBP,1,-0.1%,-0.8%
+2016.02.10GBPManufacturing Production m m,2/10/16 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.0%,-0.3%
+2016.02.10GBPNIESR GDP Estimate,2/10/16 15:00,FALSE,NIESR GDP Estimate,GBP,1," ",0.5%
+2016.02.10USDFed Chair Yellen Testifies,2/10/16 15:00,FALSE,Fed Chair Yellen Testifies,USD,3," "," "
+2016.02.10USDCrude Oil Inventories,2/10/16 15:30,FALSE,Crude Oil Inventories,USD,3,3.1M,7.8M
+2016.02.10USD10-y Bond Auction,2/10/16 18:01,FALSE,10-y Bond Auction,USD,1," ",2.09|2.8
+2016.02.10USDFederal Budget Balance,2/10/16 19:00,FALSE,Federal Budget Balance,USD,1,10.3B,-14.4B
+2016.02.10NZDBusinessNZ Manufacturing Index,2/10/16 21:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",57.0
+

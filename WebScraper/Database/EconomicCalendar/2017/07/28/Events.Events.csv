@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.07.28EURGerman Prelim CPI m m,7/28/17 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.2%,0.2%
+2017.07.28JPYHousehold Spending y y,7/28/17 0:30,FALSE,Household Spending y/y,JPY,1,0.6%,-0.1%
+2017.07.28JPYNational Core CPI y y,7/28/17 0:30,FALSE,National Core CPI y/y,JPY,1,0.4%,0.4%
+2017.07.28JPYTokyo Core CPI y y,7/28/17 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,0.1%,0.0%
+2017.07.28JPYUnemployment Rate,7/28/17 0:30,FALSE,Unemployment Rate,JPY,1,3.0%,3.1%
+2017.07.28JPYBOJ Summary of Opinions,7/28/17 0:50,FALSE,BOJ Summary of Opinions,JPY,1," "," "
+2017.07.28JPYRetail Sales y y,7/28/17 0:50,FALSE,Retail Sales y/y,JPY,1,2.3%,2.1%
+2017.07.28AUDPPI q q,7/28/17 2:30,FALSE,PPI q/q,AUD,1,0.6%,0.5%
+2017.07.28EURFrench Flash GDP q q,7/28/17 6:30,FALSE,French Flash GDP q/q,EUR,1,0.5%,0.5%
+2017.07.28EURFrench Consumer Spending m m,7/28/17 7:45,FALSE,French Consumer Spending m/m,EUR,1,-0.3%,0.9%
+2017.07.28EURFrench Prelim CPI m m,7/28/17 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.4%,0.0%
+2017.07.28CHFKOF Economic Barometer,7/28/17 8:00,FALSE,KOF Economic Barometer,CHF,2,105.9,105.8
+2017.07.28EURSpanish Flash CPI y y,7/28/17 8:00,FALSE,Spanish Flash CPI y/y,EUR,2,1.5%,1.5%
+2017.07.28EURSpanish Flash GDP q q,7/28/17 8:00,FALSE,Spanish Flash GDP q/q,EUR,2,0.9%,0.8%
+2017.07.28EURItalian 10-y Bond Auction,7/28/17 10:14,FALSE,Italian 10-y Bond Auction,EUR,1," ",2.16|1.3
+2017.07.28CADGDP m m,7/28/17 13:30,FALSE,GDP m/m,CAD,3,0.2%,0.2%
+2017.07.28USDAdvance GDP Price Index q q,7/28/17 13:30,FALSE,Advance GDP Price Index q/q,USD,2,1.3%,1.9%
+2017.07.28USDAdvance GDP q q,7/28/17 13:30,FALSE,Advance GDP q/q,USD,3,2.5%,1.4%
+2017.07.28USDEmployment Cost Index q q,7/28/17 13:30,FALSE,Employment Cost Index q/q,USD,2,0.6%,0.8%
+2017.07.28USDRevised UoM Consumer Sentiment,7/28/17 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,93.2,93.1
+2017.07.28USDRevised UoM Inflation Expectations,7/28/17 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.7%
+2017.07.28USDFOMC Member Kashkari Speaks,7/28/17 18:20,FALSE,FOMC Member Kashkari Speaks,USD,2," "," "
+

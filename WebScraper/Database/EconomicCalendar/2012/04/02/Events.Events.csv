@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.02CNYBank Holiday,4/2/12 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2012.04.02AUDAIG Manufacturing Index,4/2/12 0:21,FALSE,AIG Manufacturing Index,AUD,1," ",51.3
+2012.04.02JPYTankan Manufacturing Index,4/2/12 0:50,FALSE,Tankan Manufacturing Index,JPY,2,0,-4
+2012.04.02JPYTankan Non-Manufacturing Index,4/2/12 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,2,5,4
+2012.04.02AUDMI Inflation Gauge m m,4/2/12 1:30,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2012.04.02AUDBuilding Approvals m m,4/2/12 2:30,FALSE,Building Approvals m/m,AUD,3,0.4%,1.1%
+2012.04.02AUDCommodity Prices y y,4/2/12 7:30,FALSE,Commodity Prices y/y,AUD,1," ",3.2%
+2012.04.02CHFRetail Sales y y,4/2/12 8:15,FALSE,Retail Sales y/y,CHF,3,3.2%,4.7%
+2012.04.02EURSpanish Manufacturing PMI,4/2/12 8:15,FALSE,Spanish Manufacturing PMI,EUR,2," ",45.0
+2012.04.02CHFManufacturing PMI,4/2/12 8:30,FALSE,Manufacturing PMI,CHF,2,49.5,49.0
+2012.04.02EURItalian Manufacturing PMI,4/2/12 8:45,FALSE,Italian Manufacturing PMI,EUR,2,47.8,47.8
+2012.04.02EURFrench Final Manufacturing PMI,4/2/12 8:50,FALSE,French Final Manufacturing PMI,EUR,1,47.6,47.6
+2012.04.02EURGerman Final Manufacturing PMI,4/2/12 8:55,FALSE,German Final Manufacturing PMI,EUR,1,48.1,48.1
+2012.04.02EURFinal Manufacturing PMI,4/2/12 9:00,FALSE,Final Manufacturing PMI,EUR,1,47.7,47.7
+2012.04.02GBPFinal Manufacturing PMI,4/2/12 9:30,FALSE,Final Manufacturing PMI,GBP,3,50.6,51.5
+2012.04.02GBPHousing Equity Withdrawal q q,4/2/12 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-7.4B,-8.5B
+2012.04.02EURItalian Monthly Unemployment Rate,4/2/12 10:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,9.2%,9.1%
+2012.04.02EURItalian Quarterly Unemployment Rate,4/2/12 10:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,8.6%,8.4%
+2012.04.02EURUnemployment Rate,4/2/12 10:00,FALSE,Unemployment Rate,EUR,2,10.8%,10.7%
+2012.04.02CADManufacturing PMI,4/2/12 14:30,FALSE,Manufacturing PMI,CAD,1," ",51.8
+2012.04.02USDConstruction Spending m m,4/2/12 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,-0.8%
+2012.04.02USDISM Manufacturing PMI,4/2/12 15:00,FALSE,ISM Manufacturing PMI,USD,3,53.3,52.4
+2012.04.02USDISM Manufacturing Prices,4/2/12 15:00,FALSE,ISM Manufacturing Prices,USD,1,63.2,61.5
+2012.04.02CADBOC Gov Carney Speaks,4/2/12 17:30,FALSE,BOC Gov Carney Speaks,CAD,2," "," "
+2012.04.02USDFOMC Member Pianalto Speaks,4/2/12 17:35,FALSE,FOMC Member Pianalto Speaks,USD,2," "," "
+

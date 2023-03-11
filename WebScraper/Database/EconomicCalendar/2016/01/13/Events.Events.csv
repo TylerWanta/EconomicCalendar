@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.01.13CNYTrade Balance,1/13/16 2:00,FALSE,Trade Balance,CNY,3,339B,343B
+2016.01.13USDPresident Obama Speaks,1/13/16 2:00,FALSE,President Obama Speaks,USD,1," "," "
+2016.01.13CNYUSD-Denominated Trade Balance,1/13/16 2:56,FALSE,USD-Denominated Trade Balance,CNY,1,52.2B,54.1B
+2016.01.13EURFrench Final CPI m m,1/13/16 7:45,FALSE,French Final CPI m/m,EUR,1,0.1%,-0.2%
+2016.01.13EURIndustrial Production m m,1/13/16 10:00,FALSE,Industrial Production m/m,EUR,1,-0.2%,0.8%
+2016.01.13EURGerman 10-y Bond Auction,1/13/16 10:34,FALSE,German 10-y Bond Auction,EUR,1," ",0.49|1.1
+2016.01.13CHFGov Board Member Zurbrugg Speaks,1/13/16 13:00,FALSE,Gov Board Member Zurbrugg Speaks,CHF,2," "," "
+2016.01.13USDCrude Oil Inventories,1/13/16 15:30,FALSE,Crude Oil Inventories,USD,3,1.9M,-5.1M
+2016.01.13USD10-y Bond Auction,1/13/16 18:03,FALSE,10-y Bond Auction,USD,1," ",2.23|2.6
+2016.01.13USDBeige Book,1/13/16 19:00,FALSE,Beige Book,USD,1," "," "
+2016.01.13USDFederal Budget Balance,1/13/16 19:00,FALSE,Federal Budget Balance,USD,1,-2.7B,-64.6B
+2016.01.13JPYCore Machinery Orders m m,1/13/16 23:50,FALSE,Core Machinery Orders m/m,JPY,1,-7.3%,10.7%
+2016.01.13JPYPPI y y,1/13/16 23:50,FALSE,PPI y/y,JPY,1,-0.4%,-3.6%
+

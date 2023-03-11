@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.10.03CNYBank Holiday,10/3/12 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2012.10.03EURGerman Bank Holiday,10/3/12 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2012.10.03GBPBRC Shop Price Index y y,10/3/12 0:00,FALSE,BRC Shop Price Index y/y,GBP,1," ",1.1%
+2012.10.03AUDAIG Services Index,10/3/12 0:28,FALSE,AIG Services Index,AUD,2," ",42.4
+2012.10.03AUDHIA New Home Sales m m,10/3/12 2:00,FALSE,HIA New Home Sales m/m,AUD,2," ",-5.6%
+2012.10.03CNYNon-Manufacturing PMI,10/3/12 2:00,FALSE,Non-Manufacturing PMI,CNY,1," ",56.3
+2012.10.03AUDTrade Balance,10/3/12 2:30,FALSE,Trade Balance,AUD,3,-0.69B,-1.53B
+2012.10.03EURSpanish Services PMI,10/3/12 8:15,FALSE,Spanish Services PMI,EUR,1," ",44.0
+2012.10.03EURItalian Services PMI,10/3/12 8:45,FALSE,Italian Services PMI,EUR,1,43.6,44.0
+2012.10.03EURFrench Final Services PMI,10/3/12 8:50,FALSE,French Final Services PMI,EUR,1,46.1,46.1
+2012.10.03EURGerman Final Services PMI,10/3/12 8:55,FALSE,German Final Services PMI,EUR,1,50.6,50.6
+2012.10.03EURFinal Services PMI,10/3/12 9:00,FALSE,Final Services PMI,EUR,1,46.0,46.0
+2012.10.03GBPFinal Services PMI,10/3/12 9:30,FALSE,Final Services PMI,GBP,3,53.1,53.7
+2012.10.03GBPHousing Equity Withdrawal q q,10/3/12 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-8.6B,-9.6B
+2012.10.03EURRetail Sales m m,10/3/12 10:00,FALSE,Retail Sales m/m,EUR,2,-0.1%,0.1%
+2012.10.03USDADP Non-Farm Employment Change,10/3/12 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,145K,189K
+2012.10.03USDISM Services PMI,10/3/12 15:00,FALSE,ISM Services PMI,USD,3,53.2,53.7
+2012.10.03USDCrude Oil Inventories,10/3/12 15:30,FALSE,Crude Oil Inventories,USD,2,1.6M,-2.4M
+

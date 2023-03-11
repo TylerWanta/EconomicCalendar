@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.01.25AUDBank Holiday,1/25/16 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2016.01.25AUDNAB Business Confidence,1/25/16 0:30,FALSE,NAB Business Confidence,AUD,2," ",5
+2016.01.25EURGerman ifo Business Climate,1/25/16 9:00,FALSE,German ifo Business Climate,EUR,3,108.5,108.6
+2016.01.25EURItalian Retail Sales m m,1/25/16 10:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.3%
+2016.01.25EURGerman Buba Monthly Report,1/25/16 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2016.01.25GBPCBI Industrial Order Expectations,1/25/16 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,-10,-7
+2016.01.25EURBelgian NBB Business Climate,1/25/16 14:00,FALSE,Belgian NBB Business Climate,EUR,1,-1.9,-1.4
+2016.01.25EURECB President Draghi Speaks,1/25/16 18:00,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2016.01.25NZDBusinessNZ Services Index,1/25/16 21:30,FALSE,BusinessNZ Services Index,NZD,1," ",59.0
+2016.01.25JPYSPPI y y,1/25/16 23:50,FALSE,SPPI y/y,JPY,1,0.2%,0.2%
+

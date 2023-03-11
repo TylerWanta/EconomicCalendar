@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.01.25AUDBank Holiday,1/25/11 0:00,TRUE,Bank Holiday,AUD,4,,
+2011.01.25AUDCPI q q,1/25/11 0:30,FALSE,CPI q/q,AUD,3,0.7%,0.7%
+2011.01.25AUDTrimmed Mean CPI q q,1/25/11 0:30,FALSE,Trimmed Mean CPI q/q,AUD,2,0.8%,0.6%
+2011.01.25JPYMonetary Policy Statement,1/25/11 3:29,FALSE,Monetary Policy Statement,JPY,3,,
+2011.01.25JPYOvernight Call Rate,1/25/11 3:29,FALSE,Overnight Call Rate,JPY,3,<0.10%,<0.10%
+2011.01.25CHFUBS Consumption Indicator,1/25/11 7:00,FALSE,UBS Consumption Indicator,CHF,2,,1.62
+2011.01.25EURGerman GfK Consumer Climate,1/25/11 7:00,FALSE,German GfK Consumer Climate,EUR,2,5.5,5.5
+2011.01.25JPYBOJ Press Conference,1/25/11 7:12,FALSE,BOJ Press Conference,JPY,3,,
+2011.01.25EURFrench Consumer Spending m m,1/25/11 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.4%,2.7%
+2011.01.25GBPIndex of Services 3m 3m,1/25/11 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.6%,0.5%
+2011.01.25GBPPrelim GDP q q,1/25/11 9:30,FALSE,Prelim GDP q/q,GBP,3,0.5%,0.7%
+2011.01.25GBPPublic Sector Net Borrowing,1/25/11 9:30,FALSE,Public Sector Net Borrowing,GBP,3,18.2B,19.7B
+2011.01.25CADCPI m m,1/25/11 12:00,FALSE,CPI m/m,CAD,2,0.1%,0.1%
+2011.01.25CADCore CPI m m,1/25/11 12:00,FALSE,Core CPI m/m,CAD,3,-0.2%,0.0%
+2011.01.25USDS&P CS Composite-20 HPI y y,1/25/11 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,-1.4%,-0.8%
+2011.01.25USDRichmond Manufacturing Index,1/25/11 14:59,FALSE,Richmond Manufacturing Index,USD,1,23,25
+2011.01.25USDCB Consumer Confidence,1/25/11 15:00,FALSE,CB Consumer Confidence,USD,3,54.4,53.3
+2011.01.25USDHPI m m,1/25/11 15:00,FALSE,HPI m/m,USD,1,-0.1%,0.2%
+2011.01.25GBPBOE Gov King Speaks,1/25/11 19:40,FALSE,BOE Gov King Speaks,GBP,3,,
+2011.01.25JPYSPPI y y,1/25/11 23:50,FALSE,SPPI y/y,JPY,1,-1.3%,-1.1%
+

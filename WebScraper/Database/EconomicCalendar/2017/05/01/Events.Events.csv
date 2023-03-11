@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.05.01CHFBank Holiday,5/1/17 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2017.05.01EURFrench Bank Holiday,5/1/17 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2017.05.01EURGerman Bank Holiday,5/1/17 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2017.05.01EURItalian Bank Holiday,5/1/17 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2017.05.01GBPBank Holiday,5/1/17 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2017.05.01AUDAIG Manufacturing Index,5/1/17 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",57.5
+2017.05.01JPYFinal Manufacturing PMI,5/1/17 1:30,FALSE,Final Manufacturing PMI,JPY,1,52.8,52.8
+2017.05.01AUDMI Inflation Gauge m m,5/1/17 2:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2017.05.01AUDCommodity Prices y y,5/1/17 7:30,FALSE,Commodity Prices y/y,AUD,1," ",46.8%
+2017.05.01CHFRetail Sales y y,5/1/17 8:15,FALSE,Retail Sales y/y,CHF,1,0.5%,0.7%
+2017.05.01USDCore PCE Price Index m m,5/1/17 13:30,FALSE,Core PCE Price Index m/m,USD,2,-0.1%,0.2%
+2017.05.01USDPersonal Income m m,5/1/17 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.3%
+2017.05.01USDPersonal Spending m m,5/1/17 13:30,FALSE,Personal Spending m/m,USD,2,0.2%,0.0%
+2017.05.01CADManufacturing PMI,5/1/17 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.5
+2017.05.01USDFinal Manufacturing PMI,5/1/17 14:45,FALSE,Final Manufacturing PMI,USD,1,52.8,52.8
+2017.05.01USDConstruction Spending m m,5/1/17 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,1.8%
+2017.05.01USDISM Manufacturing PMI,5/1/17 15:00,FALSE,ISM Manufacturing PMI,USD,3,56.6,57.2
+2017.05.01USDISM Manufacturing Prices,5/1/17 15:00,FALSE,ISM Manufacturing Prices,USD,1,66.5,70.5
+2017.05.01USDTreasury Sec Mnuchin Speaks,5/1/17 15:45,FALSE,Treasury Sec Mnuchin Speaks,USD,3," "," "
+

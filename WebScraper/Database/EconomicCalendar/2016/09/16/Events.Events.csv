@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.09.16EUREU Economic Summit,9/16/16 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2016.09.16EURItalian Trade Balance,9/16/16 9:00,FALSE,Italian Trade Balance,EUR,1,3.67B,4.66B
+2016.09.16CADForeign Securities Purchases,9/16/16 13:30,FALSE,Foreign Securities Purchases,CAD,2,10.12B,9.02B
+2016.09.16CADManufacturing Sales m m,9/16/16 13:30,FALSE,Manufacturing Sales m/m,CAD,3,0.6%,0.8%
+2016.09.16USDCPI m m,9/16/16 13:30,FALSE,CPI m/m,USD,3,0.1%,0.0%
+2016.09.16USDCPI y y,9/16/16 13:30,FALSE,CPI y/y,USD,3,1.0%,0.8%
+2016.09.16USDCore CPI m m,9/16/16 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.1%
+2016.09.16USDPrelim UoM Consumer Sentiment,9/16/16 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,91.0,89.8
+2016.09.16USDPrelim UoM Inflation Expectations,9/16/16 15:00,FALSE,Prelim UoM Inflation Expectations,USD,1," ",2.5%
+2016.09.16USDTIC Long-Term Purchases,9/16/16 21:00,FALSE,TIC Long-Term Purchases,USD,1,30.2B,-0.5B
+

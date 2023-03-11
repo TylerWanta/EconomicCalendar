@@ -1,0 +1,13 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.07.03USDBank Holiday,7/3/15 0:00,TRUE,Bank Holiday,USD,4," "," "
+2015.07.03AUDAIG Services Index,7/3/15 0:30,FALSE,AIG Services Index,AUD,1," ",49.6
+2015.07.03AUDRetail Sales m m,7/3/15 2:30,FALSE,Retail Sales m/m,AUD,3,0.5%,-0.1%
+2015.07.03CNYCaixin Services PMI,7/3/15 2:45,FALSE,Caixin Services PMI,CNY,2,53.8,53.5
+2015.07.03EURSpanish Services PMI,7/3/15 8:15,FALSE,Spanish Services PMI,EUR,2,58.0,58.4
+2015.07.03EURItalian Services PMI,7/3/15 8:45,FALSE,Italian Services PMI,EUR,1,52.9,52.5
+2015.07.03EURFrench Final Services PMI,7/3/15 8:50,FALSE,French Final Services PMI,EUR,1,54.1,54.1
+2015.07.03EURGerman Final Services PMI,7/3/15 8:55,FALSE,German Final Services PMI,EUR,1,54.2,54.2
+2015.07.03EURFinal Services PMI,7/3/15 9:00,FALSE,Final Services PMI,EUR,1,54.4,54.4
+2015.07.03GBPFinal Services PMI,7/3/15 9:30,FALSE,Final Services PMI,GBP,3,57.4,56.5
+2015.07.03EURRetail Sales m m,7/3/15 10:00,FALSE,Retail Sales m/m,EUR,2,0.1%,0.7%
+

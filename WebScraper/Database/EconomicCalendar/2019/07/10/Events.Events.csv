@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.07.10JPYPPI y y,7/10/19 0:50,FALSE,PPI y/y,JPY,1,0.4%,0.6%
+2019.07.10AUDWestpac Consumer Sentiment,7/10/19 1:25,FALSE,Westpac Consumer Sentiment,AUD,2," ",-0.6%
+2019.07.10CNYCPI y y,7/10/19 2:30,FALSE,CPI y/y,CNY,2,2.7%,2.7%
+2019.07.10CNYPPI y y,7/10/19 2:30,FALSE,PPI y/y,CNY,1,0.3%,0.6%
+2019.07.10EURFrench Industrial Production m m,7/10/19 7:45,FALSE,French Industrial Production m/m,EUR,1,0.3%,0.5%
+2019.07.10EURItalian Industrial Production m m,7/10/19 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.1%,-0.8%
+2019.07.10GBPConstruction Output m m,7/10/19 9:30,FALSE,Construction Output m/m,GBP,1,0.4%,-0.5%
+2019.07.10GBPGDP m m,7/10/19 9:30,FALSE,GDP m/m,GBP,3,0.3%,-0.4%
+2019.07.10GBPGoods Trade Balance,7/10/19 9:30,FALSE,Goods Trade Balance,GBP,1,-12.5B,-12.8B
+2019.07.10GBPIndex of Services 3m 3m,7/10/19 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.1%,0.3%
+2019.07.10GBPIndustrial Production m m,7/10/19 9:30,FALSE,Industrial Production m/m,GBP,1,1.6%,-2.9%
+2019.07.10GBPManufacturing Production m m,7/10/19 9:30,FALSE,Manufacturing Production m/m,GBP,3,2.2%,-4.2%
+2019.07.10EUREU Economic Forecasts,7/10/19 10:15,FALSE,EU Economic Forecasts,EUR,2," "," "
+2019.07.10EURGerman 10-y Bond Auction,7/10/19 10:37,FALSE,German 10-y Bond Auction,EUR,1," ",-0.24|1.7
+2019.07.10GBPNIESR GDP Estimate,7/10/19 13:14,FALSE,NIESR GDP Estimate,GBP,1," ",0.3%
+2019.07.10CADBOC Monetary Policy Report,7/10/19 15:00,FALSE,BOC Monetary Policy Report,CAD,3," "," "
+2019.07.10CADBOC Rate Statement,7/10/19 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2019.07.10CADOvernight Rate,7/10/19 15:00,FALSE,Overnight Rate,CAD,3,1.75%,1.75%
+2019.07.10USDFed Chair Powell Testifies,7/10/19 15:00,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2019.07.10USDFinal Wholesale Inventories m m,7/10/19 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.4%,0.4%
+2019.07.10USDCrude Oil Inventories,7/10/19 15:30,FALSE,Crude Oil Inventories,USD,1,-1.9M,-1.1M
+2019.07.10CADBOC Press Conference,7/10/19 16:15,FALSE,BOC Press Conference,CAD,3," "," "
+2019.07.10USD10-y Bond Auction,7/10/19 18:01,FALSE,10-y Bond Auction,USD,1," ",2.07|3.4
+2019.07.10GBPMPC Member Tenreyro Speaks,7/10/19 18:10,FALSE,MPC Member Tenreyro Speaks,GBP,2," "," "
+2019.07.10USDFOMC Member Bullard Speaks,7/10/19 18:30,FALSE,FOMC Member Bullard Speaks,USD,2," "," "
+2019.07.10USDFOMC Meeting Minutes,7/10/19 19:00,FALSE,FOMC Meeting Minutes,USD,3," "," "
+

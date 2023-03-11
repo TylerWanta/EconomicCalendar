@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.02.14CNYBank Holiday,2/14/18 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2018.02.14NZDInflation Expectations q q,2/14/18 2:00,FALSE,Inflation Expectations q/q,NZD,3," ",2.02%
+2018.02.14CNYForeign Direct Investment ytd y,2/14/18 3:28,FALSE,Foreign Direct Investment ytd/y,CNY,1," ",7.9%
+2018.02.14EURGerman Final CPI m m,2/14/18 7:00,FALSE,German Final CPI m/m,EUR,1,-0.7%,-0.7%
+2018.02.14EURGerman Prelim GDP q q,2/14/18 7:00,FALSE,German Prelim GDP q/q,EUR,2,0.6%,0.8%
+2018.02.14EURGerman Buba President Weidmann Speaks,2/14/18 8:00,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2018.02.14EURItalian Prelim GDP q q,2/14/18 9:00,FALSE,Italian Prelim GDP q/q,EUR,1,0.4%,0.4%
+2018.02.14EURFlash GDP q q,2/14/18 10:00,FALSE,Flash GDP q/q,EUR,2,0.6%,0.6%
+2018.02.14EURIndustrial Production m m,2/14/18 10:00,FALSE,Industrial Production m/m,EUR,1,0.1%,1.3%
+2018.02.14EURGerman 30-y Bond Auction,2/14/18 10:33,FALSE,German 30-y Bond Auction,EUR,1," ",1.28|1.4
+2018.02.14CHFGov Board Member Zurbrugg Speaks,2/14/18 11:20,FALSE,Gov Board Member Zurbrugg Speaks,CHF,2," "," "
+2018.02.14USDCPI m m,2/14/18 13:30,FALSE,CPI m/m,USD,3,0.3%,0.1%
+2018.02.14USDCPI y y,2/14/18 13:30,FALSE,CPI y/y,USD,3,1.9%,2.1%
+2018.02.14USDCore CPI m m,2/14/18 13:30,FALSE,Core CPI m/m,USD,3,0.2%,0.3%
+2018.02.14USDCore Retail Sales m m,2/14/18 13:30,FALSE,Core Retail Sales m/m,USD,3,0.5%,0.1%
+2018.02.14USDRetail Sales m m,2/14/18 13:30,FALSE,Retail Sales m/m,USD,3,0.2%,0.0%
+2018.02.14GBPCB Leading Index m m,2/14/18 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.2%
+2018.02.14USDBusiness Inventories m m,2/14/18 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.4%
+2018.02.14USDCrude Oil Inventories,2/14/18 15:30,FALSE,Crude Oil Inventories,USD,3,2.8M,1.9M
+2018.02.14JPYCore Machinery Orders m m,2/14/18 23:50,FALSE,Core Machinery Orders m/m,JPY,1,-1.9%,5.7%
+

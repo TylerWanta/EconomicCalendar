@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.12.11AUDHPI q q,12/11/18 0:30,FALSE,HPI q/q,AUD,2,-1.5%,-0.7%
+2018.12.11AUDNAB Business Confidence,12/11/18 0:30,FALSE,NAB Business Confidence,AUD,1," ",5
+2018.12.11JPY30-y Bond Auction,12/11/18 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.87|4.0
+2018.12.11JPYPrelim Machine Tool Orders y y,12/11/18 5:58,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-0.7%
+2018.12.11EURFrench Final Private Payrolls q q,12/11/18 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,0.2%,0.2%
+2018.12.11CNYM2 Money Supply y y,12/11/18 9:01,FALSE,M2 Money Supply y/y,CNY,1,8.0%,8.0%
+2018.12.11CNYNew Loans,12/11/18 9:01,FALSE,New Loans,CNY,1,1200B,697B
+2018.12.11GBPAverage Earnings Index 3m y,12/11/18 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,3.0%,3.1%
+2018.12.11GBPClaimant Count Change,12/11/18 9:30,FALSE,Claimant Count Change,GBP,1,13.2K,23.2K
+2018.12.11GBPUnemployment Rate,12/11/18 9:30,FALSE,Unemployment Rate,GBP,2,4.1%,4.1%
+2018.12.11EURGerman ZEW Economic Sentiment,12/11/18 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,-25.0,-24.1
+2018.12.11EURZEW Economic Sentiment,12/11/18 10:00,FALSE,ZEW Economic Sentiment,EUR,1,-23.2,-22.0
+2018.12.11USDNFIB Small Business Index,12/11/18 10:45,FALSE,NFIB Small Business Index,USD,1,107.3,107.4
+2018.12.11USDCore PPI m m,12/11/18 13:30,FALSE,Core PPI m/m,USD,2,0.1%,0.5%
+2018.12.11USDPPI m m,12/11/18 13:30,FALSE,PPI m/m,USD,3,0.0%,0.6%
+2018.12.11NZDRBNZ Gov Orr Speaks,12/11/18 19:15,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2018.12.11AUDWestpac Consumer Sentiment,12/11/18 23:27,FALSE,Westpac Consumer Sentiment,AUD,2," ",2.8%
+2018.12.11JPYCore Machinery Orders m m,12/11/18 23:50,FALSE,Core Machinery Orders m/m,JPY,1,10.2%,-18.3%
+2018.12.11JPYPPI y y,12/11/18 23:50,FALSE,PPI y/y,JPY,1,2.4%,3.0%
+

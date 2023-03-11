@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.09.15CNYBank Holiday,9/15/16 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2016.09.15AUDMI Inflation Expectations,9/15/16 2:00,FALSE,MI Inflation Expectations,AUD,1," ",3.5%
+2016.09.15AUDEmployment Change,9/15/16 2:30,FALSE,Employment Change,AUD,3,15.2K,26.2K
+2016.09.15AUDNew Motor Vehicle Sales m m,9/15/16 2:30,FALSE,New Motor Vehicle Sales m/m,AUD,1," ",-1.4%
+2016.09.15AUDRBA Bulletin,9/15/16 2:30,FALSE,RBA Bulletin,AUD,1," "," "
+2016.09.15AUDUnemployment Rate,9/15/16 2:30,FALSE,Unemployment Rate,AUD,3,5.7%,5.7%
+2016.09.15CHFLibor Rate,9/15/16 8:30,FALSE,Libor Rate,CHF,3,-0.75%,-0.75%
+2016.09.15CHFSNB Monetary Policy Assessment,9/15/16 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2016.09.15GBPRetail Sales m m,9/15/16 9:30,FALSE,Retail Sales m/m,GBP,3,-0.4%,1.9%
+2016.09.15EURSpanish 10-y Bond Auction,9/15/16 9:45,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.10|2.1
+2016.09.15EURFinal CPI y y,9/15/16 10:00,FALSE,Final CPI y/y,EUR,2,0.2%,0.2%
+2016.09.15EURFinal Core CPI y y,9/15/16 10:00,FALSE,Final Core CPI y/y,EUR,1,0.8%,0.8%
+2016.09.15EURTrade Balance,9/15/16 10:00,FALSE,Trade Balance,EUR,1,22.1B,23.8B
+2016.09.15GBPAsset Purchase Facility,9/15/16 12:00,FALSE,Asset Purchase Facility,GBP,2,435B,435B
+2016.09.15GBPMPC Asset Purchase Facility Votes,9/15/16 12:00,FALSE,MPC Asset Purchase Facility Votes,GBP,2,0-0-9,6-0-3
+2016.09.15GBPMPC Official Bank Rate Votes,9/15/16 12:00,FALSE,MPC Official Bank Rate Votes,GBP,3,0-0-9,0-9-0
+2016.09.15GBPMonetary Policy Summary,9/15/16 12:00,FALSE,Monetary Policy Summary,GBP,3," "," "
+2016.09.15GBPOfficial Bank Rate,9/15/16 12:00,FALSE,Official Bank Rate,GBP,3,0.25%,0.25%
+2016.09.15USDCore PPI m m,9/15/16 13:30,FALSE,Core PPI m/m,USD,2,0.1%,-0.3%
+2016.09.15USDCore Retail Sales m m,9/15/16 13:30,FALSE,Core Retail Sales m/m,USD,3,0.3%,-0.4%
+2016.09.15USDCurrent Account,9/15/16 13:30,FALSE,Current Account,USD,2,-120B,-132B
+2016.09.15USDEmpire State Manufacturing Index,9/15/16 13:30,FALSE,Empire State Manufacturing Index,USD,2,-0.9,-4.2
+2016.09.15USDPPI m m,9/15/16 13:30,FALSE,PPI m/m,USD,3,0.1%,-0.4%
+2016.09.15USDPhilly Fed Manufacturing Index,9/15/16 13:30,FALSE,Philly Fed Manufacturing Index,USD,3,1.1,2.0
+2016.09.15USDRetail Sales m m,9/15/16 13:30,FALSE,Retail Sales m/m,USD,3,-0.1%,0.1%
+2016.09.15USDUnemployment Claims,9/15/16 13:30,FALSE,Unemployment Claims,USD,3,262K,259K
+2016.09.15USDCapacity Utilization Rate,9/15/16 14:15,FALSE,Capacity Utilization Rate,USD,2,75.8%,75.9%
+2016.09.15USDIndustrial Production m m,9/15/16 14:15,FALSE,Industrial Production m/m,USD,2,-0.2%,0.6%
+2016.09.15USDBusiness Inventories m m,9/15/16 15:00,FALSE,Business Inventories m/m,USD,1,0.1%,0.2%
+2016.09.15USDNatural Gas Storage,9/15/16 15:30,FALSE,Natural Gas Storage,USD,1,57B,36B
+

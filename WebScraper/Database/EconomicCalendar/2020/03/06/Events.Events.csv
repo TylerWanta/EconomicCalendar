@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.03.06AllG20 Meetings,3/6/20 0:00,TRUE,G20 Meetings,All,2," "," "
+2020.03.06AllOPEC-JMMC Meetings,3/6/20 0:00,TRUE,OPEC-JMMC Meetings,All,2," "," "
+2020.03.06AUDRetail Sales m m,3/6/20 0:30,FALSE,Retail Sales m/m,AUD,3,0.0%,-0.7%
+2020.03.06USDFOMC Member Kashkari Speaks,3/6/20 1:00,FALSE,FOMC Member Kashkari Speaks,USD,1," "," "
+2020.03.06JPYLeading Indicators,3/6/20 5:02,FALSE,Leading Indicators,JPY,1,91.3%,91.6%
+2020.03.06EURGerman Factory Orders m m,3/6/20 7:00,FALSE,German Factory Orders m/m,EUR,1,1.5%,-2.1%
+2020.03.06EURFrench Trade Balance,3/6/20 7:45,FALSE,French Trade Balance,EUR,1,-4.9B,-3.7B
+2020.03.06CHFForeign Currency Reserves,3/6/20 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",764B
+2020.03.06GBPHalifax HPI m m,3/6/20 8:30,FALSE,Halifax HPI m/m,GBP,1,0.3%,0.4%
+2020.03.06EURItalian Retail Sales m m,3/6/20 9:03,FALSE,Italian Retail Sales m/m,EUR,1,0.3%,0.5%
+2020.03.06CADEmployment Change,3/6/20 13:30,FALSE,Employment Change,CAD,3,10.5K,34.5K
+2020.03.06CADTrade Balance,3/6/20 13:30,FALSE,Trade Balance,CAD,3,-0.8B,-0.7B
+2020.03.06CADUnemployment Rate,3/6/20 13:30,FALSE,Unemployment Rate,CAD,3,5.6%,5.5%
+2020.03.06USDAverage Hourly Earnings m m,3/6/20 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.3%,0.2%
+2020.03.06USDNon-Farm Employment Change,3/6/20 13:30,FALSE,Non-Farm Employment Change,USD,3,175K,273K
+2020.03.06USDTrade Balance,3/6/20 13:30,FALSE,Trade Balance,USD,1,-46.3B,-48.6B
+2020.03.06USDUnemployment Rate,3/6/20 13:30,FALSE,Unemployment Rate,USD,3,3.6%,3.6%
+2020.03.06CADIvey PMI,3/6/20 15:00,FALSE,Ivey PMI,CAD,1,55.2,57.3
+2020.03.06USDFinal Wholesale Inventories m m,3/6/20 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,-0.2%,-0.2%
+2020.03.06USDFOMC Member Williams Speaks,3/6/20 19:00,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+2020.03.06USDConsumer Credit m m,3/6/20 20:00,FALSE,Consumer Credit m/m,USD,1,16.6B,20.3B
+

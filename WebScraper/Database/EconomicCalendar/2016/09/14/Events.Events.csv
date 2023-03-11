@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.09.14CNYBank Holiday,9/14/16 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2016.09.14AUDWestpac Consumer Sentiment,9/14/16 1:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",2.0%
+2016.09.14JPYRevised Industrial Production m m,9/14/16 5:33,FALSE,Revised Industrial Production m/m,JPY,1,0.0%,0.0%
+2016.09.14EURFrench Final CPI m m,9/14/16 7:45,FALSE,French Final CPI m/m,EUR,1,0.3%,0.3%
+2016.09.14CNYM2 Money Supply y y,9/14/16 9:00,FALSE,M2 Money Supply y/y,CNY,1,10.5%,10.2%
+2016.09.14CNYNew Loans,9/14/16 9:00,FALSE,New Loans,CNY,1,725B,464B
+2016.09.14GBPAverage Earnings Index 3m y,9/14/16 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,2.1%,2.5%
+2016.09.14GBPClaimant Count Change,9/14/16 9:30,FALSE,Claimant Count Change,GBP,3,1.7K,-3.6K
+2016.09.14GBPUnemployment Rate,9/14/16 9:30,FALSE,Unemployment Rate,GBP,2,4.9%,4.9%
+2016.09.14CHFCredit Suisse Economic Expectations,9/14/16 10:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",-2.8
+2016.09.14EURIndustrial Production m m,9/14/16 10:00,FALSE,Industrial Production m/m,EUR,1,-0.8%,0.8%
+2016.09.14EURGerman 30-y Bond Auction,9/14/16 10:33,FALSE,German 30-y Bond Auction,EUR,1," ",0.45|1.5
+2016.09.14AUDRBA Deputy Gov Debelle Speaks,9/14/16 10:50,FALSE,RBA Deputy Gov Debelle Speaks,AUD,2," "," "
+2016.09.14CADGov Council Member Wilkins Speaks,9/14/16 11:50,FALSE,Gov Council Member Wilkins Speaks,CAD,2," "," "
+2016.09.14USDImport Prices m m,9/14/16 13:30,FALSE,Import Prices m/m,USD,2,-0.1%,0.1%
+2016.09.14USDCrude Oil Inventories,9/14/16 15:30,FALSE,Crude Oil Inventories,USD,3,2.8M,-14.5M
+2016.09.14NZDBusinessNZ Manufacturing Index,9/14/16 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",55.5
+2016.09.14NZDGDP q q,9/14/16 23:45,FALSE,GDP q/q,NZD,3,1.1%,0.9%
+

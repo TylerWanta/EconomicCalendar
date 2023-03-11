@@ -1,0 +1,10 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.05.25GBPBank Holiday,5/25/20 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2020.05.25USDBank Holiday,5/25/20 0:00,TRUE,Bank Holiday,USD,4," "," "
+2020.05.25AUDGoods Trade Balance,5/25/20 2:30,FALSE,Goods Trade Balance,AUD,1," ",11.35B
+2020.05.25EURGerman Final GDP q q,5/25/20 7:00,FALSE,German Final GDP q/q,EUR,1,-2.2%,-2.2%
+2020.05.25EURGerman ifo Business Climate,5/25/20 9:00,FALSE,German ifo Business Climate,EUR,1,78.3,74.2
+2020.05.25EURBelgian NBB Business Climate,5/25/20 13:56,FALSE,Belgian NBB Business Climate,EUR,1,-29.7,-36.1
+2020.05.25CADBOC Gov Poloz Speaks,5/25/20 18:30,FALSE,BOC Gov Poloz Speaks,CAD,2," "," "
+2020.05.25NZDTrade Balance,5/25/20 23:45,FALSE,Trade Balance,NZD,1,1250M,722M
+

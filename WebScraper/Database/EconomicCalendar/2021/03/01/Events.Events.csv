@@ -1,0 +1,34 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.03.01AUDMI Inflation Gauge m m,3/1/21 0:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.2%
+2021.03.01EURGerman Prelim CPI m m,3/1/21 0:00,TRUE,German Prelim CPI m/m,EUR,1,0.5%,0.8%
+2021.03.01AUDANZ Job Advertisements m m,3/1/21 0:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",2.6%
+2021.03.01AUDCompany Operating Profits q q,3/1/21 0:30,FALSE,Company Operating Profits q/q,AUD,1,2.1%,3.2%
+2021.03.01JPYFinal Manufacturing PMI,3/1/21 0:30,FALSE,Final Manufacturing PMI,JPY,1,49.9,49.8
+2021.03.01CNYCaixin Manufacturing PMI,3/1/21 1:45,FALSE,Caixin Manufacturing PMI,CNY,1,51.3,51.5
+2021.03.01AUDCommodity Prices y y,3/1/21 5:30,FALSE,Commodity Prices y/y,AUD,1," ",19.5%
+2021.03.01CHFRetail Sales y y,3/1/21 7:30,FALSE,Retail Sales y/y,CHF,1,4.5%,5.4%
+2021.03.01EURSpanish Manufacturing PMI,3/1/21 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,52.1,49.3
+2021.03.01CHFManufacturing PMI,3/1/21 8:30,FALSE,Manufacturing PMI,CHF,1,60.0,59.4
+2021.03.01EURItalian Manufacturing PMI,3/1/21 8:45,FALSE,Italian Manufacturing PMI,EUR,1,57.0,55.1
+2021.03.01EURFrench Final Manufacturing PMI,3/1/21 8:50,FALSE,French Final Manufacturing PMI,EUR,1,55.0,55.0
+2021.03.01EURGerman Final Manufacturing PMI,3/1/21 8:55,FALSE,German Final Manufacturing PMI,EUR,1,60.6,60.6
+2021.03.01EURFinal Manufacturing PMI,3/1/21 9:00,FALSE,Final Manufacturing PMI,EUR,1,57.7,57.7
+2021.03.01GBPFinal Manufacturing PMI,3/1/21 9:30,FALSE,Final Manufacturing PMI,GBP,2,54.9,54.9
+2021.03.01GBPM4 Money Supply m m,3/1/21 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.8%,0.6%
+2021.03.01GBPMortgage Approvals,3/1/21 9:30,FALSE,Mortgage Approvals,GBP,1,100K,103K
+2021.03.01GBPNet Lending to Individuals m m,3/1/21 9:32,FALSE,Net Lending to Individuals m/m,GBP,1,3.3B,4.5B
+2021.03.01EURItalian Prelim CPI m m,3/1/21 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.4%,0.7%
+2021.03.01CADCurrent Account,3/1/21 13:30,FALSE,Current Account,CAD,1,-7.0B,-10.5B
+2021.03.01USDFOMC Member Williams Speaks,3/1/21 14:00,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+2021.03.01USDFOMC Member Brainard Speaks,3/1/21 14:05,FALSE,FOMC Member Brainard Speaks,USD,1," "," "
+2021.03.01CADManufacturing PMI,3/1/21 14:30,FALSE,Manufacturing PMI,CAD,2," ",54.4
+2021.03.01USDFinal Manufacturing PMI,3/1/21 14:45,FALSE,Final Manufacturing PMI,USD,2,58.5,58.5
+2021.03.01USDConstruction Spending m m,3/1/21 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,1.1%
+2021.03.01USDISM Manufacturing PMI,3/1/21 15:00,FALSE,ISM Manufacturing PMI,USD,3,58.7,58.7
+2021.03.01USDISM Manufacturing Prices,3/1/21 15:00,FALSE,ISM Manufacturing Prices,USD,1,80.0,82.1
+2021.03.01EURECB President Lagarde Speaks,3/1/21 16:10,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2021.03.01NZDOverseas Trade Index q q,3/1/21 21:45,FALSE,Overseas Trade Index q/q,NZD,1,0.9%,-4.7%
+2021.03.01JPYUnemployment Rate,3/1/21 23:30,FALSE,Unemployment Rate,JPY,1,3.0%,2.9%
+2021.03.01JPYCapital Spending q y,3/1/21 23:50,FALSE,Capital Spending q/y,JPY,1,-2.0%,-10.6%
+2021.03.01JPYMonetary Base y y,3/1/21 23:50,FALSE,Monetary Base y/y,JPY,1,20.1%,18.9%
+

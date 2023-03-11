@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.05.01CHFBank Holiday,5/1/13 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2013.05.01EURFrench Bank Holiday,5/1/13 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2013.05.01EURGerman Bank Holiday,5/1/13 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2013.05.01EURItalian Bank Holiday,5/1/13 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2013.05.01USDTotal Vehicle Sales,5/1/13 0:00,TRUE,Total Vehicle Sales,USD,1,15.2M,15.3M
+2013.05.01AUDAIG Manufacturing Index,5/1/13 0:30,FALSE,AIG Manufacturing Index,AUD,1," ",44.4
+2013.05.01AUDHIA New Home Sales m m,5/1/13 2:00,FALSE,HIA New Home Sales m/m,AUD,2," ",-5.3%
+2013.05.01CNYManufacturing PMI,5/1/13 2:00,FALSE,Manufacturing PMI,CNY,3,50.8,50.9
+2013.05.01JPYAverage Cash Earnings y y,5/1/13 2:30,FALSE,Average Cash Earnings y/y,JPY,2,-1.0%,-0.8%
+2013.05.01AUDRBA Assist Gov Edey Speaks,5/1/13 4:25,FALSE,RBA Assist Gov Edey Speaks,AUD,2," "," "
+2013.05.01JPY10-y Bond Auction,5/1/13 4:45,FALSE,10-y Bond Auction,JPY,1," ",0.55|3.2
+2013.05.01GBPNationwide HPI m m,5/1/13 7:00,FALSE,Nationwide HPI m/m,GBP,2,0.3%,0.0%
+2013.05.01AUDCommodity Prices y y,5/1/13 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-7.5%
+2013.05.01GBPFinal Manufacturing PMI,5/1/13 9:30,FALSE,Final Manufacturing PMI,GBP,3,48.6,48.6
+2013.05.01USDADP Non-Farm Employment Change,5/1/13 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,154K,131K
+2013.05.01USDFinal Manufacturing PMI,5/1/13 14:00,FALSE,Final Manufacturing PMI,USD,1,52.1,52.0
+2013.05.01CADManufacturing PMI,5/1/13 14:30,FALSE,Manufacturing PMI,CAD,1," ",49.3
+2013.05.01USDConstruction Spending m m,5/1/13 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,1.5%
+2013.05.01USDISM Manufacturing PMI,5/1/13 15:00,FALSE,ISM Manufacturing PMI,USD,3,51.0,51.3
+2013.05.01USDISM Manufacturing Prices,5/1/13 15:00,FALSE,ISM Manufacturing Prices,USD,1,52.6,54.5
+2013.05.01NZDGDT Price Index,5/1/13 15:30,FALSE,GDT Price Index,NZD,1," ",1.6%
+2013.05.01USDCrude Oil Inventories,5/1/13 15:30,FALSE,Crude Oil Inventories,USD,2,1.2M,0.9M
+2013.05.01GBPMPC Member Broadbent Speaks,5/1/13 19:00,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2013.05.01USDFOMC Statement,5/1/13 19:00,FALSE,FOMC Statement,USD,3," "," "
+2013.05.01USDFederal Funds Rate,5/1/13 19:00,FALSE,Federal Funds Rate,USD,2,<0.25%,<0.25%
+2013.05.01CADBOC Gov Carney Speaks,5/1/13 23:05,FALSE,BOC Gov Carney Speaks,CAD,2," "," "
+

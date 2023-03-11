@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.10.25EUREU Economic Summit,10/25/13 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2013.10.25JPYNational Core CPI y y,10/25/13 0:30,FALSE,National Core CPI y/y,JPY,1,0.7%,0.8%
+2013.10.25JPYTokyo Core CPI y y,10/25/13 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,0.4%,0.2%
+2013.10.25JPYSPPI y y,10/25/13 0:50,FALSE,SPPI y/y,JPY,1,0.8%,0.7%
+2013.10.25EURGerman ifo Business Climate,10/25/13 9:00,FALSE,German ifo Business Climate,EUR,3,108.2,107.7
+2013.10.25EURItalian Retail Sales m m,10/25/13 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.2%
+2013.10.25EURM3 Money Supply y y,10/25/13 9:00,FALSE,M3 Money Supply y/y,EUR,2,2.3%,2.3%
+2013.10.25EURPrivate Loans y y,10/25/13 9:00,FALSE,Private Loans y/y,EUR,1,-1.9%,-2.0%
+2013.10.25GBPIndex of Services 3m 3m,10/25/13 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.5%,0.5%
+2013.10.25GBPPrelim GDP q q,10/25/13 9:30,FALSE,Prelim GDP q/q,GBP,3,0.8%,0.7%
+2013.10.25USDCore Durable Goods Orders m m,10/25/13 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.6%,-0.4%
+2013.10.25USDDurable Goods Orders m m,10/25/13 13:30,FALSE,Durable Goods Orders m/m,USD,2,1.7%,0.2%
+2013.10.25USDRevised UoM Consumer Sentiment,10/25/13 14:55,FALSE,Revised UoM Consumer Sentiment,USD,2,75.8,75.2
+2013.10.25USDRevised UoM Inflation Expectations,10/25/13 14:55,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.9%
+2013.10.25USDFinal Wholesale Inventories m m,10/25/13 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.3%,0.2%
+

@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.11.11CADBank Holiday,11/11/19 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2019.11.11EURFrench Bank Holiday,11/11/19 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2019.11.11USDBank Holiday,11/11/19 0:00,TRUE,Bank Holiday,USD,4," "," "
+2019.11.11JPYEconomy Watchers Sentiment,11/11/19 5:00,FALSE,Economy Watchers Sentiment,JPY,1,40.7,46.7
+2019.11.11EURGerman WPI m m,11/11/19 7:00,FALSE,German WPI m/m,EUR,1,0.2%,-0.4%
+2019.11.11EURItalian Industrial Production m m,11/11/19 9:00,FALSE,Italian Industrial Production m/m,EUR,1,-0.4%,0.4%
+2019.11.11CNYM2 Money Supply y y,11/11/19 9:01,FALSE,M2 Money Supply y/y,CNY,1,8.4%,8.4%
+2019.11.11CNYNew Loans,11/11/19 9:01,FALSE,New Loans,CNY,3,800B,1690B
+2019.11.11GBPConstruction Output m m,11/11/19 9:30,FALSE,Construction Output m/m,GBP,1,-0.5%,0.1%
+2019.11.11GBPGDP m m,11/11/19 9:30,FALSE,GDP m/m,GBP,2,-0.1%,-0.2%
+2019.11.11GBPGoods Trade Balance,11/11/19 9:30,FALSE,Goods Trade Balance,GBP,1,-10.1B,-10.8B
+2019.11.11GBPIndex of Services 3m 3m,11/11/19 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.4%,0.4%
+2019.11.11GBPIndustrial Production m m,11/11/19 9:30,FALSE,Industrial Production m/m,GBP,1,-0.1%,-0.7%
+2019.11.11GBPManufacturing Production m m,11/11/19 9:30,FALSE,Manufacturing Production m/m,GBP,2,-0.2%,-0.7%
+2019.11.11GBPPrelim Business Investment q q,11/11/19 9:30,FALSE,Prelim Business Investment q/q,GBP,1,-0.5%,-0.4%
+2019.11.11GBPPrelim GDP q q,11/11/19 9:30,FALSE,Prelim GDP q/q,GBP,3,0.4%,-0.2%
+2019.11.11USDFOMC Member Rosengren Speaks,11/11/19 13:15,FALSE,FOMC Member Rosengren Speaks,USD,1," "," "
+2019.11.11GBPNIESR GDP Estimate,11/11/19 13:17,FALSE,NIESR GDP Estimate,GBP,1," ",0.3%
+2019.11.11NZDVisitor Arrivals m m,11/11/19 21:45,FALSE,Visitor Arrivals m/m,NZD,1," ",1.4%
+2019.11.11JPYM2 Money Stock y y,11/11/19 23:50,FALSE,M2 Money Stock y/y,JPY,1,2.5%,2.4%
+

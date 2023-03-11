@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.05EUREurogroup Meetings,4/5/19 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2019.04.05JPYAverage Cash Earnings y y,4/5/19 0:30,FALSE,Average Cash Earnings y/y,JPY,1,0.9%,-0.6%
+2019.04.05JPYHousehold Spending y y,4/5/19 0:30,FALSE,Household Spending y/y,JPY,1,1.9%,2.0%
+2019.04.05JPYLeading Indicators,4/5/19 6:00,FALSE,Leading Indicators,JPY,1,97.3%,96.5%
+2019.04.05EURGerman Industrial Production m m,4/5/19 7:00,FALSE,German Industrial Production m/m,EUR,1,0.6%,0.0%
+2019.04.05EURFrench Trade Balance,4/5/19 7:45,FALSE,French Trade Balance,EUR,1,-4.7B,-4.2B
+2019.04.05CHFForeign Currency Reserves,4/5/19 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",739B
+2019.04.05GBPHalifax HPI m m,4/5/19 8:30,FALSE,Halifax HPI m/m,GBP,1,-2.5%,6.0%
+2019.04.05CADEmployment Change,4/5/19 13:30,FALSE,Employment Change,CAD,3,3.0K,55.9K
+2019.04.05CADUnemployment Rate,4/5/19 13:30,FALSE,Unemployment Rate,CAD,3,5.8%,5.8%
+2019.04.05USDAverage Hourly Earnings m m,4/5/19 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.3%,0.4%
+2019.04.05USDNon-Farm Employment Change,4/5/19 13:30,FALSE,Non-Farm Employment Change,USD,3,172K,33K
+2019.04.05USDUnemployment Rate,4/5/19 13:30,FALSE,Unemployment Rate,USD,3,3.8%,3.8%
+2019.04.05USDConsumer Credit m m,4/5/19 20:00,FALSE,Consumer Credit m/m,USD,1,17.2B,17.7B
+

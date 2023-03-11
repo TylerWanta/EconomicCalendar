@@ -1,0 +1,14 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.04CNYBank Holiday,4/4/19 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2019.04.04JPY30-y Bond Auction,4/4/19 4:35,FALSE,30-y Bond Auction,JPY,1," ",0.62|4.6
+2019.04.04EURGerman Factory Orders m m,4/4/19 7:00,FALSE,German Factory Orders m/m,EUR,1,0.3%,-2.1%
+2019.04.04GBPHousing Equity Withdrawal q q,4/4/19 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-7.7B,-7.3B
+2019.04.04EURSpanish 10-y Bond Auction,4/4/19 9:58,FALSE,Spanish 10-y Bond Auction,EUR,1," ",1.10|1.5
+2019.04.04EURFrench 10-y Bond Auction,4/4/19 10:00,FALSE,French 10-y Bond Auction,EUR,1," ",0.57|1.9
+2019.04.04EURECB Monetary Policy Meeting Accounts,4/4/19 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,2," "," "
+2019.04.04USDChallenger Job Cuts y y,4/4/19 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",117.2%
+2019.04.04USDUnemployment Claims,4/4/19 13:30,FALSE,Unemployment Claims,USD,1,215K,212K
+2019.04.04CADIvey PMI,4/4/19 15:00,FALSE,Ivey PMI,CAD,2,51.4,50.6
+2019.04.04USDNatural Gas Storage,4/4/19 15:30,FALSE,Natural Gas Storage,USD,1,2B,-36B
+2019.04.04AUDAIG Construction Index,4/4/19 22:30,FALSE,AIG Construction Index,AUD,1," ",43.8
+

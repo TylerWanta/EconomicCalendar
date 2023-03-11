@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.01.05AUDTrade Balance,1/5/12 0:30,FALSE,Trade Balance,AUD,3,1.68B,1.42B
+2012.01.05CNYCaixin Services PMI,1/5/12 2:30,FALSE,Caixin Services PMI,CNY,1,,52.5
+2012.01.05EURGerman Retail Sales m m,1/5/12 7:00,FALSE,German Retail Sales m/m,EUR,2,0.2%,-0.2%
+2012.01.05EURItalian Monthly Unemployment Rate,1/5/12 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.5%,8.5%
+2012.01.05EURItalian Quarterly Unemployment Rate,1/5/12 9:00,FALSE,Italian Quarterly Unemployment Rate,EUR,1,8.1%,8.0%
+2012.01.05GBPBOE Credit Conditions Survey,1/5/12 9:30,FALSE,BOE Credit Conditions Survey,GBP,2,,
+2012.01.05GBPFinal Services PMI,1/5/12 9:30,FALSE,Final Services PMI,GBP,3,51.6,52.1
+2012.01.05EURIndustrial New Orders m m,1/5/12 10:00,FALSE,Industrial New Orders m/m,EUR,2,2.4%,-7.8%
+2012.01.05EURPPI m m,1/5/12 10:00,FALSE,PPI m/m,EUR,1,0.1%,0.1%
+2012.01.05EURFrench 10-y Bond Auction,1/5/12 10:04,FALSE,French 10-y Bond Auction,EUR,2,,3.18|3.1
+2012.01.05USDChallenger Job Cuts y y,1/5/12 12:30,FALSE,Challenger Job Cuts y/y,USD,1,,-12.8%
+2012.01.05USDADP Non-Farm Employment Change,1/5/12 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,176K,204K
+2012.01.05CADIPPI m m,1/5/12 13:30,FALSE,IPPI m/m,CAD,1,0.2%,-0.1%
+2012.01.05CADRMPI m m,1/5/12 13:30,FALSE,RMPI m/m,CAD,2,0.1%,-1.0%
+2012.01.05USDUnemployment Claims,1/5/12 13:30,FALSE,Unemployment Claims,USD,3,375K,387K
+2012.01.05CHFSNB Chairman Hildebrand Speaks,1/5/12 15:00,FALSE,SNB Chairman Hildebrand Speaks,CHF,3,,
+2012.01.05USDISM Services PMI,1/5/12 15:00,FALSE,ISM Services PMI,USD,3,53.0,52.0
+2012.01.05CADIvey PMI,1/5/12 15:02,FALSE,Ivey PMI,CAD,3,57.5,59.9
+2012.01.05USDNatural Gas Storage,1/5/12 15:30,FALSE,Natural Gas Storage,USD,1,-78B,-81B
+2012.01.05USDCrude Oil Inventories,1/5/12 16:00,FALSE,Crude Oil Inventories,USD,2,-1.4M,3.9M
+

@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.15AUDNew Motor Vehicle Sales m m,1/15/14 0:30,FALSE,New Motor Vehicle Sales m/m,AUD,2," ",2.1%
+2014.01.15CNYM2 Money Supply y y,1/15/14 2:11,FALSE,M2 Money Supply y/y,CNY,1,13.9%,14.2%
+2014.01.15CNYNew Loans,1/15/14 2:11,FALSE,New Loans,CNY,2,589B,625B
+2014.01.15JPY30-y Bond Auction,1/15/14 3:45,FALSE,30-y Bond Auction,JPY,1," ",1.70|4.2
+2014.01.15JPYPrelim Machine Tool Orders y y,1/15/14 5:59,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",15.4%
+2014.01.15CHFRetail Sales y y,1/15/14 8:15,FALSE,Retail Sales y/y,CHF,2,2.3%,1.6%
+2014.01.15EURTrade Balance,1/15/14 10:00,FALSE,Trade Balance,EUR,1,16.7B,14.3B
+2014.01.15GBPCB Leading Index m m,1/15/14 10:00,FALSE,CB Leading Index m/m,GBP,1," ",0.4%
+2014.01.15USDCore PPI m m,1/15/14 13:30,FALSE,Core PPI m/m,USD,2,0.1%,0.1%
+2014.01.15USDEmpire State Manufacturing Index,1/15/14 13:30,FALSE,Empire State Manufacturing Index,USD,2,3.2,1.0
+2014.01.15USDPPI m m,1/15/14 13:30,FALSE,PPI m/m,USD,3,0.5%,-0.1%
+2014.01.15GBPBOE Gov Carney Speaks,1/15/14 14:15,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2014.01.15USDCrude Oil Inventories,1/15/14 15:30,FALSE,Crude Oil Inventories,USD,2,-0.7M,-2.7M
+2014.01.15USDBeige Book,1/15/14 19:00,FALSE,Beige Book,USD,2," "," "
+2014.01.15JPYCore Machinery Orders m m,1/15/14 23:50,FALSE,Core Machinery Orders m/m,JPY,2,1.2%,0.6%
+2014.01.15JPYPPI y y,1/15/14 23:50,FALSE,PPI y/y,JPY,1,2.7%,2.6%
+2014.01.15JPYTertiary Industry Activity m m,1/15/14 23:50,FALSE,Tertiary Industry Activity m/m,JPY,2,0.8%,-0.9%
+

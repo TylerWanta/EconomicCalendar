@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.01.26AllWEF Annual Meetings,1/26/18 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2018.01.26EURM3 Money Supply y y,1/26/18 9:00,FALSE,M3 Money Supply y/y,EUR,2,4.9%,4.9%
+2018.01.26EURPrivate Loans y y,1/26/18 9:00,FALSE,Private Loans y/y,EUR,1,2.9%,2.8%
+2018.01.26GBPIndex of Services 3m 3m,1/26/18 9:30,FALSE,Index of Services 3m/3m,GBP,1,0.4%,0.3%
+2018.01.26GBPPrelim GDP q q,1/26/18 9:30,FALSE,Prelim GDP q/q,GBP,3,0.4%,0.4%
+2018.01.26USDPresident Trump Speaks,1/26/18 13:07,FALSE,President Trump Speaks,USD,3," "," "
+2018.01.26CADCPI m m,1/26/18 13:30,FALSE,CPI m/m,CAD,3,-0.3%,0.3%
+2018.01.26CADCommon CPI y y,1/26/18 13:30,FALSE,Common CPI y/y,CAD,2," ",1.5%
+2018.01.26CADMedian CPI y y,1/26/18 13:30,FALSE,Median CPI y/y,CAD,2," ",1.9%
+2018.01.26CADTrimmed CPI y y,1/26/18 13:30,FALSE,Trimmed CPI y/y,CAD,2," ",1.8%
+2018.01.26USDAdvance GDP Price Index q q,1/26/18 13:30,FALSE,Advance GDP Price Index q/q,USD,2,2.3%,2.1%
+2018.01.26USDAdvance GDP q q,1/26/18 13:30,FALSE,Advance GDP q/q,USD,3,3.0%,3.2%
+2018.01.26USDCore Durable Goods Orders m m,1/26/18 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.5%,0.3%
+2018.01.26USDDurable Goods Orders m m,1/26/18 13:30,FALSE,Durable Goods Orders m/m,USD,2,0.9%,1.7%
+2018.01.26USDGoods Trade Balance,1/26/18 13:30,FALSE,Goods Trade Balance,USD,1,-68.6B,-70.0B
+2018.01.26USDPrelim Wholesale Inventories m m,1/26/18 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.4%,0.8%
+2018.01.26CADCore CPI m m,1/26/18 13:33,FALSE,Core CPI m/m,CAD,1," ",-0.1%
+2018.01.26CNYCB Leading Index m m,1/26/18 14:00,FALSE,CB Leading Index m/m,CNY,1," ",1.9%
+2018.01.26GBPBOE Gov Carney Speaks,1/26/18 14:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2018.01.26JPYBOJ Gov Kuroda Speaks,1/26/18 14:00,FALSE,BOJ Gov Kuroda Speaks,JPY,3," "," "
+

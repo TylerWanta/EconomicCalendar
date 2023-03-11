@@ -1,0 +1,12 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.04.26EURGerman Prelim CPI m m,4/26/12 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.1%,0.3%
+2012.04.26GBPNationwide Consumer Confidence,4/26/12 0:01,FALSE,Nationwide Consumer Confidence,GBP,2,42,44
+2012.04.26AUDCB Leading Index m m,4/26/12 1:00,FALSE,CB Leading Index m/m,AUD,2," ",1.0%
+2012.04.26JPYAll Industries Activity m m,4/26/12 5:30,FALSE,All Industries Activity m/m,JPY,1,0.0%,-1.0%
+2012.04.26EURECB President Draghi Speaks,4/26/12 8:30,FALSE,ECB President Draghi Speaks,EUR,2," "," "
+2012.04.26GBPHigh Street Lending,4/26/12 9:30,FALSE,High Street Lending,GBP,2,34.3K,32.8K
+2012.04.26GBPCBI Realized Sales,4/26/12 11:00,FALSE,CBI Realized Sales,GBP,2,-4,0
+2012.04.26USDUnemployment Claims,4/26/12 13:30,FALSE,Unemployment Claims,USD,3,374K,389K
+2012.04.26USDPending Home Sales m m,4/26/12 15:00,FALSE,Pending Home Sales m/m,USD,3,1.2%,0.4%
+2012.04.26USDNatural Gas Storage,4/26/12 15:30,FALSE,Natural Gas Storage,USD,1,46B,25B
+

@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.10.05CNYBank Holiday,10/5/11 0:00,TRUE,Bank Holiday,CNY,4,,
+2011.10.05GBPBRC Shop Price Index y y,10/5/11 0:00,FALSE,BRC Shop Price Index y/y,GBP,1,,2.7%
+2011.10.05AUDRetail Sales m m,10/5/11 1:30,FALSE,Retail Sales m/m,AUD,3,0.3%,0.6%
+2011.10.05EURSpanish Services PMI,10/5/11 8:15,FALSE,Spanish Services PMI,EUR,1,,45.2
+2011.10.05EURItalian Services PMI,10/5/11 8:45,FALSE,Italian Services PMI,EUR,1,47.1,48.4
+2011.10.05EURFrench Final Services PMI,10/5/11 8:50,FALSE,French Final Services PMI,EUR,1,52.5,52.5
+2011.10.05EURGerman Final Services PMI,10/5/11 8:55,FALSE,German Final Services PMI,EUR,1,50.3,50.3
+2011.10.05EURFinal Services PMI,10/5/11 9:00,FALSE,Final Services PMI,EUR,1,49.1,49.1
+2011.10.05GBPFinal GDP q q,10/5/11 9:30,FALSE,Final GDP q/q,GBP,2,0.2%,0.2%
+2011.10.05GBPFinal Services PMI,10/5/11 9:30,FALSE,Final Services PMI,GBP,3,50.6,51.1
+2011.10.05GBPRevised Business Investment q q,10/5/11 9:30,FALSE,Revised Business Investment q/q,GBP,1,0.7%,-10.0%
+2011.10.05EURRetail Sales m m,10/5/11 10:00,FALSE,Retail Sales m/m,EUR,2,-0.2%,0.2%
+2011.10.05EURFinal GDP q q,10/5/11 10:11,FALSE,Final GDP q/q,EUR,1,0.2%,0.2%
+2011.10.05USDChallenger Job Cuts y y,10/5/11 12:30,FALSE,Challenger Job Cuts y/y,USD,1,,47.0%
+2011.10.05USDADP Non-Farm Employment Change,10/5/11 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,76K,89K
+2011.10.05USDISM Services PMI,10/5/11 15:00,FALSE,ISM Services PMI,USD,3,53.0,53.3
+2011.10.05USDCrude Oil Inventories,10/5/11 15:30,FALSE,Crude Oil Inventories,USD,2,1.0M,1.9M
+

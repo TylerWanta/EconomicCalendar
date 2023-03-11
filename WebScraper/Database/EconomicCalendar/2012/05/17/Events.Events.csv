@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.05.17CHFBank Holiday,5/17/12 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2012.05.17EURFrench Bank Holiday,5/17/12 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2012.05.17EURGerman Bank Holiday,5/17/12 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2012.05.17JPYPrelim GDP Price Index y y,5/17/12 0:50,FALSE,Prelim GDP Price Index y/y,JPY,1,-1.4%,-1.9%
+2012.05.17JPYPrelim GDP q q,5/17/12 0:50,FALSE,Prelim GDP q/q,JPY,3,0.9%,0.0%
+2012.05.17AUDMI Inflation Expectations,5/17/12 1:59,FALSE,MI Inflation Expectations,AUD,2," ",3.3%
+2012.05.17JPYRevised Industrial Production m m,5/17/12 5:30,FALSE,Revised Industrial Production m/m,JPY,1,1.1%,1.0%
+2012.05.17GBPMPC Member Weale Speaks,5/17/12 12:00,FALSE,MPC Member Weale Speaks,GBP,2," "," "
+2012.05.17CADForeign Securities Purchases,5/17/12 13:30,FALSE,Foreign Securities Purchases,CAD,2,9.34B,12.54B
+2012.05.17CADWholesale Sales m m,5/17/12 13:30,FALSE,Wholesale Sales m/m,CAD,2,0.4%,1.5%
+2012.05.17USDTreasury Sec Geithner Speaks,5/17/12 13:30,FALSE,Treasury Sec Geithner Speaks,USD,1," "," "
+2012.05.17USDUnemployment Claims,5/17/12 13:30,FALSE,Unemployment Claims,USD,3,368K,370K
+2012.05.17USDCB Leading Index m m,5/17/12 15:00,FALSE,CB Leading Index m/m,USD,1,0.1%,0.3%
+2012.05.17USDPhilly Fed Manufacturing Index,5/17/12 15:00,FALSE,Philly Fed Manufacturing Index,USD,3,10.3,8.5
+2012.05.17CADBOC Review,5/17/12 15:30,FALSE,BOC Review,CAD,1," "," "
+2012.05.17USDNatural Gas Storage,5/17/12 15:30,FALSE,Natural Gas Storage,USD,1,25B,30B
+

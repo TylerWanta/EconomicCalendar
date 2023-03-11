@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.09.11JPYBSI Manufacturing Index,9/11/13 0:50,FALSE,BSI Manufacturing Index,JPY,2,7.2,5.0
+2013.09.11JPYPPI y y,9/11/13 0:50,FALSE,PPI y/y,JPY,1,2.3%,2.3%
+2013.09.11AUDWestpac Consumer Sentiment,9/11/13 1:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",3.5%
+2013.09.11USDPresident Obama Speaks,9/11/13 2:00,FALSE,President Obama Speaks,USD,2," "," "
+2013.09.11EURFrench Final Private Payrolls q q,9/11/13 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,-0.2%,0.0%
+2013.09.11EURGerman Final CPI m m,9/11/13 7:00,FALSE,German Final CPI m/m,EUR,1,0.0%,0.0%
+2013.09.11GBPAverage Earnings Index 3m y,9/11/13 9:30,FALSE,Average Earnings Index 3m/y,GBP,2,1.3%,2.2%
+2013.09.11GBPClaimant Count Change,9/11/13 9:30,FALSE,Claimant Count Change,GBP,3,-21.2K,-36.3K
+2013.09.11GBPUnemployment Rate,9/11/13 9:30,FALSE,Unemployment Rate,GBP,2,7.8%,7.8%
+2013.09.11GBPCB Leading Index m m,9/11/13 10:00,FALSE,CB Leading Index m/m,GBP,1," ",-0.3%
+2013.09.11EURGerman 10-y Bond Auction,9/11/13 10:33,FALSE,German 10-y Bond Auction,EUR,2," ",1.80|1.3
+2013.09.11USDFinal Wholesale Inventories m m,9/11/13 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,0.3%,-0.2%
+2013.09.11USDCrude Oil Inventories,9/11/13 15:30,FALSE,Crude Oil Inventories,USD,2,-2.2M,-1.8M
+2013.09.11GBPMPC Member Miles Speaks,9/11/13 16:30,FALSE,MPC Member Miles Speaks,GBP,2," "," "
+2013.09.11USD10-y Bond Auction,9/11/13 18:00,FALSE,10-y Bond Auction,USD,2," ",2.62|2.5
+2013.09.11NZDOfficial Cash Rate,9/11/13 22:00,FALSE,Official Cash Rate,NZD,3,2.50%,2.50%
+2013.09.11NZDRBNZ Monetary Policy Statement,9/11/13 22:00,FALSE,RBNZ Monetary Policy Statement,NZD,2," "," "
+2013.09.11NZDRBNZ Press Conference,9/11/13 22:00,FALSE,RBNZ Press Conference,NZD,3," "," "
+2013.09.11NZDRBNZ Rate Statement,9/11/13 22:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+

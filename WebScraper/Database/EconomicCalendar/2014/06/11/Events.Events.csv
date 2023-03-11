@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.06.11AllOPEC Meetings,6/11/14 0:00,TRUE,OPEC Meetings,All,1," "," "
+2014.06.11JPYBSI Manufacturing Index,6/11/14 0:50,FALSE,BSI Manufacturing Index,JPY,2,14.1,12.5
+2014.06.11JPYPPI y y,6/11/14 0:50,FALSE,PPI y/y,JPY,1,4.1%,4.2%
+2014.06.11AUDWestpac Consumer Sentiment,6/11/14 1:30,FALSE,Westpac Consumer Sentiment,AUD,3," ",-6.8%
+2014.06.11GBPAverage Earnings Index 3m y,6/11/14 9:30,FALSE,Average Earnings Index 3m/y,GBP,2,1.2%,1.9%
+2014.06.11GBPClaimant Count Change,6/11/14 9:30,FALSE,Claimant Count Change,GBP,3,-25.0K,-28.4K
+2014.06.11GBPUnemployment Rate,6/11/14 9:30,FALSE,Unemployment Rate,GBP,3,6.7%,6.8%
+2014.06.11GBPMPC Member Broadbent Speaks,6/11/14 14:45,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2014.06.11USDCrude Oil Inventories,6/11/14 15:30,FALSE,Crude Oil Inventories,USD,2,-1.3M,-3.4M
+2014.06.11USD10-y Bond Auction,6/11/14 18:01,FALSE,10-y Bond Auction,USD,2," ",2.61|2.6
+2014.06.11USDFederal Budget Balance,6/11/14 19:00,FALSE,Federal Budget Balance,USD,2,-132.8B,106.9B
+2014.06.11NZDOfficial Cash Rate,6/11/14 22:00,FALSE,Official Cash Rate,NZD,3,3.25%,3.00%
+2014.06.11NZDRBNZ Monetary Policy Statement,6/11/14 22:00,FALSE,RBNZ Monetary Policy Statement,NZD,3," "," "
+2014.06.11NZDRBNZ Press Conference,6/11/14 22:00,FALSE,RBNZ Press Conference,NZD,3," "," "
+2014.06.11NZDRBNZ Rate Statement,6/11/14 22:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+

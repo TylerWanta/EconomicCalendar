@@ -1,0 +1,9 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.12.22JPYBank Holiday,12/22/14 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2014.12.22JPYBOJ Monthly Report,12/22/14 5:00,FALSE,BOJ Monthly Report,JPY,1," "," "
+2014.12.22EURGerman Import Prices m m,12/22/14 7:00,FALSE,German Import Prices m/m,EUR,1,-0.6%,-0.3%
+2014.12.22GBPFPC Meeting Minutes,12/22/14 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2014.12.22EURConsumer Confidence,12/22/14 15:00,FALSE,Consumer Confidence,EUR,1,-11,-12
+2014.12.22USDExisting Home Sales,12/22/14 15:00,FALSE,Existing Home Sales,USD,2,5.21M,5.25M
+2014.12.22NZDTrade Balance,12/22/14 21:45,FALSE,Trade Balance,NZD,3,-550M,-911M
+

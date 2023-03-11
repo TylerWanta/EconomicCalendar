@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.02.12NZDOfficial Cash Rate,2/12/20 1:00,FALSE,Official Cash Rate,NZD,3,1.00%,1.00%
+2020.02.12NZDRBNZ Monetary Policy Statement,2/12/20 1:00,FALSE,RBNZ Monetary Policy Statement,NZD,3," "," "
+2020.02.12NZDRBNZ Rate Statement,2/12/20 1:00,FALSE,RBNZ Rate Statement,NZD,3," "," "
+2020.02.12NZDRBNZ Press Conference,2/12/20 2:00,FALSE,RBNZ Press Conference,NZD,3," "," "
+2020.02.12JPYPrelim Machine Tool Orders y y,2/12/20 5:59,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-33.5%
+2020.02.12EURIndustrial Production m m,2/12/20 10:00,FALSE,Industrial Production m/m,EUR,1,-1.8%,0.0%
+2020.02.12EURGerman 10-y Bond Auction,2/12/20 10:33,FALSE,German 10-y Bond Auction,EUR,1," ",-0.25|1.2
+2020.02.12USDFOMC Member Harker Speaks,2/12/20 13:30,FALSE,FOMC Member Harker Speaks,USD,1," "," "
+2020.02.12GBPCB Leading Index m m,2/12/20 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.2%
+2020.02.12USDFed Chair Powell Testifies,2/12/20 14:30,FALSE,Fed Chair Powell Testifies,USD,3," "," "
+2020.02.12USDCrude Oil Inventories,2/12/20 15:30,FALSE,Crude Oil Inventories,USD,2,3.1M,3.4M
+2020.02.12USD10-y Bond Auction,2/12/20 18:01,FALSE,10-y Bond Auction,USD,1," ",1.87|2.4
+2020.02.12USDFederal Budget Balance,2/12/20 19:00,FALSE,Federal Budget Balance,USD,1,-10.7B,-13.3B
+2020.02.12NZDRBNZ Gov Orr Speaks,2/12/20 19:10,FALSE,RBNZ Gov Orr Speaks,NZD,3," "," "
+2020.02.12JPYPPI y y,2/12/20 23:50,FALSE,PPI y/y,JPY,1,1.5%,0.9%
+

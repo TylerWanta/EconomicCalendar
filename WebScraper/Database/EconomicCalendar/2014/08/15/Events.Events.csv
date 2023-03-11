@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.08.15EURFrench Bank Holiday,8/15/14 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2014.08.15EURItalian Bank Holiday,8/15/14 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2014.08.15GBPIndex of Services 3m 3m,8/15/14 9:30,FALSE,Index of Services 3m/3m,GBP,1,1.0%,1.0%
+2014.08.15GBPSecond Estimate GDP q q,8/15/14 9:30,FALSE,Second Estimate GDP q/q,GBP,3,0.8%,0.8%
+2014.08.15CADManufacturing Sales m m,8/15/14 13:30,FALSE,Manufacturing Sales m/m,CAD,3,0.5%,1.7%
+2014.08.15USDCore PPI m m,8/15/14 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.2%
+2014.08.15USDEmpire State Manufacturing Index,8/15/14 13:30,FALSE,Empire State Manufacturing Index,USD,2,20.3,25.6
+2014.08.15USDPPI m m,8/15/14 13:30,FALSE,PPI m/m,USD,3,0.1%,0.4%
+2014.08.15USDTIC Long-Term Purchases,8/15/14 14:00,FALSE,TIC Long-Term Purchases,USD,2,27.3B,18.6B
+2014.08.15USDCapacity Utilization Rate,8/15/14 14:15,FALSE,Capacity Utilization Rate,USD,2,79.2%,79.1%
+2014.08.15USDIndustrial Production m m,8/15/14 14:15,FALSE,Industrial Production m/m,USD,2,0.3%,0.4%
+2014.08.15USDPrelim UoM Consumer Sentiment,8/15/14 14:55,FALSE,Prelim UoM Consumer Sentiment,USD,3,82.7,81.8
+2014.08.15USDPrelim UoM Inflation Expectations,8/15/14 14:55,FALSE,Prelim UoM Inflation Expectations,USD,1," ",3.3%
+

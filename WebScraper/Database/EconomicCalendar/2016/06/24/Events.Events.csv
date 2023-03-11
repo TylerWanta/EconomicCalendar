@@ -1,0 +1,14 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.06.24AllG7 Meetings,6/24/16 0:00,TRUE,G7 Meetings,All,3," "," "
+2016.06.24JPYBOJ Summary of Opinions,6/24/16 0:50,FALSE,BOJ Summary of Opinions,JPY,1," "," "
+2016.06.24JPYSPPI y y,6/24/16 0:50,FALSE,SPPI y/y,JPY,1,0.1%,0.3%
+2016.06.24GBPBOE Gov Carney Speaks,6/24/16 8:46,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2016.06.24EURGerman ifo Business Climate,6/24/16 9:00,FALSE,German ifo Business Climate,EUR,3,107.6,107.8
+2016.06.24EURItalian Retail Sales m m,6/24/16 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.6%
+2016.06.24GBPHigh Street Lending,6/24/16 9:30,FALSE,High Street Lending,GBP,1,37.9K,40.0K
+2016.06.24EURLong Term Refinancing Operation,6/24/16 10:30,FALSE,Long Term Refinancing Operation,EUR,2," ",6.7B
+2016.06.24USDCore Durable Goods Orders m m,6/24/16 13:30,FALSE,Core Durable Goods Orders m/m,USD,3,0.1%,0.5%
+2016.06.24USDDurable Goods Orders m m,6/24/16 13:30,FALSE,Durable Goods Orders m/m,USD,2,-0.5%,-0.8%
+2016.06.24USDRevised UoM Consumer Sentiment,6/24/16 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,94.2,94.3
+2016.06.24USDRevised UoM Inflation Expectations,6/24/16 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",2.4%
+

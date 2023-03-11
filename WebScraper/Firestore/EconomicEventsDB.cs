@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Linq;
 using System.Threading.Tasks;
 using Google.Cloud.Firestore;
 using WebScraper.Types;
@@ -42,6 +43,18 @@ namespace WebScraper.Firestore
                 DocumentReference eventReference = _db.Collection(_eventsCollection).Document(economicEvent.Id);
                 await eventReference.SetAsync(economicEvent); // will overwrite event if it already exists
             }
+        }
+
+        async public Task<List<EconomicEvent>> GetEventsBetween(DateTime utcFrom, DateTime utcTo)
+        {
+            CollectionReference eventsRef = _db.Collection(_eventsCollection);
+            Query eventsFromDate = eventsRef
+                .WhereGreaterThanOrEqualTo(nameof(EconomicEvent.Date), utcFrom)
+                .WhereLessThan(nameof(EconomicEvent.Date), utcTo)
+                .OrderBy(nameof(EconomicEvent.Date));
+
+            QuerySnapshot querySnapshot = await eventsFromDate.GetSnapshotAsync();
+            return querySnapshot.Documents.Select(ds => new EconomicEvent(ds)).ToList();
         }
 
         async public Task<DateTime?> MostRecentDayThatHasEvents()

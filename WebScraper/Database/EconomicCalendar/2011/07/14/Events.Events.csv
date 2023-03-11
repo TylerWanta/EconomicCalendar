@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.07.14EURFrench Bank Holiday,7/14/11 0:00,TRUE,French Bank Holiday,EUR,4,,
+2011.07.14NZDREINZ HPI m m,7/14/11 1:00,FALSE,REINZ HPI m/m,NZD,2,,-1.8%
+2011.07.14AUDMI Inflation Expectations,7/14/11 2:00,FALSE,MI Inflation Expectations,AUD,2,,3.3%
+2011.07.14EURECB Monthly Bulletin,7/14/11 9:00,FALSE,ECB Monthly Bulletin,EUR,2,,
+2011.07.14EURFinal CPI y y,7/14/11 10:00,FALSE,Final CPI y/y,EUR,2,2.7%,2.7%
+2011.07.14EURFinal Core CPI y y,7/14/11 10:00,FALSE,Final Core CPI y/y,EUR,2,1.5%,1.5%
+2011.07.14GBP30-y Bond Auction,7/14/11 11:39,FALSE,30-y Bond Auction,GBP,1,,4.21|1.5
+2011.07.14USDCore PPI m m,7/14/11 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.2%
+2011.07.14USDCore Retail Sales m m,7/14/11 13:30,FALSE,Core Retail Sales m/m,USD,3,0.1%,0.2%
+2011.07.14USDPPI m m,7/14/11 13:30,FALSE,PPI m/m,USD,3,-0.2%,0.2%
+2011.07.14USDRetail Sales m m,7/14/11 13:30,FALSE,Retail Sales m/m,USD,3,-0.1%,-0.1%
+2011.07.14USDUnemployment Claims,7/14/11 13:30,FALSE,Unemployment Claims,USD,3,413K,427K
+2011.07.14USDBusiness Inventories m m,7/14/11 15:00,FALSE,Business Inventories m/m,USD,2,0.7%,1.0%
+2011.07.14USDFed Chairman Bernanke Testifies,7/14/11 15:00,FALSE,Fed Chairman Bernanke Testifies,USD,3,,
+2011.07.14USDNatural Gas Storage,7/14/11 15:30,FALSE,Natural Gas Storage,USD,1,79B,95B
+2011.07.14USD30-y Bond Auction,7/14/11 18:00,FALSE,30-y Bond Auction,USD,1,,4.24|2.6
+

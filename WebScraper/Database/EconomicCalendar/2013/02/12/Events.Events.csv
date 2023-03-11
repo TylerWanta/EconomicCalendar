@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.02.12CNYBank Holiday,2/12/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.02.12EURECOFIN Meetings,2/12/13 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2013.02.12GBPRICS House Price Balance,2/12/13 0:01,FALSE,RICS House Price Balance,GBP,2,0%,-1%
+2013.02.12AUDNAB Business Confidence,2/12/13 0:30,FALSE,NAB Business Confidence,AUD,2," ",2
+2013.02.12JPYConsumer Confidence,2/12/13 5:00,FALSE,Consumer Confidence,JPY,1,40.5,39.2
+2013.02.12JPYPrelim Machine Tool Orders y y,2/12/13 6:03,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-27.5%
+2013.02.12CHFCPI m m,2/12/13 8:15,FALSE,CPI m/m,CHF,3,-0.3%,-0.2%
+2013.02.12GBPCPI y y,2/12/13 9:30,FALSE,CPI y/y,GBP,3,2.7%,2.7%
+2013.02.12GBPCore CPI y y,2/12/13 9:30,FALSE,Core CPI y/y,GBP,1,2.4%,2.4%
+2013.02.12GBPONS HPI y y,2/12/13 9:30,FALSE,ONS HPI y/y,GBP,1,2.1%,2.2%
+2013.02.12GBPPPI Input m m,2/12/13 9:30,FALSE,PPI Input m/m,GBP,2,0.9%,0.0%
+2013.02.12GBPPPI Output m m,2/12/13 9:30,FALSE,PPI Output m/m,GBP,1,0.2%,-0.1%
+2013.02.12GBPRPI y y,2/12/13 9:30,FALSE,RPI y/y,GBP,2,3.2%,3.1%
+2013.02.12CHFSNB Chairman Jordan Speaks,2/12/13 10:00,FALSE,SNB Chairman Jordan Speaks,CHF,3," "," "
+2013.02.12GBPCB Leading Index m m,2/12/13 10:00,FALSE,CB Leading Index m/m,GBP,1," ",0.2%
+2013.02.12USDNFIB Small Business Index,2/12/13 12:30,FALSE,NFIB Small Business Index,USD,1,89.0,88.0
+2013.02.12CADBOC Gov Carney Speaks,2/12/13 13:45,FALSE,BOC Gov Carney Speaks,CAD,3," "," "
+2013.02.12EURECB President Draghi Speaks,2/12/13 14:30,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2013.02.12USDJOLTS Job Openings,2/12/13 15:00,FALSE,JOLTS Job Openings,USD,2,3.73M,3.79M
+2013.02.12USDFOMC Member George Speaks,2/12/13 16:30,FALSE,FOMC Member George Speaks,USD,2," "," "
+2013.02.12USDFederal Budget Balance,2/12/13 18:46,FALSE,Federal Budget Balance,USD,2,-4.6B,-0.3B
+2013.02.12AUDWestpac Consumer Sentiment,2/12/13 23:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",0.6%
+2013.02.12JPYPPI y y,2/12/13 23:50,FALSE,PPI y/y,JPY,1,-0.3%,-0.7%
+2013.02.12JPYTertiary Industry Activity m m,2/12/13 23:50,FALSE,Tertiary Industry Activity m/m,JPY,2,0.8%,-0.4%
+

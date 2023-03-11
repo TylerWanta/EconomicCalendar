@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.10.26JPYSPPI y y,10/26/16 0:50,FALSE,SPPI y/y,JPY,1,0.2%,0.2%
+2016.10.26AUDCPI q q,10/26/16 1:30,FALSE,CPI q/q,AUD,3,0.5%,0.4%
+2016.10.26AUDTrimmed Mean CPI q q,10/26/16 1:30,FALSE,Trimmed Mean CPI q/q,AUD,2,0.4%,0.5%
+2016.10.26EURGerman GfK Consumer Climate,10/26/16 7:00,FALSE,German GfK Consumer Climate,EUR,1,10.1,10.0
+2016.10.26EURGerman Import Prices m m,10/26/16 7:00,FALSE,German Import Prices m/m,EUR,1,0.1%,-0.2%
+2016.10.26EURItalian Retail Sales m m,10/26/16 9:00,FALSE,Italian Retail Sales m/m,EUR,1,0.2%,-0.2%
+2016.10.26GBPHigh Street Lending,10/26/16 9:30,FALSE,High Street Lending,GBP,1,37.3K,37.2K
+2016.10.26USDGoods Trade Balance,10/26/16 13:30,FALSE,Goods Trade Balance,USD,1,-60.6B,-59.2B
+2016.10.26USDPrelim Wholesale Inventories m m,10/26/16 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.1%,-0.2%
+2016.10.26USDFlash Services PMI,10/26/16 14:45,FALSE,Flash Services PMI,USD,1,52.4,52.3
+2016.10.26USDNew Home Sales,10/26/16 15:00,FALSE,New Home Sales,USD,2,601K,575K
+2016.10.26USDCrude Oil Inventories,10/26/16 15:30,FALSE,Crude Oil Inventories,USD,3,0.7M,-5.2M
+2016.10.26NZDTrade Balance,10/26/16 22:45,FALSE,Trade Balance,NZD,2,-1125M,-1243M
+

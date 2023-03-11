@@ -42,6 +42,44 @@ namespace API.Models
 
         public EconomicEvent() { }
 
+        //public EconomicEvent(DocumentSnapshot ds)
+        //{ 
+        //    if (ds.TryGetValue<DateTime>(nameof(Date), out DateTime date))
+        //    {
+        //        _date = date;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+
+        //    if (ds.TryGetValue<bool>(nameof(AllDay), out bool allDay))
+        //    {
+        //        _allDay = allDay;
+        //    }
+        //}
+
         public EconomicEvent(DateTime date, bool allDay, string title, string symbol, byte impact, string forecast, string previous)
         {
             _date = date;

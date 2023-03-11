@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.11.09EURECOFIN Meetings,11/9/21 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2021.11.09GBPBRC Retail Sales Monitor y y,11/9/21 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1,1.1%,-0.6%
+2021.11.09JPY30-y Bond Auction,11/9/21 3:35,FALSE,30-y Bond Auction,JPY,1," ",0.70|2.9
+2021.11.09JPYEconomy Watchers Sentiment,11/9/21 5:00,FALSE,Economy Watchers Sentiment,JPY,1,48.6,42.1
+2021.11.09EURGerman Trade Balance,11/9/21 7:05,FALSE,German Trade Balance,EUR,1,14.2B,14.0B
+2021.11.09EURFrench Trade Balance,11/9/21 7:45,FALSE,French Trade Balance,EUR,1,-7.0B,-6.7B
+2021.11.09EURGerman ZEW Economic Sentiment,11/9/21 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,20.3,22.3
+2021.11.09EURZEW Economic Sentiment,11/9/21 10:00,FALSE,ZEW Economic Sentiment,EUR,2,20.6,21.0
+2021.11.09USDNFIB Small Business Index,11/9/21 11:00,FALSE,NFIB Small Business Index,USD,1,99.4,99.1
+2021.11.09EURECB President Lagarde Speaks,11/9/21 13:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2021.11.09USDCore PPI m m,11/9/21 13:30,FALSE,Core PPI m/m,USD,2,0.5%,0.2%
+2021.11.09USDPPI m m,11/9/21 13:30,FALSE,PPI m/m,USD,3,0.6%,0.5%
+2021.11.09USDFed Chair Powell Speaks,11/9/21 14:00,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2021.11.09GBPMPC Member Broadbent Speaks,11/9/21 15:30,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2021.11.09GBPBOE Gov Bailey Speaks,11/9/21 16:00,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+2021.11.09USDFOMC Member Daly Speaks,11/9/21 16:35,FALSE,FOMC Member Daly Speaks,USD,1," "," "
+2021.11.09USD10-y Bond Auction,11/9/21 18:01,FALSE,10-y Bond Auction,USD,2," ",1.58|2.6
+2021.11.09CADBOC Gov Macklem Speaks,11/9/21 22:45,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2021.11.09AUDWestpac Consumer Sentiment,11/9/21 23:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",-1.5%
+2021.11.09JPYM2 Money Stock y y,11/9/21 23:50,FALSE,M2 Money Stock y/y,JPY,1,4.0%,4.2%
+

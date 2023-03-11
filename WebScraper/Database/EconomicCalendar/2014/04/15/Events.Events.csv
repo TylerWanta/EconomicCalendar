@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.04.15GBPBRC Retail Sales Monitor y y,4/15/14 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,2," ",-1.0%
+2014.04.15AUDMonetary Policy Meeting Minutes,4/15/14 2:30,FALSE,Monetary Policy Meeting Minutes,AUD,3," "," "
+2014.04.15CNYM2 Money Supply y y,4/15/14 3:00,FALSE,M2 Money Supply y/y,CNY,1,13.1%,13.3%
+2014.04.15CNYNew Loans,4/15/14 3:00,FALSE,New Loans,CNY,2,1000B,645B
+2014.04.15CHFPPI m m,4/15/14 8:15,FALSE,PPI m/m,CHF,2,0.3%,-0.4%
+2014.04.15GBPCPI y y,4/15/14 9:30,FALSE,CPI y/y,GBP,3,1.6%,1.7%
+2014.04.15GBPCore CPI y y,4/15/14 9:30,FALSE,Core CPI y/y,GBP,1,1.6%,1.7%
+2014.04.15GBPONS HPI y y,4/15/14 9:30,FALSE,ONS HPI y/y,GBP,1,7.2%,6.8%
+2014.04.15GBPPPI Input m m,4/15/14 9:30,FALSE,PPI Input m/m,GBP,2,-0.1%,-0.5%
+2014.04.15GBPPPI Output m m,4/15/14 9:30,FALSE,PPI Output m/m,GBP,1,0.1%,0.1%
+2014.04.15GBPRPI y y,4/15/14 9:30,FALSE,RPI y/y,GBP,2,2.5%,2.7%
+2014.04.15EURGerman ZEW Economic Sentiment,4/15/14 10:00,FALSE,German ZEW Economic Sentiment,EUR,3,46.3,46.6
+2014.04.15EURTrade Balance,4/15/14 10:00,FALSE,Trade Balance,EUR,1,14.8B,13.9B
+2014.04.15EURZEW Economic Sentiment,4/15/14 10:00,FALSE,ZEW Economic Sentiment,EUR,2,60.7,61.5
+2014.04.15CADManufacturing Sales m m,4/15/14 13:30,FALSE,Manufacturing Sales m/m,CAD,3,1.1%,0.8%
+2014.04.15USDCPI m m,4/15/14 13:30,FALSE,CPI m/m,USD,2,0.1%,0.1%
+2014.04.15USDCPI y y,4/15/14 13:30,FALSE,CPI y/y,USD,3,1.5%,1.1%
+2014.04.15USDCore CPI m m,4/15/14 13:30,FALSE,Core CPI m/m,USD,3,0.1%,0.1%
+2014.04.15USDEmpire State Manufacturing Index,4/15/14 13:30,FALSE,Empire State Manufacturing Index,USD,2,8.2,5.6
+2014.04.15USDFed Chair Yellen Speaks,4/15/14 13:45,FALSE,Fed Chair Yellen Speaks,USD,3," "," "
+2014.04.15USDTIC Long-Term Purchases,4/15/14 14:00,FALSE,TIC Long-Term Purchases,USD,2,31.6B,7.7B
+2014.04.15USDNAHB Housing Market Index,4/15/14 15:00,FALSE,NAHB Housing Market Index,USD,2,50,46
+2014.04.15NZDGDT Price Index,4/15/14 15:55,FALSE,GDT Price Index,NZD,2," ",-8.9%
+2014.04.15USDFOMC Member Plosser Speaks,4/15/14 20:00,FALSE,FOMC Member Plosser Speaks,USD,2," "," "
+2014.04.15USDTreasury Currency Report,4/15/14 22:15,FALSE,Treasury Currency Report,USD,2," "," "
+2014.04.15NZDCPI q q,4/15/14 23:45,FALSE,CPI q/q,NZD,3,0.5%,0.1%
+

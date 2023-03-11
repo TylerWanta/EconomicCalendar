@@ -1,0 +1,10 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.04.14AllG7 Meetings,4/14/20 0:00,TRUE,G7 Meetings,All,3," "," "
+2020.04.14AllIMF Meetings,4/14/20 0:00,TRUE,IMF Meetings,All,1," "," "
+2020.04.14AUDNAB Business Confidence,4/14/20 2:30,FALSE,NAB Business Confidence,AUD,2," ",-2
+2020.04.14CNYUSD-Denominated Trade Balance,4/14/20 4:48,FALSE,USD-Denominated Trade Balance,CNY,2,19.7B,-7.1B
+2020.04.14CNYTrade Balance,4/14/20 4:49,FALSE,Trade Balance,CNY,3,175B,-43B
+2020.04.14USDImport Prices m m,4/14/20 13:30,FALSE,Import Prices m/m,USD,1,-3.1%,-0.7%
+2020.04.14USDPresident Trump Speaks,4/14/20 23:15,FALSE,President Trump Speaks,USD,3," "," "
+2020.04.14NZDFPI m m,4/14/20 23:45,FALSE,FPI m/m,NZD,1," ",0.0%
+

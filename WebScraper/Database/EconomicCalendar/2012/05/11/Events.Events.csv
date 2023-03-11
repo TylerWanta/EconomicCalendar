@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2012.05.11GBPNationwide Consumer Confidence,5/11/12 0:01,FALSE,Nationwide Consumer Confidence,GBP,2,52,53
+2012.05.11JPYM2 Money Stock y y,5/11/12 0:50,FALSE,M2 Money Stock y/y,JPY,1,3.0%,3.0%
+2012.05.11CNYCPI y y,5/11/12 2:30,FALSE,CPI y/y,CNY,3,3.4%,3.6%
+2012.05.11CNYPPI y y,5/11/12 2:30,FALSE,PPI y/y,CNY,2,-0.5%,-0.3%
+2012.05.11CNYFixed Asset Investment ytd y,5/11/12 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,20.5%,20.9%
+2012.05.11CNYIndustrial Production y y,5/11/12 6:30,FALSE,Industrial Production y/y,CNY,2,12.1%,11.9%
+2012.05.11CNYRetail Sales y y,5/11/12 6:30,FALSE,Retail Sales y/y,CNY,1,15.1%,15.2%
+2012.05.11EURGerman Final CPI m m,5/11/12 7:00,FALSE,German Final CPI m/m,EUR,1,0.1%,0.1%
+2012.05.11CNYM2 Money Supply y y,5/11/12 8:59,FALSE,M2 Money Supply y/y,CNY,1,13.3%,13.4%
+2012.05.11CNYNew Loans,5/11/12 8:59,FALSE,New Loans,CNY,2,780B,1010B
+2012.05.11GBPPPI Input m m,5/11/12 9:30,FALSE,PPI Input m/m,GBP,3,-0.9%,1.7%
+2012.05.11GBPPPI Output m m,5/11/12 9:30,FALSE,PPI Output m/m,GBP,1,0.4%,0.6%
+2012.05.11EUREU Economic Forecasts,5/11/12 10:00,FALSE,EU Economic Forecasts,EUR,2," "," "
+2012.05.11CADEmployment Change,5/11/12 13:30,FALSE,Employment Change,CAD,3,10.1K,82.3K
+2012.05.11CADUnemployment Rate,5/11/12 13:30,FALSE,Unemployment Rate,CAD,3,7.3%,7.2%
+2012.05.11USDCore PPI m m,5/11/12 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.3%
+2012.05.11USDPPI m m,5/11/12 13:30,FALSE,PPI m/m,USD,3,0.0%,0.0%
+2012.05.11USDPrelim UoM Consumer Sentiment,5/11/12 14:55,FALSE,Prelim UoM Consumer Sentiment,USD,3,76.4,76.4
+2012.05.11USDPrelim UoM Inflation Expectations,5/11/12 14:55,FALSE,Prelim UoM Inflation Expectations,USD,1," ",3.2%
+

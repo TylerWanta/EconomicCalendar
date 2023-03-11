@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.07.08EURECOFIN Meetings,7/8/14 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2014.07.08JPYBank Lending y y,7/8/14 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.2%
+2014.07.08JPYCurrent Account,7/8/14 0:50,FALSE,Current Account,JPY,2,0.17T,0.13T
+2014.07.08AUDNAB Business Confidence,7/8/14 2:30,FALSE,NAB Business Confidence,AUD,3," ",7
+2014.07.08JPYEconomy Watchers Sentiment,7/8/14 6:00,FALSE,Economy Watchers Sentiment,JPY,1,49.2,45.1
+2014.07.08EURGerman Trade Balance,7/8/14 7:00,FALSE,German Trade Balance,EUR,2,15.7B,17.2B
+2014.07.08EURFrench Gov Budget Balance,7/8/14 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-64.2B
+2014.07.08EURFrench Trade Balance,7/8/14 7:45,FALSE,French Trade Balance,EUR,1,-4.1B,-4.1B
+2014.07.08CHFCPI m m,7/8/14 8:15,FALSE,CPI m/m,CHF,2,0.1%,0.3%
+2014.07.08CHFRetail Sales y y,7/8/14 8:15,FALSE,Retail Sales y/y,CHF,2,1.5%,0.8%
+2014.07.08GBPIndustrial Production m m,7/8/14 9:30,FALSE,Industrial Production m/m,GBP,1,0.3%,0.3%
+2014.07.08GBPManufacturing Production m m,7/8/14 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.4%,0.3%
+2014.07.08USDNFIB Small Business Index,7/8/14 12:30,FALSE,NFIB Small Business Index,USD,1,97.3,96.6
+2014.07.08GBPNIESR GDP Estimate,7/8/14 15:00,FALSE,NIESR GDP Estimate,GBP,2," ",0.7%
+2014.07.08USDJOLTS Job Openings,7/8/14 15:00,FALSE,JOLTS Job Openings,USD,2,4.53M,4.46M
+2014.07.08USDFOMC Member Kocherlakota Speaks,7/8/14 18:45,FALSE,FOMC Member Kocherlakota Speaks,USD,2," "," "
+2014.07.08USDConsumer Credit m m,7/8/14 20:00,FALSE,Consumer Credit m/m,USD,1,21.3B,26.1B
+

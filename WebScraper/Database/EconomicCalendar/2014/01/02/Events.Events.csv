@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.01.02CHFBank Holiday,1/2/14 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2014.01.02JPYBank Holiday,1/2/14 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2014.01.02CNYCaixin Manufacturing PMI,1/2/14 1:45,FALSE,Caixin Manufacturing PMI,CNY,2,50.5,50.5
+2014.01.02AUDCommodity Prices y y,1/2/14 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-2.8%
+2014.01.02EURSpanish Manufacturing PMI,1/2/14 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,49.9,48.6
+2014.01.02EURItalian Manufacturing PMI,1/2/14 8:45,FALSE,Italian Manufacturing PMI,EUR,2,51.8,51.4
+2014.01.02EURFrench Final Manufacturing PMI,1/2/14 8:50,FALSE,French Final Manufacturing PMI,EUR,1,47.1,47.1
+2014.01.02EURGerman Final Manufacturing PMI,1/2/14 8:55,FALSE,German Final Manufacturing PMI,EUR,1,54.2,54.2
+2014.01.02EURFinal Manufacturing PMI,1/2/14 9:00,FALSE,Final Manufacturing PMI,EUR,1,52.7,52.7
+2014.01.02GBPFinal Manufacturing PMI,1/2/14 9:30,FALSE,Final Manufacturing PMI,GBP,3,58.3,58.1
+2014.01.02USDUnemployment Claims,1/2/14 13:30,FALSE,Unemployment Claims,USD,3,334K,341K
+2014.01.02USDFinal Manufacturing PMI,1/2/14 14:00,FALSE,Final Manufacturing PMI,USD,1,54.4,54.4
+2014.01.02CADManufacturing PMI,1/2/14 14:30,FALSE,Manufacturing PMI,CAD,1," ",55.3
+2014.01.02USDConstruction Spending m m,1/2/14 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,0.9%
+2014.01.02USDISM Manufacturing PMI,1/2/14 15:00,FALSE,ISM Manufacturing PMI,USD,3,56.8,57.3
+2014.01.02USDISM Manufacturing Prices,1/2/14 15:00,FALSE,ISM Manufacturing Prices,USD,1,53.0,52.5
+

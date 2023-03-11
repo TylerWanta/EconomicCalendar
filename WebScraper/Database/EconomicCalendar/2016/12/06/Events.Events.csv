@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.12.06EURECOFIN Meetings,12/6/16 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2016.12.06JPYAverage Cash Earnings y y,12/6/16 0:00,FALSE,Average Cash Earnings y/y,JPY,1,0.2%,0.0%
+2016.12.06GBPBRC Retail Sales Monitor y y,12/6/16 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",1.7%
+2016.12.06AUDCurrent Account,12/6/16 0:30,FALSE,Current Account,AUD,2,-13.6B,-15.9B
+2016.12.06AUDCash Rate,12/6/16 3:30,FALSE,Cash Rate,AUD,3,1.50%,1.50%
+2016.12.06AUDRBA Rate Statement,12/6/16 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2016.12.06EURGerman Factory Orders m m,12/6/16 7:00,FALSE,German Factory Orders m/m,EUR,2,0.6%,-0.3%
+2016.12.06CHFCPI m m,12/6/16 8:15,FALSE,CPI m/m,CHF,1,-0.1%,0.1%
+2016.12.06EURRetail PMI,12/6/16 9:10,FALSE,Retail PMI,EUR,1," ",48.6
+2016.12.06GBPFPC Meeting Minutes,12/6/16 9:30,FALSE,FPC Meeting Minutes,GBP,1," "," "
+2016.12.06EURRevised GDP q q,12/6/16 10:00,FALSE,Revised GDP q/q,EUR,1,0.3%,0.3%
+2016.12.06GBP10-y Bond Auction,12/6/16 10:40,FALSE,10-y Bond Auction,GBP,1," ",1.38|2.0
+2016.12.06CADTrade Balance,12/6/16 13:30,FALSE,Trade Balance,CAD,3,-2.1B,-4.4B
+2016.12.06USDRevised Nonfarm Productivity q q,12/6/16 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,2,3.2%,3.1%
+2016.12.06USDRevised Unit Labor Costs q q,12/6/16 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,0.4%,0.3%
+2016.12.06USDTrade Balance,12/6/16 13:30,FALSE,Trade Balance,USD,2,-41.5B,-36.2B
+2016.12.06NZDGDT Price Index,12/6/16 14:11,FALSE,GDT Price Index,NZD,3," ",4.5%
+2016.12.06CADIvey PMI,12/6/16 15:00,FALSE,Ivey PMI,CAD,2,59.9,59.7
+2016.12.06USDFactory Orders m m,12/6/16 15:00,FALSE,Factory Orders m/m,USD,2,2.5%,0.6%
+2016.12.06USDIBD TIPP Economic Optimism,12/6/16 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,52.3,51.4
+2016.12.06NZDRBNZ Gov Wheeler Speaks,12/6/16 22:00,FALSE,RBNZ Gov Wheeler Speaks,NZD,3," "," "
+2016.12.06AUDAIG Construction Index,12/6/16 22:30,FALSE,AIG Construction Index,AUD,1," ",45.9
+

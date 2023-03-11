@@ -1,0 +1,30 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.06.01EURGerman Prelim CPI m m,6/1/15 0:00,TRUE,German Prelim CPI m/m,EUR,2,0.0%,0.0%
+2015.06.01AUDAIG Manufacturing Index,6/1/15 0:12,FALSE,AIG Manufacturing Index,AUD,1," ",48.0
+2015.06.01JPYCapital Spending q y,6/1/15 0:50,FALSE,Capital Spending q/y,JPY,1,-0.1%,2.8%
+2015.06.01AUDMI Inflation Gauge m m,6/1/15 1:24,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.3%
+2015.06.01CNYManufacturing PMI,6/1/15 1:58,FALSE,Manufacturing PMI,CNY,3,50.2,50.1
+2015.06.01CNYNon-Manufacturing PMI,6/1/15 2:00,FALSE,Non-Manufacturing PMI,CNY,2," ",53.4
+2015.06.01AUDBuilding Approvals m m,6/1/15 2:30,FALSE,Building Approvals m/m,AUD,3,-1.7%,2.9%
+2015.06.01AUDCompany Operating Profits q q,6/1/15 2:30,FALSE,Company Operating Profits q/q,AUD,1,0.1%,-0.4%
+2015.06.01JPYFinal Manufacturing PMI,6/1/15 2:35,FALSE,Final Manufacturing PMI,JPY,1,50.9,50.9
+2015.06.01CNYCaixin Manufacturing PMI,6/1/15 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,49.2,49.1
+2015.06.01AUDCommodity Prices y y,6/1/15 7:30,FALSE,Commodity Prices y/y,AUD,1," ",-20.7%
+2015.06.01EURSpanish Manufacturing PMI,6/1/15 8:15,FALSE,Spanish Manufacturing PMI,EUR,2,54.4,54.2
+2015.06.01CHFManufacturing PMI,6/1/15 8:30,FALSE,Manufacturing PMI,CHF,1,47.2,47.9
+2015.06.01EURItalian Manufacturing PMI,6/1/15 8:45,FALSE,Italian Manufacturing PMI,EUR,2,53.1,53.8
+2015.06.01EURFrench Final Manufacturing PMI,6/1/15 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.3,49.3
+2015.06.01EURGerman Final Manufacturing PMI,6/1/15 8:55,FALSE,German Final Manufacturing PMI,EUR,2,51.4,51.4
+2015.06.01EURFinal Manufacturing PMI,6/1/15 9:00,FALSE,Final Manufacturing PMI,EUR,1,52.3,52.3
+2015.06.01GBPFinal Manufacturing PMI,6/1/15 9:30,FALSE,Final Manufacturing PMI,GBP,3,52.7,51.8
+2015.06.01USDCore PCE Price Index m m,6/1/15 13:30,FALSE,Core PCE Price Index m/m,USD,2,0.2%,0.1%
+2015.06.01USDPersonal Income m m,6/1/15 13:30,FALSE,Personal Income m/m,USD,1,0.3%,0.0%
+2015.06.01USDPersonal Spending m m,6/1/15 13:30,FALSE,Personal Spending m/m,USD,2,0.2%,0.5%
+2015.06.01CADManufacturing PMI,6/1/15 14:30,FALSE,Manufacturing PMI,CAD,1," ",49.0
+2015.06.01USDFOMC Member Fischer Speaks,6/1/15 14:30,FALSE,FOMC Member Fischer Speaks,USD,2," "," "
+2015.06.01USDFinal Manufacturing PMI,6/1/15 14:45,FALSE,Final Manufacturing PMI,USD,1,54.2,53.8
+2015.06.01USDConstruction Spending m m,6/1/15 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,0.5%
+2015.06.01USDISM Manufacturing PMI,6/1/15 15:00,FALSE,ISM Manufacturing PMI,USD,3,51.9,51.5
+2015.06.01USDISM Manufacturing Prices,6/1/15 15:00,FALSE,ISM Manufacturing Prices,USD,1,43.0,40.5
+2015.06.01NZDOverseas Trade Index q q,6/1/15 23:45,FALSE,Overseas Trade Index q/q,NZD,2,1.6%,-2.3%
+

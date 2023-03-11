@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.03.16AllG7 Meetings,3/16/20 0:00,TRUE,G7 Meetings,All,3," "," "
+2020.03.16EUREurogroup Meetings,3/16/20 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2020.03.16JPYCore Machinery Orders m m,3/16/20 0:50,FALSE,Core Machinery Orders m/m,JPY,1,-1.0%,-12.5%
+2020.03.16GBPRightmove HPI m m,3/16/20 1:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.8%
+2020.03.16CNYFixed Asset Investment ytd y,3/16/20 3:00,FALSE,Fixed Asset Investment ytd/y,CNY,2,-2.0%,5.4%
+2020.03.16CNYIndustrial Production y y,3/16/20 3:00,FALSE,Industrial Production y/y,CNY,3,-3.0%,6.9%
+2020.03.16CNYRetail Sales y y,3/16/20 3:00,FALSE,Retail Sales y/y,CNY,1,-4.0%,8.0%
+2020.03.16CNYUnemployment Rate,3/16/20 3:00,FALSE,Unemployment Rate,CNY,1," ",5.2%
+2020.03.16CNYNBS Press Conference,3/16/20 3:01,FALSE,NBS Press Conference,CNY,1," "," "
+2020.03.16JPYBOJ Policy Rate,3/16/20 6:06,FALSE,BOJ Policy Rate,JPY,3,-0.10%,-0.10%
+2020.03.16JPYMonetary Policy Statement,3/16/20 6:06,FALSE,Monetary Policy Statement,JPY,3," "," "
+2020.03.16JPYBOJ Press Conference,3/16/20 8:00,FALSE,BOJ Press Conference,JPY,2," "," "
+2020.03.16CHFPPI m m,3/16/20 8:30,FALSE,PPI m/m,CHF,1,0.2%,0.0%
+2020.03.16USDEmpire State Manufacturing Index,3/16/20 13:30,FALSE,Empire State Manufacturing Index,USD,2,5.1,12.9
+2020.03.16USDPresident Trump Speaks,3/16/20 20:25,FALSE,President Trump Speaks,USD,3," "," "
+2020.03.16NZDWestpac Consumer Sentiment,3/16/20 21:00,FALSE,Westpac Consumer Sentiment,NZD,1," ",109.9
+2020.03.16USDTIC Long-Term Purchases,3/16/20 21:00,FALSE,TIC Long-Term Purchases,USD,1,72.5B,85.6B
+

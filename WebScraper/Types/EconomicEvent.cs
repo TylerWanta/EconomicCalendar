@@ -4,7 +4,7 @@ using Google.Cloud.Firestore;
 namespace WebScraper.Types
 {
     [FirestoreData]
-    class EconomicEvent
+    public class EconomicEvent
     {
         private DateTime _date;
 
@@ -62,6 +62,49 @@ namespace WebScraper.Types
             // make sure not to include any '/' or else nexted collections / documents will be created i.e. they are treated like a filepath
             // format yyyy.MM.dd so that they will be in order when viewing them in the Firestore console
             _id = date.ToString("yyyy.MM.dd") + symbol + title.Replace('/', ' ');
+        }
+
+        public EconomicEvent(DocumentSnapshot doc)
+        {
+             _id = doc.Id;
+            
+            if (doc.TryGetValue<DateTime>("Date", out DateTime date))
+            {
+                _date = date;
+            }
+
+            if (doc.TryGetValue<bool>("AllDay", out bool allDay))
+            {
+                _allDay = allDay;
+            }
+
+
+            if (doc.TryGetValue<string>("Title", out string title))
+            {
+                _title = title;
+            }
+
+
+            if (doc.TryGetValue<string>("Symbol", out string symbol))
+            {
+                _symbol = symbol;
+            }
+
+
+            if (doc.TryGetValue<byte>("Impact", out byte impact))
+            {
+                _impact = impact;
+            }
+
+            if (doc.TryGetValue<string>("Forecast", out string forecast))
+            {
+                _forecast = forecast;
+            }
+
+            if (doc.TryGetValue<string>("Previous", out string previous))
+            {
+                _previous = previous;
+            }
         }
     }
 }

@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.01.13AUDEmployment Change,1/13/11 0:30,FALSE,Employment Change,AUD,3,25.2K,55.2K
+2011.01.13AUDUnemployment Rate,1/13/11 0:30,FALSE,Unemployment Rate,AUD,3,5.1%,5.2%
+2011.01.13NZDANZ Commodity Prices m m,1/13/11 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1,,4.5%
+2011.01.13JPY30-y Bond Auction,1/13/11 3:45,FALSE,30-y Bond Auction,JPY,1,,2.19|3.0
+2011.01.13JPYPrelim Machine Tool Orders y y,1/13/11 6:00,FALSE,Prelim Machine Tool Orders y/y,JPY,1,,104.2%
+2011.01.13EURFrench Final CPI m m,1/13/11 6:30,FALSE,French Final CPI m/m,EUR,1,0.4%,0.1%
+2011.01.13EURGerman WPI m m,1/13/11 7:00,FALSE,German WPI m/m,EUR,1,0.6%,0.7%
+2011.01.13GBPIndustrial Production m m,1/13/11 9:30,FALSE,Industrial Production m/m,GBP,1,0.5%,-0.1%
+2011.01.13GBPManufacturing Production m m,1/13/11 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.5%,0.6%
+2011.01.13GBPAsset Purchase Facility,1/13/11 12:00,FALSE,Asset Purchase Facility,GBP,3,200B,200B
+2011.01.13GBPOfficial Bank Rate,1/13/11 12:00,FALSE,Official Bank Rate,GBP,3,0.50%,0.50%
+2011.01.13EURMain Refinancing Rate,1/13/11 12:45,FALSE,Main Refinancing Rate,EUR,3,1.00%,1.00%
+2011.01.13CADTrade Balance,1/13/11 13:30,FALSE,Trade Balance,CAD,3,-2.0B,-1.5B
+2011.01.13EURECB Press Conference,1/13/11 13:30,FALSE,ECB Press Conference,EUR,3,,
+2011.01.13USDCore PPI m m,1/13/11 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.3%
+2011.01.13USDPPI m m,1/13/11 13:30,FALSE,PPI m/m,USD,3,0.8%,0.8%
+2011.01.13USDTrade Balance,1/13/11 13:30,FALSE,Trade Balance,USD,3,-40.8B,-38.4B
+2011.01.13USDUnemployment Claims,1/13/11 13:30,FALSE,Unemployment Claims,USD,3,405K,410K
+2011.01.13GBPNIESR GDP Estimate,1/13/11 15:00,FALSE,NIESR GDP Estimate,GBP,2,,0.6%
+2011.01.13USDNatural Gas Storage,1/13/11 15:30,FALSE,Natural Gas Storage,USD,1,-146B,-135B
+2011.01.13USD30-y Bond Auction,1/13/11 18:00,FALSE,30-y Bond Auction,USD,1,,4.41|2.7
+2011.01.13USDFed Chairman Bernanke Speaks,1/13/11 18:00,FALSE,Fed Chairman Bernanke Speaks,USD,3,,
+2011.01.13JPYPPI y y,1/13/11 23:50,FALSE,PPI y/y,JPY,1,1.0%,0.9%
+

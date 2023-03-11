@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.03.21AUDCB Leading Index m m,3/21/14 0:00,FALSE,CB Leading Index m/m,AUD,2," ",0.8%
+2014.03.21EUREU Economic Summit,3/21/14 0:00,TRUE,EU Economic Summit,EUR,2," "," "
+2014.03.21NZDCredit Card Spending y y,3/21/14 3:00,FALSE,Credit Card Spending y/y,NZD,1," ",9.4%
+2014.03.21EURCurrent Account,3/21/14 10:00,FALSE,Current Account,EUR,2,18.4B,20.0B
+2014.03.21GBPPublic Sector Net Borrowing,3/21/14 10:30,FALSE,Public Sector Net Borrowing,GBP,2,7.8B,-6.8B
+2014.03.21CADCPI m m,3/21/14 13:30,FALSE,CPI m/m,CAD,2,0.6%,0.3%
+2014.03.21CADCore CPI m m,3/21/14 13:30,FALSE,Core CPI m/m,CAD,3,0.5%,0.2%
+2014.03.21CADCore Retail Sales m m,3/21/14 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.9%,-1.5%
+2014.03.21CADRetail Sales m m,3/21/14 13:30,FALSE,Retail Sales m/m,CAD,2,0.8%,-1.9%
+2014.03.21EURConsumer Confidence,3/21/14 16:00,FALSE,Consumer Confidence,EUR,1,-12,-13
+2014.03.21USDFOMC Member Fisher Speaks,3/21/14 18:45,FALSE,FOMC Member Fisher Speaks,USD,3," "," "
+2014.03.21GBPMPC Member Dale Speaks,3/21/14 21:30,FALSE,MPC Member Dale Speaks,GBP,2," "," "
+2014.03.21USDFOMC Member Kocherlakota Speaks,3/21/14 21:30,FALSE,FOMC Member Kocherlakota Speaks,USD,2," "," "
+2014.03.21USDFOMC Member Stein Speaks,3/21/14 23:30,FALSE,FOMC Member Stein Speaks,USD,2," "," "
+

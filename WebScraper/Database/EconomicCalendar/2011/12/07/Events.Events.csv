@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.12.07GBPBRC Shop Price Index y y,12/7/11 0:00,FALSE,BRC Shop Price Index y/y,GBP,1,,2.1%
+2011.12.07AUDGDP q q,12/7/11 0:30,FALSE,GDP q/q,AUD,3,1.0%,1.4%
+2011.12.07JPYLeading Indicators,12/7/11 5:00,FALSE,Leading Indicators,JPY,1,91.8%,91.6%
+2011.12.07CHFUnemployment Rate,12/7/11 6:45,FALSE,Unemployment Rate,CHF,1,3.1%,3.0%
+2011.12.07EURFrench Trade Balance,12/7/11 7:45,FALSE,French Trade Balance,EUR,1,-5.9B,-6.6B
+2011.12.07EURItalian Industrial Production m m,12/7/11 9:00,FALSE,Italian Industrial Production m/m,EUR,1,-0.3%,-4.6%
+2011.12.07GBPIndustrial Production m m,12/7/11 9:30,FALSE,Industrial Production m/m,GBP,1,-0.3%,0.0%
+2011.12.07GBPManufacturing Production m m,12/7/11 9:30,FALSE,Manufacturing Production m/m,GBP,3,-0.1%,0.1%
+2011.12.07EURGerman Industrial Production m m,12/7/11 11:00,FALSE,German Industrial Production m/m,EUR,2,0.3%,-2.8%
+2011.12.07USDFOMC Member Raskin Speaks,12/7/11 13:30,FALSE,FOMC Member Raskin Speaks,USD,1,,
+2011.12.07GBPNIESR GDP Estimate,12/7/11 15:00,FALSE,NIESR GDP Estimate,GBP,2,,0.4%
+2011.12.07USDCrude Oil Inventories,12/7/11 15:30,FALSE,Crude Oil Inventories,USD,2,-0.8M,3.9M
+2011.12.07NZDOfficial Cash Rate,12/7/11 20:00,FALSE,Official Cash Rate,NZD,3,2.50%,2.50%
+2011.12.07NZDRBNZ Monetary Policy Statement,12/7/11 20:00,FALSE,RBNZ Monetary Policy Statement,NZD,2,,
+2011.12.07NZDRBNZ Press Conference,12/7/11 20:00,FALSE,RBNZ Press Conference,NZD,3,,
+2011.12.07NZDRBNZ Rate Statement,12/7/11 20:00,FALSE,RBNZ Rate Statement,NZD,3,,
+2011.12.07USDConsumer Credit m m,12/7/11 20:00,FALSE,Consumer Credit m/m,USD,1,7.0B,6.9B
+2011.12.07NZDManufacturing Sales q q,12/7/11 21:45,FALSE,Manufacturing Sales q/q,NZD,1,,1.6%
+2011.12.07JPYBank Lending y y,12/7/11 23:50,FALSE,Bank Lending y/y,JPY,1,,0.0%
+2011.12.07JPYCore Machinery Orders m m,12/7/11 23:50,FALSE,Core Machinery Orders m/m,JPY,2,0.2%,-8.2%
+2011.12.07JPYCurrent Account,12/7/11 23:50,FALSE,Current Account,JPY,1,0.54T,1.19T
+

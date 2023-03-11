@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.08.12JPYMonetary Policy Meeting Minutes,8/12/15 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,2," "," "
+2015.08.12JPYPPI y y,8/12/15 0:50,FALSE,PPI y/y,JPY,1,-2.9%,-2.4%
+2015.08.12AUDWestpac Consumer Sentiment,8/12/15 1:30,FALSE,Westpac Consumer Sentiment,AUD,2," ",-3.2%
+2015.08.12AUDWage Price Index q q,8/12/15 2:30,FALSE,Wage Price Index q/q,AUD,2,0.6%,0.5%
+2015.08.12JPYRevised Industrial Production m m,8/12/15 5:30,FALSE,Revised Industrial Production m/m,JPY,1,0.8%,0.8%
+2015.08.12JPYTertiary Industry Activity m m,8/12/15 5:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.1%,-0.6%
+2015.08.12CNYFixed Asset Investment ytd y,8/12/15 6:30,FALSE,Fixed Asset Investment ytd/y,CNY,2,11.5%,11.4%
+2015.08.12CNYIndustrial Production y y,8/12/15 6:30,FALSE,Industrial Production y/y,CNY,3,6.7%,6.8%
+2015.08.12CNYRetail Sales y y,8/12/15 6:30,FALSE,Retail Sales y/y,CNY,1,10.6%,10.6%
+2015.08.12EURItalian Trade Balance,8/12/15 9:00,FALSE,Italian Trade Balance,EUR,1,3.98B,4.14B
+2015.08.12GBPAverage Earnings Index 3m y,8/12/15 9:30,FALSE,Average Earnings Index 3m/y,GBP,3,2.8%,3.2%
+2015.08.12GBPClaimant Count Change,8/12/15 9:30,FALSE,Claimant Count Change,GBP,3,1.4K,0.2K
+2015.08.12GBPUnemployment Rate,8/12/15 9:30,FALSE,Unemployment Rate,GBP,2,5.6%,5.6%
+2015.08.12CHFCredit Suisse Economic Expectations,8/12/15 10:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",-5.4
+2015.08.12EURIndustrial Production m m,8/12/15 10:00,FALSE,Industrial Production m/m,EUR,1,-0.1%,-0.2%
+2015.08.12EURGerman 10-y Bond Auction,8/12/15 10:32,FALSE,German 10-y Bond Auction,EUR,1," ",0.88|1.1
+2015.08.12AUDRBA Deputy Gov Lowe Speaks,8/12/15 11:00,FALSE,RBA Deputy Gov Lowe Speaks,AUD,2," "," "
+2015.08.12USDFOMC Member Dudley Speaks,8/12/15 13:30,FALSE,FOMC Member Dudley Speaks,USD,2," "," "
+2015.08.12USDJOLTS Job Openings,8/12/15 15:00,FALSE,JOLTS Job Openings,USD,2,5.33M,5.36M
+2015.08.12USDCrude Oil Inventories,8/12/15 15:30,FALSE,Crude Oil Inventories,USD,2,-1.6M,-4.4M
+2015.08.12USD10-y Bond Auction,8/12/15 18:01,FALSE,10-y Bond Auction,USD,1," ",2.23|2.7
+2015.08.12USDFederal Budget Balance,8/12/15 19:00,FALSE,Federal Budget Balance,USD,1,-133.5B,51.8B
+2015.08.12NZDBusinessNZ Manufacturing Index,8/12/15 23:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",55.1
+2015.08.12NZDFPI m m,8/12/15 23:45,FALSE,FPI m/m,NZD,1," ",0.5%
+

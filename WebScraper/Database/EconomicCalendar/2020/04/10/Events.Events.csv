@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.04.10AllG20 Meetings,4/10/20 0:00,TRUE,G20 Meetings,All,3," "," "
+2020.04.10CADBank Holiday,4/10/20 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2020.04.10CHFBank Holiday,4/10/20 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2020.04.10EURGerman Bank Holiday,4/10/20 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2020.04.10GBPBank Holiday,4/10/20 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2020.04.10JPYBank Lending y y,4/10/20 0:50,FALSE,Bank Lending y/y,JPY,1,2.1%,2.1%
+2020.04.10JPYPPI y y,4/10/20 0:50,FALSE,PPI y/y,JPY,1,-0.1%,0.8%
+2020.04.10CNYCPI y y,4/10/20 2:30,FALSE,CPI y/y,CNY,2,4.9%,5.2%
+2020.04.10CNYPPI y y,4/10/20 2:30,FALSE,PPI y/y,CNY,1,-1.1%,-0.4%
+2020.04.10EURFrench Industrial Production m m,4/10/20 7:45,FALSE,French Industrial Production m/m,EUR,1,0.0%,1.1%
+2020.04.10CNYM2 Money Supply y y,4/10/20 8:30,FALSE,M2 Money Supply y/y,CNY,1,8.9%,8.8%
+2020.04.10CNYNew Loans,4/10/20 8:30,FALSE,New Loans,CNY,2,1800B,906B
+2020.04.10USDCPI m m,4/10/20 13:30,FALSE,CPI m/m,USD,3,-0.3%,0.1%
+2020.04.10USDCPI y y,4/10/20 13:30,FALSE,CPI y/y,USD,3,1.6%,2.3%
+2020.04.10USDCore CPI m m,4/10/20 13:30,FALSE,Core CPI m/m,USD,3,0.1%,0.2%
+2020.04.10GBPCB Leading Index m m,4/10/20 14:30,FALSE,CB Leading Index m/m,GBP,1," ",0.0%
+2020.04.10USDFOMC Member Mester Speaks,4/10/20 17:30,FALSE,FOMC Member Mester Speaks,USD,1," "," "
+2020.04.10USDFOMC Member Quarles Speaks,4/10/20 18:30,FALSE,FOMC Member Quarles Speaks,USD,1," "," "
+2020.04.10USDFederal Budget Balance,4/10/20 19:00,FALSE,Federal Budget Balance,USD,1,-135.0B,-235.3B
+2020.04.10USDPresident Trump Speaks,4/10/20 19:00,FALSE,President Trump Speaks,USD,3," "," "
+

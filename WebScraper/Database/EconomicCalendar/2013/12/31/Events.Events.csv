@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.12.31AUDBank Holiday,12/31/13 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2013.12.31CNYBank Holiday,12/31/13 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2013.12.31EURGerman Bank Holiday,12/31/13 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2013.12.31JPYBank Holiday,12/31/13 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2013.12.31NZDBank Holiday,12/31/13 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2013.12.31AUDPrivate Sector Credit m m,12/31/13 0:30,FALSE,Private Sector Credit m/m,AUD,2,0.4%,0.3%
+2013.12.31USDS&P CS Composite-20 HPI y y,12/31/13 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,2,13.4%,13.3%
+2013.12.31USDChicago PMI,12/31/13 14:45,FALSE,Chicago PMI,USD,2,61.3,63.0
+2013.12.31USDCB Consumer Confidence,12/31/13 15:00,FALSE,CB Consumer Confidence,USD,3,76.5,72.0
+

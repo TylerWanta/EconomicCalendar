@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.10.31JPYFinal Manufacturing PMI,10/31/11 0:15,FALSE,Final Manufacturing PMI,JPY,1,,49.3
+2011.10.31AUDMI Inflation Gauge m m,10/31/11 0:30,FALSE,MI Inflation Gauge m/m,AUD,1,,0.1%
+2011.10.31AUDPrivate Sector Credit m m,10/31/11 1:30,FALSE,Private Sector Credit m/m,AUD,2,0.2%,0.2%
+2011.10.31JPYHousing Starts y y,10/31/11 6:00,FALSE,Housing Starts y/y,JPY,1,8.3%,14.0%
+2011.10.31EURGerman Retail Sales m m,10/31/11 8:00,FALSE,German Retail Sales m/m,EUR,2,1.1%,-2.7%
+2011.10.31JPYBOJ Gov Shirakawa Speaks,10/31/11 8:13,FALSE,BOJ Gov Shirakawa Speaks,JPY,2,,
+2011.10.31EURItalian Monthly Unemployment Rate,10/31/11 10:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,7.9%,8.0%
+2011.10.31CHFRetail Sales y y,10/31/11 10:16,FALSE,Retail Sales y/y,CHF,3,2.3%,-0.8%
+2011.10.31GBPM4 Money Supply m m,10/31/11 10:30,FALSE,M4 Money Supply m/m,GBP,1,0.3%,-0.4%
+2011.10.31GBPMortgage Approvals,10/31/11 10:30,FALSE,Mortgage Approvals,GBP,1,51K,52K
+2011.10.31GBPNet Lending to Individuals m m,10/31/11 10:30,FALSE,Net Lending to Individuals m/m,GBP,2,0.9B,1.0B
+2011.10.31EURCPI Flash Estimate y y,10/31/11 11:00,FALSE,CPI Flash Estimate y/y,EUR,2,2.9%,3.0%
+2011.10.31EURItalian Prelim CPI m m,10/31/11 11:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.2%,0.0%
+2011.10.31EURUnemployment Rate,10/31/11 11:00,FALSE,Unemployment Rate,EUR,2,10.0%,10.1%
+2011.10.31CADGDP m m,10/31/11 13:30,FALSE,GDP m/m,CAD,3,0.2%,0.4%
+2011.10.31CADIPPI m m,10/31/11 13:30,FALSE,IPPI m/m,CAD,1,0.1%,0.4%
+2011.10.31CADRMPI m m,10/31/11 13:30,FALSE,RMPI m/m,CAD,2,-2.3%,-3.2%
+2011.10.31USDChicago PMI,10/31/11 14:45,FALSE,Chicago PMI,USD,2,59.2,60.4
+2011.10.31NZDLabor Cost Index q q,10/31/11 22:45,FALSE,Labor Cost Index q/q,NZD,3,0.8%,0.5%
+2011.10.31AUDAIG Manufacturing Index,10/31/11 23:23,FALSE,AIG Manufacturing Index,AUD,1,,42.3
+

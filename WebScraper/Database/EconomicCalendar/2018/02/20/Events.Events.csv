@@ -1,0 +1,14 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.02.20CNYBank Holiday,2/20/18 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2018.02.20EURECOFIN Meetings,2/20/18 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2018.02.20AUDMonetary Policy Meeting Minutes,2/20/18 0:30,FALSE,Monetary Policy Meeting Minutes,AUD,3," "," "
+2018.02.20CHFTrade Balance,2/20/18 7:00,FALSE,Trade Balance,CHF,1,2.78B,2.60B
+2018.02.20EURGerman PPI m m,2/20/18 7:00,FALSE,German PPI m/m,EUR,1,0.3%,0.2%
+2018.02.20EURGerman ZEW Economic Sentiment,2/20/18 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,16.0,20.4
+2018.02.20EURZEW Economic Sentiment,2/20/18 10:00,FALSE,ZEW Economic Sentiment,EUR,1,28.4,31.8
+2018.02.20GBPCBI Industrial Order Expectations,2/20/18 11:00,FALSE,CBI Industrial Order Expectations,GBP,1,12,14
+2018.02.20CADWholesale Sales m m,2/20/18 13:30,FALSE,Wholesale Sales m/m,CAD,1,0.4%,0.3%
+2018.02.20NZDGDT Price Index,2/20/18 14:44,FALSE,GDT Price Index,NZD,2," ",5.9%
+2018.02.20EURConsumer Confidence,2/20/18 15:00,FALSE,Consumer Confidence,EUR,1,1,1
+2018.02.20AUDMI Leading Index m m,2/20/18 23:30,FALSE,MI Leading Index m/m,AUD,1," ",0.2%
+

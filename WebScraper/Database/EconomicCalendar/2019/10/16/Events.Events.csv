@@ -1,0 +1,30 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.10.16AUDMI Leading Index m m,10/16/19 0:30,FALSE,MI Leading Index m/m,AUD,1," ",-0.2%
+2019.10.16GBPCPI y y,10/16/19 9:30,FALSE,CPI y/y,GBP,3,1.8%,1.7%
+2019.10.16GBPCore CPI y y,10/16/19 9:30,FALSE,Core CPI y/y,GBP,1,1.7%,1.5%
+2019.10.16GBPHPI y y,10/16/19 9:30,FALSE,HPI y/y,GBP,1,0.9%,0.8%
+2019.10.16GBPPPI Input m m,10/16/19 9:30,FALSE,PPI Input m/m,GBP,2,0.2%,-0.3%
+2019.10.16GBPPPI Output m m,10/16/19 9:30,FALSE,PPI Output m/m,GBP,1,0.0%,-0.1%
+2019.10.16GBPRPI y y,10/16/19 9:30,FALSE,RPI y/y,GBP,1,2.7%,2.6%
+2019.10.16EURFinal CPI y y,10/16/19 10:00,FALSE,Final CPI y/y,EUR,1,0.9%,0.9%
+2019.10.16EURFinal Core CPI y y,10/16/19 10:00,FALSE,Final Core CPI y/y,EUR,1,1.0%,1.0%
+2019.10.16EURTrade Balance,10/16/19 10:00,FALSE,Trade Balance,EUR,1,18.6B,17.5B
+2019.10.16EURGerman 30-y Bond Auction,10/16/19 10:33,FALSE,German 30-y Bond Auction,EUR,1," ",0.05|1.2
+2019.10.16CADCPI m m,10/16/19 13:30,FALSE,CPI m/m,CAD,3,-0.3%,-0.1%
+2019.10.16CADCommon CPI y y,10/16/19 13:30,FALSE,Common CPI y/y,CAD,2,1.8%,1.8%
+2019.10.16CADForeign Securities Purchases,10/16/19 13:30,FALSE,Foreign Securities Purchases,CAD,1,-1.80B,-1.87B
+2019.10.16CADMedian CPI y y,10/16/19 13:30,FALSE,Median CPI y/y,CAD,2,2.1%,2.1%
+2019.10.16CADTrimmed CPI y y,10/16/19 13:30,FALSE,Trimmed CPI y/y,CAD,2,2.1%,2.0%
+2019.10.16USDCore Retail Sales m m,10/16/19 13:30,FALSE,Core Retail Sales m/m,USD,3,0.2%,0.2%
+2019.10.16USDRetail Sales m m,10/16/19 13:30,FALSE,Retail Sales m/m,USD,3,0.3%,0.6%
+2019.10.16CADCore CPI m m,10/16/19 13:32,FALSE,Core CPI m/m,CAD,1," ",-0.1%
+2019.10.16USDBusiness Inventories m m,10/16/19 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.3%
+2019.10.16USDNAHB Housing Market Index,10/16/19 15:00,FALSE,NAHB Housing Market Index,USD,1,68,68
+2019.10.16USDFOMC Member Evans Speaks,10/16/19 15:45,FALSE,FOMC Member Evans Speaks,USD,2," "," "
+2019.10.16EURGerman Buba President Weidmann Speaks,10/16/19 18:00,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2019.10.16USDBeige Book,10/16/19 19:00,FALSE,Beige Book,USD,1," "," "
+2019.10.16USDFOMC Member Brainard Speaks,10/16/19 20:00,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+2019.10.16USDTIC Long-Term Purchases,10/16/19 21:00,FALSE,TIC Long-Term Purchases,USD,1,74.3B,83.8B
+2019.10.16AUDRBA Deputy Gov Debelle Speaks,10/16/19 23:15,FALSE,RBA Deputy Gov Debelle Speaks,AUD,2," "," "
+2019.10.16GBPBOE Gov Carney Speaks,10/16/19 23:30,FALSE,BOE Gov Carney Speaks,GBP,2," "," "
+

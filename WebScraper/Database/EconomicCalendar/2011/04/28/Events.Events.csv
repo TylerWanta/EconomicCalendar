@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.04.28JPYBank Holiday,4/28/11 0:00,TRUE,Bank Holiday,JPY,4,,
+2011.04.28GBPGfK Consumer Confidence,4/28/11 0:01,FALSE,GfK Consumer Confidence,GBP,2,-28,-28
+2011.04.28JPYFinal Manufacturing PMI,4/28/11 0:15,FALSE,Final Manufacturing PMI,JPY,1,,46.4
+2011.04.28JPYHousehold Spending y y,4/28/11 0:30,FALSE,Household Spending y/y,JPY,2,-6.6%,-0.2%
+2011.04.28JPYNational Core CPI y y,4/28/11 0:30,FALSE,National Core CPI y/y,JPY,1,-0.2%,-0.3%
+2011.04.28JPYTokyo Core CPI y y,4/28/11 0:30,FALSE,Tokyo Core CPI y/y,JPY,2,0.2%,-0.3%
+2011.04.28JPYUnemployment Rate,4/28/11 0:30,FALSE,Unemployment Rate,JPY,1,4.8%,4.6%
+2011.04.28JPYPrelim Industrial Production m m,4/28/11 0:50,FALSE,Prelim Industrial Production m/m,JPY,2,-10.5%,1.8%
+2011.04.28JPYMonetary Policy Statement,4/28/11 5:31,FALSE,Monetary Policy Statement,JPY,3,,
+2011.04.28JPYOvernight Call Rate,4/28/11 5:31,FALSE,Overnight Call Rate,JPY,3,<0.10%,<0.10%
+2011.04.28JPYHousing Starts y y,4/28/11 6:00,FALSE,Housing Starts y/y,JPY,1,-2.0%,10.1%
+2011.04.28EURGerman Import Prices m m,4/28/11 7:00,FALSE,German Import Prices m/m,EUR,1,1.0%,1.1%
+2011.04.28JPYBOJ Outlook Report,4/28/11 7:00,FALSE,BOJ Outlook Report,JPY,2,,
+2011.04.28EURFrench Consumer Spending m m,4/28/11 7:45,FALSE,French Consumer Spending m/m,EUR,2,0.3%,0.9%
+2011.04.28JPYBOJ Press Conference,4/28/11 8:18,FALSE,BOJ Press Conference,JPY,3,,
+2011.04.28EURGerman Unemployment Change,4/28/11 8:55,FALSE,German Unemployment Change,EUR,2,-33K,-55K
+2011.04.28EURRetail PMI,4/28/11 9:00,FALSE,Retail PMI,EUR,1,,53.5
+2011.04.28EURItalian 10-y Bond Auction,4/28/11 10:27,FALSE,Italian 10-y Bond Auction,EUR,2,,4.80|1.5
+2011.04.28USDAdvance GDP Price Index q q,4/28/11 13:30,FALSE,Advance GDP Price Index q/q,USD,2,2.2%,0.4%
+2011.04.28USDAdvance GDP q q,4/28/11 13:30,FALSE,Advance GDP q/q,USD,3,1.9%,3.1%
+2011.04.28USDFOMC Member Duke Speaks,4/28/11 13:30,FALSE,FOMC Member Duke Speaks,USD,1,,
+2011.04.28USDUnemployment Claims,4/28/11 13:30,FALSE,Unemployment Claims,USD,3,392K,404K
+2011.04.28USDPending Home Sales m m,4/28/11 15:00,FALSE,Pending Home Sales m/m,USD,3,1.6%,0.7%
+2011.04.28USDNatural Gas Storage,4/28/11 15:30,FALSE,Natural Gas Storage,USD,1,38B,47B
+2011.04.28NZDTrade Balance,4/28/11 23:45,FALSE,Trade Balance,NZD,2,244M,193M
+

@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.09.21JPYBank Holiday,9/21/20 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2020.09.21GBPRightmove HPI m m,9/21/20 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",-0.2%
+2020.09.21NZDCredit Card Spending y y,9/21/20 4:00,FALSE,Credit Card Spending y/y,NZD,1," ",-5.0%
+2020.09.21EURGerman Buba Monthly Report,9/21/20 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2020.09.21EURECB President Lagarde Speaks,9/21/20 13:20,FALSE,ECB President Lagarde Speaks,EUR,3," "," "
+2020.09.21CADNHPI m m,9/21/20 13:30,FALSE,NHPI m/m,CAD,1,0.2%,0.4%
+2020.09.21USDFed Chair Powell Speaks,9/21/20 15:00,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2020.09.21USDFOMC Member Brainard Speaks,9/21/20 17:00,FALSE,FOMC Member Brainard Speaks,USD,1," "," "
+2020.09.21USDFOMC Member Williams Speaks,9/21/20 23:00,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+

@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2011.06.02CHFBank Holiday,6/2/11 0:00,TRUE,Bank Holiday,CHF,4,,
+2011.06.02EURFrench Bank Holiday,6/2/11 0:00,TRUE,French Bank Holiday,EUR,4,,
+2011.06.02EURGerman Bank Holiday,6/2/11 0:00,TRUE,German Bank Holiday,EUR,4,,
+2011.06.02EURItalian Bank Holiday,6/2/11 0:00,TRUE,Italian Bank Holiday,EUR,4,,
+2011.06.02JPYCapital Spending q y,6/2/11 0:50,FALSE,Capital Spending q/y,JPY,2,3.2%,3.8%
+2011.06.02JPYMonetary Base y y,6/2/11 0:50,FALSE,Monetary Base y/y,JPY,1,24.7%,23.9%
+2011.06.02AUDRetail Sales m m,6/2/11 2:30,FALSE,Retail Sales m/m,AUD,3,0.4%,-0.3%
+2011.06.02AUDTrade Balance,6/2/11 2:30,FALSE,Trade Balance,AUD,3,2.07B,1.69B
+2011.06.02EURSpanish Unemployment Change,6/2/11 8:00,FALSE,Spanish Unemployment Change,EUR,2,,-64.3K
+2011.06.02GBPConstruction PMI,6/2/11 9:30,FALSE,Construction PMI,GBP,3,53.7,53.3
+2011.06.02EURECB President Trichet Speaks,6/2/11 10:15,FALSE,ECB President Trichet Speaks,EUR,2,,
+2011.06.02GBP10-y Bond Auction,6/2/11 10:36,FALSE,10-y Bond Auction,GBP,2,,3.88|1.7
+2011.06.02USDRevised Nonfarm Productivity q q,6/2/11 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,2,1.8%,1.6%
+2011.06.02USDRevised Unit Labor Costs q q,6/2/11 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,0.8%,1.0%
+2011.06.02USDUnemployment Claims,6/2/11 13:30,FALSE,Unemployment Claims,USD,3,416K,428K
+2011.06.02CADManufacturing PMI,6/2/11 14:30,FALSE,Manufacturing PMI,CAD,1,,
+2011.06.02USDFactory Orders m m,6/2/11 15:00,FALSE,Factory Orders m/m,USD,2,-0.7%,3.8%
+2011.06.02USDNatural Gas Storage,6/2/11 15:30,FALSE,Natural Gas Storage,USD,1,92B,105B
+2011.06.02USDCrude Oil Inventories,6/2/11 16:00,FALSE,Crude Oil Inventories,USD,2,-1.5M,0.6M
+2011.06.02NZDBuilding Consents m m,6/2/11 23:45,FALSE,Building Consents m/m,NZD,3,,2.0%
+

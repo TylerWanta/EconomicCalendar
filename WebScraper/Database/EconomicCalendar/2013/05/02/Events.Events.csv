@@ -1,0 +1,26 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2013.05.02JPYBank Holiday,5/2/13 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2013.05.02JPYMonetary Base y y,5/2/13 0:50,FALSE,Monetary Base y/y,JPY,2,21.0%,19.8%
+2013.05.02JPYMonetary Policy Meeting Minutes,5/2/13 0:50,FALSE,Monetary Policy Meeting Minutes,JPY,3," "," "
+2013.05.02NZDANZ Commodity Prices m m,5/2/13 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",7.4%
+2013.05.02AUDBuilding Approvals m m,5/2/13 2:30,FALSE,Building Approvals m/m,AUD,3,1.2%,3.0%
+2013.05.02AUDImport Prices q q,5/2/13 2:30,FALSE,Import Prices q/q,AUD,2,-0.5%,0.3%
+2013.05.02CNYCaixin Manufacturing PMI,5/2/13 2:45,FALSE,Caixin Manufacturing PMI,CNY,2,50.6,50.5
+2013.05.02EURSpanish Manufacturing PMI,5/2/13 8:15,FALSE,Spanish Manufacturing PMI,EUR,3,44.6,44.2
+2013.05.02CHFManufacturing PMI,5/2/13 8:30,FALSE,Manufacturing PMI,CHF,2,49.1,48.3
+2013.05.02EURItalian Manufacturing PMI,5/2/13 8:45,FALSE,Italian Manufacturing PMI,EUR,2,44.9,44.5
+2013.05.02EURFrench Final Manufacturing PMI,5/2/13 8:50,FALSE,French Final Manufacturing PMI,EUR,1,44.4,44.4
+2013.05.02EURGerman Final Manufacturing PMI,5/2/13 8:55,FALSE,German Final Manufacturing PMI,EUR,1,47.9,47.9
+2013.05.02EURFinal Manufacturing PMI,5/2/13 9:00,FALSE,Final Manufacturing PMI,EUR,1,46.5,46.5
+2013.05.02GBPConstruction PMI,5/2/13 9:30,FALSE,Construction PMI,GBP,3,48.1,47.2
+2013.05.02EURFrench 10-y Bond Auction,5/2/13 10:00,FALSE,French 10-y Bond Auction,EUR,2," ",1.94|3.1
+2013.05.02USDChallenger Job Cuts y y,5/2/13 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",30.0%
+2013.05.02EURMain Refinancing Rate,5/2/13 12:45,FALSE,Main Refinancing Rate,EUR,3,0.50%,0.75%
+2013.05.02CADTrade Balance,5/2/13 13:30,FALSE,Trade Balance,CAD,3,-0.7B,-1.2B
+2013.05.02EURECB Press Conference,5/2/13 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2013.05.02USDPrelim Nonfarm Productivity q q,5/2/13 13:30,FALSE,Prelim Nonfarm Productivity q/q,USD,2,1.8%,-1.9%
+2013.05.02USDPrelim Unit Labor Costs q q,5/2/13 13:30,FALSE,Prelim Unit Labor Costs q/q,USD,2,0.8%,4.6%
+2013.05.02USDTrade Balance,5/2/13 13:30,FALSE,Trade Balance,USD,3,-42.1B,-43.6B
+2013.05.02USDUnemployment Claims,5/2/13 13:30,FALSE,Unemployment Claims,USD,3,346K,342K
+2013.05.02USDNatural Gas Storage,5/2/13 15:30,FALSE,Natural Gas Storage,USD,1,27B,30B
+

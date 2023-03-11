@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.21AllOPEC-JMMC Meetings,12/21/17 0:00,TRUE,OPEC-JMMC Meetings,All,2," "," "
+2017.12.21JPYBOJ Policy Rate,12/21/17 2:46,FALSE,BOJ Policy Rate,JPY,2,-0.10%,-0.10%
+2017.12.21JPYMonetary Policy Statement,12/21/17 2:46,FALSE,Monetary Policy Statement,JPY,3," "," "
+2017.12.21JPYBOJ Press Conference,12/21/17 6:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2017.12.21CHFTrade Balance,12/21/17 7:00,FALSE,Trade Balance,CHF,1,2.84B,2.45B
+2017.12.21GBPPublic Sector Net Borrowing,12/21/17 9:30,FALSE,Public Sector Net Borrowing,GBP,2,8.3B,7.2B
+2017.12.21CADCPI m m,12/21/17 13:30,FALSE,CPI m/m,CAD,3,0.2%,0.1%
+2017.12.21CADCommon CPI y y,12/21/17 13:30,FALSE,Common CPI y/y,CAD,2," ",1.6%
+2017.12.21CADCore Retail Sales m m,12/21/17 13:30,FALSE,Core Retail Sales m/m,CAD,3,0.4%,0.4%
+2017.12.21CADMedian CPI y y,12/21/17 13:30,FALSE,Median CPI y/y,CAD,2," ",1.7%
+2017.12.21CADRetail Sales m m,12/21/17 13:30,FALSE,Retail Sales m/m,CAD,2,0.3%,0.2%
+2017.12.21CADTrimmed CPI y y,12/21/17 13:30,FALSE,Trimmed CPI y/y,CAD,2," ",1.5%
+2017.12.21USDFinal GDP Price Index q q,12/21/17 13:30,FALSE,Final GDP Price Index q/q,USD,1,2.1%,2.1%
+2017.12.21USDFinal GDP q q,12/21/17 13:30,FALSE,Final GDP q/q,USD,3,3.3%,3.3%
+2017.12.21USDPhilly Fed Manufacturing Index,12/21/17 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,21.5,22.7
+2017.12.21USDUnemployment Claims,12/21/17 13:30,FALSE,Unemployment Claims,USD,2,232K,225K
+2017.12.21CADCore CPI m m,12/21/17 13:32,FALSE,Core CPI m/m,CAD,1," ",0.3%
+2017.12.21CADADP Non-Farm Employment Change,12/21/17 13:36,FALSE,ADP Non-Farm Employment Change,CAD,1," ",5.4K
+2017.12.21USDHPI m m,12/21/17 14:00,FALSE,HPI m/m,USD,1,0.4%,0.5%
+2017.12.21EURConsumer Confidence,12/21/17 15:00,FALSE,Consumer Confidence,EUR,1,0,0
+2017.12.21USDCB Leading Index m m,12/21/17 15:00,FALSE,CB Leading Index m/m,USD,1,0.4%,1.2%
+2017.12.21USDNatural Gas Storage,12/21/17 15:30,FALSE,Natural Gas Storage,USD,1,-160B,-69B
+

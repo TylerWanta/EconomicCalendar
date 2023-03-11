@@ -1,0 +1,10 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.12.24AUDBank Holiday,12/24/20 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2020.12.24EURGerman Bank Holiday,12/24/20 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2020.12.24NZDBank Holiday,12/24/20 0:00,TRUE,Bank Holiday,NZD,4," "," "
+2020.12.24JPYBOJ Gov Kuroda Speaks,12/24/20 4:55,FALSE,BOJ Gov Kuroda Speaks,JPY,1," "," "
+2020.12.24CADBuilding Permits m m,12/24/20 13:30,FALSE,Building Permits m/m,CAD,1,2.5%,-12.6%
+2020.12.24JPYTokyo Core CPI y y,12/24/20 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,-0.8%,-0.7%
+2020.12.24JPYUnemployment Rate,12/24/20 23:30,FALSE,Unemployment Rate,JPY,1,3.1%,3.1%
+2020.12.24JPYRetail Sales y y,12/24/20 23:50,FALSE,Retail Sales y/y,JPY,1,1.8%,6.4%
+

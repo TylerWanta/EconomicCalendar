@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.12AUDHPI q q,12/12/17 0:30,FALSE,HPI q/q,AUD,2,0.6%,1.9%
+2017.12.12AUDNAB Business Confidence,12/12/17 0:30,FALSE,NAB Business Confidence,AUD,2," ",9
+2017.12.12JPYTertiary Industry Activity m m,12/12/17 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.2%,-0.2%
+2017.12.12EURFrench Final Private Payrolls q q,12/12/17 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,0.2%,0.2%
+2017.12.12GBPCPI y y,12/12/17 9:30,FALSE,CPI y/y,GBP,3,3.0%,3.0%
+2017.12.12GBPCore CPI y y,12/12/17 9:30,FALSE,Core CPI y/y,GBP,1,2.7%,2.7%
+2017.12.12GBPHPI y y,12/12/17 9:30,FALSE,HPI y/y,GBP,1,5.2%,4.8%
+2017.12.12GBPPPI Input m m,12/12/17 9:30,FALSE,PPI Input m/m,GBP,2,1.6%,1.0%
+2017.12.12GBPPPI Output m m,12/12/17 9:30,FALSE,PPI Output m/m,GBP,1,0.2%,0.2%
+2017.12.12GBPRPI y y,12/12/17 9:30,FALSE,RPI y/y,GBP,2,4.1%,4.0%
+2017.12.12EURGerman ZEW Economic Sentiment,12/12/17 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,17.9,18.7
+2017.12.12EURZEW Economic Sentiment,12/12/17 10:00,FALSE,ZEW Economic Sentiment,EUR,1,30.2,30.9
+2017.12.12USDNFIB Small Business Index,12/12/17 11:00,FALSE,NFIB Small Business Index,USD,1,104.6,103.8
+2017.12.12USDCore PPI m m,12/12/17 13:30,FALSE,Core PPI m/m,USD,2,0.2%,0.4%
+2017.12.12USDPPI m m,12/12/17 13:30,FALSE,PPI m/m,USD,3,0.4%,0.4%
+2017.12.12USD30-y Bond Auction,12/12/17 18:01,FALSE,30-y Bond Auction,USD,1," ",2.80|2.2
+2017.12.12EURECB President Draghi Speaks,12/12/17 19:00,FALSE,ECB President Draghi Speaks,EUR,3," "," "
+2017.12.12USDFederal Budget Balance,12/12/17 19:00,FALSE,Federal Budget Balance,USD,1,-135.2B,-63.2B
+2017.12.12NZDFPI m m,12/12/17 21:45,FALSE,FPI m/m,NZD,1," ",-1.1%
+2017.12.12AUDRBA Gov Lowe Speaks,12/12/17 22:15,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2017.12.12AUDWestpac Consumer Sentiment,12/12/17 23:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",-1.7%
+2017.12.12JPYCore Machinery Orders m m,12/12/17 23:50,FALSE,Core Machinery Orders m/m,JPY,1,3.1%,-8.1%
+

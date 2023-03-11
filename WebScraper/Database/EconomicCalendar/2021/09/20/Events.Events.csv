@@ -1,0 +1,8 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2021.09.20CADFederal Election,9/20/21 0:00,TRUE,Federal Election,CAD,3," "," "
+2021.09.20CNYBank Holiday,9/20/21 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2021.09.20GBPRightmove HPI m m,9/20/21 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",-0.3%
+2021.09.20EURGerman PPI m m,9/20/21 7:00,FALSE,German PPI m/m,EUR,1,0.8%,1.9%
+2021.09.20USDNAHB Housing Market Index,9/20/21 15:00,FALSE,NAHB Housing Market Index,USD,1,74,75
+2021.09.20NZDWestpac Consumer Sentiment,9/20/21 21:58,FALSE,Westpac Consumer Sentiment,NZD,1," ",107.1
+

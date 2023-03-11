@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2017.12.01USDTotal Vehicle Sales,12/1/17 0:00,TRUE,Total Vehicle Sales,USD,1,17.5M,18.1M
+2017.12.01USDWards Total Vehicle Sales,12/1/17 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.5M,18.0M
+2017.12.01JPYFinal Manufacturing PMI,12/1/17 0:30,FALSE,Final Manufacturing PMI,JPY,1,53.8,53.8
+2017.12.01CNYCaixin Manufacturing PMI,12/1/17 1:45,FALSE,Caixin Manufacturing PMI,CNY,2,51.2,51.0
+2017.12.01AUDCommodity Prices y y,12/1/17 5:30,FALSE,Commodity Prices y/y,AUD,1," ",10.9%
+2017.12.01EURSpanish Manufacturing PMI,12/1/17 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,56.6,55.8
+2017.12.01CHFManufacturing PMI,12/1/17 8:30,FALSE,Manufacturing PMI,CHF,1,62.6,62.0
+2017.12.01EURItalian Manufacturing PMI,12/1/17 8:45,FALSE,Italian Manufacturing PMI,EUR,1,58.4,57.8
+2017.12.01EURFrench Final Manufacturing PMI,12/1/17 8:50,FALSE,French Final Manufacturing PMI,EUR,1,57.5,57.5
+2017.12.01EURGerman Final Manufacturing PMI,12/1/17 8:55,FALSE,German Final Manufacturing PMI,EUR,1,62.5,62.5
+2017.12.01EURFinal Manufacturing PMI,12/1/17 9:00,FALSE,Final Manufacturing PMI,EUR,1,60.0,60.0
+2017.12.01GBPFinal Manufacturing PMI,12/1/17 9:30,FALSE,Final Manufacturing PMI,GBP,3,56.6,56.6
+2017.12.01CADEmployment Change,12/1/17 13:30,FALSE,Employment Change,CAD,3,10.2K,35.3K
+2017.12.01CADGDP m m,12/1/17 13:30,FALSE,GDP m/m,CAD,3,0.1%,-0.1%
+2017.12.01CADUnemployment Rate,12/1/17 13:30,FALSE,Unemployment Rate,CAD,3,6.2%,6.3%
+2017.12.01CADManufacturing PMI,12/1/17 14:30,FALSE,Manufacturing PMI,CAD,1," ",54.3
+2017.12.01USDFOMC Member Kaplan Speaks,12/1/17 14:30,FALSE,FOMC Member Kaplan Speaks,USD,2," "," "
+2017.12.01USDFinal Manufacturing PMI,12/1/17 14:45,FALSE,Final Manufacturing PMI,USD,1,53.8,53.8
+2017.12.01USDConstruction Spending m m,12/1/17 15:00,FALSE,Construction Spending m/m,USD,1,0.5%,0.3%
+2017.12.01USDISM Manufacturing PMI,12/1/17 15:00,FALSE,ISM Manufacturing PMI,USD,3,58.4,58.7
+2017.12.01USDISM Manufacturing Prices,12/1/17 15:00,FALSE,ISM Manufacturing Prices,USD,1,67.0,68.5
+2017.12.01USDFOMC Member Harker Speaks,12/1/17 15:15,FALSE,FOMC Member Harker Speaks,USD,2," "," "
+

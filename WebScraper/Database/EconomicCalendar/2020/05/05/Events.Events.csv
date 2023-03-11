@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.05.05JPYBank Holiday,5/5/20 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2020.05.05NZDANZ Commodity Prices m m,5/5/20 2:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-2.0%
+2020.05.05AUDCash Rate,5/5/20 5:30,FALSE,Cash Rate,AUD,3,0.25%,0.25%
+2020.05.05AUDRBA Rate Statement,5/5/20 5:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2020.05.05CHFSECO Consumer Climate,5/5/20 6:45,FALSE,SECO Consumer Climate,CHF,1,-40,-40
+2020.05.05CHFCPI m m,5/5/20 7:30,FALSE,CPI m/m,CHF,1,-0.1%,0.1%
+2020.05.05EURFrench Gov Budget Balance,5/5/20 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-35.2B
+2020.05.05EURSpanish Unemployment Change,5/5/20 8:00,FALSE,Spanish Unemployment Change,EUR,1,500.0K,302.3K
+2020.05.05EURGerman Buba President Weidmann Speaks,5/5/20 9:00,FALSE,German Buba President Weidmann Speaks,EUR,1," "," "
+2020.05.05EURGerman Constitutional Court Ruling,5/5/20 9:11,FALSE,German Constitutional Court Ruling,EUR,3," "," "
+2020.05.05GBPFinal Services PMI,5/5/20 9:30,FALSE,Final Services PMI,GBP,2,12.3,12.3
+2020.05.05EURPPI m m,5/5/20 10:00,FALSE,PPI m/m,EUR,1,-1.3%,-0.7%
+2020.05.05CADTrade Balance,5/5/20 13:30,FALSE,Trade Balance,CAD,3,-2.5B,-0.9B
+2020.05.05USDTrade Balance,5/5/20 13:30,FALSE,Trade Balance,USD,1,-41.0B,-39.8B
+2020.05.05USDFinal Services PMI,5/5/20 14:45,FALSE,Final Services PMI,USD,1,27.0,27.0
+2020.05.05USDISM Services PMI,5/5/20 15:00,FALSE,ISM Services PMI,USD,3,37.5,52.5
+2020.05.05USDIBD TIPP Economic Optimism,5/5/20 15:01,FALSE,IBD/TIPP Economic Optimism,USD,1,35.2,47.8
+2020.05.05NZDGDT Price Index,5/5/20 15:51,FALSE,GDT Price Index,NZD,1," ",-4.2%
+2020.05.05NZDEmployment Change q q,5/5/20 23:45,FALSE,Employment Change q/q,NZD,3,-0.2%,0.1%
+2020.05.05NZDLabor Cost Index q q,5/5/20 23:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.6%
+2020.05.05NZDUnemployment Rate,5/5/20 23:45,FALSE,Unemployment Rate,NZD,3,4.4%,4.0%
+

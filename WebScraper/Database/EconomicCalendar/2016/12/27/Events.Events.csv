@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.12.27CADBank Holiday,12/27/16 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2016.12.27GBPBank Holiday,12/27/16 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2016.12.27JPYBOJ Core CPI y y,12/27/16 5:00,FALSE,BOJ Core CPI y/y,JPY,1,0.2%,0.3%
+2016.12.27JPYHousing Starts y y,12/27/16 5:00,FALSE,Housing Starts y/y,JPY,1,9.6%,13.7%
+2016.12.27USDS&P CS Composite-20 HPI y y,12/27/16 14:00,FALSE,S&P/CS Composite-20 HPI y/y,USD,1,5.0%,5.0%
+2016.12.27USDRichmond Manufacturing Index,12/27/16 14:59,FALSE,Richmond Manufacturing Index,USD,1,5,4
+2016.12.27USDCB Consumer Confidence,12/27/16 15:00,FALSE,CB Consumer Confidence,USD,3,108.9,109.4
+2016.12.27JPYPrelim Industrial Production m m,12/27/16 23:50,FALSE,Prelim Industrial Production m/m,JPY,1,1.8%,0.0%
+2016.12.27JPYRetail Sales y y,12/27/16 23:50,FALSE,Retail Sales y/y,JPY,1,0.9%,-0.2%
+

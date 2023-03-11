@@ -1,0 +1,34 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2018.11.01EURFrench Bank Holiday,11/1/18 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2018.11.01EURItalian Bank Holiday,11/1/18 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
+2018.11.01USDTotal Vehicle Sales,11/1/18 0:00,TRUE,Total Vehicle Sales,USD,1,17.1M,17.4M
+2018.11.01USDWards Total Vehicle Sales,11/1/18 0:00,TRUE,Wards Total Vehicle Sales,USD,1,17.2M,17.4M
+2018.11.01AUDImport Prices q q,11/1/18 1:30,FALSE,Import Prices q/q,AUD,1,1.1%,3.2%
+2018.11.01AUDTrade Balance,11/1/18 1:30,FALSE,Trade Balance,AUD,2,1.71B,2.34B
+2018.11.01JPYFinal Manufacturing PMI,11/1/18 1:30,FALSE,Final Manufacturing PMI,JPY,1,53.1,53.1
+2018.11.01CNYCaixin Manufacturing PMI,11/1/18 2:45,FALSE,Caixin Manufacturing PMI,CNY,1,49.9,50.0
+2018.11.01JPY10-y Bond Auction,11/1/18 4:35,FALSE,10-y Bond Auction,JPY,1," ",0.14|4.2
+2018.11.01AUDCommodity Prices y y,11/1/18 6:30,FALSE,Commodity Prices y/y,AUD,1," ",6.2%
+2018.11.01CHFSECO Consumer Climate,11/1/18 7:45,FALSE,SECO Consumer Climate,CHF,1,-8,-7
+2018.11.01GBPNationwide HPI m m,11/1/18 8:00,FALSE,Nationwide HPI m/m,GBP,1,0.2%,0.2%
+2018.11.01CHFCPI m m,11/1/18 9:15,FALSE,CPI m/m,CHF,1,0.2%,0.1%
+2018.11.01CHFManufacturing PMI,11/1/18 9:30,FALSE,Manufacturing PMI,CHF,1,58.6,59.7
+2018.11.01GBPFinal Manufacturing PMI,11/1/18 10:30,FALSE,Final Manufacturing PMI,GBP,3,53.0,53.6
+2018.11.01USDChallenger Job Cuts y y,11/1/18 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",70.9%
+2018.11.01GBPAsset Purchase Facility,11/1/18 13:00,FALSE,Asset Purchase Facility,GBP,1,435B,435B
+2018.11.01GBPBOE Monetary Policy Report,11/1/18 13:00,FALSE,BOE Monetary Policy Report,GBP,3," "," "
+2018.11.01GBPMPC Asset Purchase Facility Votes,11/1/18 13:00,FALSE,MPC Asset Purchase Facility Votes,GBP,1,0-0-9,0-0-9
+2018.11.01GBPMPC Official Bank Rate Votes,11/1/18 13:00,FALSE,MPC Official Bank Rate Votes,GBP,3,0-0-9,0-0-9
+2018.11.01GBPMonetary Policy Summary,11/1/18 13:00,FALSE,Monetary Policy Summary,GBP,3," "," "
+2018.11.01GBPOfficial Bank Rate,11/1/18 13:00,FALSE,Official Bank Rate,GBP,2,0.75%,0.75%
+2018.11.01GBPBOE Gov Carney Speaks,11/1/18 13:30,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2018.11.01USDPrelim Nonfarm Productivity q q,11/1/18 13:30,FALSE,Prelim Nonfarm Productivity q/q,USD,1,2.2%,3.0%
+2018.11.01USDPrelim Unit Labor Costs q q,11/1/18 13:30,FALSE,Prelim Unit Labor Costs q/q,USD,1,1.1%,-1.0%
+2018.11.01USDUnemployment Claims,11/1/18 13:30,FALSE,Unemployment Claims,USD,1,213K,216K
+2018.11.01CADManufacturing PMI,11/1/18 14:30,FALSE,Manufacturing PMI,CAD,1," ",54.8
+2018.11.01USDFinal Manufacturing PMI,11/1/18 14:45,FALSE,Final Manufacturing PMI,USD,1,55.9,55.9
+2018.11.01USDConstruction Spending m m,11/1/18 15:00,FALSE,Construction Spending m/m,USD,1,0.2%,0.8%
+2018.11.01USDISM Manufacturing PMI,11/1/18 15:00,FALSE,ISM Manufacturing PMI,USD,3,59.0,59.8
+2018.11.01USDISM Manufacturing Prices,11/1/18 15:00,FALSE,ISM Manufacturing Prices,USD,1,67.5,66.9
+2018.11.01USDNatural Gas Storage,11/1/18 15:30,FALSE,Natural Gas Storage,USD,1,53B,58B
+

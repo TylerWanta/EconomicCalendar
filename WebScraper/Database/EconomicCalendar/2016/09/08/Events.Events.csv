@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.09.08GBPRICS House Price Balance,9/8/16 0:01,FALSE,RICS House Price Balance,GBP,1,5%,5%
+2016.09.08JPYBank Lending y y,9/8/16 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.1%
+2016.09.08JPYCurrent Account,9/8/16 0:50,FALSE,Current Account,JPY,2,1.59T,1.65T
+2016.09.08JPYFinal GDP Price Index y y,9/8/16 0:50,FALSE,Final GDP Price Index y/y,JPY,1,0.8%,0.8%
+2016.09.08JPYFinal GDP q q,9/8/16 0:50,FALSE,Final GDP q/q,JPY,2,0.0%,0.0%
+2016.09.08AUDTrade Balance,9/8/16 2:30,FALSE,Trade Balance,AUD,3,-2.65B,-3.25B
+2016.09.08CNYTrade Balance,9/8/16 3:32,FALSE,Trade Balance,CNY,2,372B,343B
+2016.09.08CNYUSD-Denominated Trade Balance,9/8/16 3:41,FALSE,USD-Denominated Trade Balance,CNY,1,57.9B,52.3B
+2016.09.08JPYEconomy Watchers Sentiment,9/8/16 6:00,FALSE,Economy Watchers Sentiment,JPY,1,45.2,45.1
+2016.09.08EURFrench Final Private Payrolls q q,9/8/16 6:30,FALSE,French Final Private Payrolls q/q,EUR,1,0.2%,0.2%
+2016.09.08EURMain Refinancing Rate,9/8/16 12:45,FALSE,Main Refinancing Rate,EUR,3,0.00%,0.00%
+2016.09.08EURMonetary Policy Statement,9/8/16 12:45,FALSE,Monetary Policy Statement,EUR,3," "," "
+2016.09.08CADBuilding Permits m m,9/8/16 13:30,FALSE,Building Permits m/m,CAD,2,3.2%,-5.3%
+2016.09.08CADCapacity Utilization Rate,9/8/16 13:30,FALSE,Capacity Utilization Rate,CAD,1,81.5%,81.4%
+2016.09.08CADNHPI m m,9/8/16 13:30,FALSE,NHPI m/m,CAD,2,0.2%,0.1%
+2016.09.08EURECB Press Conference,9/8/16 13:30,FALSE,ECB Press Conference,EUR,3," "," "
+2016.09.08USDUnemployment Claims,9/8/16 13:30,FALSE,Unemployment Claims,USD,3,264K,263K
+2016.09.08USDNatural Gas Storage,9/8/16 15:30,FALSE,Natural Gas Storage,USD,1,44B,51B
+2016.09.08USDCrude Oil Inventories,9/8/16 16:00,FALSE,Crude Oil Inventories,USD,3,0.6M,2.3M
+2016.09.08CADGov Council Member Lane Speaks,9/8/16 17:20,FALSE,Gov Council Member Lane Speaks,CAD,2," "," "
+2016.09.08CADHousing Starts,9/8/16 17:30,FALSE,Housing Starts,CAD,1,191K,195K
+2016.09.08USDConsumer Credit m m,9/8/16 20:00,FALSE,Consumer Credit m/m,USD,1,15.7B,14.5B
+

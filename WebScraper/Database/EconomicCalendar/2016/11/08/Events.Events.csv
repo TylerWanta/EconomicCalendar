@@ -1,0 +1,28 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2016.11.08EURECOFIN Meetings,11/8/16 0:00,TRUE,ECOFIN Meetings,EUR,2," "," "
+2016.11.08USDCongressional Elections,11/8/16 0:00,TRUE,Congressional Elections,USD,1," "," "
+2016.11.08USDPresidential Election,11/8/16 0:00,TRUE,Presidential Election,USD,3," "," "
+2016.11.08GBPBRC Retail Sales Monitor y y,11/8/16 0:01,FALSE,BRC Retail Sales Monitor y/y,GBP,1," ",0.4%
+2016.11.08AUDNAB Business Confidence,11/8/16 0:30,FALSE,NAB Business Confidence,AUD,1," ",6
+2016.11.08CNYTrade Balance,11/8/16 2:32,FALSE,Trade Balance,CNY,3,366B,278B
+2016.11.08CNYUSD-Denominated Trade Balance,11/8/16 2:40,FALSE,USD-Denominated Trade Balance,CNY,1,51.9B,42.0B
+2016.11.08JPY10-y Bond Auction,11/8/16 3:45,FALSE,10-y Bond Auction,JPY,1," ",-0.06|3.8
+2016.11.08JPYLeading Indicators,11/8/16 5:02,FALSE,Leading Indicators,JPY,1,100.5%,100.9%
+2016.11.08CHFUnemployment Rate,11/8/16 6:45,FALSE,Unemployment Rate,CHF,1,3.3%,3.3%
+2016.11.08EURGerman Industrial Production m m,11/8/16 7:00,FALSE,German Industrial Production m/m,EUR,1,-0.4%,3.0%
+2016.11.08EURGerman Trade Balance,11/8/16 7:00,FALSE,German Trade Balance,EUR,1,23.4B,21.6B
+2016.11.08EURFrench Gov Budget Balance,11/8/16 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-96.0B
+2016.11.08EURFrench Trade Balance,11/8/16 7:45,FALSE,French Trade Balance,EUR,1,-4.1B,-4.2B
+2016.11.08GBPIndustrial Production m m,11/8/16 9:30,FALSE,Industrial Production m/m,GBP,1,0.1%,-0.4%
+2016.11.08GBPManufacturing Production m m,11/8/16 9:30,FALSE,Manufacturing Production m/m,GBP,3,0.5%,0.2%
+2016.11.08USDNFIB Small Business Index,11/8/16 11:00,FALSE,NFIB Small Business Index,USD,1,94.6,94.1
+2016.11.08CADHousing Starts,11/8/16 13:13,FALSE,Housing Starts,CAD,1,195K,219K
+2016.11.08CADBuilding Permits m m,11/8/16 13:30,FALSE,Building Permits m/m,CAD,2,-5.6%,11.0%
+2016.11.08GBPNIESR GDP Estimate,11/8/16 15:00,FALSE,NIESR GDP Estimate,GBP,1," ",0.5%
+2016.11.08USDJOLTS Job Openings,11/8/16 15:00,FALSE,JOLTS Job Openings,USD,2,5.67M,5.45M
+2016.11.08CADGov Council Member Schembri Speaks,11/8/16 16:20,FALSE,Gov Council Member Schembri Speaks,CAD,2," "," "
+2016.11.08GBPMPC Member Haldane Speaks,11/8/16 17:00,FALSE,MPC Member Haldane Speaks,GBP,2," "," "
+2016.11.08AUDWestpac Consumer Sentiment,11/8/16 23:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",1.1%
+2016.11.08JPYBank Lending y y,11/8/16 23:50,FALSE,Bank Lending y/y,JPY,1,2.2%,2.2%
+2016.11.08JPYCurrent Account,11/8/16 23:50,FALSE,Current Account,JPY,2,1.98T,1.98T
+

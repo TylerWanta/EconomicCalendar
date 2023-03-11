@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.02.04CNYBank Holiday,2/4/14 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2014.02.04NZDANZ Commodity Prices m m,2/4/14 0:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",1.0%
+2014.02.04AUDCash Rate,2/4/14 3:30,FALSE,Cash Rate,AUD,3,2.50%,2.50%
+2014.02.04AUDRBA Rate Statement,2/4/14 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2014.02.04JPY10-y Bond Auction,2/4/14 3:45,FALSE,10-y Bond Auction,JPY,1," ",0.72|3.8
+2014.02.04EURSpanish Unemployment Change,2/4/14 8:00,FALSE,Spanish Unemployment Change,EUR,2,-21.3K,-107.6K
+2014.02.04GBPConstruction PMI,2/4/14 9:30,FALSE,Construction PMI,GBP,3,61.6,62.1
+2014.02.04EURItalian Prelim CPI m m,2/4/14 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.3%,0.2%
+2014.02.04EURPPI m m,2/4/14 10:00,FALSE,PPI m/m,EUR,1,0.3%,-0.1%
+2014.02.04NZDGDT Price Index,2/4/14 13:30,FALSE,GDT Price Index,NZD,1," ",1.4%
+2014.02.04USDFactory Orders m m,2/4/14 15:00,FALSE,Factory Orders m/m,USD,2,-1.9%,1.5%
+2014.02.04USDIBD TIPP Economic Optimism,2/4/14 15:00,FALSE,IBD/TIPP Economic Optimism,USD,1,46.1,45.2
+2014.02.04NZDEmployment Change q q,2/4/14 21:45,FALSE,Employment Change q/q,NZD,3,0.6%,1.2%
+2014.02.04NZDLabor Cost Index q q,2/4/14 21:45,FALSE,Labor Cost Index q/q,NZD,1,0.5%,0.4%
+2014.02.04NZDUnemployment Rate,2/4/14 21:45,FALSE,Unemployment Rate,NZD,3,6.0%,6.2%
+2014.02.04AUDAIG Services Index,2/4/14 22:01,FALSE,AIG Services Index,AUD,1," ",46.1
+

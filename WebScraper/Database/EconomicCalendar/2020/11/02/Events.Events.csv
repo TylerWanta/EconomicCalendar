@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.11.02AUDMI Inflation Gauge m m,11/2/20 0:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2020.11.02JPYBank Holiday,11/2/20 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2020.11.02AUDANZ Job Advertisements m m,11/2/20 0:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",8.3%
+2020.11.02AUDBuilding Approvals m m,11/2/20 0:30,FALSE,Building Approvals m/m,AUD,1,1.5%,-2.3%
+2020.11.02JPYFinal Manufacturing PMI,11/2/20 0:30,FALSE,Final Manufacturing PMI,JPY,1,48.0,48.0
+2020.11.02CNYCaixin Manufacturing PMI,11/2/20 1:45,FALSE,Caixin Manufacturing PMI,CNY,1,52.9,53.0
+2020.11.02AUDCommodity Prices y y,11/2/20 5:30,FALSE,Commodity Prices y/y,AUD,1," ",-5.2%
+2020.11.02EURSpanish Manufacturing PMI,11/2/20 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,51.0,50.8
+2020.11.02CHFManufacturing PMI,11/2/20 8:30,FALSE,Manufacturing PMI,CHF,1,53.6,53.1
+2020.11.02EURItalian Manufacturing PMI,11/2/20 8:45,FALSE,Italian Manufacturing PMI,EUR,1,53.9,53.2
+2020.11.02EURFrench Final Manufacturing PMI,11/2/20 8:50,FALSE,French Final Manufacturing PMI,EUR,1,51.0,51.0
+2020.11.02EURGerman Final Manufacturing PMI,11/2/20 8:55,FALSE,German Final Manufacturing PMI,EUR,1,58.0,58.0
+2020.11.02EURFinal Manufacturing PMI,11/2/20 9:00,FALSE,Final Manufacturing PMI,EUR,1,54.4,54.4
+2020.11.02GBPFinal Manufacturing PMI,11/2/20 9:30,FALSE,Final Manufacturing PMI,GBP,2,53.3,53.3
+2020.11.02CADManufacturing PMI,11/2/20 14:30,FALSE,Manufacturing PMI,CAD,2," ",56.0
+2020.11.02USDFinal Manufacturing PMI,11/2/20 14:45,FALSE,Final Manufacturing PMI,USD,1,53.3,53.3
+2020.11.02USDConstruction Spending m m,11/2/20 15:00,FALSE,Construction Spending m/m,USD,1,1.0%,0.8%
+2020.11.02USDISM Manufacturing PMI,11/2/20 15:00,FALSE,ISM Manufacturing PMI,USD,3,55.6,55.4
+2020.11.02USDISM Manufacturing Prices,11/2/20 15:00,FALSE,ISM Manufacturing Prices,USD,1,60.5,62.8
+

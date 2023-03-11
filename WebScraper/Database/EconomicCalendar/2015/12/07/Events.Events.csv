@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2015.12.07EUREurogroup Meetings,12/7/15 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2015.12.07AUDANZ Job Advertisements m m,12/7/15 0:30,FALSE,ANZ Job Advertisements m/m,AUD,2," ",0.3%
+2015.12.07JPYLeading Indicators,12/7/15 5:00,FALSE,Leading Indicators,JPY,1,102.9%,101.6%
+2015.12.07EURGerman Industrial Production m m,12/7/15 7:00,FALSE,German Industrial Production m/m,EUR,1,0.8%,-1.1%
+2015.12.07CHFForeign Currency Reserves,12/7/15 8:00,FALSE,Foreign Currency Reserves,CHF,2," ",552B
+2015.12.07EURSentix Investor Confidence,12/7/15 9:30,FALSE,Sentix Investor Confidence,EUR,1,17.2,15.1
+2015.12.07JPYBOJ Gov Kuroda Speaks,12/7/15 11:45,FALSE,BOJ Gov Kuroda Speaks,JPY,3," "," "
+2015.12.07GBPBOE Gov Carney Speaks,12/7/15 15:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2015.12.07USDLabor Market Conditions Index m m,12/7/15 15:00,FALSE,Labor Market Conditions Index m/m,USD,1," ",2.2
+2015.12.07USDConsumer Credit m m,12/7/15 20:00,FALSE,Consumer Credit m/m,USD,1,18.3B,28.6B
+2015.12.07NZDManufacturing Sales q q,12/7/15 21:45,FALSE,Manufacturing Sales q/q,NZD,1," ",1.0%
+2015.12.07JPYBank Lending y y,12/7/15 23:50,FALSE,Bank Lending y/y,JPY,1," ",2.5%
+2015.12.07JPYCurrent Account,12/7/15 23:50,FALSE,Current Account,JPY,2,1.53T,0.78T
+2015.12.07JPYFinal GDP Price Index y y,12/7/15 23:50,FALSE,Final GDP Price Index y/y,JPY,1,2.0%,2.0%
+2015.12.07JPYFinal GDP q q,12/7/15 23:50,FALSE,Final GDP q/q,JPY,2,0.1%,-0.2%
+

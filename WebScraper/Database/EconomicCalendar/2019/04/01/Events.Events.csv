@@ -1,0 +1,32 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.04.01JPYTankan Manufacturing Index,4/1/19 0:50,FALSE,Tankan Manufacturing Index,JPY,1,13,19
+2019.04.01JPYTankan Non-Manufacturing Index,4/1/19 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,1,22,24
+2019.04.01AUDMI Inflation Gauge m m,4/1/19 1:00,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.1%
+2019.04.01AUDNAB Business Confidence,4/1/19 1:30,FALSE,NAB Business Confidence,AUD,1," ",2
+2019.04.01JPYFinal Manufacturing PMI,4/1/19 1:30,FALSE,Final Manufacturing PMI,JPY,1,48.9,48.9
+2019.04.01CNYCaixin Manufacturing PMI,4/1/19 2:45,FALSE,Caixin Manufacturing PMI,CNY,3,50.1,49.9
+2019.04.01AUDHIA New Home Sales m m,4/1/19 4:30,FALSE,HIA New Home Sales m/m,AUD,1," ",-1.8%
+2019.04.01AUDCommodity Prices y y,4/1/19 6:30,FALSE,Commodity Prices y/y,AUD,1," ",9.7%
+2019.04.01CHFRetail Sales y y,4/1/19 7:30,FALSE,Retail Sales y/y,CHF,1,0.3%,-0.2%
+2019.04.01EURSpanish Manufacturing PMI,4/1/19 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,49.8,49.9
+2019.04.01CHFManufacturing PMI,4/1/19 8:30,FALSE,Manufacturing PMI,CHF,1,53.6,55.4
+2019.04.01EURItalian Manufacturing PMI,4/1/19 8:45,FALSE,Italian Manufacturing PMI,EUR,1,47.6,47.7
+2019.04.01EURFrench Final Manufacturing PMI,4/1/19 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.8,49.8
+2019.04.01EURGerman Final Manufacturing PMI,4/1/19 8:55,FALSE,German Final Manufacturing PMI,EUR,1,44.7,44.7
+2019.04.01EURFinal Manufacturing PMI,4/1/19 9:00,FALSE,Final Manufacturing PMI,EUR,1,47.6,47.6
+2019.04.01EURItalian Monthly Unemployment Rate,4/1/19 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,10.5%,10.5%
+2019.04.01GBPFinal Manufacturing PMI,4/1/19 9:30,FALSE,Final Manufacturing PMI,GBP,2,51.2,52.1
+2019.04.01EURCPI Flash Estimate y y,4/1/19 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,1.5%,1.5%
+2019.04.01EURCore CPI Flash Estimate y y,4/1/19 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,0.9%,1.0%
+2019.04.01EURUnemployment Rate,4/1/19 10:00,FALSE,Unemployment Rate,EUR,1,7.8%,7.8%
+2019.04.01USDCore Retail Sales m m,4/1/19 13:30,FALSE,Core Retail Sales m/m,USD,3,0.4%,1.4%
+2019.04.01USDRetail Sales m m,4/1/19 13:30,FALSE,Retail Sales m/m,USD,3,0.3%,0.7%
+2019.04.01CADManufacturing PMI,4/1/19 14:30,FALSE,Manufacturing PMI,CAD,1," ",52.6
+2019.04.01USDFinal Manufacturing PMI,4/1/19 14:45,FALSE,Final Manufacturing PMI,USD,1,52.5,52.5
+2019.04.01USDBusiness Inventories m m,4/1/19 15:00,FALSE,Business Inventories m/m,USD,1,0.4%,0.8%
+2019.04.01USDConstruction Spending m m,4/1/19 15:00,FALSE,Construction Spending m/m,USD,1,0.1%,2.5%
+2019.04.01USDISM Manufacturing PMI,4/1/19 15:00,FALSE,ISM Manufacturing PMI,USD,3,54.4,54.2
+2019.04.01USDISM Manufacturing Prices,4/1/19 15:00,FALSE,ISM Manufacturing Prices,USD,1,55.0,49.4
+2019.04.01CADBOC Gov Poloz Speaks,4/1/19 19:55,FALSE,BOC Gov Poloz Speaks,CAD,3," "," "
+2019.04.01NZDNZIER Business Confidence,4/1/19 22:00,FALSE,NZIER Business Confidence,NZD,2," ",-17
+

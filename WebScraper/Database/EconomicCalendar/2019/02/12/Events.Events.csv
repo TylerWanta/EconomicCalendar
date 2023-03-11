@@ -1,0 +1,15 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2019.02.12EURECOFIN Meetings,2/12/19 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2019.02.12USDNFIB Small Business Index,2/12/19 0:03,FALSE,NFIB Small Business Index,USD,1,103.2,104.4
+2019.02.12AUDHome Loans m m,2/12/19 0:30,FALSE,Home Loans m/m,AUD,1,-2.0%,-0.9%
+2019.02.12AUDNAB Business Confidence,2/12/19 0:30,FALSE,NAB Business Confidence,AUD,1," ",3
+2019.02.12NZDInflation Expectations q q,2/12/19 2:00,FALSE,Inflation Expectations q/q,NZD,3," ",2.03%
+2019.02.12JPYTertiary Industry Activity m m,2/12/19 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,-0.1%,-0.4%
+2019.02.12JPYPrelim Machine Tool Orders y y,2/12/19 5:59,FALSE,Prelim Machine Tool Orders y/y,JPY,1," ",-18.3%
+2019.02.12EURGerman Buba President Weidmann Speaks,2/12/19 8:20,FALSE,German Buba President Weidmann Speaks,EUR,2," "," "
+2019.02.12GBPBOE Gov Carney Speaks,2/12/19 13:00,FALSE,BOE Gov Carney Speaks,GBP,3," "," "
+2019.02.12USDJOLTS Job Openings,2/12/19 15:00,FALSE,JOLTS Job Openings,USD,1,6.84M,7.17M
+2019.02.12USDFed Chair Powell Speaks,2/12/19 17:45,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2019.02.12AUDWestpac Consumer Sentiment,2/12/19 23:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",-4.7%
+2019.02.12JPYPPI y y,2/12/19 23:50,FALSE,PPI y/y,JPY,1,1.0%,1.5%
+

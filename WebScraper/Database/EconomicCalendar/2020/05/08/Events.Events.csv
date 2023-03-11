@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2020.05.08EUREurogroup Meetings,5/8/20 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2020.05.08EURFrench Bank Holiday,5/8/20 0:00,TRUE,French Bank Holiday,EUR,4," "," "
+2020.05.08GBPBank Holiday,5/8/20 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2020.05.08GBPGfK Consumer Confidence,5/8/20 0:01,FALSE,GfK Consumer Confidence,GBP,1,-37,-34
+2020.05.08JPYAverage Cash Earnings y y,5/8/20 0:30,FALSE,Average Cash Earnings y/y,JPY,1,0.1%,0.7%
+2020.05.08JPYHousehold Spending y y,5/8/20 0:30,FALSE,Household Spending y/y,JPY,1,-6.3%,-0.3%
+2020.05.08AUDRBA Monetary Policy Statement,5/8/20 2:30,FALSE,RBA Monetary Policy Statement,AUD,3," "," "
+2020.05.08EURGerman Trade Balance,5/8/20 7:00,FALSE,German Trade Balance,EUR,1,19.0B,21.4B
+2020.05.08EURECB President Lagarde Speaks,5/8/20 12:00,FALSE,ECB President Lagarde Speaks,EUR,3," "," "
+2020.05.08USDPresident Trump Speaks,5/8/20 13:00,FALSE,President Trump Speaks,USD,3," "," "
+2020.05.08CADHousing Starts,5/8/20 13:17,FALSE,Housing Starts,CAD,1,107K,195K
+2020.05.08CADBuilding Permits m m,5/8/20 13:30,FALSE,Building Permits m/m,CAD,1,-20.1%,-8.4%
+2020.05.08CADEmployment Change,5/8/20 13:30,FALSE,Employment Change,CAD,3,-4000.0K,-1010.7K
+2020.05.08CADUnemployment Rate,5/8/20 13:30,FALSE,Unemployment Rate,CAD,3,18.0%,7.8%
+2020.05.08USDAverage Hourly Earnings m m,5/8/20 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.5%,0.5%
+2020.05.08USDNon-Farm Employment Change,5/8/20 13:30,FALSE,Non-Farm Employment Change,USD,3,-22000K,-881K
+2020.05.08USDUnemployment Rate,5/8/20 13:30,FALSE,Unemployment Rate,USD,3,16.0%,4.4%
+2020.05.08USDFinal Wholesale Inventories m m,5/8/20 15:00,FALSE,Final Wholesale Inventories m/m,USD,1,-1.0%,-1.0%
+

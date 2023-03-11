@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2014.03.10EUREurogroup Meetings,3/10/14 0:00,TRUE,Eurogroup Meetings,EUR,2," "," "
+2014.03.10JPYBank Lending y y,3/10/14 0:50,FALSE,Bank Lending y/y,JPY,1," ",2.3%
+2014.03.10JPYCurrent Account,3/10/14 0:50,FALSE,Current Account,JPY,2,-0.59T,0.07T
+2014.03.10JPYFinal GDP Price Index y y,3/10/14 0:50,FALSE,Final GDP Price Index y/y,JPY,1,-0.4%,-0.4%
+2014.03.10JPYFinal GDP q q,3/10/14 0:50,FALSE,Final GDP q/q,JPY,2,0.2%,0.3%
+2014.03.10JPYEconomy Watchers Sentiment,3/10/14 6:00,FALSE,Economy Watchers Sentiment,JPY,1,54.3,54.7
+2014.03.10EURFrench Industrial Production m m,3/10/14 8:45,FALSE,French Industrial Production m/m,EUR,2,0.6%,-0.6%
+2014.03.10CNYM2 Money Supply y y,3/10/14 9:03,FALSE,M2 Money Supply y/y,CNY,1,13.2%,13.2%
+2014.03.10CNYNew Loans,3/10/14 9:03,FALSE,New Loans,CNY,2,730B,1320B
+2014.03.10CHFRetail Sales y y,3/10/14 9:15,FALSE,Retail Sales y/y,CHF,2,2.7%,2.5%
+2014.03.10EURItalian Industrial Production m m,3/10/14 10:00,FALSE,Italian Industrial Production m/m,EUR,1,0.4%,-0.8%
+2014.03.10EURSentix Investor Confidence,3/10/14 10:30,FALSE,Sentix Investor Confidence,EUR,1,14.3,13.3
+2014.03.10USDFOMC Member Plosser Speaks,3/10/14 11:15,FALSE,FOMC Member Plosser Speaks,USD,2," "," "
+2014.03.10CADHousing Starts,3/10/14 13:12,FALSE,Housing Starts,CAD,1,190K,180K
+2014.03.10GBPMPC Member Bean Speaks,3/10/14 15:15,FALSE,MPC Member Bean Speaks,GBP,2," "," "
+2014.03.10NZDREINZ HPI m m,3/10/14 20:59,FALSE,REINZ HPI m/m,NZD,1," ",-2.4%
+
