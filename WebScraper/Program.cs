@@ -117,7 +117,7 @@ namespace WebScraper
 
         static async Task<bool> MoveEventsFromFirestoreToExcelDB()
         {
-            DateTime startTime = new DateTime(2022, 1, 12, 0, 0, 0, DateTimeKind.Utc);
+            DateTime startTime = new DateTime(2011, 1, 1, 0, 0, 0, DateTimeKind.Utc);
             DateTime endTime = new DateTime(2023, 3, 12, 0, 0, 0, DateTimeKind.Utc);
 
             EconomicEventsDB firestoreDB = new EconomicEventsDB();

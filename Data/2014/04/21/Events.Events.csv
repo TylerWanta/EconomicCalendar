@@ -1,9 +1,0 @@
-﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
-2014.04.21CHFBank Holiday,4/21/14 0:00,TRUE,Bank Holiday,CHF,4," "," "
-2014.04.21EURFrench Bank Holiday,4/21/14 0:00,TRUE,French Bank Holiday,EUR,4," "," "
-2014.04.21EURGerman Bank Holiday,4/21/14 0:00,TRUE,German Bank Holiday,EUR,4," "," "
-2014.04.21EURItalian Bank Holiday,4/21/14 0:00,TRUE,Italian Bank Holiday,EUR,4," "," "
-2014.04.21GBPBank Holiday,4/21/14 0:00,TRUE,Bank Holiday,GBP,4," "," "
-2014.04.21JPYTrade Balance,4/21/14 0:50,FALSE,Trade Balance,JPY,2,-1.27T,-1.18T
-2014.04.21USDCB Leading Index m m,4/21/14 15:00,FALSE,CB Leading Index m/m,USD,1,0.8%,0.5%
-

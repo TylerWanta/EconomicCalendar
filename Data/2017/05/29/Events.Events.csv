@@ -1,9 +1,0 @@
-﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
-2017.05.29CNYBank Holiday,5/29/17 0:00,TRUE,Bank Holiday,CNY,4," "," "
-2017.05.29GBPBank Holiday,5/29/17 0:00,TRUE,Bank Holiday,GBP,4," "," "
-2017.05.29USDBank Holiday,5/29/17 0:00,TRUE,Bank Holiday,USD,4," "," "
-2017.05.29EURM3 Money Supply y y,5/29/17 9:00,FALSE,M3 Money Supply y/y,EUR,2,5.2%,5.3%
-2017.05.29EURPrivate Loans y y,5/29/17 9:00,FALSE,Private Loans y/y,EUR,1,2.5%,2.4%
-2017.05.29EURECB President Draghi Speaks,5/29/17 14:00,FALSE,ECB President Draghi Speaks,EUR,3," "," "
-2017.05.29NZDBuilding Consents m m,5/29/17 23:45,FALSE,Building Consents m/m,NZD,1," ",-1.2%
-

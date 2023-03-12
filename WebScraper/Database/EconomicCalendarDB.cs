@@ -9,7 +9,8 @@ namespace WebScraper.Database
 {
     public class EconomicCalendarDB
     {
-        public string DBDirectory => "C:/Users/WantaTyler/source/repos/EconomicCalendar/Data";
+        // path to MT4 directory. Should be /MQL4/files/ for running strategies in real time or /tester/files/ for backtesting
+        public string DBDirectory => "E:/MT4s/MT4-3/tester/files/EconomicCalendar/";
 
         public string EventsDocument => "Events.csv";
 
@@ -124,7 +125,7 @@ namespace WebScraper.Database
         private void WriteEvent(int row, WorkSheet worksheet, EconomicEvent economicEvent)
         {
             worksheet[$"A{row}"].StringValue = economicEvent.Id;
-            worksheet[$"B{row}"].DateTimeValue = economicEvent.Date;
+            worksheet[$"B{row}"].StringValue = economicEvent.Date.ToString("yyyy.MM.dd HH:mm"); // MQL4 supported datetime format
             worksheet[$"C{row}"].BoolValue = economicEvent.AllDay;
             worksheet[$"D{row}"].StringValue = economicEvent.Title;
             worksheet[$"E{row}"].StringValue = economicEvent.Symbol;
