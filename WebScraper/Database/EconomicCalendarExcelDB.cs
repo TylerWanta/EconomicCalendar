@@ -7,10 +7,10 @@ using WebScraper.Types;
 
 namespace WebScraper.Database
 {
-    public class EconomicCalendarDB
+    public class EconomicCalendarExcelDB
     {
         // path to MT4 directory. Should be /MQL4/files/ for running strategies in real time or /tester/files/ for backtesting
-        public string DBDirectory => "E:/MT4s/MT4-3/tester/files/EconomicCalendar/";
+        static public string DBDirectory => "E:/MT4s/MT4-3/tester/files/EconomicCalendar/";
 
         public string EventsDocument => "Events.csv";
 
@@ -18,9 +18,9 @@ namespace WebScraper.Database
 
         public string Delimiter => ",";
 
-        public EconomicCalendarDB() { }
+        public EconomicCalendarExcelDB() { }
 
-        public string EventsPath(DateTime date)
+        static public string EventsPath(DateTime date)
         {
             return $"{DBDirectory}/{date.ToString("yyyy/MM/dd")}";
         }
