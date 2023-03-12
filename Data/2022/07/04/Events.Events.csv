@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.07.04USDBank Holiday,7/4/22 0:00,TRUE,Bank Holiday,USD,4," "," "
+2022.07.04JPYMonetary Base y y,7/4/22 0:50,FALSE,Monetary Base y/y,JPY,1,4.9%,4.6%
+2022.07.04AUDMI Inflation Gauge m m,7/4/22 2:04,FALSE,MI Inflation Gauge m/m,AUD,1," ",1.1%
+2022.07.04AUDANZ Job Advertisements m m,7/4/22 2:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",1.0%
+2022.07.04AUDBuilding Approvals m m,7/4/22 2:30,FALSE,Building Approvals m/m,AUD,1,-2.0%,-3.9%
+2022.07.04EURGerman Trade Balance,7/4/22 7:00,FALSE,German Trade Balance,EUR,1,4.2B,3.1B
+2022.07.04CHFCPI m m,7/4/22 7:30,FALSE,CPI m/m,CHF,3,0.3%,0.7%
+2022.07.04EURSpanish Unemployment Change,7/4/22 8:00,FALSE,Spanish Unemployment Change,EUR,1,-41.3K,-99.5K
+2022.07.04EURSentix Investor Confidence,7/4/22 9:30,FALSE,Sentix Investor Confidence,EUR,1,-20.0,-15.8
+2022.07.04EURPPI m m,7/4/22 10:00,FALSE,PPI m/m,EUR,1,1.0%,1.2%
+2022.07.04CADManufacturing PMI,7/4/22 14:30,FALSE,Manufacturing PMI,CAD,1," ",56.8
+2022.07.04EURGerman Buba President Nagel Speaks,7/4/22 15:00,FALSE,German Buba President Nagel Speaks,EUR,1," "," "
+2022.07.04CADBOC Business Outlook Survey,7/4/22 15:30,FALSE,BOC Business Outlook Survey,CAD,2," "," "
+2022.07.04NZDNZIER Business Confidence,7/4/22 23:00,FALSE,NZIER Business Confidence,NZD,1," ",-40
+2022.07.04AUDAIG Construction Index,7/4/22 23:30,FALSE,AIG Construction Index,AUD,1," ",50.4
+

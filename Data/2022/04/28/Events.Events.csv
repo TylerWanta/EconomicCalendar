@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.04.28EURGerman Prelim CPI m m,4/28/22 0:00,TRUE,German Prelim CPI m/m,EUR,1,0.5%,2.5%
+2022.04.28JPYBank Holiday,4/28/22 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2022.04.28JPYPrelim Industrial Production m m,4/28/22 0:50,FALSE,Prelim Industrial Production m/m,JPY,1,0.5%,2.0%
+2022.04.28JPYRetail Sales y y,4/28/22 0:50,FALSE,Retail Sales y/y,JPY,1,0.3%,-0.9%
+2022.04.28NZDANZ Business Confidence,4/28/22 2:00,FALSE,ANZ Business Confidence,NZD,1," ",-41.9
+2022.04.28AUDImport Prices q q,4/28/22 2:30,FALSE,Import Prices q/q,AUD,1,7.1%,5.8%
+2022.04.28JPYBOJ Outlook Report,4/28/22 4:11,FALSE,BOJ Outlook Report,JPY,3," "," "
+2022.04.28JPYBOJ Policy Rate,4/28/22 4:11,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2022.04.28JPYMonetary Policy Statement,4/28/22 4:11,FALSE,Monetary Policy Statement,JPY,2," "," "
+2022.04.28JPYHousing Starts y y,4/28/22 5:59,FALSE,Housing Starts y/y,JPY,1,-0.5%,6.3%
+2022.04.28JPYBOJ Press Conference,4/28/22 7:30,FALSE,BOJ Press Conference,JPY,2," "," "
+2022.04.28EURSpanish Flash CPI y y,4/28/22 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,9.1%,9.8%
+2022.04.28EURSpanish Unemployment Rate,4/28/22 8:00,FALSE,Spanish Unemployment Rate,EUR,1,13.0%,13.3%
+2022.04.28EURECB Economic Bulletin,4/28/22 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2022.04.28USDAdvance GDP Price Index q q,4/28/22 13:30,FALSE,Advance GDP Price Index q/q,USD,2,7.2%,7.1%
+2022.04.28USDAdvance GDP q q,4/28/22 13:30,FALSE,Advance GDP q/q,USD,3,1.1%,6.9%
+2022.04.28USDUnemployment Claims,4/28/22 13:30,FALSE,Unemployment Claims,USD,2,178K,185K
+2022.04.28USDNatural Gas Storage,4/28/22 15:30,FALSE,Natural Gas Storage,USD,1,39B,53B
+

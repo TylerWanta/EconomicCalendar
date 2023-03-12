@@ -1,0 +1,37 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.12.15AUDMI Inflation Expectations,12/15/22 0:00,FALSE,MI Inflation Expectations,AUD,1," ",6.0%
+2022.12.15AUDEmployment Change,12/15/22 0:30,FALSE,Employment Change,AUD,3,19.4K,43.1K
+2022.12.15AUDUnemployment Rate,12/15/22 0:30,FALSE,Unemployment Rate,AUD,3,3.4%,3.4%
+2022.12.15CNYFixed Asset Investment ytd y,12/15/22 2:00,FALSE,Fixed Asset Investment ytd/y,CNY,1,5.6%,5.8%
+2022.12.15CNYIndustrial Production y y,12/15/22 2:00,FALSE,Industrial Production y/y,CNY,1,3.4%,5.0%
+2022.12.15CNYNBS Press Conference,12/15/22 2:00,FALSE,NBS Press Conference,CNY,1," "," "
+2022.12.15CNYRetail Sales y y,12/15/22 2:00,FALSE,Retail Sales y/y,CNY,1,-3.9%,-0.5%
+2022.12.15CNYUnemployment Rate,12/15/22 2:02,FALSE,Unemployment Rate,CNY,1,5.6%,5.5%
+2022.12.15JPYTertiary Industry Activity m m,12/15/22 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.7%,-0.2%
+2022.12.15EURGerman WPI m m,12/15/22 7:00,FALSE,German WPI m/m,EUR,1,0.2%,-0.6%
+2022.12.15EURFrench Final CPI m m,12/15/22 7:45,FALSE,French Final CPI m/m,EUR,1,0.4%,0.4%
+2022.12.15CHFSNB Monetary Policy Assessment,12/15/22 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2022.12.15CHFSNB Policy Rate,12/15/22 8:30,FALSE,SNB Policy Rate,CHF,3,1.00%,0.50%
+2022.12.15CHFSNB Press Conference,12/15/22 9:00,FALSE,SNB Press Conference,CHF,3," "," "
+2022.12.15GBPBOE Inflation Letter,12/15/22 12:00,FALSE,BOE Inflation Letter,GBP,2," "," "
+2022.12.15GBPMPC Official Bank Rate Votes,12/15/22 12:00,FALSE,MPC Official Bank Rate Votes,GBP,3,9-0-0,9-0-0
+2022.12.15GBPMonetary Policy Summary,12/15/22 12:00,FALSE,Monetary Policy Summary,GBP,3," "," "
+2022.12.15GBPOfficial Bank Rate,12/15/22 12:00,FALSE,Official Bank Rate,GBP,3,3.50%,3.00%
+2022.12.15CADHousing Starts,12/15/22 13:15,FALSE,Housing Starts,CAD,1,260K,265K
+2022.12.15EURMain Refinancing Rate,12/15/22 13:15,FALSE,Main Refinancing Rate,EUR,3,2.50%,2.00%
+2022.12.15EURMonetary Policy Statement,12/15/22 13:15,FALSE,Monetary Policy Statement,EUR,3," "," "
+2022.12.15USDCore Retail Sales m m,12/15/22 13:30,FALSE,Core Retail Sales m/m,USD,3,0.2%,1.2%
+2022.12.15USDEmpire State Manufacturing Index,12/15/22 13:30,FALSE,Empire State Manufacturing Index,USD,3,-1.1,4.5
+2022.12.15USDPhilly Fed Manufacturing Index,12/15/22 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,-10.0,-19.4
+2022.12.15USDRetail Sales m m,12/15/22 13:30,FALSE,Retail Sales m/m,USD,3,-0.2%,1.3%
+2022.12.15USDUnemployment Claims,12/15/22 13:30,FALSE,Unemployment Claims,USD,2,230K,231K
+2022.12.15EURECB Press Conference,12/15/22 13:45,FALSE,ECB Press Conference,EUR,3," "," "
+2022.12.15USDCapacity Utilization Rate,12/15/22 14:15,FALSE,Capacity Utilization Rate,USD,1,79.8%,79.9%
+2022.12.15USDIndustrial Production m m,12/15/22 14:15,FALSE,Industrial Production m/m,USD,1,0.1%,-0.1%
+2022.12.15USDBusiness Inventories m m,12/15/22 15:00,FALSE,Business Inventories m/m,USD,1,0.4%,0.2%
+2022.12.15USDNatural Gas Storage,12/15/22 15:30,FALSE,Natural Gas Storage,USD,1,-39B,-21B
+2022.12.15USDTIC Long-Term Purchases,12/15/22 21:00,FALSE,TIC Long-Term Purchases,USD,1,110.0B,117.7B
+2022.12.15NZDBusinessNZ Manufacturing Index,12/15/22 21:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",49.1
+2022.12.15AUDFlash Manufacturing PMI,12/15/22 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",51.3
+2022.12.15AUDFlash Services PMI,12/15/22 22:00,FALSE,Flash Services PMI,AUD,1," ",47.6
+

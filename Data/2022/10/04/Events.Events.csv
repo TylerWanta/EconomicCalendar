@@ -1,0 +1,21 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.10.04CNYBank Holiday,10/4/22 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2022.10.04EURECOFIN Meetings,10/4/22 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2022.10.04JPYTokyo Core CPI y y,10/4/22 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,2.8%,2.6%
+2022.10.04JPYMonetary Base y y,10/4/22 0:50,FALSE,Monetary Base y/y,JPY,1,0.6%,0.4%
+2022.10.04AUDANZ Job Advertisements m m,10/4/22 1:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",1.5%
+2022.10.04AUDBuilding Approvals m m,10/4/22 1:30,FALSE,Building Approvals m/m,AUD,1,10.2%,-18.2%
+2022.10.04AUDCash Rate,10/4/22 4:30,FALSE,Cash Rate,AUD,3,2.85%,2.35%
+2022.10.04AUDRBA Rate Statement,10/4/22 4:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2022.10.04JPY10-y Bond Auction,10/4/22 4:35,FALSE,10-y Bond Auction,JPY,1," ",0.24|4.0
+2022.10.04AUDCommodity Prices y y,10/4/22 6:30,FALSE,Commodity Prices y/y,AUD,1," ",23.3%
+2022.10.04EURSpanish Unemployment Change,10/4/22 8:00,FALSE,Spanish Unemployment Change,EUR,1,30.8K,40.4K
+2022.10.04EURPPI m m,10/4/22 10:00,FALSE,PPI m/m,EUR,1,5.0%,4.0%
+2022.10.04USDFOMC Member Williams Speaks,10/4/22 14:00,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+2022.10.04USDFOMC Member Mester Speaks,10/4/22 14:15,FALSE,FOMC Member Mester Speaks,USD,2," "," "
+2022.10.04USDFactory Orders m m,10/4/22 15:00,FALSE,Factory Orders m/m,USD,1,0.0%,-1.0%
+2022.10.04USDJOLTS Job Openings,10/4/22 15:00,FALSE,JOLTS Job Openings,USD,3,11.07M,11.17M
+2022.10.04NZDGDT Price Index,10/4/22 15:45,FALSE,GDT Price Index,NZD,1," ",2.0%
+2022.10.04EURECB President Lagarde Speaks,10/4/22 16:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.10.04USDFOMC Member Jefferson Speaks,10/4/22 16:45,FALSE,FOMC Member Jefferson Speaks,USD,1," "," "
+

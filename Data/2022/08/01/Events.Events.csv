@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.08.01CADBank Holiday,8/1/22 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2022.08.01CHFBank Holiday,8/1/22 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2022.08.01JPYFinal Manufacturing PMI,8/1/22 1:30,FALSE,Final Manufacturing PMI,JPY,1,52.2,52.2
+2022.08.01AUDMI Inflation Gauge m m,8/1/22 2:04,FALSE,MI Inflation Gauge m/m,AUD,1," ",0.3%
+2022.08.01AUDANZ Job Advertisements m m,8/1/22 2:30,FALSE,ANZ Job Advertisements m/m,AUD,1," ",0.4%
+2022.08.01CNYCaixin Manufacturing PMI,8/1/22 2:45,FALSE,Caixin Manufacturing PMI,CNY,1,51.6,51.7
+2022.08.01EURGerman Retail Sales m m,8/1/22 7:00,FALSE,German Retail Sales m/m,EUR,1,0.4%,1.2%
+2022.08.01EURSpanish Manufacturing PMI,8/1/22 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,49.9,52.6
+2022.08.01EURItalian Manufacturing PMI,8/1/22 8:45,FALSE,Italian Manufacturing PMI,EUR,1,49.1,50.9
+2022.08.01EURFrench Final Manufacturing PMI,8/1/22 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.6,49.6
+2022.08.01EURGerman Final Manufacturing PMI,8/1/22 8:55,FALSE,German Final Manufacturing PMI,EUR,1,49.2,49.2
+2022.08.01EURFinal Manufacturing PMI,8/1/22 9:00,FALSE,Final Manufacturing PMI,EUR,1,49.6,49.6
+2022.08.01EURItalian Monthly Unemployment Rate,8/1/22 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.1%,8.2%
+2022.08.01GBPFinal Manufacturing PMI,8/1/22 9:30,FALSE,Final Manufacturing PMI,GBP,1,52.2,52.2
+2022.08.01EURUnemployment Rate,8/1/22 10:00,FALSE,Unemployment Rate,EUR,1,6.6%,6.6%
+2022.08.01USDFinal Manufacturing PMI,8/1/22 14:45,FALSE,Final Manufacturing PMI,USD,1,52.3,52.3
+2022.08.01USDConstruction Spending m m,8/1/22 15:00,FALSE,Construction Spending m/m,USD,1,0.3%,0.1%
+2022.08.01USDISM Manufacturing PMI,8/1/22 15:00,FALSE,ISM Manufacturing PMI,USD,3,52.3,53.0
+2022.08.01USDISM Manufacturing Prices,8/1/22 15:00,FALSE,ISM Manufacturing Prices,USD,1,74.9,78.5
+2022.08.01USDLoan Officer Survey,8/1/22 19:00,FALSE,Loan Officer Survey,USD,1," "," "
+

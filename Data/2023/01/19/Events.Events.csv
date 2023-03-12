@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.01.19AUDMI Inflation Expectations,1/19/23 0:00,FALSE,MI Inflation Expectations,AUD,1," ",5.2%
+2023.01.19AllWEF Annual Meetings,1/19/23 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2023.01.19GBPRICS House Price Balance,1/19/23 0:01,FALSE,RICS House Price Balance,GBP,1,-30%,-26%
+2023.01.19AUDEmployment Change,1/19/23 0:30,FALSE,Employment Change,AUD,2,26.5K,58.3K
+2023.01.19AUDUnemployment Rate,1/19/23 0:30,FALSE,Unemployment Rate,AUD,2,3.4%,3.5%
+2023.01.19CHFPPI m m,1/19/23 7:30,FALSE,PPI m/m,CHF,1,-0.4%,-0.5%
+2023.01.19EURCurrent Account,1/19/23 9:00,FALSE,Current Account,EUR,1,-11.6B,-0.5B
+2023.01.19GBPBOE Credit Conditions Survey,1/19/23 9:30,FALSE,BOE Credit Conditions Survey,GBP,1," "," "
+2023.01.19EURECB President Lagarde Speaks,1/19/23 10:30,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2023.01.19EURECB Monetary Policy Meeting Accounts,1/19/23 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,1," "," "
+2023.01.19CADWholesale Sales m m,1/19/23 13:30,FALSE,Wholesale Sales m/m,CAD,1,2.0%,1.9%
+2023.01.19USDBuilding Permits,1/19/23 13:30,FALSE,Building Permits,USD,1,1.37M,1.35M
+2023.01.19USDHousing Starts,1/19/23 13:30,FALSE,Housing Starts,USD,1,1.36M,1.40M
+2023.01.19USDPhilly Fed Manufacturing Index,1/19/23 13:30,FALSE,Philly Fed Manufacturing Index,USD,2,-10.9,-13.8
+2023.01.19USDUnemployment Claims,1/19/23 13:30,FALSE,Unemployment Claims,USD,2,214K,205K
+2023.01.19AUDCB Leading Index m m,1/19/23 15:30,FALSE,CB Leading Index m/m,AUD,1," ",0.4%
+2023.01.19USDNatural Gas Storage,1/19/23 15:30,FALSE,Natural Gas Storage,USD,1,-76B,11B
+2023.01.19USDCrude Oil Inventories,1/19/23 16:00,FALSE,Crude Oil Inventories,USD,1,-2.1M,19.0M
+2023.01.19USDFOMC Member Brainard Speaks,1/19/23 18:15,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+2023.01.19NZDBusinessNZ Manufacturing Index,1/19/23 21:30,FALSE,BusinessNZ Manufacturing Index,NZD,1," ",47.2
+2023.01.19NZDVisitor Arrivals m m,1/19/23 21:45,FALSE,Visitor Arrivals m/m,NZD,1," ",6.8%
+2023.01.19JPYNational Core CPI y y,1/19/23 23:30,FALSE,National Core CPI y/y,JPY,1,4.0%,3.7%
+2023.01.19USDFOMC Member Williams Speaks,1/19/23 23:35,FALSE,FOMC Member Williams Speaks,USD,1," "," "
+

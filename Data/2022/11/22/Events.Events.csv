@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.11.22JPYBank Holiday,11/22/22 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2022.11.22JPYBOJ Core CPI y y,11/22/22 5:05,FALSE,BOJ Core CPI y/y,JPY,1,2.2%,2.0%
+2022.11.22GBPPublic Sector Net Borrowing,11/22/22 7:00,FALSE,Public Sector Net Borrowing,GBP,1,19.1B,16.9B
+2022.11.22AUDRBA Gov Lowe Speaks,11/22/22 8:30,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2022.11.22EURCurrent Account,11/22/22 9:00,FALSE,Current Account,EUR,1,-20.3B,-26.9B
+2022.11.22CADCore Retail Sales m m,11/22/22 13:30,FALSE,Core Retail Sales m/m,CAD,2,-0.6%,0.5%
+2022.11.22CADNHPI m m,11/22/22 13:30,FALSE,NHPI m/m,CAD,1,0.2%,-0.1%
+2022.11.22CADRetail Sales m m,11/22/22 13:30,FALSE,Retail Sales m/m,CAD,2,-0.5%,0.4%
+2022.11.22EURConsumer Confidence,11/22/22 15:00,FALSE,Consumer Confidence,EUR,1,-26,-28
+2022.11.22USDRichmond Manufacturing Index,11/22/22 15:00,FALSE,Richmond Manufacturing Index,USD,2,-9,-10
+2022.11.22USDFOMC Member Mester Speaks,11/22/22 16:00,FALSE,FOMC Member Mester Speaks,USD,2," "," "
+2022.11.22CADGov Council Member Rogers Speaks,11/22/22 16:45,FALSE,Gov Council Member Rogers Speaks,CAD,1," "," "
+2022.11.22EURGerman Buba President Nagel Speaks,11/22/22 18:00,FALSE,German Buba President Nagel Speaks,EUR,1," "," "
+2022.11.22USDFOMC Member Bullard Speaks,11/22/22 19:15,FALSE,FOMC Member Bullard Speaks,USD,2," "," "
+2022.11.22USDFOMC Member George Speaks,11/22/22 19:15,FALSE,FOMC Member George Speaks,USD,2," "," "
+2022.11.22AUDFlash Manufacturing PMI,11/22/22 22:00,FALSE,Flash Manufacturing PMI,AUD,1," ",52.7
+2022.11.22AUDFlash Services PMI,11/22/22 22:00,FALSE,Flash Services PMI,AUD,1," ",49.3
+

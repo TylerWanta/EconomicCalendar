@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.02.23AllG20 Meetings,2/23/23 0:00,TRUE,G20 Meetings,All,2," "," "
+2023.02.23AUDPrivate Capital Expenditure q q,2/23/23 0:30,FALSE,Private Capital Expenditure q/q,AUD,1,1.1%,0.6%
+2023.02.23AUDRBA Deputy Gov Bullock Speaks,2/23/23 5:15,FALSE,RBA Deputy Gov Bullock Speaks,AUD,1," "," "
+2023.02.23GBPMPC Member Mann Speaks,2/23/23 9:30,FALSE,MPC Member Mann Speaks,GBP,1," "," "
+2023.02.23EURFinal CPI y y,2/23/23 10:00,FALSE,Final CPI y/y,EUR,1,8.6%,8.5%
+2023.02.23EURFinal Core CPI y y,2/23/23 10:00,FALSE,Final Core CPI y/y,EUR,1,5.2%,5.2%
+2023.02.23GBPMPC Member Cunliffe Speaks,2/23/23 10:45,FALSE,MPC Member Cunliffe Speaks,GBP,1," "," "
+2023.02.23GBPCBI Realized Sales,2/23/23 11:00,FALSE,CBI Realized Sales,GBP,1,-11,-23
+2023.02.23CADCorporate Profits q q,2/23/23 13:30,FALSE,Corporate Profits q/q,CAD,1," ",-8.1%
+2023.02.23USDPrelim GDP Price Index q q,2/23/23 13:30,FALSE,Prelim GDP Price Index q/q,USD,1,3.5%,3.5%
+2023.02.23USDPrelim GDP q q,2/23/23 13:30,FALSE,Prelim GDP q/q,USD,3,2.9%,2.9%
+2023.02.23USDUnemployment Claims,2/23/23 13:30,FALSE,Unemployment Claims,USD,2,200K,195K
+2023.02.23CNYCB Leading Index m m,2/23/23 14:10,FALSE,CB Leading Index m/m,CNY,1," ",-0.6%
+2023.02.23USDNatural Gas Storage,2/23/23 15:30,FALSE,Natural Gas Storage,USD,1,-60B,-100B
+2023.02.23USDCrude Oil Inventories,2/23/23 16:00,FALSE,Crude Oil Inventories,USD,1,2.9M,16.3M
+2023.02.23JPYNational Core CPI y y,2/23/23 23:30,FALSE,National Core CPI y/y,JPY,1,4.3%,4.0%
+

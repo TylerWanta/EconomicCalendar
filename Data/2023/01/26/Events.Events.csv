@@ -1,0 +1,16 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.01.26CNYBank Holiday,1/26/23 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2023.01.26EURSpanish Unemployment Rate,1/26/23 8:00,FALSE,Spanish Unemployment Rate,EUR,1,12.4%,12.7%
+2023.01.26GBPCBI Realized Sales,1/26/23 11:00,FALSE,CBI Realized Sales,GBP,1,2,11
+2023.01.26USDAdvance GDP Price Index q q,1/26/23 13:30,FALSE,Advance GDP Price Index q/q,USD,2,3.2%,4.4%
+2023.01.26USDAdvance GDP q q,1/26/23 13:30,FALSE,Advance GDP q/q,USD,3,2.6%,3.2%
+2023.01.26USDCore Durable Goods Orders m m,1/26/23 13:30,FALSE,Core Durable Goods Orders m/m,USD,2,-0.2%,0.1%
+2023.01.26USDDurable Goods Orders m m,1/26/23 13:30,FALSE,Durable Goods Orders m/m,USD,2,2.4%,-1.7%
+2023.01.26USDGoods Trade Balance,1/26/23 13:30,FALSE,Goods Trade Balance,USD,1,-88.4B,-82.9B
+2023.01.26USDPrelim Wholesale Inventories m m,1/26/23 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.5%,0.9%
+2023.01.26USDUnemployment Claims,1/26/23 13:30,FALSE,Unemployment Claims,USD,2,203K,192K
+2023.01.26USDNew Home Sales,1/26/23 15:00,FALSE,New Home Sales,USD,2,610K,602K
+2023.01.26USDNatural Gas Storage,1/26/23 15:30,FALSE,Natural Gas Storage,USD,1,-79B,-82B
+2023.01.26USDPresident Biden Speaks,1/26/23 19:45,FALSE,President Biden Speaks,USD,1," "," "
+2023.01.26JPYTokyo Core CPI y y,1/26/23 23:30,FALSE,Tokyo Core CPI y/y,JPY,1,4.2%,3.9%
+

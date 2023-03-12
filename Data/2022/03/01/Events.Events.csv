@@ -1,0 +1,37 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.03.01EURGerman Prelim CPI m m,3/1/22 0:00,TRUE,German Prelim CPI m/m,EUR,1,0.8%,0.4%
+2022.03.01USDWards Total Vehicle Sales,3/1/22 0:00,TRUE,Wards Total Vehicle Sales,USD,1,14.4M,15.0M
+2022.03.01AUDCurrent Account,3/1/22 0:30,FALSE,Current Account,AUD,1,15.4B,22.0B
+2022.03.01JPYFinal Manufacturing PMI,3/1/22 0:30,FALSE,Final Manufacturing PMI,JPY,1,52.9,52.9
+2022.03.01CNYManufacturing PMI,3/1/22 1:30,FALSE,Manufacturing PMI,CNY,1,49.9,50.1
+2022.03.01CNYNon-Manufacturing PMI,3/1/22 1:31,FALSE,Non-Manufacturing PMI,CNY,1,50.6,51.1
+2022.03.01CNYCaixin Manufacturing PMI,3/1/22 1:45,FALSE,Caixin Manufacturing PMI,CNY,1,49.1,49.1
+2022.03.01AUDCash Rate,3/1/22 3:30,FALSE,Cash Rate,AUD,3,0.10%,0.10%
+2022.03.01AUDRBA Rate Statement,3/1/22 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2022.03.01JPY10-y Bond Auction,3/1/22 3:35,FALSE,10-y Bond Auction,JPY,1," ",0.18|3.3
+2022.03.01AUDCommodity Prices y y,3/1/22 5:30,FALSE,Commodity Prices y/y,AUD,1," ",22.2%
+2022.03.01EURSpanish Manufacturing PMI,3/1/22 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,55.9,56.2
+2022.03.01CHFManufacturing PMI,3/1/22 8:30,FALSE,Manufacturing PMI,CHF,1,64.2,63.8
+2022.03.01EURItalian Manufacturing PMI,3/1/22 8:45,FALSE,Italian Manufacturing PMI,EUR,1,58.0,58.3
+2022.03.01EURFrench Final Manufacturing PMI,3/1/22 8:50,FALSE,French Final Manufacturing PMI,EUR,1,57.6,57.6
+2022.03.01EURGerman Final Manufacturing PMI,3/1/22 8:55,FALSE,German Final Manufacturing PMI,EUR,1,58.5,58.5
+2022.03.01EURFinal Manufacturing PMI,3/1/22 9:00,FALSE,Final Manufacturing PMI,EUR,1,58.4,58.4
+2022.03.01GBPFinal Manufacturing PMI,3/1/22 9:30,FALSE,Final Manufacturing PMI,GBP,1,57.3,57.3
+2022.03.01GBPM4 Money Supply m m,3/1/22 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,0.0%
+2022.03.01GBPMortgage Approvals,3/1/22 9:30,FALSE,Mortgage Approvals,GBP,1,72K,71K
+2022.03.01GBPNet Lending to Individuals m m,3/1/22 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,5.0B,4.8B
+2022.03.01EURItalian Prelim CPI m m,3/1/22 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.7%,1.6%
+2022.03.01CADGDP m m,3/1/22 13:30,FALSE,GDP m/m,CAD,3,0.0%,0.6%
+2022.03.01CADManufacturing PMI,3/1/22 14:30,FALSE,Manufacturing PMI,CAD,1," ",56.2
+2022.03.01USDFinal Manufacturing PMI,3/1/22 14:45,FALSE,Final Manufacturing PMI,USD,1,57.5,57.5
+2022.03.01NZDGDT Price Index,3/1/22 14:52,FALSE,GDT Price Index,NZD,1," ",4.2%
+2022.03.01USDConstruction Spending m m,3/1/22 15:00,FALSE,Construction Spending m/m,USD,1,0.2%,0.8%
+2022.03.01USDISM Manufacturing PMI,3/1/22 15:00,FALSE,ISM Manufacturing PMI,USD,3,58.0,57.6
+2022.03.01USDISM Manufacturing Prices,3/1/22 15:00,FALSE,ISM Manufacturing Prices,USD,1,77.4,76.1
+2022.03.01GBPMPC Member Saunders Speaks,3/1/22 18:30,FALSE,MPC Member Saunders Speaks,GBP,2," "," "
+2022.03.01GBPMPC Member Mann Speaks,3/1/22 19:00,FALSE,MPC Member Mann Speaks,GBP,1," "," "
+2022.03.01NZDBuilding Consents m m,3/1/22 21:45,FALSE,Building Consents m/m,NZD,1," ",0.4%
+2022.03.01NZDOverseas Trade Index q q,3/1/22 21:45,FALSE,Overseas Trade Index q/q,NZD,1,0.9%,0.4%
+2022.03.01JPYCapital Spending q y,3/1/22 23:50,FALSE,Capital Spending q/y,JPY,1,2.9%,1.2%
+2022.03.01JPYMonetary Base y y,3/1/22 23:50,FALSE,Monetary Base y/y,JPY,1,8.6%,8.4%
+

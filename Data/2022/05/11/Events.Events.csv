@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.05.11AUDWestpac Consumer Sentiment,5/11/22 1:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",-0.9%
+2022.05.11CNYCPI y y,5/11/22 2:30,FALSE,CPI y/y,CNY,1,1.8%,1.5%
+2022.05.11CNYPPI y y,5/11/22 2:30,FALSE,PPI y/y,CNY,1,7.8%,8.3%
+2022.05.11JPYLeading Indicators,5/11/22 6:00,FALSE,Leading Indicators,JPY,1,100.9%,100.0%
+2022.05.11EURGerman Final CPI m m,5/11/22 7:00,FALSE,German Final CPI m/m,EUR,1,0.8%,0.8%
+2022.05.11EURGerman Buba President Nagel Speaks,5/11/22 8:15,FALSE,German Buba President Nagel Speaks,EUR,1," "," "
+2022.05.11EURECB President Lagarde Speaks,5/11/22 9:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.05.11EURGerman 10-y Bond Auction,5/11/22 10:32,FALSE,German 10-y Bond Auction,EUR,1," ",0.93|1.6
+2022.05.11USDCPI m m,5/11/22 13:30,FALSE,CPI m/m,USD,3,0.2%,1.2%
+2022.05.11USDCPI y y,5/11/22 13:30,FALSE,CPI y/y,USD,3,8.1%,8.5%
+2022.05.11USDCore CPI m m,5/11/22 13:30,FALSE,Core CPI m/m,USD,3,0.4%,0.3%
+2022.05.11USDCrude Oil Inventories,5/11/22 15:30,FALSE,Crude Oil Inventories,USD,1,-1.0M,1.3M
+2022.05.11USD10-y Bond Auction,5/11/22 18:01,FALSE,10-y Bond Auction,USD,1," ",2.72|2.4
+2022.05.11USDPresident Biden Speaks,5/11/22 18:15,FALSE,President Biden Speaks,USD,1," "," "
+2022.05.11USDFederal Budget Balance,5/11/22 19:00,FALSE,Federal Budget Balance,USD,1,218.5B,-192.7B
+2022.05.11NZDFPI m m,5/11/22 23:45,FALSE,FPI m/m,NZD,1," ",0.7%
+2022.05.11NZDVisitor Arrivals m m,5/11/22 23:45,FALSE,Visitor Arrivals m/m,NZD,1," ",29.8%
+

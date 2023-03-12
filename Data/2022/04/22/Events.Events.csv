@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.04.22AUDFlash Manufacturing PMI,4/22/22 0:00,FALSE,Flash Manufacturing PMI,AUD,1," ",57.7
+2022.04.22AUDFlash Services PMI,4/22/22 0:00,FALSE,Flash Services PMI,AUD,1," ",55.6
+2022.04.22AllIMF Meetings,4/22/22 0:00,TRUE,IMF Meetings,All,1," "," "
+2022.04.22GBPGfK Consumer Confidence,4/22/22 0:01,FALSE,GfK Consumer Confidence,GBP,1,-33,-31
+2022.04.22JPYNational Core CPI y y,4/22/22 0:30,FALSE,National Core CPI y/y,JPY,1,0.8%,0.6%
+2022.04.22JPYFlash Manufacturing PMI,4/22/22 1:30,FALSE,Flash Manufacturing PMI,JPY,1,53.3,54.1
+2022.04.22GBPRetail Sales m m,4/22/22 7:00,FALSE,Retail Sales m/m,GBP,2,-0.3%,-0.5%
+2022.04.22EURFrench Flash Manufacturing PMI,4/22/22 8:15,FALSE,French Flash Manufacturing PMI,EUR,1,53.7,54.7
+2022.04.22EURFrench Flash Services PMI,4/22/22 8:15,FALSE,French Flash Services PMI,EUR,2,56.4,57.4
+2022.04.22EURGerman Flash Manufacturing PMI,4/22/22 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,54.6,56.9
+2022.04.22EURGerman Flash Services PMI,4/22/22 8:30,FALSE,German Flash Services PMI,EUR,3,55.4,56.1
+2022.04.22EURCurrent Account,4/22/22 9:00,FALSE,Current Account,EUR,1,22.8B,21.6B
+2022.04.22EURFlash Manufacturing PMI,4/22/22 9:00,FALSE,Flash Manufacturing PMI,EUR,1,54.9,56.5
+2022.04.22EURFlash Services PMI,4/22/22 9:00,FALSE,Flash Services PMI,EUR,1,55.0,55.6
+2022.04.22GBPFlash Manufacturing PMI,4/22/22 9:30,FALSE,Flash Manufacturing PMI,GBP,2,53.9,55.2
+2022.04.22GBPFlash Services PMI,4/22/22 9:30,FALSE,Flash Services PMI,GBP,2,59.9,62.6
+2022.04.22EURGerman Buba Monthly Report,4/22/22 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2022.04.22CADCore Retail Sales m m,4/22/22 13:30,FALSE,Core Retail Sales m/m,CAD,2,0.4%,2.9%
+2022.04.22CADIPPI m m,4/22/22 13:30,FALSE,IPPI m/m,CAD,1,2.0%,2.6%
+2022.04.22CADRMPI m m,4/22/22 13:30,FALSE,RMPI m/m,CAD,1,7.1%,6.4%
+2022.04.22CADRetail Sales m m,4/22/22 13:30,FALSE,Retail Sales m/m,CAD,2,-0.4%,3.3%
+2022.04.22EURECB President Lagarde Speaks,4/22/22 14:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.04.22USDFlash Manufacturing PMI,4/22/22 14:45,FALSE,Flash Manufacturing PMI,USD,2,58.1,58.8
+2022.04.22USDFlash Services PMI,4/22/22 14:45,FALSE,Flash Services PMI,USD,2,58.0,58.0
+2022.04.22GBPBOE Gov Bailey Speaks,4/22/22 15:30,FALSE,BOE Gov Bailey Speaks,GBP,3," "," "
+

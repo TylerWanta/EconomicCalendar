@@ -1,0 +1,36 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.11.30NZDANZ Business Confidence,11/30/22 0:00,FALSE,ANZ Business Confidence,NZD,1," ",-42.7
+2022.11.30GBPBRC Shop Price Index y y,11/30/22 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",6.6%
+2022.11.30AUDBuilding Approvals m m,11/30/22 0:30,FALSE,Building Approvals m/m,AUD,1,-2.0%,-8.1%
+2022.11.30AUDCPI y y,11/30/22 0:30,FALSE,CPI y/y,AUD,3,7.6%,7.3%
+2022.11.30AUDConstruction Work Done q q,11/30/22 0:30,FALSE,Construction Work Done q/q,AUD,1,1.4%,-2.0%
+2022.11.30AUDPrivate Sector Credit m m,11/30/22 0:30,FALSE,Private Sector Credit m/m,AUD,1,0.6%,0.7%
+2022.11.30CNYManufacturing PMI,11/30/22 1:30,FALSE,Manufacturing PMI,CNY,1,49.0,49.2
+2022.11.30CNYNon-Manufacturing PMI,11/30/22 1:32,FALSE,Non-Manufacturing PMI,CNY,1,48.0,48.7
+2022.11.30JPYHousing Starts y y,11/30/22 5:00,FALSE,Housing Starts y/y,JPY,1,-1.1%,1.0%
+2022.11.30EURFrench Consumer Spending m m,11/30/22 7:45,FALSE,French Consumer Spending m/m,EUR,1,-0.9%,1.3%
+2022.11.30EURFrench Prelim CPI m m,11/30/22 7:45,FALSE,French Prelim CPI m/m,EUR,1,0.3%,1.0%
+2022.11.30EURFrench Prelim GDP q q,11/30/22 7:45,FALSE,French Prelim GDP q/q,EUR,1,0.2%,0.2%
+2022.11.30CHFKOF Economic Barometer,11/30/22 8:00,FALSE,KOF Economic Barometer,CHF,1,91.9,90.9
+2022.11.30GBPMPC Member Pill Speaks,11/30/22 8:30,FALSE,MPC Member Pill Speaks,GBP,1," "," "
+2022.11.30EURGerman Unemployment Change,11/30/22 8:55,FALSE,German Unemployment Change,EUR,1,14K,9K
+2022.11.30CHFCredit Suisse Economic Expectations,11/30/22 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",-53.1
+2022.11.30EURCPI Flash Estimate y y,11/30/22 10:00,FALSE,CPI Flash Estimate y/y,EUR,2,10.4%,10.6%
+2022.11.30EURCore CPI Flash Estimate y y,11/30/22 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,5.0%,5.0%
+2022.11.30EURItalian Prelim CPI m m,11/30/22 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.3%,3.4%
+2022.11.30EURGerman 10-y Bond Auction,11/30/22 10:35,FALSE,German 10-y Bond Auction,EUR,1," ",2.25|1.7
+2022.11.30USDADP Non-Farm Employment Change,11/30/22 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,196K,239K
+2022.11.30USDGoods Trade Balance,11/30/22 13:30,FALSE,Goods Trade Balance,USD,1,-90.7B,-91.9B
+2022.11.30USDPrelim GDP Price Index q q,11/30/22 13:30,FALSE,Prelim GDP Price Index q/q,USD,1,4.1%,4.1%
+2022.11.30USDPrelim GDP q q,11/30/22 13:30,FALSE,Prelim GDP q/q,USD,3,2.8%,2.6%
+2022.11.30USDPrelim Wholesale Inventories m m,11/30/22 13:30,FALSE,Prelim Wholesale Inventories m/m,USD,1,0.5%,0.6%
+2022.11.30USDChicago PMI,11/30/22 14:45,FALSE,Chicago PMI,USD,1,47.0,45.2
+2022.11.30USDJOLTS Job Openings,11/30/22 15:00,FALSE,JOLTS Job Openings,USD,3,10.24M,10.69M
+2022.11.30USDPending Home Sales m m,11/30/22 15:00,FALSE,Pending Home Sales m/m,USD,2,-5.8%,-8.7%
+2022.11.30USDCrude Oil Inventories,11/30/22 15:30,FALSE,Crude Oil Inventories,USD,1,-3.2M,-3.7M
+2022.11.30USDFOMC Member Cook Speaks,11/30/22 17:35,FALSE,FOMC Member Cook Speaks,USD,1," "," "
+2022.11.30USDFed Chair Powell Speaks,11/30/22 18:30,FALSE,Fed Chair Powell Speaks,USD,3," "," "
+2022.11.30USDBeige Book,11/30/22 19:00,FALSE,Beige Book,USD,1," "," "
+2022.11.30AUDAIG Manufacturing Index,11/30/22 21:30,FALSE,AIG Manufacturing Index,AUD,1," ",49.6
+2022.11.30JPYCapital Spending q y,11/30/22 23:50,FALSE,Capital Spending q/y,JPY,1,6.4%,4.6%
+

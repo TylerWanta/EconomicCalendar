@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.02.25EURECOFIN Meetings,2/25/22 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2022.02.25EUREurogroup Meetings,2/25/22 0:00,TRUE,Eurogroup Meetings,EUR,1," "," "
+2022.02.25GBPGfK Consumer Confidence,2/25/22 0:01,FALSE,GfK Consumer Confidence,GBP,1,-19,-19
+2022.02.25USDFOMC Member Waller Speaks,2/25/22 1:25,FALSE,FOMC Member Waller Speaks,USD,2," "," "
+2022.02.25EURGerman Final GDP q q,2/25/22 7:00,FALSE,German Final GDP q/q,EUR,1,-0.7%,-0.7%
+2022.02.25EURGerman Import Prices m m,2/25/22 7:00,FALSE,German Import Prices m/m,EUR,1,1.7%,0.1%
+2022.02.25EURFrench Consumer Spending m m,2/25/22 7:45,FALSE,French Consumer Spending m/m,EUR,1,-0.9%,0.0%
+2022.02.25EURFrench Prelim CPI m m,2/25/22 7:45,FALSE,French Prelim CPI m/m,EUR,1,0.4%,0.3%
+2022.02.25EURFrench Prelim GDP q q,2/25/22 7:45,FALSE,French Prelim GDP q/q,EUR,1,0.7%,0.7%
+2022.02.25EURM3 Money Supply y y,2/25/22 9:00,FALSE,M3 Money Supply y/y,EUR,1,6.7%,6.9%
+2022.02.25EURPrivate Loans y y,2/25/22 9:00,FALSE,Private Loans y/y,EUR,1,4.0%,4.2%
+2022.02.25EURItalian 10-y Bond Auction,2/25/22 10:15,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.39|1.4
+2022.02.25USDCore Durable Goods Orders m m,2/25/22 13:30,FALSE,Core Durable Goods Orders m/m,USD,2,0.4%,0.6%
+2022.02.25USDCore PCE Price Index m m,2/25/22 13:30,FALSE,Core PCE Price Index m/m,USD,3,0.5%,0.5%
+2022.02.25USDDurable Goods Orders m m,2/25/22 13:30,FALSE,Durable Goods Orders m/m,USD,2,1.1%,-0.7%
+2022.02.25USDPersonal Income m m,2/25/22 13:30,FALSE,Personal Income m/m,USD,1,-0.3%,0.4%
+2022.02.25USDPersonal Spending m m,2/25/22 13:30,FALSE,Personal Spending m/m,USD,1,1.6%,-0.8%
+2022.02.25EURECB President Lagarde Speaks,2/25/22 14:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.02.25USDPending Home Sales m m,2/25/22 15:00,FALSE,Pending Home Sales m/m,USD,1,1.5%,-2.3%
+2022.02.25USDRevised UoM Consumer Sentiment,2/25/22 15:00,FALSE,Revised UoM Consumer Sentiment,USD,2,61.7,61.7
+2022.02.25USDRevised UoM Inflation Expectations,2/25/22 15:00,FALSE,Revised UoM Inflation Expectations,USD,1," ",5.0%
+2022.02.25USDFed Monetary Policy Report,2/25/22 16:00,FALSE,Fed Monetary Policy Report,USD,1," "," "
+

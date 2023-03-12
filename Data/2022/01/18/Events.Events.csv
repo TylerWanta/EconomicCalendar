@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.01.18AllWEF Annual Meetings,1/18/22 0:00,TRUE,WEF Annual Meetings,All,2," "," "
+2022.01.18EURECOFIN Meetings,1/18/22 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2022.01.18JPYBOJ Outlook Report,1/18/22 2:45,FALSE,BOJ Outlook Report,JPY,3," "," "
+2022.01.18JPYBOJ Policy Rate,1/18/22 2:45,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2022.01.18JPYMonetary Policy Statement,1/18/22 2:45,FALSE,Monetary Policy Statement,JPY,2," "," "
+2022.01.18JPYRevised Industrial Production m m,1/18/22 4:30,FALSE,Revised Industrial Production m/m,JPY,1,7.2%,7.2%
+2022.01.18JPYBOJ Press Conference,1/18/22 6:30,FALSE,BOJ Press Conference,JPY,2," "," "
+2022.01.18GBPAverage Earnings Index 3m y,1/18/22 7:00,FALSE,Average Earnings Index 3m/y,GBP,1,4.2%,4.9%
+2022.01.18GBPClaimant Count Change,1/18/22 7:00,FALSE,Claimant Count Change,GBP,1,-38.6K,-95.1K
+2022.01.18GBPUnemployment Rate,1/18/22 7:00,FALSE,Unemployment Rate,GBP,1,4.2%,4.2%
+2022.01.18CHFPPI m m,1/18/22 7:30,FALSE,PPI m/m,CHF,1,0.4%,0.5%
+2022.01.18EURItalian Trade Balance,1/18/22 9:00,FALSE,Italian Trade Balance,EUR,1,4.23B,3.89B
+2022.01.18EURGerman ZEW Economic Sentiment,1/18/22 10:00,FALSE,German ZEW Economic Sentiment,EUR,2,32.1,29.9
+2022.01.18EURZEW Economic Sentiment,1/18/22 10:00,FALSE,ZEW Economic Sentiment,EUR,2,29.2,26.8
+2022.01.18CADHousing Starts,1/18/22 13:13,FALSE,Housing Starts,CAD,1,268K,304K
+2022.01.18USDEmpire State Manufacturing Index,1/18/22 13:30,FALSE,Empire State Manufacturing Index,USD,2,25.0,31.9
+2022.01.18NZDGDT Price Index,1/18/22 14:25,FALSE,GDT Price Index,NZD,1," ",0.3%
+2022.01.18USDNAHB Housing Market Index,1/18/22 15:00,FALSE,NAHB Housing Market Index,USD,1,84,84
+2022.01.18USDTIC Long-Term Purchases,1/18/22 21:00,FALSE,TIC Long-Term Purchases,USD,1,37.6B,7.1B
+2022.01.18AUDWestpac Consumer Sentiment,1/18/22 23:30,FALSE,Westpac Consumer Sentiment,AUD,1," ",-1.0%
+

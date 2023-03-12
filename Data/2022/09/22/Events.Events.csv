@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.09.22JPYBank Holiday,9/22/22 0:00,TRUE,Bank Holiday,JPY,4," "," "
+2022.09.22JPYBOJ Policy Rate,9/22/22 3:51,FALSE,BOJ Policy Rate,JPY,1,-0.10%,-0.10%
+2022.09.22JPYMonetary Policy Statement,9/22/22 3:51,FALSE,Monetary Policy Statement,JPY,3," "," "
+2022.09.22JPYBOJ Core CPI y y,9/22/22 6:00,FALSE,BOJ Core CPI y/y,JPY,1,1.9%,1.8%
+2022.09.22JPYBOJ Press Conference,9/22/22 7:30,FALSE,BOJ Press Conference,JPY,3," "," "
+2022.09.22CHFSNB Monetary Policy Assessment,9/22/22 8:30,FALSE,SNB Monetary Policy Assessment,CHF,3," "," "
+2022.09.22CHFSNB Policy Rate,9/22/22 8:30,FALSE,SNB Policy Rate,CHF,3,0.50%,-0.25%
+2022.09.22CHFSNB Press Conference,9/22/22 9:00,FALSE,SNB Press Conference,CHF,3," "," "
+2022.09.22EURECB Economic Bulletin,9/22/22 9:00,FALSE,ECB Economic Bulletin,EUR,1," "," "
+2022.09.22GBPBOE Inflation Letter,9/22/22 12:00,FALSE,BOE Inflation Letter,GBP,2," "," "
+2022.09.22GBPMPC Official Bank Rate Votes,9/22/22 12:00,FALSE,MPC Official Bank Rate Votes,GBP,3,9-0-0,9-0-0
+2022.09.22GBPMonetary Policy Summary,9/22/22 12:00,FALSE,Monetary Policy Summary,GBP,3," "," "
+2022.09.22GBPOfficial Bank Rate,9/22/22 12:00,FALSE,Official Bank Rate,GBP,3,2.25%,1.75%
+2022.09.22CADNHPI m m,9/22/22 13:30,FALSE,NHPI m/m,CAD,1,0.1%,0.1%
+2022.09.22USDCurrent Account,9/22/22 13:30,FALSE,Current Account,USD,1,-261B,-283B
+2022.09.22USDUnemployment Claims,9/22/22 13:30,FALSE,Unemployment Claims,USD,2,220K,208K
+2022.09.22EURConsumer Confidence,9/22/22 15:00,FALSE,Consumer Confidence,EUR,1,-26,-25
+2022.09.22USDCB Leading Index m m,9/22/22 15:00,FALSE,CB Leading Index m/m,USD,1,-0.1%,-0.5%
+2022.09.22USDNatural Gas Storage,9/22/22 15:30,FALSE,Natural Gas Storage,USD,1,97B,77B
+2022.09.22GBPMPC Member Tenreyro Speaks,9/22/22 16:00,FALSE,MPC Member Tenreyro Speaks,GBP,1," "," "
+2022.09.22GBPMPC Member Haskel Speaks,9/22/22 19:30,FALSE,MPC Member Haskel Speaks,GBP,1," "," "
+

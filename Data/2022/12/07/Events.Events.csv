@@ -1,0 +1,24 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.12.07AUDGDP q q,12/7/22 0:30,FALSE,GDP q/q,AUD,3,0.7%,0.9%
+2022.12.07CNYTrade Balance,12/7/22 3:06,FALSE,Trade Balance,CNY,1,486B,587B
+2022.12.07CNYUSD-Denominated Trade Balance,12/7/22 3:10,FALSE,USD-Denominated Trade Balance,CNY,1,78.1B,85.2B
+2022.12.07JPYLeading Indicators,12/7/22 5:00,FALSE,Leading Indicators,JPY,1,98.4%,97.5%
+2022.12.07CHFUnemployment Rate,12/7/22 6:45,FALSE,Unemployment Rate,CHF,1,2.1%,2.1%
+2022.12.07EURGerman Industrial Production m m,12/7/22 7:00,FALSE,German Industrial Production m/m,EUR,1,-0.6%,1.1%
+2022.12.07GBPHalifax HPI m m,12/7/22 7:00,FALSE,Halifax HPI m/m,GBP,1,-0.2%,-0.4%
+2022.12.07EURFrench Trade Balance,12/7/22 7:45,FALSE,French Trade Balance,EUR,1,-15.9B,-17.2B
+2022.12.07CHFForeign Currency Reserves,12/7/22 8:00,FALSE,Foreign Currency Reserves,CHF,1," ",817B
+2022.12.07EURItalian Retail Sales m m,12/7/22 9:00,FALSE,Italian Retail Sales m/m,EUR,1,-0.6%,0.5%
+2022.12.07EURFinal Employment Change q q,12/7/22 10:00,FALSE,Final Employment Change q/q,EUR,1,0.2%,0.2%
+2022.12.07EURRevised GDP q q,12/7/22 10:00,FALSE,Revised GDP q/q,EUR,1,0.2%,0.2%
+2022.12.07USDRevised Nonfarm Productivity q q,12/7/22 13:30,FALSE,Revised Nonfarm Productivity q/q,USD,1,0.6%,0.3%
+2022.12.07USDRevised Unit Labor Costs q q,12/7/22 13:30,FALSE,Revised Unit Labor Costs q/q,USD,1,3.1%,3.5%
+2022.12.07CADBOC Rate Statement,12/7/22 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2022.12.07CADOvernight Rate,12/7/22 15:00,FALSE,Overnight Rate,CAD,3,4.25%,3.75%
+2022.12.07USDCrude Oil Inventories,12/7/22 15:30,FALSE,Crude Oil Inventories,USD,1,-3.5M,-12.6M
+2022.12.07USDConsumer Credit m m,12/7/22 20:00,FALSE,Consumer Credit m/m,USD,1,28.2B,25.8B
+2022.12.07JPYBank Lending y y,12/7/22 23:50,FALSE,Bank Lending y/y,JPY,1,2.2%,2.6%
+2022.12.07JPYCurrent Account,12/7/22 23:50,FALSE,Current Account,JPY,1,0.35T,0.67T
+2022.12.07JPYFinal GDP Price Index y y,12/7/22 23:50,FALSE,Final GDP Price Index y/y,JPY,1,-0.5%,-0.5%
+2022.12.07JPYFinal GDP q q,12/7/22 23:50,FALSE,Final GDP q/q,JPY,1,-0.3%,-0.3%
+

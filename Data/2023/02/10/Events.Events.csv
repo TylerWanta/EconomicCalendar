@@ -1,0 +1,25 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.02.10AUDRBA Monetary Policy Statement,2/10/23 0:30,FALSE,RBA Monetary Policy Statement,AUD,2," "," "
+2023.02.10CNYCPI y y,2/10/23 1:30,FALSE,CPI y/y,CNY,1,2.2%,1.8%
+2023.02.10CNYPPI y y,2/10/23 1:30,FALSE,PPI y/y,CNY,1,-0.5%,-0.7%
+2023.02.10GBPConstruction Output m m,2/10/23 7:00,FALSE,Construction Output m/m,GBP,1,-0.2%,-0.5%
+2023.02.10GBPGDP m m,2/10/23 7:00,FALSE,GDP m/m,GBP,3,-0.3%,0.1%
+2023.02.10GBPGoods Trade Balance,2/10/23 7:00,FALSE,Goods Trade Balance,GBP,1,-17.2B,-14.7B
+2023.02.10GBPIndex of Services 3m 3m,2/10/23 7:00,FALSE,Index of Services 3m/3m,GBP,1,0.1%,-0.1%
+2023.02.10GBPIndustrial Production m m,2/10/23 7:00,FALSE,Industrial Production m/m,GBP,1,-0.2%,0.1%
+2023.02.10GBPManufacturing Production m m,2/10/23 7:00,FALSE,Manufacturing Production m/m,GBP,1,-0.2%,-0.6%
+2023.02.10GBPPrelim Business Investment q q,2/10/23 7:00,FALSE,Prelim Business Investment q/q,GBP,1,-0.3%,-2.5%
+2023.02.10GBPPrelim GDP q q,2/10/23 7:00,FALSE,Prelim GDP q/q,GBP,2,0.0%,-0.3%
+2023.02.10EURItalian Industrial Production m m,2/10/23 9:00,FALSE,Italian Industrial Production m/m,EUR,1,0.2%,-0.1%
+2023.02.10CNYM2 Money Supply y y,2/10/23 9:02,FALSE,M2 Money Supply y/y,CNY,1,11.6%,11.8%
+2023.02.10CNYNew Loans,2/10/23 9:02,FALSE,New Loans,CNY,1,4200B,1400B
+2023.02.10GBPNIESR GDP Estimate,2/10/23 12:06,FALSE,NIESR GDP Estimate,GBP,1," ",0.0%
+2023.02.10CADEmployment Change,2/10/23 13:30,FALSE,Employment Change,CAD,3,15.0K,104.0K
+2023.02.10CADUnemployment Rate,2/10/23 13:30,FALSE,Unemployment Rate,CAD,3,5.1%,5.0%
+2023.02.10GBPMPC Member Pill Speaks,2/10/23 14:00,FALSE,MPC Member Pill Speaks,GBP,1," "," "
+2023.02.10USDPrelim UoM Consumer Sentiment,2/10/23 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,65.0,64.9
+2023.02.10USDPrelim UoM Inflation Expectations,2/10/23 15:00,FALSE,Prelim UoM Inflation Expectations,USD,2," ",3.9%
+2023.02.10USDFOMC Member Waller Speaks,2/10/23 17:30,FALSE,FOMC Member Waller Speaks,USD,2," "," "
+2023.02.10USDFederal Budget Balance,2/10/23 19:00,FALSE,Federal Budget Balance,USD,1,-40.5B,-85.0B
+2023.02.10USDFOMC Member Harker Speaks,2/10/23 21:00,FALSE,FOMC Member Harker Speaks,USD,1," "," "
+

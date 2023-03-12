@@ -1,0 +1,11 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.04.15CADBank Holiday,4/15/22 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2022.04.15CHFBank Holiday,4/15/22 0:00,TRUE,Bank Holiday,CHF,4," "," "
+2022.04.15EURGerman Bank Holiday,4/15/22 0:00,TRUE,German Bank Holiday,EUR,4," "," "
+2022.04.15GBPBank Holiday,4/15/22 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2022.04.15EURFrench Final CPI m m,4/15/22 7:45,FALSE,French Final CPI m/m,EUR,1,1.4%,1.4%
+2022.04.15USDEmpire State Manufacturing Index,4/15/22 13:30,FALSE,Empire State Manufacturing Index,USD,2,0.9,-11.8
+2022.04.15USDCapacity Utilization Rate,4/15/22 14:15,FALSE,Capacity Utilization Rate,USD,1,77.8%,77.6%
+2022.04.15USDIndustrial Production m m,4/15/22 14:15,FALSE,Industrial Production m/m,USD,1,0.4%,0.5%
+2022.04.15USDTIC Long-Term Purchases,4/15/22 21:00,FALSE,TIC Long-Term Purchases,USD,1,103.5B,58.8B
+

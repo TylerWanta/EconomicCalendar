@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.10.14AllIMF Meetings,10/14/22 0:00,TRUE,IMF Meetings,All,1," "," "
+2022.10.14JPYM2 Money Stock y y,10/14/22 0:50,FALSE,M2 Money Stock y/y,JPY,1,3.4%,3.4%
+2022.10.14CNYCPI y y,10/14/22 2:30,FALSE,CPI y/y,CNY,1,2.8%,2.5%
+2022.10.14CNYPPI y y,10/14/22 2:30,FALSE,PPI y/y,CNY,1,1.0%,2.3%
+2022.10.14EURGerman WPI m m,10/14/22 7:00,FALSE,German WPI m/m,EUR,1,0.4%,0.1%
+2022.10.14EURFrench Final CPI m m,10/14/22 7:45,FALSE,French Final CPI m/m,EUR,1,-0.5%,-0.5%
+2022.10.14EURTrade Balance,10/14/22 10:00,FALSE,Trade Balance,EUR,1,-45.0B,-40.5B
+2022.10.14GBPBOE Quarterly Bulletin,10/14/22 12:00,FALSE,BOE Quarterly Bulletin,GBP,1," "," "
+2022.10.14CADManufacturing Sales m m,10/14/22 13:30,FALSE,Manufacturing Sales m/m,CAD,1,-1.9%,-0.6%
+2022.10.14CADWholesale Sales m m,10/14/22 13:30,FALSE,Wholesale Sales m/m,CAD,1,0.9%,-0.6%
+2022.10.14USDCore Retail Sales m m,10/14/22 13:30,FALSE,Core Retail Sales m/m,USD,3,-0.1%,-0.1%
+2022.10.14USDImport Prices m m,10/14/22 13:30,FALSE,Import Prices m/m,USD,1,-1.1%,-1.1%
+2022.10.14USDRetail Sales m m,10/14/22 13:30,FALSE,Retail Sales m/m,USD,3,0.2%,0.4%
+2022.10.14GBPCB Leading Index m m,10/14/22 14:30,FALSE,CB Leading Index m/m,GBP,1," ",-0.6%
+2022.10.14GBPPrime Minister Truss Speaks,10/14/22 14:30,FALSE,Prime Minister Truss Speaks,GBP,1," "," "
+2022.10.14USDBusiness Inventories m m,10/14/22 15:00,FALSE,Business Inventories m/m,USD,1,0.9%,0.5%
+2022.10.14USDPrelim UoM Consumer Sentiment,10/14/22 15:00,FALSE,Prelim UoM Consumer Sentiment,USD,3,58.7,58.6
+2022.10.14USDPrelim UoM Inflation Expectations,10/14/22 15:00,FALSE,Prelim UoM Inflation Expectations,USD,2," ",4.7%
+2022.10.14USDFOMC Member Cook Speaks,10/14/22 15:30,FALSE,FOMC Member Cook Speaks,USD,1," "," "
+2022.10.14USDFOMC Member Waller Speaks,10/14/22 17:15,FALSE,FOMC Member Waller Speaks,USD,2," "," "
+2022.10.14CADBOC Gov Macklem Speaks,10/14/22 21:00,FALSE,BOC Gov Macklem Speaks,CAD,2," "," "
+

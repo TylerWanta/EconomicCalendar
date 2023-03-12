@@ -1,0 +1,41 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.12.01USDWards Total Vehicle Sales,12/1/22 0:00,TRUE,Wards Total Vehicle Sales,USD,1,14.5M,14.9M
+2022.12.01AUDPrivate Capital Expenditure q q,12/1/22 0:30,FALSE,Private Capital Expenditure q/q,AUD,1,1.6%,-0.3%
+2022.12.01JPYFinal Manufacturing PMI,12/1/22 0:30,FALSE,Final Manufacturing PMI,JPY,1,49.4,49.4
+2022.12.01CNYCaixin Manufacturing PMI,12/1/22 1:45,FALSE,Caixin Manufacturing PMI,CNY,1,48.9,49.2
+2022.12.01JPY10-y Bond Auction,12/1/22 3:35,FALSE,10-y Bond Auction,JPY,1," ",0.25|5.2
+2022.12.01JPYConsumer Confidence,12/1/22 5:00,FALSE,Consumer Confidence,JPY,1,30.0,29.9
+2022.12.01AUDCommodity Prices y y,12/1/22 5:30,FALSE,Commodity Prices y/y,AUD,1," ",31.6%
+2022.12.01EURGerman Retail Sales m m,12/1/22 7:00,FALSE,German Retail Sales m/m,EUR,1,-0.6%,1.2%
+2022.12.01GBPNationwide HPI m m,12/1/22 7:00,FALSE,Nationwide HPI m/m,GBP,1,-0.3%,-0.9%
+2022.12.01CHFCPI m m,12/1/22 7:30,FALSE,CPI m/m,CHF,3,0.0%,0.1%
+2022.12.01CHFRetail Sales y y,12/1/22 7:30,FALSE,Retail Sales y/y,CHF,1,3.5%,2.6%
+2022.12.01EURSpanish Manufacturing PMI,12/1/22 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,45.9,44.7
+2022.12.01CHFManufacturing PMI,12/1/22 8:30,FALSE,Manufacturing PMI,CHF,1,54.1,54.9
+2022.12.01EURItalian Manufacturing PMI,12/1/22 8:45,FALSE,Italian Manufacturing PMI,EUR,1,47.0,46.5
+2022.12.01EURFrench Final Manufacturing PMI,12/1/22 8:50,FALSE,French Final Manufacturing PMI,EUR,1,49.1,49.1
+2022.12.01EURGerman Final Manufacturing PMI,12/1/22 8:55,FALSE,German Final Manufacturing PMI,EUR,1,46.7,46.7
+2022.12.01EURFinal Manufacturing PMI,12/1/22 9:00,FALSE,Final Manufacturing PMI,EUR,1,47.3,47.3
+2022.12.01EURItalian Monthly Unemployment Rate,12/1/22 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,8.0%,7.9%
+2022.12.01GBPFinal Manufacturing PMI,12/1/22 9:30,FALSE,Final Manufacturing PMI,GBP,1,46.2,46.2
+2022.12.01EURUnemployment Rate,12/1/22 10:00,FALSE,Unemployment Rate,EUR,1,6.6%,6.6%
+2022.12.01EURFrench 10-y Bond Auction,12/1/22 10:02,FALSE,French 10-y Bond Auction,EUR,1," ",2.76|2.1
+2022.12.01GBP30-y Bond Auction,12/1/22 10:03,FALSE,30-y Bond Auction,GBP,1," ",2.36|2.5
+2022.12.01EURSpanish 10-y Bond Auction,12/1/22 10:06,FALSE,Spanish 10-y Bond Auction,EUR,1," ",2.90|1.8
+2022.12.01USDChallenger Job Cuts y y,12/1/22 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",48.3%
+2022.12.01CADLabor Productivity q q,12/1/22 13:30,FALSE,Labor Productivity q/q,CAD,1,0.3%,0.2%
+2022.12.01USDCore PCE Price Index m m,12/1/22 13:30,FALSE,Core PCE Price Index m/m,USD,3,0.3%,0.5%
+2022.12.01USDPersonal Income m m,12/1/22 13:30,FALSE,Personal Income m/m,USD,1,0.4%,0.4%
+2022.12.01USDPersonal Spending m m,12/1/22 13:30,FALSE,Personal Spending m/m,USD,1,0.8%,0.6%
+2022.12.01USDUnemployment Claims,12/1/22 13:30,FALSE,Unemployment Claims,USD,2,234K,241K
+2022.12.01CADManufacturing PMI,12/1/22 14:30,FALSE,Manufacturing PMI,CAD,1," ",48.8
+2022.12.01USDFOMC Member Bowman Speaks,12/1/22 14:30,FALSE,FOMC Member Bowman Speaks,USD,1," "," "
+2022.12.01USDFinal Manufacturing PMI,12/1/22 14:45,FALSE,Final Manufacturing PMI,USD,1,47.6,47.6
+2022.12.01USDConstruction Spending m m,12/1/22 15:00,FALSE,Construction Spending m/m,USD,1,-0.2%,0.1%
+2022.12.01USDISM Manufacturing PMI,12/1/22 15:00,FALSE,ISM Manufacturing PMI,USD,3,49.7,50.2
+2022.12.01USDISM Manufacturing Prices,12/1/22 15:00,FALSE,ISM Manufacturing Prices,USD,1,45.9,46.6
+2022.12.01USDNatural Gas Storage,12/1/22 15:30,FALSE,Natural Gas Storage,USD,1,-82B,-80B
+2022.12.01USDFOMC Member Barr Speaks,12/1/22 20:00,FALSE,FOMC Member Barr Speaks,USD,1," "," "
+2022.12.01NZDOverseas Trade Index q q,12/1/22 21:45,FALSE,Overseas Trade Index q/q,NZD,1,0.4%,-2.3%
+2022.12.01JPYMonetary Base y y,12/1/22 23:50,FALSE,Monetary Base y/y,JPY,1,-4.5%,-6.9%
+

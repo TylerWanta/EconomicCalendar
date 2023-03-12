@@ -1,0 +1,20 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.01.25AUDBank Holiday,1/25/23 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2023.01.25CNYBank Holiday,1/25/23 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2023.01.25AUDCPI q q,1/25/23 0:30,FALSE,CPI q/q,AUD,3,1.6%,1.8%
+2023.01.25AUDCPI y y,1/25/23 0:30,FALSE,CPI y/y,AUD,3,7.6%,7.3%
+2023.01.25AUDTrimmed Mean CPI q q,1/25/23 0:30,FALSE,Trimmed Mean CPI q/q,AUD,3,1.5%,1.9%
+2023.01.25NZDCredit Card Spending y y,1/25/23 2:00,FALSE,Credit Card Spending y/y,NZD,1," ",16.2%
+2023.01.25GBPPPI Input m m,1/25/23 7:00,FALSE,PPI Input m/m,GBP,1,-0.8%,-0.2%
+2023.01.25GBPPPI Output m m,1/25/23 7:00,FALSE,PPI Output m/m,GBP,1,0.1%,-0.1%
+2023.01.25CHFCredit Suisse Economic Expectations,1/25/23 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",-42.8
+2023.01.25EURGerman ifo Business Climate,1/25/23 9:00,FALSE,German ifo Business Climate,EUR,2,90.2,88.6
+2023.01.25EURBelgian NBB Business Climate,1/25/23 13:58,FALSE,Belgian NBB Business Climate,EUR,1,-12.0,-13.6
+2023.01.25CADBOC Monetary Policy Report,1/25/23 15:00,FALSE,BOC Monetary Policy Report,CAD,3," "," "
+2023.01.25CADBOC Rate Statement,1/25/23 15:00,FALSE,BOC Rate Statement,CAD,3," "," "
+2023.01.25CADOvernight Rate,1/25/23 15:00,FALSE,Overnight Rate,CAD,3,4.50%,4.25%
+2023.01.25USDCrude Oil Inventories,1/25/23 15:30,FALSE,Crude Oil Inventories,USD,1,1.2M,8.4M
+2023.01.25CADBOC Press Conference,1/25/23 16:00,FALSE,BOC Press Conference,CAD,3," "," "
+2023.01.25JPYBOJ Summary of Opinions,1/25/23 23:50,FALSE,BOJ Summary of Opinions,JPY,1," "," "
+2023.01.25JPYSPPI y y,1/25/23 23:50,FALSE,SPPI y/y,JPY,1,1.6%,1.7%
+

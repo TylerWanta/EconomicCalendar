@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.07.20AUDRBA Gov Lowe Speaks,7/20/22 0:10,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2022.07.20AUDMI Leading Index m m,7/20/22 1:30,FALSE,MI Leading Index m/m,AUD,1," ",-0.1%
+2022.07.20EURGerman PPI m m,7/20/22 7:00,FALSE,German PPI m/m,EUR,1,1.6%,1.6%
+2022.07.20GBPCPI y y,7/20/22 7:00,FALSE,CPI y/y,GBP,3,9.3%,9.1%
+2022.07.20GBPCore CPI y y,7/20/22 7:00,FALSE,Core CPI y/y,GBP,1,5.8%,5.9%
+2022.07.20GBPPPI Input m m,7/20/22 7:00,FALSE,PPI Input m/m,GBP,1,1.2%,2.4%
+2022.07.20GBPPPI Output m m,7/20/22 7:00,FALSE,PPI Output m/m,GBP,1,1.0%,1.6%
+2022.07.20GBPRPI y y,7/20/22 7:00,FALSE,RPI y/y,GBP,1,11.8%,11.7%
+2022.07.20EURCurrent Account,7/20/22 9:00,FALSE,Current Account,EUR,1,4.5B,-3.9B
+2022.07.20GBPHPI y y,7/20/22 9:30,FALSE,HPI y/y,GBP,1,11.9%,11.9%
+2022.07.20CADCPI m m,7/20/22 13:30,FALSE,CPI m/m,CAD,3,0.9%,1.4%
+2022.07.20CADCommon CPI y y,7/20/22 13:30,FALSE,Common CPI y/y,CAD,2,4.2%,4.5%
+2022.07.20CADIPPI m m,7/20/22 13:30,FALSE,IPPI m/m,CAD,1,-0.6%,1.8%
+2022.07.20CADMedian CPI y y,7/20/22 13:30,FALSE,Median CPI y/y,CAD,2,5.1%,4.9%
+2022.07.20CADRMPI m m,7/20/22 13:30,FALSE,RMPI m/m,CAD,1,4.1%,2.7%
+2022.07.20CADTrimmed CPI y y,7/20/22 13:30,FALSE,Trimmed CPI y/y,CAD,2,5.6%,5.4%
+2022.07.20CADCore CPI m m,7/20/22 13:32,FALSE,Core CPI m/m,CAD,1," ",0.8%
+2022.07.20EURConsumer Confidence,7/20/22 15:00,FALSE,Consumer Confidence,EUR,1,-25,-24
+2022.07.20USDExisting Home Sales,7/20/22 15:00,FALSE,Existing Home Sales,USD,2,5.37M,5.41M
+2022.07.20USDCrude Oil Inventories,7/20/22 15:30,FALSE,Crude Oil Inventories,USD,1,2.1M,3.3M
+2022.07.20NZDTrade Balance,7/20/22 23:45,FALSE,Trade Balance,NZD,1,240M,195M
+

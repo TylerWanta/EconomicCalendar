@@ -1,0 +1,17 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.02.02AllOPEC-JMMC Meetings,2/2/22 0:00,TRUE,OPEC-JMMC Meetings,All,3," "," "
+2022.02.02CNYBank Holiday,2/2/22 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2022.02.02GBPBRC Shop Price Index y y,2/2/22 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",0.8%
+2022.02.02AUDRBA Gov Lowe Speaks,2/2/22 1:30,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2022.02.02EURFrench Gov Budget Balance,2/2/22 7:45,FALSE,French Gov Budget Balance,EUR,1," ",-181.0B
+2022.02.02EURSpanish Unemployment Change,2/2/22 8:00,FALSE,Spanish Unemployment Change,EUR,2,-50.7K,-76.8K
+2022.02.02EURCPI Flash Estimate y y,2/2/22 10:00,FALSE,CPI Flash Estimate y/y,EUR,1,4.4%,5.0%
+2022.02.02EURCore CPI Flash Estimate y y,2/2/22 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,1,1.9%,2.6%
+2022.02.02EURItalian Prelim CPI m m,2/2/22 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.5%,0.4%
+2022.02.02USDADP Non-Farm Employment Change,2/2/22 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,185K,776K
+2022.02.02CADBuilding Permits m m,2/2/22 13:30,FALSE,Building Permits m/m,CAD,1,-1.6%,7.6%
+2022.02.02CADGov Council Member Gravelle Speaks,2/2/22 15:00,FALSE,Gov Council Member Gravelle Speaks,CAD,1," "," "
+2022.02.02USDCrude Oil Inventories,2/2/22 15:30,FALSE,Crude Oil Inventories,USD,2,1.8M,2.4M
+2022.02.02CADBOC Gov Macklem Speaks,2/2/22 20:00,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2022.02.02AUDAIG Construction Index,2/2/22 21:30,FALSE,AIG Construction Index,AUD,1," ",57.0
+

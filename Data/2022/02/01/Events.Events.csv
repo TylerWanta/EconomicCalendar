@@ -1,0 +1,40 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.02.01CNYBank Holiday,2/1/22 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2022.02.01USDWards Total Vehicle Sales,2/1/22 0:00,TRUE,Wards Total Vehicle Sales,USD,1,13.0M,12.4M
+2022.02.01AUDRetail Sales m m,2/1/22 0:30,FALSE,Retail Sales m/m,AUD,1,-1.9%,7.3%
+2022.02.01JPYFinal Manufacturing PMI,2/1/22 0:30,FALSE,Final Manufacturing PMI,JPY,1,54.6,54.6
+2022.02.01AUDCash Rate,2/1/22 3:30,FALSE,Cash Rate,AUD,3,0.10%,0.10%
+2022.02.01AUDRBA Rate Statement,2/1/22 3:30,FALSE,RBA Rate Statement,AUD,3," "," "
+2022.02.01JPY10-y Bond Auction,2/1/22 3:35,FALSE,10-y Bond Auction,JPY,1," ",0.10|3.5
+2022.02.01AUDCommodity Prices y y,2/1/22 5:30,FALSE,Commodity Prices y/y,AUD,1," ",28.7%
+2022.02.01EURGerman Retail Sales m m,2/1/22 7:00,FALSE,German Retail Sales m/m,EUR,1,-1.3%,0.8%
+2022.02.01GBPNationwide HPI m m,2/1/22 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.7%,1.1%
+2022.02.01CHFRetail Sales y y,2/1/22 7:30,FALSE,Retail Sales y/y,CHF,1,5.5%,5.3%
+2022.02.01EURFrench Prelim CPI m m,2/1/22 7:45,FALSE,French Prelim CPI m/m,EUR,1,-0.2%,0.2%
+2022.02.01CHFSECO Consumer Climate,2/1/22 8:00,FALSE,SECO Consumer Climate,CHF,1,3,4
+2022.02.01EURSpanish Manufacturing PMI,2/1/22 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,56.1,56.2
+2022.02.01CHFManufacturing PMI,2/1/22 8:30,FALSE,Manufacturing PMI,CHF,1,63.9,62.7
+2022.02.01EURItalian Manufacturing PMI,2/1/22 8:45,FALSE,Italian Manufacturing PMI,EUR,1,61.2,62.0
+2022.02.01EURFrench Final Manufacturing PMI,2/1/22 8:50,FALSE,French Final Manufacturing PMI,EUR,1,55.5,55.5
+2022.02.01EURGerman Final Manufacturing PMI,2/1/22 8:55,FALSE,German Final Manufacturing PMI,EUR,1,60.5,60.5
+2022.02.01EURGerman Unemployment Change,2/1/22 8:55,FALSE,German Unemployment Change,EUR,1,-4K,-29K
+2022.02.01EURFinal Manufacturing PMI,2/1/22 9:00,FALSE,Final Manufacturing PMI,EUR,1,59.0,59.0
+2022.02.01EURItalian Monthly Unemployment Rate,2/1/22 9:00,FALSE,Italian Monthly Unemployment Rate,EUR,1,9.2%,9.1%
+2022.02.01GBPFinal Manufacturing PMI,2/1/22 9:30,FALSE,Final Manufacturing PMI,GBP,1,56.9,56.9
+2022.02.01GBPM4 Money Supply m m,2/1/22 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.8%,0.7%
+2022.02.01GBPMortgage Approvals,2/1/22 9:30,FALSE,Mortgage Approvals,GBP,1,66K,68K
+2022.02.01GBPNet Lending to Individuals m m,2/1/22 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,4.0B,4.8B
+2022.02.01EURUnemployment Rate,2/1/22 10:00,FALSE,Unemployment Rate,EUR,1,7.1%,7.1%
+2022.02.01CADGDP m m,2/1/22 13:30,FALSE,GDP m/m,CAD,3,0.4%,0.8%
+2022.02.01CADManufacturing PMI,2/1/22 14:30,FALSE,Manufacturing PMI,CAD,1," ",56.5
+2022.02.01NZDGDT Price Index,2/1/22 14:37,FALSE,GDT Price Index,NZD,1," ",4.6%
+2022.02.01USDFinal Manufacturing PMI,2/1/22 14:45,FALSE,Final Manufacturing PMI,USD,1,55.0,55.0
+2022.02.01USDConstruction Spending m m,2/1/22 15:00,FALSE,Construction Spending m/m,USD,1,0.7%,0.6%
+2022.02.01USDISM Manufacturing PMI,2/1/22 15:00,FALSE,ISM Manufacturing PMI,USD,3,57.4,58.7
+2022.02.01USDISM Manufacturing Prices,2/1/22 15:00,FALSE,ISM Manufacturing Prices,USD,1,67.6,68.2
+2022.02.01USDJOLTS Job Openings,2/1/22 15:00,FALSE,JOLTS Job Openings,USD,3,10.35M,10.78M
+2022.02.01NZDEmployment Change q q,2/1/22 21:45,FALSE,Employment Change q/q,NZD,3,0.4%,1.9%
+2022.02.01NZDLabor Cost Index q q,2/1/22 21:45,FALSE,Labor Cost Index q/q,NZD,1,0.9%,0.7%
+2022.02.01NZDUnemployment Rate,2/1/22 21:45,FALSE,Unemployment Rate,NZD,3,3.3%,3.3%
+2022.02.01JPYMonetary Base y y,2/1/22 23:50,FALSE,Monetary Base y/y,JPY,1,8.5%,8.3%
+

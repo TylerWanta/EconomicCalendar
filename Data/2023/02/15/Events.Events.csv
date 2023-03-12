@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2023.02.15AUDRBA Gov Lowe Speaks,2/15/23 0:15,FALSE,RBA Gov Lowe Speaks,AUD,3," "," "
+2023.02.15JPYTertiary Industry Activity m m,2/15/23 4:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.1%,0.1%
+2023.02.15GBPCPI y y,2/15/23 7:00,FALSE,CPI y/y,GBP,3,10.3%,10.5%
+2023.02.15GBPCore CPI y y,2/15/23 7:00,FALSE,Core CPI y/y,GBP,1,6.2%,6.3%
+2023.02.15GBPPPI Input m m,2/15/23 7:00,FALSE,PPI Input m/m,GBP,1,0.2%,-1.1%
+2023.02.15GBPPPI Output m m,2/15/23 7:00,FALSE,PPI Output m/m,GBP,1,0.1%,-0.8%
+2023.02.15GBPRPI y y,2/15/23 7:00,FALSE,RPI y/y,GBP,1,13.2%,13.4%
+2023.02.15GBPHPI y y,2/15/23 9:30,FALSE,HPI y/y,GBP,1,9.2%,10.6%
+2023.02.15EURIndustrial Production m m,2/15/23 10:00,FALSE,Industrial Production m/m,EUR,1,-0.8%,1.4%
+2023.02.15EURTrade Balance,2/15/23 10:00,FALSE,Trade Balance,EUR,1,-16.0B,-14.4B
+2023.02.15EURGerman 30-y Bond Auction,2/15/23 10:40,FALSE,German 30-y Bond Auction,EUR,1," ",2.05|1.5
+2023.02.15CADHousing Starts,2/15/23 13:14,FALSE,Housing Starts,CAD,1,246K,248K
+2023.02.15CADManufacturing Sales m m,2/15/23 13:30,FALSE,Manufacturing Sales m/m,CAD,1,-1.6%,-0.2%
+2023.02.15CADWholesale Sales m m,2/15/23 13:30,FALSE,Wholesale Sales m/m,CAD,1,-1.5%,-0.7%
+2023.02.15USDCore Retail Sales m m,2/15/23 13:30,FALSE,Core Retail Sales m/m,USD,3,0.9%,-0.9%
+2023.02.15USDEmpire State Manufacturing Index,2/15/23 13:30,FALSE,Empire State Manufacturing Index,USD,3,-18.2,-32.9
+2023.02.15USDRetail Sales m m,2/15/23 13:30,FALSE,Retail Sales m/m,USD,3,1.9%,-1.1%
+2023.02.15USDCapacity Utilization Rate,2/15/23 14:15,FALSE,Capacity Utilization Rate,USD,1,79.1%,78.4%
+2023.02.15USDIndustrial Production m m,2/15/23 14:15,FALSE,Industrial Production m/m,USD,1,0.5%,-1.0%
+2023.02.15USDBusiness Inventories m m,2/15/23 15:00,FALSE,Business Inventories m/m,USD,1,0.3%,0.3%
+2023.02.15USDNAHB Housing Market Index,2/15/23 15:00,FALSE,NAHB Housing Market Index,USD,1,37,35
+2023.02.15USDCrude Oil Inventories,2/15/23 15:30,FALSE,Crude Oil Inventories,USD,1,1.5M,2.4M
+2023.02.15EURECB President Lagarde Speaks,2/15/23 17:15,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2023.02.15USDTIC Long-Term Purchases,2/15/23 21:00,FALSE,TIC Long-Term Purchases,USD,1,119.1B,171.5B
+2023.02.15NZDVisitor Arrivals m m,2/15/23 21:45,FALSE,Visitor Arrivals m/m,NZD,1," ",43.1%
+2023.02.15JPYCore Machinery Orders m m,2/15/23 23:50,FALSE,Core Machinery Orders m/m,JPY,1,2.7%,-8.3%
+2023.02.15JPYTrade Balance,2/15/23 23:50,FALSE,Trade Balance,JPY,1,-2.35T,-1.82T
+

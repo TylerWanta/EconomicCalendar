@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.03.30EURGerman Prelim CPI m m,3/30/22 0:00,TRUE,German Prelim CPI m/m,EUR,1,1.6%,0.9%
+2022.03.30GBPBRC Shop Price Index y y,3/30/22 0:01,FALSE,BRC Shop Price Index y/y,GBP,1," ",1.8%
+2022.03.30JPYRetail Sales y y,3/30/22 0:50,FALSE,Retail Sales y/y,JPY,1,-0.3%,1.1%
+2022.03.30NZDANZ Business Confidence,3/30/22 1:00,FALSE,ANZ Business Confidence,NZD,2," ",-51.8
+2022.03.30CHFKOF Economic Barometer,3/30/22 8:00,FALSE,KOF Economic Barometer,CHF,1,101.4,105.3
+2022.03.30EURSpanish Flash CPI y y,3/30/22 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,8.0%,7.6%
+2022.03.30CHFCredit Suisse Economic Expectations,3/30/22 9:00,FALSE,Credit Suisse Economic Expectations,CHF,1," ",9.0
+2022.03.30EURECB President Lagarde Speaks,3/30/22 9:00,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.03.30GBPMPC Member Broadbent Speaks,3/30/22 9:10,FALSE,MPC Member Broadbent Speaks,GBP,2," "," "
+2022.03.30EURItalian 10-y Bond Auction,3/30/22 10:13,FALSE,Italian 10-y Bond Auction,EUR,1," ",1.81|1.4
+2022.03.30USDADP Non-Farm Employment Change,3/30/22 13:15,FALSE,ADP Non-Farm Employment Change,USD,3,455K,486K
+2022.03.30USDFinal GDP Price Index q q,3/30/22 13:30,FALSE,Final GDP Price Index q/q,USD,1,7.1%,7.1%
+2022.03.30USDFinal GDP q q,3/30/22 13:30,FALSE,Final GDP q/q,USD,2,7.0%,7.0%
+2022.03.30CHFSNB Quarterly Bulletin,3/30/22 14:00,FALSE,SNB Quarterly Bulletin,CHF,1," "," "
+2022.03.30USDCrude Oil Inventories,3/30/22 15:30,FALSE,Crude Oil Inventories,USD,2,-2.0M,-2.5M
+2022.03.30USDFOMC Member George Speaks,3/30/22 18:00,FALSE,FOMC Member George Speaks,USD,2," "," "
+

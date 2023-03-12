@@ -1,0 +1,23 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.04.20AllG20 Meetings,4/20/22 0:00,TRUE,G20 Meetings,All,2," "," "
+2022.04.20AllG7 Meetings,4/20/22 0:00,TRUE,G7 Meetings,All,1," "," "
+2022.04.20AllIMF Meetings,4/20/22 0:00,TRUE,IMF Meetings,All,1," "," "
+2022.04.20JPYTrade Balance,4/20/22 0:50,FALSE,Trade Balance,JPY,1,-0.58T,-1.07T
+2022.04.20AUDMI Leading Index m m,4/20/22 1:30,FALSE,MI Leading Index m/m,AUD,1," ",0.4%
+2022.04.20JPYTertiary Industry Activity m m,4/20/22 5:30,FALSE,Tertiary Industry Activity m/m,JPY,1,0.3%,-0.2%
+2022.04.20EURGerman PPI m m,4/20/22 7:00,FALSE,German PPI m/m,EUR,1,2.7%,1.4%
+2022.04.20EURItalian Trade Balance,4/20/22 9:00,FALSE,Italian Trade Balance,EUR,1,-4.23B,-5.13B
+2022.04.20EURIndustrial Production m m,4/20/22 10:00,FALSE,Industrial Production m/m,EUR,1,0.8%,-0.7%
+2022.04.20EURTrade Balance,4/20/22 10:00,FALSE,Trade Balance,EUR,1,-6.5B,-7.7B
+2022.04.20CADCPI m m,4/20/22 13:30,FALSE,CPI m/m,CAD,3,0.9%,1.0%
+2022.04.20CADCommon CPI y y,4/20/22 13:30,FALSE,Common CPI y/y,CAD,2,2.7%,2.7%
+2022.04.20CADMedian CPI y y,4/20/22 13:30,FALSE,Median CPI y/y,CAD,2,3.5%,3.5%
+2022.04.20CADNHPI m m,4/20/22 13:30,FALSE,NHPI m/m,CAD,1,0.7%,1.1%
+2022.04.20CADTrimmed CPI y y,4/20/22 13:30,FALSE,Trimmed CPI y/y,CAD,2,4.3%,4.4%
+2022.04.20EURGerman Buba President Nagel Speaks,4/20/22 13:30,FALSE,German Buba President Nagel Speaks,EUR,1," "," "
+2022.04.20CADCore CPI m m,4/20/22 13:32,FALSE,Core CPI m/m,CAD,1," ",0.8%
+2022.04.20USDExisting Home Sales,4/20/22 15:00,FALSE,Existing Home Sales,USD,2,5.78M,5.93M
+2022.04.20USDCrude Oil Inventories,4/20/22 15:30,FALSE,Crude Oil Inventories,USD,1,3.0M,9.4M
+2022.04.20USDBeige Book,4/20/22 19:00,FALSE,Beige Book,USD,1," "," "
+2022.04.20NZDCPI q q,4/20/22 23:45,FALSE,CPI q/q,NZD,3,2.0%,1.4%
+

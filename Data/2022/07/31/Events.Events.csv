@@ -1,0 +1,7 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.07.31AUDBank Holiday,7/31/22 0:00,TRUE,Bank Holiday,AUD,4," "," "
+2022.07.31CNYManufacturing PMI,7/31/22 2:30,FALSE,Manufacturing PMI,CNY,1,50.3,50.2
+2022.07.31CNYNon-Manufacturing PMI,7/31/22 2:32,FALSE,Non-Manufacturing PMI,CNY,1,53.9,54.7
+2022.07.31AUDAIG Manufacturing Index,7/31/22 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",54.0
+2022.07.31NZDBuilding Consents m m,7/31/22 23:45,FALSE,Building Consents m/m,NZD,1," ",-0.5%
+

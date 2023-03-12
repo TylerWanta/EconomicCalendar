@@ -1,0 +1,18 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.02.21CADBank Holiday,2/21/22 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2022.02.21USDBank Holiday,2/21/22 0:00,TRUE,Bank Holiday,USD,4," "," "
+2022.02.21GBPRightmove HPI m m,2/21/22 0:01,FALSE,Rightmove HPI m/m,GBP,1," ",0.3%
+2022.02.21JPYFlash Manufacturing PMI,2/21/22 0:30,FALSE,Flash Manufacturing PMI,JPY,1,55.0,55.4
+2022.02.21EURGerman PPI m m,2/21/22 7:00,FALSE,German PPI m/m,EUR,1,1.6%,5.0%
+2022.02.21EURFrench Flash Manufacturing PMI,2/21/22 8:15,FALSE,French Flash Manufacturing PMI,EUR,1,55.5,55.5
+2022.02.21EURFrench Flash Services PMI,2/21/22 8:15,FALSE,French Flash Services PMI,EUR,2,54.0,53.1
+2022.02.21EURGerman Flash Manufacturing PMI,2/21/22 8:30,FALSE,German Flash Manufacturing PMI,EUR,3,59.6,59.8
+2022.02.21EURGerman Flash Services PMI,2/21/22 8:30,FALSE,German Flash Services PMI,EUR,3,53.2,52.2
+2022.02.21EURFlash Manufacturing PMI,2/21/22 9:00,FALSE,Flash Manufacturing PMI,EUR,1,58.9,58.7
+2022.02.21EURFlash Services PMI,2/21/22 9:00,FALSE,Flash Services PMI,EUR,1,52.3,51.1
+2022.02.21GBPFlash Manufacturing PMI,2/21/22 9:30,FALSE,Flash Manufacturing PMI,GBP,2,57.2,57.3
+2022.02.21GBPFlash Services PMI,2/21/22 9:30,FALSE,Flash Services PMI,GBP,2,55.6,54.1
+2022.02.21EURGerman Buba Monthly Report,2/21/22 11:00,FALSE,German Buba Monthly Report,EUR,1," "," "
+2022.02.21USDFOMC Member Bowman Speaks,2/21/22 16:15,FALSE,FOMC Member Bowman Speaks,USD,1," "," "
+2022.02.21JPYSPPI y y,2/21/22 23:50,FALSE,SPPI y/y,JPY,1,1.2%,1.1%
+

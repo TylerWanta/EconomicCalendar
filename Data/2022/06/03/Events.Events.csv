@@ -1,0 +1,19 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.06.03GBPBank Holiday,6/3/22 0:00,TRUE,Bank Holiday,GBP,4," "," "
+2022.06.03EURGerman Trade Balance,6/3/22 7:00,FALSE,German Trade Balance,EUR,1,5.6B,1.9B
+2022.06.03EURFrench Industrial Production m m,6/3/22 7:45,FALSE,French Industrial Production m/m,EUR,1,0.2%,-0.4%
+2022.06.03EURSpanish Services PMI,6/3/22 8:15,FALSE,Spanish Services PMI,EUR,1,56.0,57.1
+2022.06.03EURItalian Services PMI,6/3/22 8:45,FALSE,Italian Services PMI,EUR,1,54.6,55.7
+2022.06.03EURFrench Final Services PMI,6/3/22 8:50,FALSE,French Final Services PMI,EUR,1,58.4,58.4
+2022.06.03EURGerman Final Services PMI,6/3/22 8:55,FALSE,German Final Services PMI,EUR,1,56.3,56.3
+2022.06.03EURFinal Services PMI,6/3/22 9:00,FALSE,Final Services PMI,EUR,1,56.3,56.3
+2022.06.03EURRetail Sales m m,6/3/22 10:00,FALSE,Retail Sales m/m,EUR,1,0.3%,0.3%
+2022.06.03CADLabor Productivity q q,6/3/22 13:30,FALSE,Labor Productivity q/q,CAD,1,-0.5%,-0.6%
+2022.06.03USDAverage Hourly Earnings m m,6/3/22 13:30,FALSE,Average Hourly Earnings m/m,USD,3,0.4%,0.3%
+2022.06.03USDNon-Farm Employment Change,6/3/22 13:30,FALSE,Non-Farm Employment Change,USD,3,325K,436K
+2022.06.03USDUnemployment Rate,6/3/22 13:30,FALSE,Unemployment Rate,USD,3,3.5%,3.6%
+2022.06.03USDFinal Services PMI,6/3/22 14:45,FALSE,Final Services PMI,USD,1,53.5,53.5
+2022.06.03USDISM Services PMI,6/3/22 15:00,FALSE,ISM Services PMI,USD,2,56.5,57.1
+2022.06.03USDFOMC Member Brainard Speaks,6/3/22 15:30,FALSE,FOMC Member Brainard Speaks,USD,2," "," "
+2022.06.03USDPresident Biden Speaks,6/3/22 15:30,FALSE,President Biden Speaks,USD,1," "," "
+

@@ -1,0 +1,27 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.03.15EURECOFIN Meetings,3/15/22 0:00,TRUE,ECOFIN Meetings,EUR,1," "," "
+2022.03.15AUDHPI q q,3/15/22 1:30,FALSE,HPI q/q,AUD,1,3.4%,5.0%
+2022.03.15AUDMonetary Policy Meeting Minutes,3/15/22 1:30,FALSE,Monetary Policy Meeting Minutes,AUD,3," "," "
+2022.03.15CNYFixed Asset Investment ytd y,3/15/22 3:00,FALSE,Fixed Asset Investment ytd/y,CNY,1,5.0%,4.9%
+2022.03.15CNYIndustrial Production y y,3/15/22 3:00,FALSE,Industrial Production y/y,CNY,1,4.0%,4.3%
+2022.03.15CNYNBS Press Conference,3/15/22 3:00,FALSE,NBS Press Conference,CNY,1," "," "
+2022.03.15CNYRetail Sales y y,3/15/22 3:00,FALSE,Retail Sales y/y,CNY,2,3.0%,1.7%
+2022.03.15CNYUnemployment Rate,3/15/22 3:00,FALSE,Unemployment Rate,CNY,1,5.1%,5.1%
+2022.03.15GBPAverage Earnings Index 3m y,3/15/22 8:00,FALSE,Average Earnings Index 3m/y,GBP,1,4.6%,4.6%
+2022.03.15GBPClaimant Count Change,3/15/22 8:00,FALSE,Claimant Count Change,GBP,1,20.3K,-67.3K
+2022.03.15GBPUnemployment Rate,3/15/22 8:00,FALSE,Unemployment Rate,GBP,1,4.0%,4.1%
+2022.03.15CHFPPI m m,3/15/22 8:30,FALSE,PPI m/m,CHF,1,0.4%,0.6%
+2022.03.15EURFrench Final CPI m m,3/15/22 8:45,FALSE,French Final CPI m/m,EUR,1,0.7%,0.7%
+2022.03.15EURGerman ZEW Economic Sentiment,3/15/22 11:00,FALSE,German ZEW Economic Sentiment,EUR,2,5.2,54.3
+2022.03.15EURIndustrial Production m m,3/15/22 11:00,FALSE,Industrial Production m/m,EUR,1,0.0%,1.3%
+2022.03.15EURZEW Economic Sentiment,3/15/22 11:00,FALSE,ZEW Economic Sentiment,EUR,2,10.3,48.6
+2022.03.15CADHousing Starts,3/15/22 13:13,FALSE,Housing Starts,CAD,1,241K,229K
+2022.03.15CADManufacturing Sales m m,3/15/22 13:30,FALSE,Manufacturing Sales m/m,CAD,1,1.3%,0.8%
+2022.03.15USDCore PPI m m,3/15/22 13:30,FALSE,Core PPI m/m,USD,2,0.6%,0.8%
+2022.03.15USDEmpire State Manufacturing Index,3/15/22 13:30,FALSE,Empire State Manufacturing Index,USD,2,6.5,3.1
+2022.03.15USDPPI m m,3/15/22 13:30,FALSE,PPI m/m,USD,3,1.0%,1.0%
+2022.03.15NZDGDT Price Index,3/15/22 15:44,FALSE,GDT Price Index,NZD,1," ",5.1%
+2022.03.15EURECB President Lagarde Speaks,3/15/22 16:15,FALSE,ECB President Lagarde Speaks,EUR,2," "," "
+2022.03.15USDTIC Long-Term Purchases,3/15/22 21:00,FALSE,TIC Long-Term Purchases,USD,1,90.0B,114.5B
+2022.03.15NZDCurrent Account,3/15/22 22:45,FALSE,Current Account,NZD,1,-6.21B,-8.25B
+

@@ -1,0 +1,29 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.07.01CADBank Holiday,7/1/22 0:00,TRUE,Bank Holiday,CAD,4," "," "
+2022.07.01USDWards Total Vehicle Sales,7/1/22 0:00,TRUE,Wards Total Vehicle Sales,USD,1,13.3M,12.7M
+2022.07.01JPYTokyo Core CPI y y,7/1/22 0:30,FALSE,Tokyo Core CPI y/y,JPY,1,2.1%,1.9%
+2022.07.01JPYUnemployment Rate,7/1/22 0:30,FALSE,Unemployment Rate,JPY,1,2.5%,2.5%
+2022.07.01JPYTankan Manufacturing Index,7/1/22 0:50,FALSE,Tankan Manufacturing Index,JPY,1,13,14
+2022.07.01JPYTankan Non-Manufacturing Index,7/1/22 0:50,FALSE,Tankan Non-Manufacturing Index,JPY,1,13,9
+2022.07.01JPYFinal Manufacturing PMI,7/1/22 1:30,FALSE,Final Manufacturing PMI,JPY,1,52.7,52.7
+2022.07.01CNYCaixin Manufacturing PMI,7/1/22 2:45,FALSE,Caixin Manufacturing PMI,CNY,1,50.2,48.1
+2022.07.01AUDCommodity Prices y y,7/1/22 7:30,FALSE,Commodity Prices y/y,AUD,1," ",34.7%
+2022.07.01EURSpanish Manufacturing PMI,7/1/22 8:15,FALSE,Spanish Manufacturing PMI,EUR,1,52.3,53.8
+2022.07.01CHFManufacturing PMI,7/1/22 8:30,FALSE,Manufacturing PMI,CHF,1,57.9,60.0
+2022.07.01EURItalian Manufacturing PMI,7/1/22 8:45,FALSE,Italian Manufacturing PMI,EUR,1,50.6,51.9
+2022.07.01EURFrench Final Manufacturing PMI,7/1/22 8:50,FALSE,French Final Manufacturing PMI,EUR,1,51.0,51.0
+2022.07.01EURGerman Final Manufacturing PMI,7/1/22 8:55,FALSE,German Final Manufacturing PMI,EUR,1,52.0,52.0
+2022.07.01EURFinal Manufacturing PMI,7/1/22 9:00,FALSE,Final Manufacturing PMI,EUR,1,52.0,52.0
+2022.07.01GBPFinal Manufacturing PMI,7/1/22 9:30,FALSE,Final Manufacturing PMI,GBP,1,53.4,53.4
+2022.07.01GBPM4 Money Supply m m,7/1/22 9:30,FALSE,M4 Money Supply m/m,GBP,1,0.4%,0.0%
+2022.07.01GBPMortgage Approvals,7/1/22 9:30,FALSE,Mortgage Approvals,GBP,1,64K,66K
+2022.07.01GBPNet Lending to Individuals m m,7/1/22 9:30,FALSE,Net Lending to Individuals m/m,GBP,1,5.6B,5.5B
+2022.07.01EURCPI Flash Estimate y y,7/1/22 10:00,FALSE,CPI Flash Estimate y/y,EUR,3,8.5%,8.1%
+2022.07.01EURCore CPI Flash Estimate y y,7/1/22 10:00,FALSE,Core CPI Flash Estimate y/y,EUR,2,3.9%,3.8%
+2022.07.01EURItalian Prelim CPI m m,7/1/22 10:00,FALSE,Italian Prelim CPI m/m,EUR,1,0.6%,0.8%
+2022.07.01EURFrench Gov Budget Balance,7/1/22 10:45,FALSE,French Gov Budget Balance,EUR,1," ",-67.3B
+2022.07.01USDFinal Manufacturing PMI,7/1/22 14:45,FALSE,Final Manufacturing PMI,USD,1,52.4,52.4
+2022.07.01USDConstruction Spending m m,7/1/22 15:00,FALSE,Construction Spending m/m,USD,1,0.3%,0.8%
+2022.07.01USDISM Manufacturing PMI,7/1/22 15:00,FALSE,ISM Manufacturing PMI,USD,3,54.6,56.1
+2022.07.01USDISM Manufacturing Prices,7/1/22 15:00,FALSE,ISM Manufacturing Prices,USD,1,80.0,82.2
+

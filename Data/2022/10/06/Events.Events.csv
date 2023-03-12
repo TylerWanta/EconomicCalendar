@@ -1,0 +1,22 @@
+﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
+2022.10.06CNYBank Holiday,10/6/22 0:00,TRUE,Bank Holiday,CNY,4," "," "
+2022.10.06NZDANZ Commodity Prices m m,10/6/22 1:00,FALSE,ANZ Commodity Prices m/m,NZD,1," ",-3.4%
+2022.10.06AUDTrade Balance,10/6/22 1:30,FALSE,Trade Balance,AUD,1,10.00B,8.97B
+2022.10.06JPYBOJ Gov Kuroda Speaks,10/6/22 3:00,FALSE,BOJ Gov Kuroda Speaks,JPY,2," "," "
+2022.10.06EURGerman Factory Orders m m,10/6/22 7:00,FALSE,German Factory Orders m/m,EUR,1,-0.8%,1.9%
+2022.10.06GBPConstruction PMI,10/6/22 9:30,FALSE,Construction PMI,GBP,1,48.1,49.2
+2022.10.06GBPHousing Equity Withdrawal q q,10/6/22 9:30,FALSE,Housing Equity Withdrawal q/q,GBP,1,-8.0B,-4.3B
+2022.10.06EURSpanish 10-y Bond Auction,10/6/22 9:45,FALSE,Spanish 10-y Bond Auction,EUR,1," ",2.81|1.8
+2022.10.06EURRetail Sales m m,10/6/22 10:00,FALSE,Retail Sales m/m,EUR,1,-0.3%,-0.4%
+2022.10.06EURFrench 10-y Bond Auction,10/6/22 10:03,FALSE,French 10-y Bond Auction,EUR,1," ",2.21|2.0
+2022.10.06EURECB Monetary Policy Meeting Accounts,10/6/22 12:30,FALSE,ECB Monetary Policy Meeting Accounts,EUR,2," "," "
+2022.10.06USDChallenger Job Cuts y y,10/6/22 12:30,FALSE,Challenger Job Cuts y/y,USD,1," ",30.3%
+2022.10.06USDUnemployment Claims,10/6/22 13:30,FALSE,Unemployment Claims,USD,2,205K,190K
+2022.10.06CADIvey PMI,10/6/22 15:00,FALSE,Ivey PMI,CAD,2,62.3,60.9
+2022.10.06USDNatural Gas Storage,10/6/22 15:30,FALSE,Natural Gas Storage,USD,1,125B,103B
+2022.10.06GBPMPC Member Haskel Speaks,10/6/22 16:15,FALSE,MPC Member Haskel Speaks,GBP,1," "," "
+2022.10.06CADBOC Gov Macklem Speaks,10/6/22 16:35,FALSE,BOC Gov Macklem Speaks,CAD,3," "," "
+2022.10.06USDFOMC Member Cook Speaks,10/6/22 18:00,FALSE,FOMC Member Cook Speaks,USD,1," "," "
+2022.10.06USDFOMC Member Waller Speaks,10/6/22 22:00,FALSE,FOMC Member Waller Speaks,USD,2," "," "
+2022.10.06USDFOMC Member Mester Speaks,10/6/22 23:30,FALSE,FOMC Member Mester Speaks,USD,2," "," "
+
