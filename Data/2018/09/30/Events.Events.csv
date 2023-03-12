@@ -1,8 +1,0 @@
-﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
-2018.09.30AUDBank Holiday,9/30/18 0:00,TRUE,Bank Holiday,AUD,4," "," "
-2018.09.30CNYBank Holiday,9/30/18 0:00,TRUE,Bank Holiday,CNY,4," "," "
-2018.09.30CNYManufacturing PMI,9/30/18 2:00,FALSE,Manufacturing PMI,CNY,2,51.2,51.3
-2018.09.30CNYNon-Manufacturing PMI,9/30/18 2:00,FALSE,Non-Manufacturing PMI,CNY,2,54.1,54.2
-2018.09.30CNYCaixin Manufacturing PMI,9/30/18 2:45,FALSE,Caixin Manufacturing PMI,CNY,1,50.5,50.6
-2018.09.30AUDAIG Manufacturing Index,9/30/18 23:30,FALSE,AIG Manufacturing Index,AUD,1," ",56.7
-

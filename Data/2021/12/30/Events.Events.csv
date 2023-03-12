@@ -1,9 +1,0 @@
-﻿Id,Date,All Day,Title,Symbol,Impact,Forecast,Previous
-2021.12.30JPYBank Holiday,12/30/21 0:00,TRUE,Bank Holiday,JPY,4," "," "
-2021.12.30GBPNationwide HPI m m,12/30/21 7:00,FALSE,Nationwide HPI m/m,GBP,1,0.5%,0.9%
-2021.12.30CHFKOF Economic Barometer,12/30/21 8:00,FALSE,KOF Economic Barometer,CHF,2,106.2,107.5
-2021.12.30EURSpanish Flash CPI y y,12/30/21 8:00,FALSE,Spanish Flash CPI y/y,EUR,1,5.6%,5.5%
-2021.12.30USDUnemployment Claims,12/30/21 13:30,FALSE,Unemployment Claims,USD,1,205K,206K
-2021.12.30USDChicago PMI,12/30/21 14:45,FALSE,Chicago PMI,USD,1,61.9,61.8
-2021.12.30USDNatural Gas Storage,12/30/21 15:30,FALSE,Natural Gas Storage,USD,1,-128B,-55B
-

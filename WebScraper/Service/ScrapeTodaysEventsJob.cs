@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
-using WebScraper.Firestore;
+using WebScraper.Database;
 using WebScraper.Scraping;
 using WebScraper.Types;
 
@@ -32,11 +32,13 @@ namespace WebScraper
                     continue;
                 }
 
-                EconomicEventsDB db = new EconomicEventsDB();
-
                 if (todaysEvents.Any())
                 {
-                    await db.AddEvents(todaysEvents);
+                    EconomicCalendarFirestoreDB firestoreDB = new EconomicCalendarFirestoreDB();
+                    EconomicCalendarExcelDB excelDB = new EconomicCalendarExcelDB();
+
+                    await firestoreDB.AddEvents(todaysEvents);
+                    excelDB.Add(DateTime.UtcNow, todaysEvents);
                 }
             });
         }
