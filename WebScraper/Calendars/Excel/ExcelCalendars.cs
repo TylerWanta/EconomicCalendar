@@ -18,7 +18,9 @@ namespace WebScraper.Calendars.Excel
             "E:/MT4s/MT4-Backtest/tester/files/EconomicCalendar/"
         };
 
-        async static public Task SyncWithFirestore()
+        // have this be a Task<bool> so we don't break when awaiting this in Program.cs
+        // can't call GetAwaiter().GetResult() with null as the return type
+        async static public Task<bool> SyncWithFirestore()
         {
             FirestoreEconomicCalendar firestoreDB = new FirestoreEconomicCalendar();
 
@@ -56,6 +58,8 @@ namespace WebScraper.Calendars.Excel
                     dateHigh = dateHigh.AddDays(1);
                 }
             }
+
+            return true;
         }
 
         static public void AddEventsToCalendars(DateTime date, List<EconomicEvent> events)
