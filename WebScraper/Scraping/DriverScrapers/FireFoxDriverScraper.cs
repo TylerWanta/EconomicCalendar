@@ -5,7 +5,6 @@ using System.Linq;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Firefox;
 using Selenium.Extensions;
-using WebScraper.Firestore;
 using WebScraper.Scraping.DriverScrapers;
 using WebScraper.Types;
 

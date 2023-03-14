@@ -6,6 +6,8 @@ namespace WebScraper.Types
     [FirestoreData]
     public class EconomicEvent
     {
+        static public DateTime EarliestEventTime = new DateTime(DateTime.UtcNow.Year, DateTime.UtcNow.Month, DateTime.UtcNow.Day, 0, 0, 0, DateTimeKind.Utc);
+
         private DateTime _date;
 
         [FirestoreProperty]
