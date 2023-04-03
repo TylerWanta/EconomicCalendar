@@ -15,7 +15,7 @@ namespace WebScraper.Calendars.Excel
         // can add different MT4 Instances if needed
         static public string[] CalendarLocations => new string[] 
         {
-            "E:/MT4s/MT4-Backtest/tester/files/EconomicCalendar/"
+            "E:/MT4s/MT4-Backtest/tester/files/EconomicCalendar/JustEvents"
         };
 
         // have this be a Task<bool> so we don't break when awaiting this in Program.cs

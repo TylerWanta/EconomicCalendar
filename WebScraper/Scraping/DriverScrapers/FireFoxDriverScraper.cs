@@ -52,9 +52,16 @@ namespace WebScraper.Scraping
 
             DateTime parsedDateTime = DateTime.ParseExact(fullDatetimeString, fullDateTimeFormat, CultureInfo.InvariantCulture);
 
-            // parsed time is defaulted to UTC-5, convert to UTC
-            parsedDateTime = parsedDateTime.AddHours(5);
-
+            // parsed time is defaulted to UTC-5 non DST, convert to UTC
+            if (TimeZoneInfo.Local.IsDaylightSavingTime(parsedDateTime))
+            {
+                parsedDateTime = parsedDateTime.AddHours(4);
+            }
+            else
+            {
+                parsedDateTime = parsedDateTime.AddHours(5);
+            }
+            
             return parsedDateTime;
         }
     }
