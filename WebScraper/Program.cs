@@ -24,13 +24,12 @@ namespace WebScraper
             string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
 
-            DeleteFromDate().GetAwaiter().GetResult();
 
             // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
             // while we are still gathering / storing data
             //if (args.Contains("catchup"))
             //{
-                // ScrapeStoreInFirestore().GetAwaiter().GetResult();
+                ScrapeStoreInFirestore().GetAwaiter().GetResult();
                 // ExcelCalendars.SyncWithFirestore().GetAwaiter().GetResult();
             //}
 
@@ -115,26 +114,6 @@ namespace WebScraper
                     serviceConfigurator.WhenStopped(service => service.OnStop());
                 });
             });
-        }
-
-        async static Task<bool> DeleteFromDate()
-        {
-            DateTime date = new DateTime(2010, 1, 1);
-            date = DateTime.SpecifyKind(date, DateTimeKind.Utc);
-
-            FirestoreDb db = FirestoreDb.Create("economiccalendar-3756b");
-
-            CollectionReference eventsRef = db.Collection("Events");
-            Query eventsFromDate = eventsRef
-                .WhereGreaterThanOrEqualTo(nameof(EconomicEvent.Date), date);
-
-            QuerySnapshot querySnapshot = await eventsFromDate.GetSnapshotAsync();
-            foreach (DocumentSnapshot doc in querySnapshot.Documents)
-            {
-                await doc.Reference.DeleteAsync();
-            }
-
-            return true;
         }
     }
 }
