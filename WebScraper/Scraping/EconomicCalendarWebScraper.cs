@@ -38,6 +38,13 @@ namespace WebScraper.Scraping
         }
 
         // returns true if the scrape was successful and the driver didn't fail
+        public bool ScrapeTomorrow(out List<EconomicEvent> tomorrowsEvens)
+        {
+            tomorrowsEvens = _driver.Scrape(DateTime.Now.AddDays(1));
+            return !_driver.DriverFailed;
+        }
+
+        // returns true if the scrape was successful and the driver didn't fail
         public bool ScrapeDate(DateTime date, out List<EconomicEvent> datesEvents)
         {
             datesEvents = _driver.Scrape(date);

@@ -21,7 +21,8 @@ namespace WebScraper
             ITrigger trigger = TriggerBuilder.Create()
                 .WithIdentity("New day", SchedulerConstants.DefaultGroup)
                 .ForJob(job)
-                .WithSchedule(CronScheduleBuilder.DailyAtHourAndMinute(0, 0))
+                // load events in before midnight UTC +2 since that is what MQL4 uses 
+                .WithSchedule(CronScheduleBuilder.DailyAtHourAndMinute(15, 0)) 
                 .Build();
 
             _scheduler.ScheduleJob(job, trigger);
