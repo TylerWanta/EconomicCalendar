@@ -1,49 +1,48 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using IronXL;
 using WebScraper.Types;
 
-namespace WebScraper.Database
+namespace WebScraper.Calendars.Excel
 {
-    public class EconomicCalendarExcelDB
+    public class ExcelEconomicCalendar
     {
-        // path to MT4 directory. Should be /MQL4/files/ for running strategies in real time or /tester/files/ for backtesting
-        static public string DBDirectory => "E:/MT4s/MT4-3/tester/files/EconomicCalendar/";
+        private string _directory;
 
-        public string EventsDocument => "Events.csv";
+        private string _eventsDocument => "Events.csv";
 
-        public string WorkSheetName => "Events";
+        private string _worksheetName => "Events";
 
-        public string Delimiter => ",";
+        private string _delimiter => ",";
 
-        public EconomicCalendarExcelDB() { }
-
-        static public string EventsPath(DateTime date)
+        public ExcelEconomicCalendar(string dir) 
         {
-            return $"{DBDirectory}/{date.ToString("yyyy/MM/dd")}";
+            _directory = dir;
         }
 
-        public void Add(DateTime date, List<EconomicEvent> economicEvents)
+        private string EventsPath(DateTime date)
         {
-            ValidateEvents(date, economicEvents);
+            return $"{_directory}/{date.ToString("yyyy/MM/dd")}";
+        }
 
+        public void AddEvents(DateTime date, List<EconomicEvent> economicEvents)
+        {
             WorkBook book = null;
             WorkSheet worksheet = null;
 
             string pathToFile = EventsPath(date);
 
-            if (Directory.Exists($"{pathToFile}/{WorkSheetName}.{EventsDocument}"))
+            if (Directory.Exists($"{pathToFile}/{_worksheetName}.{_eventsDocument}"))
             {
-                book = WorkBook.LoadCSV(pathToFile, ExcelFileFormat.XLSX, Delimiter);
-                worksheet = book.GetWorkSheet(WorkSheetName);
+                book = WorkBook.LoadCSV(pathToFile, ExcelFileFormat.XLSX, _delimiter);
+                worksheet = book.GetWorkSheet(_worksheetName);
             }
             else
             {
                 Directory.CreateDirectory($"{pathToFile}");
                 book = WorkBook.Create();
-                worksheet = book.CreateWorkSheet(WorkSheetName);
+                worksheet = book.CreateWorkSheet(_worksheetName);
             }
 
             CheckWriteHeaders(worksheet);
@@ -59,23 +58,8 @@ namespace WebScraper.Database
             }
 
             // will automatically append the worksheet name right before the document name. Will end up as /Events.Events.csv
-            book.SaveAsCsv($"{pathToFile}/{EventsDocument}", Delimiter);
+            book.SaveAsCsv($"{pathToFile}/{_eventsDocument}", _delimiter);
             book.Close();
-        }
-
-        private void ValidateEvents(DateTime date, List<EconomicEvent> events)
-        {
-            List<EconomicEvent> eventsNotWithinDay = events.Where(e => e.Date.Day != date.Day).ToList();
-
-            if (events.Where(e => e.Date.Day != date.Day).Count() > 0)
-            {
-                throw new Exception("Not all events occur on the same day");
-            }
-
-            if (events.Where(e => e.Date.Kind != DateTimeKind.Utc).Count() > 0)
-            {
-                throw new Exception("Not all dates are in UTC");
-            }
         }
 
         private int NextRowNumber(WorkSheet worksheet)

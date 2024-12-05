@@ -4,7 +4,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using log4net;
 using Quartz;
-using WebScraper.Database;
+using WebScraper.Calendars.Excel;
+using WebScraper.Calendars.Firestore;
 using WebScraper.Scraping;
 using WebScraper.Types;
 
@@ -23,22 +24,25 @@ namespace WebScraper
         {
             return Task.Run(async () =>
             {
-                List<EconomicEvent> todaysEvents = new List<EconomicEvent>();
+                List<EconomicEvent> tomorrowsEvents = new List<EconomicEvent>();
                 EconomicCalendarWebScraper webScraper = new EconomicCalendarWebScraper();
 
                 // keep trying if we fail. There is internal tracking to throw an exception so that this doesn't become an infinite loop
-                while (!webScraper.ScrapeToday(out todaysEvents))
+                // this will run at 3pm Central Time, which we need to do since some strategies start trading at 5 pm. 
+                // We'll just have to scrape the next day instead of scraping our current day
+                while (!webScraper.ScrapeTomorrow(out tomorrowsEvents))
                 {
                     continue;
                 }
 
-                if (todaysEvents.Any())
+                if (tomorrowsEvents.Any())
                 {
-                    EconomicCalendarFirestoreDB firestoreDB = new EconomicCalendarFirestoreDB();
-                    EconomicCalendarExcelDB excelDB = new EconomicCalendarExcelDB();
+                    FirestoreEconomicCalendar firestoreDB = new FirestoreEconomicCalendar();
 
-                    await firestoreDB.AddEvents(todaysEvents);
-                    excelDB.Add(DateTime.UtcNow, todaysEvents);
+                    await firestoreDB.AddEvents(tomorrowsEvents);
+
+                    DateTime today = new DateTime(DateTime.UtcNow.Year, DateTime.UtcNow.Month, DateTime.UtcNow.Day, 0, 0, 0, DateTimeKind.Utc);
+                    ExcelCalendars.AddEventsToCalendars(today.AddDays(1), tomorrowsEvents);
                 }
             });
         }

@@ -10,45 +10,45 @@ using System;
 using System.Threading.Tasks;
 using System.Linq;
 using WebScraper.Types;
-using WebScraper.Database;
-using System.IO;
+using WebScraper.Calendars.Excel;
+using WebScraper.Calendars.Firestore;
+using Google.Cloud.Firestore;
 
 namespace WebScraper
 {
     internal class Program
     {
-        static DateTime DefaultStartDate = new DateTime(2011, 1, 1, 0, 0, 0, DateTimeKind.Utc);
-
         static void Main(string[] args)
         {
             // setup validation for firestore
             string pathToFirestoreKey = AppDomain.CurrentDomain.BaseDirectory + "firestoreKey.json";
             Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", pathToFirestoreKey);
 
+
             // get up to date on economic events, await the result even though its really nothing so that the main thread doesn't shutdown
             // while we are still gathering / storing data
-            if (args.Contains("catchup"))
-            {
+            //if (args.Contains("catchup"))
+            //{
                 ScrapeStoreInFirestore().GetAwaiter().GetResult();
-                MoveEventsFromFirestoreToExcelDB().GetAwaiter().GetResult();
-            }
+                // ExcelCalendars.SyncWithFirestore().GetAwaiter().GetResult();
+            //}
 
             //setup daily scraping service
-            if (args.Contains("service"))
-            {
-                SetupScrapingService();
-            }
+            //if (args.Contains("service"))
+            //{
+            //    SetupScrapingService();
+            //}
         }
 
         // Needs to return a task so we can await it and the main program doesn't start shutting down before we finish saving records
         async static Task<bool> ScrapeStoreInFirestore()
         {
-            EconomicCalendarFirestoreDB db = new EconomicCalendarFirestoreDB();
+            FirestoreEconomicCalendar db = new FirestoreEconomicCalendar();
             DateTime? currentScrapingDate = db.MostRecentDayThatHasEvents().Result;
 
             if (currentScrapingDate == null)
             {
-                currentScrapingDate = DefaultStartDate;
+                currentScrapingDate = EconomicEvent.EarliestEventTime;
             }
             else
             {
@@ -83,37 +83,6 @@ namespace WebScraper
 
                 // only increment the day if the driver didn't fail. Else we will set a differnt driver and try again
                 currentScrapingDate = currentScrapingDate.Value.AddDays(1);
-            }
-
-            return true;
-        }
-
-        static async Task<bool> MoveEventsFromFirestoreToExcelDB()
-        {
-            DateTime startDate = DefaultStartDate;
-            DateTime endDate = new DateTime(DateTime.UtcNow.Year, DateTime.UtcNow.Month, DateTime.UtcNow.Day, 0, 0, 0, DateTimeKind.Utc);
-
-            while (Directory.Exists($"{EconomicCalendarExcelDB.DBDirectory}/{EconomicCalendarExcelDB.EventsPath(startDate)}"))
-            {
-                startDate = startDate.AddDays(1);
-            }
-
-            EconomicCalendarFirestoreDB firestoreDB = new EconomicCalendarFirestoreDB();
-            EconomicCalendarExcelDB excelDB = new EconomicCalendarExcelDB();
-
-            DateTime dateLow = startDate;
-            DateTime dateHigh = startDate.AddDays(1);
-
-            while (dateLow < endDate)
-            {
-                List<EconomicEvent> events = await firestoreDB.GetEventsBetween(dateLow, dateHigh);
-                if (events.Any())
-                {
-                    excelDB.Add(dateLow, events);
-                }
-
-                dateLow = dateLow.AddDays(1);
-                dateHigh = dateHigh.AddDays(1);
             }
 
             return true;

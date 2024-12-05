@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 using Google.Cloud.Firestore;
 using WebScraper.Types;
 
-namespace WebScraper.Database
+namespace WebScraper.Calendars.Firestore
 {
-    class EconomicCalendarFirestoreDB
+    class FirestoreEconomicCalendar
     {
         private int _reads = 0;
         private bool _notifiedExceededReads = false;
@@ -26,7 +26,7 @@ namespace WebScraper.Database
 
         private string _eventsCollection => "Events";
 
-        public EconomicCalendarFirestoreDB()
+        public FirestoreEconomicCalendar()
         {
             _db = FirestoreDb.Create("economiccalendar-3756b");
         }

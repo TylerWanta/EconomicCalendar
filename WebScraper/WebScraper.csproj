@@ -207,8 +207,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Database\EconomicCalendarExcelDB.cs" />
-    <Compile Include="Database\EconomicCalendarFirestoreDB.cs" />
+    <Compile Include="Calendars\Excel\ExcelEconomicCalendar.cs" />
+    <Compile Include="Calendars\Firestore\FirestoreEconomicCalendar.cs" />
+    <Compile Include="Calendars\Excel\ExcelCalendars.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Scraping\DriverScrapers\BaseDriverScraper.cs" />
